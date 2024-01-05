@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RealRuins.RealRuins_ModSettings">
+		<diskCacheLimit>575.3515</diskCacheLimit>
+		<preserveStandardRuins>True</preserveStandardRuins>
+		<forceMultiplier>0.8038147</forceMultiplier>
+		<ruinsCostCap>1.000001E+09</ruinsCostCap>
+		<startWithoutRuins>True</startWithoutRuins>
+		<defaultScatterOptions>
+			<minRadius>6</minRadius>
+			<maxRadius>24</maxRadius>
+			<deteriorationMultiplier>0.04904632</deteriorationMultiplier>
+			<scavengingMultiplier>0.04768392</scavengingMultiplier>
+			<itemCostLimit>600</itemCostLimit>
+			<decorationChance>0.0009945504</decorationChance>
+			<trapChance>0.001103542</trapChance>
+			<hostileChance>0.1171662</hostileChance>
+		</defaultScatterOptions>
+		<planetaryRuinsOptions>
+			<abandonedLocations>10.36585</abandonedLocations>
+		</planetaryRuinsOptions>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VAECaves.VAECaves_Settings">
+		<animalSpawnMultiplier>1</animalSpawnMultiplier>
+		<arachnophobiaMode>False</arachnophobiaMode>
+		<insectoidHulkDisabled>False</insectoidHulkDisabled>
+	</ModSettings>
+</SettingsBlock>

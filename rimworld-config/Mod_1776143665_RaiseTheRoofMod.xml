@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RaiseTheRoof.RaiseTheRoofSettings">
+		<solarPowerOutput>35</solarPowerOutput>
+		<roofSteelCost>40</roofSteelCost>
+		<transparentRoofSteelCost>30</transparentRoofSteelCost>
+		<transparentRoofSynthreadCost>8</transparentRoofSynthreadCost>
+		<solarRoofSteelCost>20</solarRoofSteelCost>
+		<transparentSolarRoofSteelCost>30</transparentSolarRoofSteelCost>
+		<transparentSolarRoofSynthreadCost>6</transparentSolarRoofSynthreadCost>
+	</ModSettings>
+</SettingsBlock>

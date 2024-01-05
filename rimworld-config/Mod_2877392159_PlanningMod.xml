@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PlanningExtended.Settings.PlanningSettings">
+		<lastLoadedPlans />
+		<planDesignationSettings>
+			<keys>
+				<li>PlanWall</li>
+				<li>PlanFloors</li>
+				<li>PlanDoors</li>
+				<li>PlanObjects</li>
+			</keys>
+			<values>
+				<li>
+					<color>Structure_Red</color>
+				</li>
+				<li>
+					<color>Structure_Pink</color>
+				</li>
+				<li />
+				<li>
+					<color>Structure_YellowPastel</color>
+				</li>
+			</values>
+		</planDesignationSettings>
+	</ModSettings>
+</SettingsBlock>

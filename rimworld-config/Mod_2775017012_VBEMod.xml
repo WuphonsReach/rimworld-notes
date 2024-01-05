@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VBE.VBESettings">
+		<cycleTime>20.12092~60</cycleTime>
+		<enabled>
+			<keys>
+				<li>VBE_Adventure</li>
+				<li>VBE_Archotech</li>
+				<li>VBE_Aurora</li>
+				<li>VBE_Desolation</li>
+				<li>VBE_Destruction</li>
+				<li>VBE_Emptiness</li>
+				<li>VBE_Experiment</li>
+				<li>VBE_Forgotten</li>
+				<li>VBE_Giant</li>
+				<li>VBE_Greed</li>
+				<li>VBE_Infestation</li>
+				<li>VBE_Opportunity</li>
+				<li>VBE_Pilgrimage</li>
+				<li>VBE_Serenity</li>
+				<li>VBE_Turmoil</li>
+				<li>VBE_Exploration</li>
+				<li>VBE_Awakening</li>
+				<li>Core</li>
+				<li>Royalty</li>
+				<li>Ideology</li>
+				<li>Biotech</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</enabled>
+	</ModSettings>
+</SettingsBlock>

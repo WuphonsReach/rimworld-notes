@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PleaseHaulPerishables.Perishables_Loader+Perishables_Settings">
+		<mode_debug>False</mode_debug>
+		<compatibility_PickUpAndHaul>False</compatibility_PickUpAndHaul>
+	</ModSettings>
+</SettingsBlock>

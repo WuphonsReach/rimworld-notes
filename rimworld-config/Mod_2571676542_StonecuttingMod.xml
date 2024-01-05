@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="StonecuttingExtended.Settings.StonecuttingSettings">
+		<BulkWorkAmountMultiplier>0.7</BulkWorkAmountMultiplier>
+		<UsedSkill>Art</UsedSkill>
+	</ModSettings>
+</SettingsBlock>

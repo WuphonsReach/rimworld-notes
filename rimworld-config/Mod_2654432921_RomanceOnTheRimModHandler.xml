@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RomanceOnTheRim.RomanceOnTheRimModSettings">
+		<enableSuccessChanceTips>True</enableSuccessChanceTips>
+		<pillowTalkSelectionWeight>1.5</pillowTalkSelectionWeight>
+	</ModSettings>
+</SettingsBlock>

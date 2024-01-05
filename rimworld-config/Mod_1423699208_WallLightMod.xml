@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MURWallLight.WallLightSettings">
+		<MURWallLight_enableWallLight>True</MURWallLight_enableWallLight>
+		<MURWallLight_glowRad>8</MURWallLight_glowRad>
+		<MURWallLight_powerCost>7</MURWallLight_powerCost>
+		<MURWallLight_steelCost>3</MURWallLight_steelCost>
+		<MURWallLight_showLitRadius>False</MURWallLight_showLitRadius>
+		<MURWallLight_showFacing>False</MURWallLight_showFacing>
+		<MURWallLight_enableSunLight>True</MURWallLight_enableSunLight>
+		<MURWallLight_sunGlowRad>5</MURWallLight_sunGlowRad>
+		<MURWallLight_sunPowerCost>650</MURWallLight_sunPowerCost>
+		<MURWallLight_sunSteelCost>25</MURWallLight_sunSteelCost>
+		<MURWallLight_sunDisableResting>False</MURWallLight_sunDisableResting>
+		<MURWallLight_tradeableLights>False</MURWallLight_tradeableLights>
+		<MURWallLight_dontRecolorGraphic>False</MURWallLight_dontRecolorGraphic>
+	</ModSettings>
+</SettingsBlock>
