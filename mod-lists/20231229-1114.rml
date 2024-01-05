@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedModList>
+	<meta>
+		<gameVersion>1.4.3901 rev238</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>won2.hair</li>
+			<li>won.hair</li>
+			<li>steelchicken.insultatedplatearmor</li>
+			<li>jsin.lagfreetorches</li>
+			<li>hanabishi.inwallcoolersandvents</li>
+			<li>murmur.factionraidcooldown</li>
+			<li>nilchei.dynamicdiplomacy</li>
+			<li>danielwedemeyer.dressfortheweather</li>
+			<li>mlie.combatreadinesscheck</li>
+			<li>mlie.coalexpanded</li>
+			<li>thyx.ctc</li>
+			<li>tribalcrib.mod</li>
+			<li>zal.tribaljewelry</li>
+			<li>techmago.bootsnstuff</li>
+			<li>gunmar.tribalwarriorset</li>
+			<li>codi.bionicwealth</li>
+			<li>konhai.betterturrets</li>
+			<li>leion247595.upgradedhturrets</li>
+			<li>owlchemist.undergroundpowerconduits</li>
+			<li>mlie.turnonoffrepowered</li>
+			<li>odysseyscorpio.givemeleather.2020.03.20</li>
+			<li>scorpio.optimizationleathers</li>
+			<li>dismarzero.vgp.smokedmeat</li>
+			<li>mersid.backuppowerupdated</li>
+			<li>slimesenpai.autovents</li>
+			<li>og.automaticpowerswitch</li>
+			<li>tikubonn.smallbattery</li>
+			<li>syrchalis.metallicbatteries</li>
+			<li>syrchalis.doormats</li>
+			<li>handandfootwearcontinued.kv.rw</li>
+			<li>meltup.beautifuloutdoors</li>
+			<li>wemd.reinforceddoors</li>
+			<li>tials.floordrawings</li>
+			<li>verriganholmes.flakdusters</li>
+			<li>simple.hide</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>hawkwood.faaw</li>
+			<li>botchjob.hthair</li>
+			<li>pineapple.heatpump</li>
+			<li>taveron.increasedstack</li>
+			<li>tks.embrasures</li>
+			<li>mallow.gloves</li>
+			<li>mallow.shoes.socks</li>
+			<li>river.tribal.mittens</li>
+			<li>river.tribal.shoes</li>
+			<li>skye.lowerinsultedstackmultiplier</li>
+			<li>more.backstories</li>
+			<li>jiopaba.fences</li>
+			<li>yoann.mudslowdownopponents</li>
+			<li>mud.tribalapparel</li>
+			<li>thevillageguy.nodropcenterdropraids.1</li>
+			<li>unon.noburnmetal</li>
+			<li>vesper.notmyfault</li>
+			<li>shenanigans.tribalbackstories1.4</li>
+			<li>owlchemist.permeableterrain</li>
+			<li>mlie.pleasehaulperishables</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>mlie.stopquarryingwhenfull</li>
+			<li>machine.rtr</li>
+			<li>woolstrand.realruins</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfesecurity</li>
+			<li>kinetictail.reinforcedwallsplus</li>
+			<li>morebiotechstylegenes.mod</li>
+			<li>sarg.alphagenes</li>
+			<li>sickboywi.vault.onepointone</li>
+			<li>godspeedyoufortranpunchcard.veryvanillaturrets</li>
+			<li>denev.smartturretcovering</li>
+			<li>sf.flowers.beauty.equality</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>mlie.smartervisitors</li>
+			<li>telardo.romanceontherim</li>
+			<li>uuugggg.safelyhiddenaway</li>
+			<li>bblkepling.rimignitioncs</li>
+			<li>murmur.enemyselfpreservation</li>
+			<li>mlie.neolithicscavenging</li>
+			<li>murmur.isid</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>limey.optimizedwool</li>
+			<li>ghostdata.lifelessons</li>
+			<li>erop2k7quiz.llpatchglovesshoes</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vcefaddon</li>
+			<li>warlocksforge.fishtraps</li>
+			<li>klvlt.smokedfish</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>HugsLib</li>
+			<li>Upscaled - Won hair_women </li>
+			<li>Upscaled - Won hair_men</li>
+			<li>Insulated Plate Armor</li>
+			<li>Lag Free Torches and More</li>
+			<li>In-wall coolers and vents</li>
+			<li>Faction Raid Cooldown</li>
+			<li>Dynamic Diplomacy</li>
+			<li>Dress for the Weather</li>
+			<li>Combat Readiness Check (Continued)</li>
+			<li>Coal Expanded (Continued)</li>
+			<li>Clothes To Cloths</li>
+			<li>Tribal Crib</li>
+			<li>Tribal Jewelry (Continued)</li>
+			<li>Boots and Stuff</li>
+			<li>Tribal Warrior Set!</li>
+			<li>Bionic Wealth</li>
+			<li>Better Turrets</li>
+			<li>Upgraded Turrets</li>
+			<li>Underground Power Conduits</li>
+			<li>Turn It On and Off - RePowered</li>
+			<li>Give Me Leather</li>
+			<li>Optimization: Leathers - C# Edition</li>
+			<li>Smoked meat</li>
+			<li>Backup Power (Updated)</li>
+			<li>AutoVents</li>
+			<li>[Og] Automatic Power Switch</li>
+			<li>Small Battery</li>
+			<li>[SYR] Metallic Batteries</li>
+			<li>[SYR] Doormats</li>
+			<li>[KV] Hand 'n' Footwear CONTINUED</li>
+			<li>Beautiful Outdoors</li>
+			<li>[WD] Reinforced Doors</li>
+			<li>Floordrawings</li>
+			<li>Flak Dusters</li>
+			<li>Simple Hide Armor</li>
+			<li>Geological Landforms</li>
+			<li>Floors Are (Almost) Worthless</li>
+			<li>Hard Times: Hair and Beards</li>
+			<li>Heat Pumps</li>
+			<li>Increased Stack</li>
+			<li>Matching Embrasures - Forked</li>
+			<li>Mallow's Gloves</li>
+			<li>Mallow's Shoes And Socks</li>
+			<li>River's Tribal Mittens</li>
+			<li>River's Tribal Shoes</li>
+			<li>Lower Insulted Stack Effect Multiplier </li>
+			<li>More Backstories</li>
+			<li>More Vanilla Fences</li>
+			<li>Mud - Slow down opponents</li>
+			<li>Mud's Tribal Apparel</li>
+			<li>No Center Drop Raids</li>
+			<li>No Burn Metal</li>
+			<li>Not My Fault</li>
+			<li>Tribal Backstories</li>
+			<li>Permeable Terrain</li>
+			<li>Please Haul Perishables (Continued)</li>
+			<li>Quarry</li>
+			<li>Stop Quarrying When Full (Continued)</li>
+			<li>Raise The Roof 1.4</li>
+			<li>Real Ruins</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Security</li>
+			<li>Reinforced Walls+</li>
+			<li>More Biotech Style Genes - All in One</li>
+			<li>Alpha Genes</li>
+			<li>Vault Walls and Doors</li>
+			<li>Very Vanilla Turrets</li>
+			<li>Smart Turret Covering</li>
+			<li>SF Flowers Beauty Equality</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>Smarter Visitors</li>
+			<li>Romance On The Rim</li>
+			<li>Safely Hidden Away</li>
+			<li>RimIgnition C# Edition</li>
+			<li>Enemy Self Preservation</li>
+			<li>Neolithic Scavenging (Continued)</li>
+			<li>Infestations Spawn in Darkness</li>
+			<li>Map Preview</li>
+			<li>Optimized Wool</li>
+			<li>Life Lessons</li>
+			<li>Life Lessons Patch for Mallow's and River's shoes and gloves mods</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Fishing Expanded - Fishing Treasures AddOn</li>
+			<li>Fish Traps</li>
+			<li>Smoked Fish (Smoked meat Add-on)</li>
+		</modNames>
+	</meta>
+	<modList>
+		<ids>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>won2.hair</li>
+			<li>won.hair</li>
+			<li>steelchicken.insultatedplatearmor</li>
+			<li>jsin.lagfreetorches</li>
+			<li>hanabishi.inwallcoolersandvents</li>
+			<li>murmur.factionraidcooldown</li>
+			<li>nilchei.dynamicdiplomacy</li>
+			<li>danielwedemeyer.dressfortheweather</li>
+			<li>mlie.combatreadinesscheck</li>
+			<li>mlie.coalexpanded</li>
+			<li>thyx.ctc</li>
+			<li>tribalcrib.mod</li>
+			<li>zal.tribaljewelry</li>
+			<li>techmago.bootsnstuff</li>
+			<li>gunmar.tribalwarriorset</li>
+			<li>codi.bionicwealth</li>
+			<li>konhai.betterturrets</li>
+			<li>leion247595.upgradedhturrets</li>
+			<li>owlchemist.undergroundpowerconduits</li>
+			<li>mlie.turnonoffrepowered</li>
+			<li>odysseyscorpio.givemeleather.2020.03.20</li>
+			<li>scorpio.optimizationleathers</li>
+			<li>dismarzero.vgp.smokedmeat</li>
+			<li>mersid.backuppowerupdated</li>
+			<li>slimesenpai.autovents</li>
+			<li>og.automaticpowerswitch</li>
+			<li>tikubonn.smallbattery</li>
+			<li>syrchalis.metallicbatteries</li>
+			<li>syrchalis.doormats</li>
+			<li>handandfootwearcontinued.kv.rw</li>
+			<li>meltup.beautifuloutdoors</li>
+			<li>wemd.reinforceddoors</li>
+			<li>tials.floordrawings</li>
+			<li>verriganholmes.flakdusters</li>
+			<li>simple.hide</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>hawkwood.faaw</li>
+			<li>botchjob.hthair</li>
+			<li>pineapple.heatpump</li>
+			<li>taveron.increasedstack</li>
+			<li>tks.embrasures</li>
+			<li>mallow.gloves</li>
+			<li>mallow.shoes.socks</li>
+			<li>river.tribal.mittens</li>
+			<li>river.tribal.shoes</li>
+			<li>skye.lowerinsultedstackmultiplier</li>
+			<li>more.backstories</li>
+			<li>jiopaba.fences</li>
+			<li>yoann.mudslowdownopponents</li>
+			<li>mud.tribalapparel</li>
+			<li>thevillageguy.nodropcenterdropraids.1</li>
+			<li>unon.noburnmetal</li>
+			<li>vesper.notmyfault</li>
+			<li>shenanigans.tribalbackstories1.4</li>
+			<li>owlchemist.permeableterrain</li>
+			<li>mlie.pleasehaulperishables</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>mlie.stopquarryingwhenfull</li>
+			<li>machine.rtr</li>
+			<li>woolstrand.realruins</li>
+			<li>vanillaexpanded.vfecore</li>
+			<li>vanillaexpanded.vfesecurity</li>
+			<li>kinetictail.reinforcedwallsplus</li>
+			<li>morebiotechstylegenes.mod</li>
+			<li>sarg.alphagenes</li>
+			<li>sickboywi.vault.onepointone</li>
+			<li>godspeedyoufortranpunchcard.veryvanillaturrets</li>
+			<li>denev.smartturretcovering</li>
+			<li>sf.flowers.beauty.equality</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>mlie.smartervisitors</li>
+			<li>telardo.romanceontherim</li>
+			<li>uuugggg.safelyhiddenaway</li>
+			<li>bblkepling.rimignitioncs</li>
+			<li>murmur.enemyselfpreservation</li>
+			<li>mlie.neolithicscavenging</li>
+			<li>murmur.isid</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>limey.optimizedwool</li>
+			<li>ghostdata.lifelessons</li>
+			<li>erop2k7quiz.llpatchglovesshoes</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vcefaddon</li>
+			<li>warlocksforge.fishtraps</li>
+			<li>klvlt.smokedfish</li>
+		</ids>
+		<names>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>HugsLib</li>
+			<li>Upscaled - Won hair_women </li>
+			<li>Upscaled - Won hair_men</li>
+			<li>Insulated Plate Armor</li>
+			<li>Lag Free Torches and More</li>
+			<li>In-wall coolers and vents</li>
+			<li>Faction Raid Cooldown</li>
+			<li>Dynamic Diplomacy</li>
+			<li>Dress for the Weather</li>
+			<li>Combat Readiness Check (Continued)</li>
+			<li>Coal Expanded (Continued)</li>
+			<li>Clothes To Cloths</li>
+			<li>Tribal Crib</li>
+			<li>Tribal Jewelry (Continued)</li>
+			<li>Boots and Stuff</li>
+			<li>Tribal Warrior Set!</li>
+			<li>Bionic Wealth</li>
+			<li>Better Turrets</li>
+			<li>Upgraded Turrets</li>
+			<li>Underground Power Conduits</li>
+			<li>Turn It On and Off - RePowered</li>
+			<li>Give Me Leather</li>
+			<li>Optimization: Leathers - C# Edition</li>
+			<li>Smoked meat</li>
+			<li>Backup Power (Updated)</li>
+			<li>AutoVents</li>
+			<li>[Og] Automatic Power Switch</li>
+			<li>Small Battery</li>
+			<li>[SYR] Metallic Batteries</li>
+			<li>[SYR] Doormats</li>
+			<li>[KV] Hand 'n' Footwear CONTINUED</li>
+			<li>Beautiful Outdoors</li>
+			<li>[WD] Reinforced Doors</li>
+			<li>Floordrawings</li>
+			<li>Flak Dusters</li>
+			<li>Simple Hide Armor</li>
+			<li>Geological Landforms</li>
+			<li>Floors Are (Almost) Worthless</li>
+			<li>Hard Times: Hair and Beards</li>
+			<li>Heat Pumps</li>
+			<li>Increased Stack</li>
+			<li>Matching Embrasures - Forked</li>
+			<li>Mallow's Gloves</li>
+			<li>Mallow's Shoes And Socks</li>
+			<li>River's Tribal Mittens</li>
+			<li>River's Tribal Shoes</li>
+			<li>Lower Insulted Stack Effect Multiplier </li>
+			<li>More Backstories</li>
+			<li>More Vanilla Fences</li>
+			<li>Mud - Slow down opponents</li>
+			<li>Mud's Tribal Apparel</li>
+			<li>No Center Drop Raids</li>
+			<li>No Burn Metal</li>
+			<li>Not My Fault</li>
+			<li>Tribal Backstories</li>
+			<li>Permeable Terrain</li>
+			<li>Please Haul Perishables (Continued)</li>
+			<li>Quarry</li>
+			<li>Stop Quarrying When Full (Continued)</li>
+			<li>Raise The Roof 1.4</li>
+			<li>Real Ruins</li>
+			<li>Vanilla Furniture Expanded</li>
+			<li>Vanilla Furniture Expanded - Security</li>
+			<li>Reinforced Walls+</li>
+			<li>More Biotech Style Genes - All in One</li>
+			<li>Alpha Genes</li>
+			<li>Vault Walls and Doors</li>
+			<li>Very Vanilla Turrets</li>
+			<li>Smart Turret Covering</li>
+			<li>SF Flowers Beauty Equality</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>Smarter Visitors</li>
+			<li>Romance On The Rim</li>
+			<li>Safely Hidden Away</li>
+			<li>RimIgnition C# Edition</li>
+			<li>Enemy Self Preservation</li>
+			<li>Neolithic Scavenging (Continued)</li>
+			<li>Infestations Spawn in Darkness</li>
+			<li>Map Preview</li>
+			<li>Optimized Wool</li>
+			<li>Life Lessons</li>
+			<li>Life Lessons Patch for Mallow's and River's shoes and gloves mods</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Fishing Expanded - Fishing Treasures AddOn</li>
+			<li>Fish Traps</li>
+			<li>Smoked Fish (Smoked meat Add-on)</li>
+		</names>
+	</modList>
+</savedModList>
