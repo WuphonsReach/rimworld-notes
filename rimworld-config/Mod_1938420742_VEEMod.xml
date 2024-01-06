@@ -331,18 +331,18 @@
 			</keys>
 			<values>
 				<li>0.01</li>
+				<li>2.28</li>
+				<li>1.52</li>
 				<li>1</li>
 				<li>1</li>
-				<li>1</li>
-				<li>1</li>
-				<li>0.4</li>
-				<li>0.4</li>
-				<li>1.5</li>
+				<li>1.29</li>
+				<li>0.8</li>
+				<li>1.84</li>
 				<li>0.7</li>
 				<li>2</li>
-				<li>0.5</li>
-				<li>1</li>
-				<li>1</li>
+				<li>0.8</li>
+				<li>3.22</li>
+				<li>1.39</li>
 				<li>1</li>
 				<li>0.12</li>
 				<li>0.08</li>
@@ -350,30 +350,30 @@
 				<li>1</li>
 				<li>0.4</li>
 				<li>1</li>
-				<li>0.3</li>
-				<li>0.5</li>
+				<li>0.4</li>
+				<li>0.13</li>
 				<li>3</li>
 				<li>3</li>
 				<li>4</li>
 				<li>4</li>
-				<li>4</li>
+				<li>6.06</li>
 				<li>3</li>
-				<li>7.4</li>
+				<li>8.5</li>
 				<li>2.7</li>
 				<li>1</li>
 				<li>2</li>
-				<li>2</li>
-				<li>2</li>
+				<li>0.85</li>
+				<li>0.85</li>
 				<li>1.3</li>
 				<li>5</li>
 				<li>1.5</li>
 				<li>1.3</li>
-				<li>1.2</li>
-				<li>0.3</li>
-				<li>1.25</li>
-				<li>0.8</li>
-				<li>0.2</li>
+				<li>3.02</li>
 				<li>0.5</li>
+				<li>1.25</li>
+				<li>1</li>
+				<li>0.2</li>
+				<li>0.4</li>
 				<li>0.8</li>
 				<li>0.8</li>
 				<li>1</li>
@@ -383,27 +383,27 @@
 				<li>0.4</li>
 				<li>0.3</li>
 				<li>0.7</li>
-				<li>0.7</li>
+				<li>1.05</li>
 				<li>0.4</li>
 				<li>0.15</li>
 				<li>0.3</li>
 				<li>0.4</li>
-				<li>2</li>
-				<li>0.5</li>
+				<li>2.43</li>
+				<li>0.85</li>
 				<li>0.3</li>
 				<li>2</li>
-				<li>2</li>
-				<li>0.8</li>
+				<li>3.02</li>
+				<li>1.05</li>
 				<li>0.35</li>
-				<li>0.25</li>
+				<li>0.7</li>
 				<li>0.5</li>
-				<li>0.45</li>
+				<li>1.05</li>
 				<li>0.04</li>
 				<li>0.04</li>
 				<li>0.04</li>
 				<li>0.04</li>
 				<li>0.04</li>
-				<li>0.09999999</li>
+				<li>0.11</li>
 				<li>0.5</li>
 				<li>7.4</li>
 				<li>1.6</li>
@@ -413,8 +413,8 @@
 				<li>0.01</li>
 				<li>0.5</li>
 				<li>1</li>
-				<li>0.3</li>
-				<li>0.3</li>
+				<li>1</li>
+				<li>1.59</li>
 				<li>1</li>
 				<li>0.5</li>
 				<li>0.01</li>
@@ -423,7 +423,7 @@
 				<li>0.5</li>
 				<li>0.5</li>
 				<li>0.5</li>
-				<li>0.5</li>
+				<li>1</li>
 				<li>0.09999999</li>
 				<li>0.3</li>
 				<li>0.2</li>
@@ -434,7 +434,7 @@
 				<li>1.5</li>
 				<li>0.09999999</li>
 				<li>0.09999999</li>
-				<li>2</li>
+				<li>3.02</li>
 				<li>0.05</li>
 			</values>
 		</incidentsOccurence>
