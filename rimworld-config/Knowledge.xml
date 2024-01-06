@@ -337,5 +337,9 @@
       <key>LLLessonPlanToolIntro2</key>
       <value>1</value>
     </li>
+    <li>
+      <key>BuildersTryMine</key>
+      <value>0</value>
+    </li>
   </knowledge>
 </ConceptKnowledge>
