@@ -6,6 +6,7 @@
 			<li>ThingDef/VFEM_MeatSmoker</li>
 			<li>ThingDef/VFEM_SmokedFish</li>
 			<li>ResearchProjectDef/VFEM_MeatSmoking</li>
+			<li>ThingDef/Embrasure</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>
