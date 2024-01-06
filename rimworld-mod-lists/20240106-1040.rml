@@ -19,6 +19,9 @@
 			<li>oracle.erin.tattoos</li>
 			<li>rooboid.rootattoo</li>
 			<li>shenanigans.tribaltattoos</li>
+			<li>fluffy.medicaltab</li>
+			<li>uuugggg.replacestuff</li>
+			<li>recolorstockpile.kv.rw</li>
 			<li>steelchicken.insultatedplatearmor</li>
 			<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
 			<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
@@ -569,6 +572,9 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 		</modSteamIds>
 		<modNames>
 			<li>Harmony</li>
@@ -587,6 +593,9 @@
 			<li>Oracle + Erin's HD Tattoos</li>
 			<li>Roo's Tattoos - Starter Pack </li>
 			<li>Tribal Tattoos</li>
+			<li>Medical Tab</li>
+			<li>Replace Stuff</li>
+			<li>[KV] ReColor Stockpile &amp; Growing Zones</li>
 			<li>Insulated Plate Armor</li>
 			<li>Vanilla Factions Expanded - Medieval</li>
 			<li>Vanilla Factions Expanded - Settlers</li>
@@ -875,7 +884,6 @@
 			<li>shenanigans.tribaltattoos</li>
 			<li>fluffy.medicaltab</li>
 			<li>uuugggg.replacestuff</li>
-			<li>recolorstockpile.kv.rw</li>
 			<li>steelchicken.insultatedplatearmor</li>
 			<li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
 			<li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
@@ -1139,6 +1147,7 @@
 			<li>aelanna.betterpyromania</li>
 			<li>telardo.epitaph</li>
 			<li>thegoofyone.betterspots</li>
+			<li>recolorstockpile.kv.rw</li>
 			<li>mlie.harvestwhenbutchering</li>
 			<li>mlie.musicalinstruments</li>
 			<li>mlie.coalexpanded</li>
@@ -1162,7 +1171,6 @@
 			<li>Tribal Tattoos</li>
 			<li>Medical Tab</li>
 			<li>Replace Stuff</li>
-			<li>[KV] ReColor Stockpile &amp; Growing Zones</li>
 			<li>Insulated Plate Armor</li>
 			<li>Vanilla Factions Expanded - Medieval</li>
 			<li>Vanilla Factions Expanded - Settlers</li>
@@ -1426,6 +1434,7 @@
 			<li>Better Pyromania</li>
 			<li>Epitaph</li>
 			<li>Better Spots</li>
+			<li>[KV] ReColor Stockpile &amp; Growing Zones</li>
 			<li>Harvest When Butchering</li>
 			<li>Musical Instruments (Continued)</li>
 			<li>Coal Expanded (Continued)</li>
