@@ -12,14 +12,20 @@
     <li>owlchemist.cherrypicker</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>adaptive.storage.framework</li>
+    <li>adaptive.storage.neolithic</li>
+    <li>mrhydralisk.undergroundvault</li>
     <li>won2.hair</li>
     <li>won.hair</li>
     <li>rooboid.dreadlockhairshd</li>
     <li>oracle.erin.tattoos</li>
+    <li>grillmaster.moreracesfactions</li>
     <li>rooboid.rootattoo</li>
     <li>shenanigans.tribaltattoos</li>
     <li>fluffy.medicaltab</li>
     <li>uuugggg.replacestuff</li>
+    <li>peppsen.pmusic</li>
+    <li>mlie.researchtree</li>
     <li>steelchicken.insultatedplatearmor</li>
     <li>oskarpotocki.vanillafactionsexpanded.medievalmodule</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
@@ -222,7 +228,6 @@
     <li>dismarzero.vgp.vgpvegetablegarden</li>
     <li>mlie.sfsimpleoillantern</li>
     <li>mlie.roadsoftherim</li>
-    <li>mrhydralisk.undergroundvault</li>
     <li>onimods.columnlight</li>
     <li>klvlt.ledlightsfork</li>
     <li>vanillaexpanded.vaecaves</li>
@@ -244,8 +249,6 @@
     <li>romyashi.grenadetraps</li>
     <li>ievgen.hardtack</li>
     <li>revolus.animalsarefun</li>
-    <li>adaptive.storage.framework</li>
-    <li>adaptive.storage.neolithic</li>
     <li>scherub.planningextended</li>
     <li>uuugggg.usebedrolls</li>
     <li>avilmask.commonsense</li>
@@ -272,22 +275,21 @@
     <li>grizzlemethis.tradingspot.rw</li>
     <li>4loris4.morelinkables</li>
     <li>knight.medicalivs</li>
+    <li>marvinkosh.sometimesraidsgowrong</li>
+    <li>mlie.harvestwhenbutchering</li>
     <li>mlie.foodalert</li>
     <li>buggy.rimworld.letterpermanentinjury</li>
-    <li>mlie.researchtree</li>
+    <li>mlie.musicalinstruments</li>
+    <li>recolorstockpile.kv.rw</li>
+    <li>telardo.epitaph</li>
+    <li>thegoofyone.betterspots</li>
+    <li>aelanna.betterpyromania</li>
+    <li>mlie.variousspaceshipchunk</li>
     <li>ghostdata.lifelessons</li>
     <li>erop2k7quiz.llpatchglovesshoes</li>
     <li>nightkosh.lifelessons.modsrecipepatches</li>
     <li>zal.tribalessentials</li>
-    <li>mlie.variousspaceshipchunk</li>
     <li>vanillaexpanded.skills</li>
-    <li>aelanna.betterpyromania</li>
-    <li>marvinkosh.sometimesraidsgowrong</li>
-    <li>telardo.epitaph</li>
-    <li>thegoofyone.betterspots</li>
-    <li>recolorstockpile.kv.rw</li>
-    <li>mlie.harvestwhenbutchering</li>
-    <li>mlie.musicalinstruments</li>
     <li>mlie.coalexpanded</li>
   </activeMods>
   <knownExpansions>
