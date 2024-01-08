@@ -110,8 +110,10 @@
 				<li>AA_IncidentFungalHusk</li>
 				<li>VME_JunkChunkDrop</li>
 				<li>VPE_EltexMeteorite</li>
+				<li>RaidEnemyGoesWrong</li>
 			</keys>
 			<values>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -328,6 +330,7 @@
 				<li>AA_IncidentFungalHusk</li>
 				<li>VME_JunkChunkDrop</li>
 				<li>VPE_EltexMeteorite</li>
+				<li>RaidEnemyGoesWrong</li>
 			</keys>
 			<values>
 				<li>0.01</li>
@@ -352,7 +355,7 @@
 				<li>1</li>
 				<li>0.4</li>
 				<li>0.13</li>
-				<li>3</li>
+				<li>4.8</li>
 				<li>3</li>
 				<li>4</li>
 				<li>4</li>
@@ -436,6 +439,7 @@
 				<li>0.09999999</li>
 				<li>3.02</li>
 				<li>0.05</li>
+				<li>7.4</li>
 			</values>
 		</incidentsOccurence>
 		<incidentsOccurenceForReset>
@@ -546,6 +550,7 @@
 				<li>AA_IncidentFungalHusk</li>
 				<li>VME_JunkChunkDrop</li>
 				<li>VPE_EltexMeteorite</li>
+				<li>RaidEnemyGoesWrong</li>
 			</keys>
 			<values>
 				<li>0.012</li>
@@ -654,6 +659,7 @@
 				<li>0.1</li>
 				<li>2</li>
 				<li>0.05</li>
+				<li>7.4</li>
 			</values>
 		</incidentsOccurenceForReset>
 	</ModSettings>
