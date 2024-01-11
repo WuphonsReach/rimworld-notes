@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="CRC_Reintegrated.CRC_Loader+CRC_Settings">
-		<num_Points_Per_Colonist>20</num_Points_Per_Colonist>
+		<num_Points_Per_Colonist>21</num_Points_Per_Colonist>
 		<percent_Value_For_Buildings>20</percent_Value_For_Buildings>
 		<percent_Value_For_Armour>80</percent_Value_For_Armour>
 		<percent_Value_For_IndustrialWeapons>85</percent_Value_For_IndustrialWeapons>
