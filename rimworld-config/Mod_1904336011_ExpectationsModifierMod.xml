@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ExpectationsModifier.ExpectationsSettings">
+		<CheckedLegacySettings>False</CheckedLegacySettings>
+		<WealthExpectations IsNull="True" />
+		<ExpMoodEffects IsNull="True" />
+		<ExpSlaveMoodEffects IsNull="True" />
+		<WealthExpectationsDict>
+			<keys>
+				<li>ExtremelyLow</li>
+				<li>VeryLow</li>
+				<li>Low</li>
+				<li>Moderate</li>
+				<li>High</li>
+				<li>SkyHigh</li>
+			</keys>
+			<values>
+				<li>100000</li>
+				<li>200000</li>
+				<li>400000</li>
+				<li>800000</li>
+				<li>2000000</li>
+				<li>1000000000</li>
+			</values>
+		</WealthExpectationsDict>
+		<RemoveRoyaltyExpectations>False</RemoveRoyaltyExpectations>
+		<RemoveIdeologyExpectations>False</RemoveIdeologyExpectations>
+		<DisableNobleExpectations>False</DisableNobleExpectations>
+		<DisableRoyalExpectations>False</DisableRoyalExpectations>
+		<DisableEliteExpectations>False</DisableEliteExpectations>
+		<DisableSupremeExpectations>False</DisableSupremeExpectations>
+		<ExpMoodEffectsDict>
+			<keys>
+				<li>sky-high expectations</li>
+				<li>high expectations</li>
+				<li>moderate expectations</li>
+				<li>low expectations</li>
+				<li>very low expectations</li>
+				<li>extremely low expectations</li>
+				<li>noble expectations</li>
+				<li>royal expectations</li>
+				<li>elite expectations</li>
+				<li>supreme expectations</li>
+				<li>stellar expectations</li>
+			</keys>
+			<values>
+				<li>0</li>
+				<li>6</li>
+				<li>12</li>
+				<li>18</li>
+				<li>24</li>
+				<li>30</li>
+				<li>-6</li>
+				<li>-12</li>
+				<li>-6</li>
+				<li>-12</li>
+				<li>-16</li>
+			</values>
+		</ExpMoodEffectsDict>
+		<ExpSlaveMoodEffectsDict>
+			<keys>
+				<li>destitute slave expectations</li>
+				<li>poor slave expectations</li>
+				<li>meager slave expectations</li>
+				<li>slave expectations</li>
+			</keys>
+			<values>
+				<li>46</li>
+				<li>40</li>
+				<li>34</li>
+				<li>28</li>
+			</values>
+		</ExpSlaveMoodEffectsDict>
+		<Reset_Bool>False</Reset_Bool>
+		<Debug_Bool>False</Debug_Bool>
+	</ModSettings>
+</SettingsBlock>
