@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MarkThatPawn.MarkThatPawnSettings">
+		<defaultMarkerSet>Ideology</defaultMarkerSet>
+		<enemyMarkerSet>Symbols</enemyMarkerSet>
+		<EnemyDiffer>True</EnemyDiffer>
+		<AutoRuleBlobs>
+			<li>PawnType;Enemy;Ideology;7;True;0;Default</li>
+		</AutoRuleBlobs>
+	</ModSettings>
+</SettingsBlock>
