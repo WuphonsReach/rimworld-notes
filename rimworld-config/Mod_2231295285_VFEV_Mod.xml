@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VFEV.VFEV_Settings">
-		<VFEV_HuntQuestMultiplier>0.8</VFEV_HuntQuestMultiplier>
+		<VFEV_HuntQuestMultiplier>1.3</VFEV_HuntQuestMultiplier>
 		<VFEV_StructureQuestMultiplier>0.8</VFEV_StructureQuestMultiplier>
 	</ModSettings>
 </SettingsBlock>
