@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="VanillaRacesExpandedFungoid.VanillaRacesExpandedFungoid_Settings">
-		<infectionChance>0.1</infectionChance>
+		<infectionChance>0.05</infectionChance>
 	</ModSettings>
 </SettingsBlock>
