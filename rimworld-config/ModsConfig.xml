@@ -53,7 +53,6 @@
     <li>owlchemist.undergroundpowerconduits</li>
     <li>mlie.turnonoffrepowered</li>
     <li>odysseyscorpio.givemeleather.2020.03.20</li>
-    <li>scorpio.optimizationleathers</li>
     <li>dismarzero.vgp.smokedmeat</li>
     <li>mersid.backuppowerupdated</li>
     <li>slimesenpai.autovents</li>
@@ -76,7 +75,6 @@
     <li>mallow.shoes.socks</li>
     <li>river.tribal.mittens</li>
     <li>river.tribal.shoes</li>
-    <li>skye.lowerinsultedstackmultiplier</li>
     <li>indeed.stackxxl</li>
     <li>more.backstories</li>
     <li>jiopaba.fences</li>
@@ -157,11 +155,16 @@
     <li>redmattis.vanillagenesrebalanced</li>
     <li>vanillaexpanded.outposts</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
-    <li>bazel.toxgenplus.2_copy</li>
     <li>microplastics.yummy</li>
     <li>mlie.markthatpawn</li>
     <li>murmur.pawnnamevariety</li>
     <li>etrt.practicalpemmican</li>
+    <li>dubwise.dubsmintmenus</li>
+    <li>bazel.toxgenplus.2</li>
+    <li>vanillaexpanded.vcooke</li>
+    <li>vanillaexpanded.vfeproduction</li>
+    <li>oskarpotocki.vfe.pirates</li>
+    <li>hobbes.bamba.evenmorelinkables</li>
     <li>ratys.rtfuse</li>
     <li>soulretextured.rtfuse</li>
     <li>raygne.rtfuse</li>
@@ -175,7 +178,6 @@
     <li>dorely.betatraps</li>
     <li>zal.vfetmodpatches</li>
     <li>vanillaexpanded.vcookesushi</li>
-    <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vcookestews</li>
     <li>pip.vecannedmeals</li>
     <li>vanillaexpanded.vfea</li>
@@ -183,7 +185,6 @@
     <li>oskarpotocki.vfe.empire</li>
     <li>vanillaexpanded.vfespacer</li>
     <li>vanillaexpanded.vfepropsanddecor</li>
-    <li>vanillaexpanded.vfeproduction</li>
     <li>vanillaexpanded.vfemedical</li>
     <li>vanillaexpanded.vfefarming</li>
     <li>vanillaexpanded.vfeart</li>
@@ -191,7 +192,6 @@
     <li>oskarpotocki.vfe.deserters</li>
     <li>oskarpotocki.vfe.insectoid</li>
     <li>oskarpotocki.vfe.mechanoid</li>
-    <li>oskarpotocki.vfe.pirates</li>
     <li>oskarpotocki.vfe.tribals</li>
     <li>oskarpotocki.vanillaexpanded.royaltypatches</li>
     <li>vanillaexpanded.vee</li>
@@ -291,14 +291,15 @@
     <li>thegoofyone.betterspots</li>
     <li>aelanna.betterpyromania</li>
     <li>mlie.variousspaceshipchunk</li>
+    <li>scorpio.optimizationleathers</li>
     <li>frozensnowfox.betterpawnlendingquest</li>
-    <li>ghostdata.lifelessons</li>
-    <li>erop2k7quiz.llpatchglovesshoes</li>
-    <li>nightkosh.lifelessons.modsrecipepatches</li>
     <li>zal.tribalessentials</li>
     <li>vanillaexpanded.skills</li>
+    <li>na.cheapflagstone</li>
     <li>proxyer.smallshelf</li>
     <li>mf.shelfpricepatch</li>
+    <li>skye.lowerinsultedstackmultiplier</li>
+    <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>citrus.expectationsmodifier</li>
     <li>mlie.coalexpanded</li>
   </activeMods>
