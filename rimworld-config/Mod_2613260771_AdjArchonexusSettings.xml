@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AdjustableArchonexus.AdjArchonexusModSettings">
+		<repColonistsAllowedArchoNilch>7</repColonistsAllowedArchoNilch>
+		<repAnimalsAllowedArchoNilch>7</repAnimalsAllowedArchoNilch>
+		<repRequiredWealthArchoNilch>750000</repRequiredWealthArchoNilch>
+	</ModSettings>
+</SettingsBlock>
