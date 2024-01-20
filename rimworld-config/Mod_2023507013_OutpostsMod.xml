@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Outposts.OutpostsSettings">
+		<deliveryMethod>Store</deliveryMethod>
 		<settingsPerOutpost>
 			<keys>
 				<li>Outpost_Factory</li>
@@ -293,6 +294,6 @@
 			</values>
 		</settingsPerOutpost>
 		<RaidMinDays>450000</RaidMinDays>
-		<RaidMaxDays>900000</RaidMaxDays>
+		<RaidMaxDays>2431377</RaidMaxDays>
 	</ModSettings>
 </SettingsBlock>
