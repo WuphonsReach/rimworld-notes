@@ -15,11 +15,11 @@
 				<li>SkyHigh</li>
 			</keys>
 			<values>
-				<li>60000</li>
-				<li>300000</li>
-				<li>1200000</li>
-				<li>3000000</li>
-				<li>6000000</li>
+				<li>200000</li>
+				<li>500000</li>
+				<li>1500000</li>
+				<li>4000000</li>
+				<li>8000000</li>
 				<li>1000000000</li>
 			</values>
 		</WealthExpectationsDict>
