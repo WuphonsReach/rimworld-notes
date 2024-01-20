@@ -10,6 +10,6 @@
 		<repIdeoSurrenderChance>5</repIdeoSurrenderChance>
 		<repExpansionRadius>25</repExpansionRadius>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
-		<repSimulatedConquestThreatPoint>1505</repSimulatedConquestThreatPoint>
+		<repSimulatedConquestThreatPoint>3002</repSimulatedConquestThreatPoint>
 	</ModSettings>
 </SettingsBlock>
