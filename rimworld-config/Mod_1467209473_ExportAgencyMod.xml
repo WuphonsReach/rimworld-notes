@@ -12210,6 +12210,981 @@
 								</internalList>
 							</exposable>
 						</li>
+						<li>
+							<exposable>
+								<name>SimpleMeal Meat-Only 2401A</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>CookMealSimpleBulk</recipe>
+											<ingredientSearchRadius>29.96767</ingredientSearchRadius>
+											<allowedSkillRange>6~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowRotten</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>SC_Termite</li>
+													<li>VFEM_ProcessedMeat</li>
+													<li>VPE_Bileceps</li>
+													<li>Meat_Bear_Grizzly</li>
+													<li>Meat_Cassowary</li>
+													<li>Meat_Cougar</li>
+													<li>Meat_Panther</li>
+													<li>Meat_Lynx</li>
+													<li>Meat_Cat</li>
+													<li>Meat_YorkshireTerrier</li>
+													<li>Meat_GuineaPig</li>
+													<li>Meat_LabradorRetriever</li>
+													<li>Meat_Husky</li>
+													<li>Meat_Monkey</li>
+													<li>Meat_Chicken</li>
+													<li>Meat_Duck</li>
+													<li>Meat_Turkey</li>
+													<li>Meat_Cow</li>
+													<li>Meat_Boomalope</li>
+													<li>Meat_Muffalo</li>
+													<li>Meat_Bison</li>
+													<li>Meat_Dromedary</li>
+													<li>Meat_Goat</li>
+													<li>Meat_Elk</li>
+													<li>Meat_Yak</li>
+													<li>Meat_Caribou</li>
+													<li>Meat_Horse</li>
+													<li>Meat_Donkey</li>
+													<li>Meat_Elephant</li>
+													<li>Meat_Rhinoceros</li>
+													<li>Meat_Hare</li>
+													<li>Meat_Thrumbo</li>
+													<li>Meat_Cobra</li>
+													<li>Meat_Tortoise</li>
+													<li>Meat_Alphabeaver</li>
+													<li>Meat_Pig</li>
+													<li>Meat_Ibex</li>
+													<li>Meat_Deer</li>
+													<li>Meat_Gazelle</li>
+													<li>Meat_Chinchilla</li>
+													<li>Meat_Sheep</li>
+													<li>Meat_Alpaca</li>
+													<li>Meat_Megasloth</li>
+													<li>Meat_Capybara</li>
+													<li>Meat_Squirrel</li>
+													<li>Meat_Rat</li>
+													<li>Meat_Boomrat</li>
+													<li>Meat_Raccoon</li>
+													<li>Meat_Iguana</li>
+													<li>Meat_Warg</li>
+													<li>Meat_Wolf_Timber</li>
+													<li>Meat_Fox_Fennec</li>
+													<li>Meat_Dryad_Basic</li>
+													<li>Meat_WasteRat</li>
+													<li>Meat_Toxalope</li>
+													<li>Meat_AA_ArcticLion</li>
+													<li>Meat_AA_Atispec</li>
+													<li>Meat_AA_Behemoth</li>
+													<li>Meat_AA_BoulderMit</li>
+													<li>Meat_AA_DevilSheep</li>
+													<li>Meat_AA_Frostling</li>
+													<li>Meat_AA_Gallatross</li>
+													<li>Meat_AA_Gigantelope</li>
+													<li>Meat_AA_Groundrunner</li>
+													<li>Meat_AA_Helixien</li>
+													<li>Meat_AA_MeadowAve</li>
+													<li>Meat_AA_NightMule</li>
+													<li>Meat_AA_Nightling</li>
+													<li>Meat_AA_OvergrownColossus</li>
+													<li>Meat_AA_RaptorShrimp</li>
+													<li>Meat_AA_Razorjack</li>
+													<li>Meat_AA_RipperHound</li>
+													<li>Meat_AA_RoughPlatedMonitor</li>
+													<li>Meat_AA_SandSquid</li>
+													<li>Meat_AA_Skyeel</li>
+													<li>Meat_VFEV_Fenrir</li>
+													<li>Meat_VFEV_Lothurr</li>
+													<li>Meat_VFEV_Njorun</li>
+													<li>Meat_VFEV_Wolfhound</li>
+													<li>Meat_AEXP_Giraffe</li>
+													<li>Meat_AEXP_Hippopotamus</li>
+													<li>Meat_AEXP_Crocodile</li>
+													<li>Meat_AEXP_Cheetah</li>
+													<li>Meat_AEXP_Kangaroo</li>
+													<li>Meat_AEXP_Koala</li>
+													<li>Meat_AEXP_Platypus</li>
+													<li>Meat_AEXP_Otter</li>
+													<li>Meat_AEXP_Hyena</li>
+													<li>Meat_AEXP_Lion</li>
+													<li>Meat_AEXP_Beagle</li>
+													<li>Meat_AEXP_Seal</li>
+													<li>Meat_AEXP_RedPanda</li>
+													<li>Meat_AEXP_Badger</li>
+													<li>Meat_AEXP_Hedgehog</li>
+													<li>Meat_AEXP_Gorilla</li>
+													<li>Meat_AEXP_Jaguar</li>
+													<li>Meat_AEXP_Tiger</li>
+													<li>Meat_AEXP_Alligator</li>
+													<li>Meat_AEXP_Muskox</li>
+													<li>Meat_AEXP_Moose</li>
+													<li>Meat_AEXP_MegaWolverine</li>
+													<li>Meat_AEXP_Porcupine</li>
+													<li>Meat_Doedicurus</li>
+													<li>Meat_Titanoboa</li>
+													<li>Meat_Chalicotherium</li>
+													<li>Meat_Procoptodon</li>
+													<li>Meat_Megalania</li>
+													<li>Meat_Gomphotaria</li>
+													<li>Meat_Diprotodon</li>
+													<li>Meat_Dinocrocuta</li>
+													<li>Meat_Sivatherium</li>
+													<li>Meat_Andrewsarchus</li>
+													<li>Meat_Macrauchenia</li>
+													<li>Meat_Quinkana</li>
+													<li>Meat_Josephoartigasia</li>
+													<li>Meat_Uintatherium</li>
+													<li>Meat_Enhydriodon</li>
+													<li>Meat_GR_AberrantFleshbeast</li>
+													<li>Meat_AEXP_BlackFootedFerret</li>
+													<li>Meat_AEXP_Bonobo</li>
+													<li>Meat_AEXP_TasmanianDevil</li>
+													<li>Meat_AEXP_Thylacine</li>
+													<li>Meat_AEXP_Pangolin</li>
+													<li>Meat_VAERoy_Orangutan</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<storeZone>null</storeZone>
+											<targetCount>10</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<includeFromZone>null</includeFromZone>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Smoke MFV 2401C</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>Tam_SmokeMeat40</recipe>
+											<ingredientSearchRadius>29.75862</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowRotten</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>GR_TastyMeat</li>
+													<li>VFEM_ProcessedMeat</li>
+													<li>VPE_Bileceps</li>
+													<li>Meat_Bear_Grizzly</li>
+													<li>Meat_Cassowary</li>
+													<li>Meat_Cougar</li>
+													<li>Meat_Panther</li>
+													<li>Meat_Lynx</li>
+													<li>Meat_Cat</li>
+													<li>Meat_YorkshireTerrier</li>
+													<li>Meat_GuineaPig</li>
+													<li>Meat_LabradorRetriever</li>
+													<li>Meat_Husky</li>
+													<li>Meat_Monkey</li>
+													<li>Meat_Chicken</li>
+													<li>Meat_Duck</li>
+													<li>Meat_Turkey</li>
+													<li>Meat_Cow</li>
+													<li>Meat_Boomalope</li>
+													<li>Meat_Muffalo</li>
+													<li>Meat_Bison</li>
+													<li>Meat_Dromedary</li>
+													<li>Meat_Goat</li>
+													<li>Meat_Elk</li>
+													<li>Meat_Yak</li>
+													<li>Meat_Caribou</li>
+													<li>Meat_Horse</li>
+													<li>Meat_Donkey</li>
+													<li>Meat_Elephant</li>
+													<li>Meat_Rhinoceros</li>
+													<li>Meat_Hare</li>
+													<li>Meat_Thrumbo</li>
+													<li>Meat_Cobra</li>
+													<li>Meat_Tortoise</li>
+													<li>Meat_Alphabeaver</li>
+													<li>Meat_Pig</li>
+													<li>Meat_Ibex</li>
+													<li>Meat_Deer</li>
+													<li>Meat_Gazelle</li>
+													<li>Meat_Chinchilla</li>
+													<li>Meat_Sheep</li>
+													<li>Meat_Alpaca</li>
+													<li>Meat_Megasloth</li>
+													<li>Meat_Capybara</li>
+													<li>Meat_Squirrel</li>
+													<li>Meat_Rat</li>
+													<li>Meat_Boomrat</li>
+													<li>Meat_Raccoon</li>
+													<li>Meat_Iguana</li>
+													<li>Meat_Warg</li>
+													<li>Meat_Wolf_Timber</li>
+													<li>Meat_Fox_Fennec</li>
+													<li>Meat_Dryad_Basic</li>
+													<li>Meat_WasteRat</li>
+													<li>Meat_Toxalope</li>
+													<li>Meat_AA_ArcticLion</li>
+													<li>Meat_AA_Atispec</li>
+													<li>Meat_AA_Behemoth</li>
+													<li>Meat_AA_BoulderMit</li>
+													<li>Meat_AA_DevilSheep</li>
+													<li>Meat_AA_Frostling</li>
+													<li>Meat_AA_Gallatross</li>
+													<li>Meat_AA_Gigantelope</li>
+													<li>Meat_AA_Groundrunner</li>
+													<li>Meat_AA_Helixien</li>
+													<li>Meat_AA_MeadowAve</li>
+													<li>Meat_AA_NightMule</li>
+													<li>Meat_AA_Nightling</li>
+													<li>Meat_AA_OvergrownColossus</li>
+													<li>Meat_AA_RaptorShrimp</li>
+													<li>Meat_AA_Razorjack</li>
+													<li>Meat_AA_RipperHound</li>
+													<li>Meat_AA_RoughPlatedMonitor</li>
+													<li>Meat_AA_SandSquid</li>
+													<li>Meat_AA_Skyeel</li>
+													<li>Meat_VFEV_Fenrir</li>
+													<li>Meat_VFEV_Lothurr</li>
+													<li>Meat_VFEV_Njorun</li>
+													<li>Meat_VFEV_Wolfhound</li>
+													<li>Meat_AEXP_Giraffe</li>
+													<li>Meat_AEXP_Hippopotamus</li>
+													<li>Meat_AEXP_Crocodile</li>
+													<li>Meat_AEXP_Cheetah</li>
+													<li>Meat_AEXP_Kangaroo</li>
+													<li>Meat_AEXP_Koala</li>
+													<li>Meat_AEXP_Platypus</li>
+													<li>Meat_AEXP_Otter</li>
+													<li>Meat_AEXP_Hyena</li>
+													<li>Meat_AEXP_Lion</li>
+													<li>Meat_AEXP_Beagle</li>
+													<li>Meat_AEXP_Seal</li>
+													<li>Meat_AEXP_RedPanda</li>
+													<li>Meat_AEXP_Badger</li>
+													<li>Meat_AEXP_Hedgehog</li>
+													<li>Meat_AEXP_Gorilla</li>
+													<li>Meat_AEXP_Jaguar</li>
+													<li>Meat_AEXP_Tiger</li>
+													<li>Meat_AEXP_Alligator</li>
+													<li>Meat_AEXP_Muskox</li>
+													<li>Meat_AEXP_Moose</li>
+													<li>Meat_AEXP_MegaWolverine</li>
+													<li>Meat_AEXP_Porcupine</li>
+													<li>Meat_Doedicurus</li>
+													<li>Meat_Titanoboa</li>
+													<li>Meat_Chalicotherium</li>
+													<li>Meat_Procoptodon</li>
+													<li>Meat_Megalania</li>
+													<li>Meat_Gomphotaria</li>
+													<li>Meat_Diprotodon</li>
+													<li>Meat_Dinocrocuta</li>
+													<li>Meat_Sivatherium</li>
+													<li>Meat_Andrewsarchus</li>
+													<li>Meat_Macrauchenia</li>
+													<li>Meat_Quinkana</li>
+													<li>Meat_Josephoartigasia</li>
+													<li>Meat_Uintatherium</li>
+													<li>Meat_Enhydriodon</li>
+													<li>Meat_GR_AberrantFleshbeast</li>
+													<li>Meat_AEXP_BlackFootedFerret</li>
+													<li>Meat_AEXP_Bonobo</li>
+													<li>Meat_AEXP_TasmanianDevil</li>
+													<li>Meat_AEXP_Thylacine</li>
+													<li>Meat_AEXP_Pangolin</li>
+													<li>Meat_VAERoy_Orangutan</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<storeZone>null</storeZone>
+											<targetCount>2000</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>1500</unpauseWhenYouHave>
+											<includeFromZone>null</includeFromZone>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>klvlt_SmokeFish40</recipe>
+											<ingredientSearchRadius>30.17672</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>VCEF_RawAnchovy</li>
+													<li>VCEF_RawAngelfish</li>
+													<li>VCEF_RawAnglerfish</li>
+													<li>VCEF_RawBass</li>
+													<li>VCEF_RawCatfish</li>
+													<li>VCEF_RawClownfish</li>
+													<li>VCEF_RawCod</li>
+													<li>VCEF_RawEel</li>
+													<li>VCEF_RawGoldfish</li>
+													<li>VCEF_RawGuppy</li>
+													<li>VCEF_RawHaddock</li>
+													<li>VCEF_RawHalibut</li>
+													<li>VCEF_RawHerring</li>
+													<li>VCEF_RawKoi</li>
+													<li>VCEF_RawLobster</li>
+													<li>VCEF_RawMackerel</li>
+													<li>VCEF_RawMinnow</li>
+													<li>VCEF_RawPerch</li>
+													<li>VCEF_RawPiranha</li>
+													<li>VCEF_RawPufferfish</li>
+													<li>VCEF_RawSalmon</li>
+													<li>VCEF_RawSprat</li>
+													<li>VCEF_RawSwordfish</li>
+													<li>VCEF_RawTrout</li>
+													<li>VCEF_RawTuna</li>
+													<li>VCEF_CrayfishItem</li>
+													<li>VCEF_ButterFishItem</li>
+													<li>VCEF_FreshwaterStingrayItem</li>
+													<li>VCEF_FlyingFishItem</li>
+													<li>VCEF_ArapaimaItem</li>
+													<li>VCEF_ShortfinMakoSharkItem</li>
+													<li>AEXP_RawFish</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<storeZone>null</storeZone>
+											<targetCount>1000</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>800</unpauseWhenYouHave>
+											<includeFromZone>null</includeFromZone>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>Tam_SmokeVeg40</recipe>
+											<ingredientSearchRadius>30.17672</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowRotten</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>RawPotatoes</li>
+													<li>RawCorn</li>
+													<li>AA_CactusMeat</li>
+													<li>SC_WildrootPotato</li>
+													<li>SC_Plantago</li>
+													<li>SC_PricklyPearCactus</li>
+													<li>VCE_RawPumpkin</li>
+													<li>VCE_RawPepper</li>
+													<li>VCE_RawPeas</li>
+													<li>VCE_RawEggplant</li>
+													<li>VCE_RawCabbage</li>
+													<li>VCE_RawBeets</li>
+													<li>VCE_RawTomatoes</li>
+													<li>VCE_RawCelery</li>
+													<li>VCE_RawLettuce</li>
+													<li>VCE_RawRadish</li>
+													<li>VCE_RawBuckwheat</li>
+													<li>VCE_RawPeanut</li>
+													<li>VCE_RawSunflower</li>
+													<li>VCE_RawOkra</li>
+													<li>VCE_RawGarlic</li>
+													<li>VCE_RawCarrot</li>
+													<li>VCE_RawBrusselsSprouts</li>
+													<li>VCE_RawOlives</li>
+													<li>VCE_RawSweetPotatoes</li>
+													<li>VCE_RawCassava</li>
+													<li>VCE_RawBeans</li>
+													<li>VCE_RawBellPeppers</li>
+													<li>VCE_RawYellowBellPeppers</li>
+													<li>VCE_RawChickpeas</li>
+													<li>VCE_RawTaro</li>
+													<li>VCE_RawWatercress</li>
+													<li>VCE_RawLotus</li>
+													<li>VCE_RawWaterChestnut</li>
+													<li>VCE_RawCucumber</li>
+													<li>VCE_RawButternutSquash</li>
+													<li>Rawsnowbeet</li>
+													<li>Rawbean</li>
+													<li>RawOlive</li>
+													<li>RawCactusFruit</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<storeZone>null</storeZone>
+											<targetCount>4000</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3000</unpauseWhenYouHave>
+											<includeFromZone>null</includeFromZone>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Basic Pemm-Meals 2401A</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>CookMealSimpleBulk</recipe>
+											<ingredientSearchRadius>29.96767</ingredientSearchRadius>
+											<allowedSkillRange>6~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowRotten</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>SC_Termite</li>
+													<li>VFEM_ProcessedMeat</li>
+													<li>VPE_Bileceps</li>
+													<li>Meat_Bear_Grizzly</li>
+													<li>Meat_Cassowary</li>
+													<li>Meat_Cougar</li>
+													<li>Meat_Panther</li>
+													<li>Meat_Lynx</li>
+													<li>Meat_Cat</li>
+													<li>Meat_YorkshireTerrier</li>
+													<li>Meat_GuineaPig</li>
+													<li>Meat_LabradorRetriever</li>
+													<li>Meat_Husky</li>
+													<li>Meat_Monkey</li>
+													<li>Meat_Chicken</li>
+													<li>Meat_Duck</li>
+													<li>Meat_Turkey</li>
+													<li>Meat_Cow</li>
+													<li>Meat_Boomalope</li>
+													<li>Meat_Muffalo</li>
+													<li>Meat_Bison</li>
+													<li>Meat_Dromedary</li>
+													<li>Meat_Goat</li>
+													<li>Meat_Elk</li>
+													<li>Meat_Yak</li>
+													<li>Meat_Caribou</li>
+													<li>Meat_Horse</li>
+													<li>Meat_Donkey</li>
+													<li>Meat_Elephant</li>
+													<li>Meat_Rhinoceros</li>
+													<li>Meat_Hare</li>
+													<li>Meat_Thrumbo</li>
+													<li>Meat_Cobra</li>
+													<li>Meat_Tortoise</li>
+													<li>Meat_Alphabeaver</li>
+													<li>Meat_Pig</li>
+													<li>Meat_Ibex</li>
+													<li>Meat_Deer</li>
+													<li>Meat_Gazelle</li>
+													<li>Meat_Chinchilla</li>
+													<li>Meat_Sheep</li>
+													<li>Meat_Alpaca</li>
+													<li>Meat_Megasloth</li>
+													<li>Meat_Capybara</li>
+													<li>Meat_Squirrel</li>
+													<li>Meat_Rat</li>
+													<li>Meat_Boomrat</li>
+													<li>Meat_Raccoon</li>
+													<li>Meat_Iguana</li>
+													<li>Meat_Warg</li>
+													<li>Meat_Wolf_Timber</li>
+													<li>Meat_Fox_Fennec</li>
+													<li>Meat_Dryad_Basic</li>
+													<li>Meat_WasteRat</li>
+													<li>Meat_Toxalope</li>
+													<li>Meat_AA_ArcticLion</li>
+													<li>Meat_AA_Atispec</li>
+													<li>Meat_AA_Behemoth</li>
+													<li>Meat_AA_BoulderMit</li>
+													<li>Meat_AA_DevilSheep</li>
+													<li>Meat_AA_Frostling</li>
+													<li>Meat_AA_Gallatross</li>
+													<li>Meat_AA_Gigantelope</li>
+													<li>Meat_AA_Groundrunner</li>
+													<li>Meat_AA_Helixien</li>
+													<li>Meat_AA_MeadowAve</li>
+													<li>Meat_AA_NightMule</li>
+													<li>Meat_AA_Nightling</li>
+													<li>Meat_AA_OvergrownColossus</li>
+													<li>Meat_AA_RaptorShrimp</li>
+													<li>Meat_AA_Razorjack</li>
+													<li>Meat_AA_RipperHound</li>
+													<li>Meat_AA_RoughPlatedMonitor</li>
+													<li>Meat_AA_SandSquid</li>
+													<li>Meat_AA_Skyeel</li>
+													<li>Meat_VFEV_Fenrir</li>
+													<li>Meat_VFEV_Lothurr</li>
+													<li>Meat_VFEV_Njorun</li>
+													<li>Meat_VFEV_Wolfhound</li>
+													<li>Meat_AEXP_Giraffe</li>
+													<li>Meat_AEXP_Hippopotamus</li>
+													<li>Meat_AEXP_Crocodile</li>
+													<li>Meat_AEXP_Cheetah</li>
+													<li>Meat_AEXP_Kangaroo</li>
+													<li>Meat_AEXP_Koala</li>
+													<li>Meat_AEXP_Platypus</li>
+													<li>Meat_AEXP_Otter</li>
+													<li>Meat_AEXP_Hyena</li>
+													<li>Meat_AEXP_Lion</li>
+													<li>Meat_AEXP_Beagle</li>
+													<li>Meat_AEXP_Seal</li>
+													<li>Meat_AEXP_RedPanda</li>
+													<li>Meat_AEXP_Badger</li>
+													<li>Meat_AEXP_Hedgehog</li>
+													<li>Meat_AEXP_Gorilla</li>
+													<li>Meat_AEXP_Jaguar</li>
+													<li>Meat_AEXP_Tiger</li>
+													<li>Meat_AEXP_Alligator</li>
+													<li>Meat_AEXP_Muskox</li>
+													<li>Meat_AEXP_Moose</li>
+													<li>Meat_AEXP_MegaWolverine</li>
+													<li>Meat_AEXP_Porcupine</li>
+													<li>Meat_Doedicurus</li>
+													<li>Meat_Titanoboa</li>
+													<li>Meat_Chalicotherium</li>
+													<li>Meat_Procoptodon</li>
+													<li>Meat_Megalania</li>
+													<li>Meat_Gomphotaria</li>
+													<li>Meat_Diprotodon</li>
+													<li>Meat_Dinocrocuta</li>
+													<li>Meat_Sivatherium</li>
+													<li>Meat_Andrewsarchus</li>
+													<li>Meat_Macrauchenia</li>
+													<li>Meat_Quinkana</li>
+													<li>Meat_Josephoartigasia</li>
+													<li>Meat_Uintatherium</li>
+													<li>Meat_Enhydriodon</li>
+													<li>Meat_GR_AberrantFleshbeast</li>
+													<li>Meat_AEXP_BlackFootedFerret</li>
+													<li>Meat_AEXP_Bonobo</li>
+													<li>Meat_AEXP_TasmanianDevil</li>
+													<li>Meat_AEXP_Thylacine</li>
+													<li>Meat_AEXP_Pangolin</li>
+													<li>Meat_VAERoy_Orangutan</li>
+													<li>Rawmushroom</li>
+													<li>VCEF_RawAnchovy</li>
+													<li>VCEF_RawAngelfish</li>
+													<li>VCEF_RawAnglerfish</li>
+													<li>VCEF_RawBass</li>
+													<li>VCEF_RawCatfish</li>
+													<li>VCEF_RawClownfish</li>
+													<li>VCEF_RawCod</li>
+													<li>VCEF_RawEel</li>
+													<li>VCEF_RawGoldfish</li>
+													<li>VCEF_RawGuppy</li>
+													<li>VCEF_RawHaddock</li>
+													<li>VCEF_RawHalibut</li>
+													<li>VCEF_RawHerring</li>
+													<li>VCEF_RawKoi</li>
+													<li>VCEF_RawLobster</li>
+													<li>VCEF_RawMackerel</li>
+													<li>VCEF_RawMinnow</li>
+													<li>VCEF_RawPerch</li>
+													<li>VCEF_RawPiranha</li>
+													<li>VCEF_RawPufferfish</li>
+													<li>VCEF_RawSalmon</li>
+													<li>VCEF_RawSprat</li>
+													<li>VCEF_RawSwordfish</li>
+													<li>VCEF_RawTrout</li>
+													<li>VCEF_RawTuna</li>
+													<li>RawRedLentil</li>
+													<li>VCE_CannedFish</li>
+													<li>VCEF_CrayfishItem</li>
+													<li>VCEF_ButterFishItem</li>
+													<li>VCEF_FreshwaterStingrayItem</li>
+													<li>VCEF_FlyingFishItem</li>
+													<li>VCEF_ArapaimaItem</li>
+													<li>VCEF_ShortfinMakoSharkItem</li>
+													<li>AEXP_RawFish</li>
+													<li>VG_GardenFish</li>
+													<li>VCE_RawButternutSquash</li>
+													<li>Rawbean</li>
+													<li>VCE_RawBeets</li>
+													<li>VCE_RawEggplant</li>
+													<li>VCE_RawBrusselsSprouts</li>
+													<li>VCE_RawBuckwheat</li>
+													<li>VCE_RawCabbage</li>
+													<li>RawCactusFruit</li>
+													<li>VCE_RawCarrot</li>
+													<li>VCE_RawCassava</li>
+													<li>SC_Cattail</li>
+													<li>VCE_RawCelery</li>
+													<li>VCE_RawChickpeas</li>
+													<li>RawCorn</li>
+													<li>VCE_RawCucumber</li>
+													<li>VCE_RawBeans</li>
+													<li>SC_Kelp</li>
+													<li>VCE_RawLettuce</li>
+													<li>SC_Lichen</li>
+													<li>SC_LotusRoot</li>
+													<li>VCE_RawLotus</li>
+													<li>VCE_RawPumpkin</li>
+													<li>SC_Moss</li>
+													<li>VCE_RawOkra</li>
+													<li>RawOlive</li>
+													<li>VCE_RawPeanut</li>
+													<li>VCE_RawPeas</li>
+													<li>VCE_RawPepper</li>
+													<li>AA_CactusMeat</li>
+													<li>SC_Plantago</li>
+													<li>RawPotatoes</li>
+													<li>SC_PricklyPearCactus</li>
+													<li>VCE_RawRadish</li>
+													<li>VCE_RawTomatoes</li>
+													<li>VCE_RawBellPeppers</li>
+													<li>RawRice</li>
+													<li>SC_Seaweed</li>
+													<li>VCE_RawOlives</li>
+													<li>Rawsnowbeet</li>
+													<li>VCE_RawSoybean</li>
+													<li>VCE_RawSunflower</li>
+													<li>VCE_RawSweetPotatoes</li>
+													<li>RawToxipotato</li>
+													<li>VCE_RawTaro</li>
+													<li>VCE_RawWasabi</li>
+													<li>VCE_RawWaterChestnut</li>
+													<li>SC_WaterLily</li>
+													<li>SC_WaterSpinach</li>
+													<li>VCE_RawWatercress</li>
+													<li>SC_WildRice</li>
+													<li>SC_WildrootPotato</li>
+													<li>VCE_RawYellowBellPeppers</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<storeZone>null</storeZone>
+											<targetCount>18</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>12</unpauseWhenYouHave>
+											<includeFromZone>null</includeFromZone>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_PemmicanBulk</recipe>
+											<ingredientSearchRadius>39.7931</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowRotten</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>AA_OcularJellyMeat</li>
+													<li>SC_Worm</li>
+													<li>SC_Snail</li>
+													<li>SC_FreshwaterCrab</li>
+													<li>SC_Frog</li>
+													<li>SC_Catfish</li>
+													<li>SC_SoftshellTurtle</li>
+													<li>SC_Mussel</li>
+													<li>SC_Oyster</li>
+													<li>SC_KingCrab</li>
+													<li>GR_TastyMeat</li>
+													<li>VFEM_ProcessedMeat</li>
+													<li>VPE_Bileceps</li>
+													<li>AEXP_RawFish</li>
+													<li>VAERoy_QuailMeat</li>
+													<li>Meat_Bear_Grizzly</li>
+													<li>Meat_Cassowary</li>
+													<li>Meat_Cougar</li>
+													<li>Meat_Panther</li>
+													<li>Meat_Lynx</li>
+													<li>Meat_Cat</li>
+													<li>Meat_YorkshireTerrier</li>
+													<li>Meat_GuineaPig</li>
+													<li>Meat_LabradorRetriever</li>
+													<li>Meat_Husky</li>
+													<li>Meat_Monkey</li>
+													<li>Meat_Chicken</li>
+													<li>Meat_Duck</li>
+													<li>Meat_Turkey</li>
+													<li>Meat_Cow</li>
+													<li>Meat_Boomalope</li>
+													<li>Meat_Muffalo</li>
+													<li>Meat_Bison</li>
+													<li>Meat_Dromedary</li>
+													<li>Meat_Goat</li>
+													<li>Meat_Elk</li>
+													<li>Meat_Yak</li>
+													<li>Meat_Caribou</li>
+													<li>Meat_Horse</li>
+													<li>Meat_Donkey</li>
+													<li>Meat_Elephant</li>
+													<li>Meat_Rhinoceros</li>
+													<li>Meat_Hare</li>
+													<li>Meat_Thrumbo</li>
+													<li>Meat_Cobra</li>
+													<li>Meat_Tortoise</li>
+													<li>Meat_Alphabeaver</li>
+													<li>Meat_Pig</li>
+													<li>Meat_Ibex</li>
+													<li>Meat_Deer</li>
+													<li>Meat_Gazelle</li>
+													<li>Meat_Chinchilla</li>
+													<li>Meat_Sheep</li>
+													<li>Meat_Alpaca</li>
+													<li>Meat_Megasloth</li>
+													<li>Meat_Capybara</li>
+													<li>Meat_Squirrel</li>
+													<li>Meat_Rat</li>
+													<li>Meat_Boomrat</li>
+													<li>Meat_Raccoon</li>
+													<li>Meat_Iguana</li>
+													<li>Meat_Warg</li>
+													<li>Meat_Wolf_Timber</li>
+													<li>Meat_Fox_Fennec</li>
+													<li>Meat_Dryad_Basic</li>
+													<li>Meat_WasteRat</li>
+													<li>Meat_Toxalope</li>
+													<li>Meat_AA_ArcticLion</li>
+													<li>Meat_AA_Atispec</li>
+													<li>Meat_AA_Behemoth</li>
+													<li>Meat_AA_BoulderMit</li>
+													<li>Meat_AA_DevilSheep</li>
+													<li>Meat_AA_Frostling</li>
+													<li>Meat_AA_Gallatross</li>
+													<li>Meat_AA_Gigantelope</li>
+													<li>Meat_AA_Groundrunner</li>
+													<li>Meat_AA_Helixien</li>
+													<li>Meat_AA_MeadowAve</li>
+													<li>Meat_AA_NightMule</li>
+													<li>Meat_AA_Nightling</li>
+													<li>Meat_AA_OvergrownColossus</li>
+													<li>Meat_AA_RaptorShrimp</li>
+													<li>Meat_AA_Razorjack</li>
+													<li>Meat_AA_RipperHound</li>
+													<li>Meat_AA_RoughPlatedMonitor</li>
+													<li>Meat_AA_SandSquid</li>
+													<li>Meat_AA_Skyeel</li>
+													<li>Meat_VFEV_Fenrir</li>
+													<li>Meat_VFEV_Lothurr</li>
+													<li>Meat_VFEV_Njorun</li>
+													<li>Meat_VFEV_Wolfhound</li>
+													<li>Meat_AEXP_Giraffe</li>
+													<li>Meat_AEXP_Hippopotamus</li>
+													<li>Meat_AEXP_Crocodile</li>
+													<li>Meat_AEXP_Cheetah</li>
+													<li>Meat_AEXP_Kangaroo</li>
+													<li>Meat_AEXP_Koala</li>
+													<li>Meat_AEXP_Platypus</li>
+													<li>Meat_AEXP_Otter</li>
+													<li>Meat_AEXP_Hyena</li>
+													<li>Meat_AEXP_Lion</li>
+													<li>Meat_AEXP_Beagle</li>
+													<li>Meat_AEXP_Seal</li>
+													<li>Meat_AEXP_RedPanda</li>
+													<li>Meat_AEXP_Badger</li>
+													<li>Meat_AEXP_Hedgehog</li>
+													<li>Meat_AEXP_Gorilla</li>
+													<li>Meat_AEXP_Jaguar</li>
+													<li>Meat_AEXP_Tiger</li>
+													<li>Meat_AEXP_Alligator</li>
+													<li>Meat_AEXP_Muskox</li>
+													<li>Meat_AEXP_Moose</li>
+													<li>Meat_AEXP_MegaWolverine</li>
+													<li>Meat_AEXP_Porcupine</li>
+													<li>Meat_Doedicurus</li>
+													<li>Meat_Titanoboa</li>
+													<li>Meat_Chalicotherium</li>
+													<li>Meat_Procoptodon</li>
+													<li>Meat_Megalania</li>
+													<li>Meat_Gomphotaria</li>
+													<li>Meat_Diprotodon</li>
+													<li>Meat_Dinocrocuta</li>
+													<li>Meat_Sivatherium</li>
+													<li>Meat_Andrewsarchus</li>
+													<li>Meat_Macrauchenia</li>
+													<li>Meat_Quinkana</li>
+													<li>Meat_Josephoartigasia</li>
+													<li>Meat_Uintatherium</li>
+													<li>Meat_Enhydriodon</li>
+													<li>Meat_GR_AberrantFleshbeast</li>
+													<li>Meat_AEXP_BlackFootedFerret</li>
+													<li>Meat_AEXP_Bonobo</li>
+													<li>Meat_AEXP_TasmanianDevil</li>
+													<li>Meat_AEXP_Thylacine</li>
+													<li>Meat_AEXP_Pangolin</li>
+													<li>Meat_VAERoy_Orangutan</li>
+													<li>VCEF_RawAnchovy</li>
+													<li>VCEF_RawAngelfish</li>
+													<li>VCEF_RawAnglerfish</li>
+													<li>VCEF_RawBass</li>
+													<li>VCEF_RawCatfish</li>
+													<li>VCEF_RawClownfish</li>
+													<li>VCEF_RawCod</li>
+													<li>VCEF_RawEel</li>
+													<li>VCEF_RawGoldfish</li>
+													<li>VCEF_RawGuppy</li>
+													<li>VCEF_RawHaddock</li>
+													<li>VCEF_RawHalibut</li>
+													<li>VCEF_RawHerring</li>
+													<li>VCEF_RawKoi</li>
+													<li>VCEF_RawLobster</li>
+													<li>VCEF_RawMackerel</li>
+													<li>VCEF_RawMinnow</li>
+													<li>VCEF_RawPerch</li>
+													<li>VCEF_RawPiranha</li>
+													<li>VCEF_RawPufferfish</li>
+													<li>VCEF_RawSalmon</li>
+													<li>VCEF_RawSprat</li>
+													<li>VCEF_RawSwordfish</li>
+													<li>VCEF_RawTrout</li>
+													<li>VCEF_RawTuna</li>
+													<li>VCE_CannedFish</li>
+													<li>VCEF_CrayfishItem</li>
+													<li>VCEF_ButterFishItem</li>
+													<li>VCEF_FreshwaterStingrayItem</li>
+													<li>VCEF_FlyingFishItem</li>
+													<li>VCEF_ArapaimaItem</li>
+													<li>VCEF_ShortfinMakoSharkItem</li>
+													<li>RawRedLentil</li>
+													<li>Rawmushroom</li>
+													<li>VG_GardenFish</li>
+													<li>RawPotatoes</li>
+													<li>RawRice</li>
+													<li>RawCorn</li>
+													<li>AA_CactusMeat</li>
+													<li>AA_BlackTruffles</li>
+													<li>SC_WildrootPotato</li>
+													<li>SC_Lichen</li>
+													<li>SC_Moss</li>
+													<li>SC_Cattail</li>
+													<li>SC_Plantago</li>
+													<li>SC_WildRice</li>
+													<li>SC_LotusRoot</li>
+													<li>SC_WaterLily</li>
+													<li>SC_WaterSpinach</li>
+													<li>SC_Kelp</li>
+													<li>SC_Seaweed</li>
+													<li>SC_PricklyPearCactus</li>
+													<li>VCE_RawSoybean</li>
+													<li>VCE_RawWasabi</li>
+													<li>VCE_RawOnion</li>
+													<li>VCE_RawPumpkin</li>
+													<li>VCE_RawPepper</li>
+													<li>VCE_RawPeas</li>
+													<li>VCE_RawEggplant</li>
+													<li>VCE_RawCabbage</li>
+													<li>VCE_RawBeets</li>
+													<li>VCE_RawTomatoes</li>
+													<li>VCE_RawCelery</li>
+													<li>VCE_RawLettuce</li>
+													<li>VCE_RawRadish</li>
+													<li>VCE_RawBuckwheat</li>
+													<li>VCE_RawPeanut</li>
+													<li>VCE_RawSunflower</li>
+													<li>VCE_RawOkra</li>
+													<li>VCE_RawGarlic</li>
+													<li>VCE_RawCarrot</li>
+													<li>VCE_RawBrusselsSprouts</li>
+													<li>VCE_RawOlives</li>
+													<li>VCE_RawSweetPotatoes</li>
+													<li>VCE_RawCassava</li>
+													<li>VCE_RawBeans</li>
+													<li>VCE_RawBellPeppers</li>
+													<li>VCE_RawYellowBellPeppers</li>
+													<li>VCE_RawChickpeas</li>
+													<li>VCE_RawTaro</li>
+													<li>VCE_RawWatercress</li>
+													<li>VCE_RawLotus</li>
+													<li>VCE_RawWaterChestnut</li>
+													<li>VCE_RawCucumber</li>
+													<li>VCE_RawButternutSquash</li>
+													<li>Rawsnowbeet</li>
+													<li>Rawbean</li>
+													<li>RawOlive</li>
+													<li>RawCactusFruit</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<storeZone>null</storeZone>
+											<targetCount>400</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>300</unpauseWhenYouHave>
+											<includeFromZone>null</includeFromZone>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
 					</internalList>
 				</li>
 				<li>
@@ -13569,24 +14544,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Beer</drug>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13598,49 +14555,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyGood</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
+											<drug>VBE_Whiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13652,13 +14567,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyGood</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MintCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyExcellent</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13670,7 +14609,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintCoffee</drug>
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13688,25 +14657,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
+											<drug>VBE_IrishCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
+											<drug>VBE_LavishCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13718,7 +14675,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Whiskey</drug>
+											<drug>VBE_DoubleWhiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13742,31 +14699,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEV_Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13778,14 +14711,56 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>SmokeleafJoint</drug>
-											<allowedForJoy>True</allowedForJoy>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
@@ -13838,18 +14813,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -13857,6 +14820,18 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Flake</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>PsychiteTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13874,103 +14849,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Penoxycyline</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_BlackTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_NoonChai</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Lemonade</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Antibiotics</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Soda</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_FineDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EarlGreyTea</drug>
+											<drug>VBE_MintTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -13988,7 +14873,103 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EarlGreyTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>GR_PoisonAmpoule</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Lemonade</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Antibiotics</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Soda</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_BlackTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Kombucha</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14001,12 +14982,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VG_BarleyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14031,73 +15006,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyGood</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
+											<drug>VBE_Whiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14109,13 +15024,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyGood</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MintCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyExcellent</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14127,7 +15066,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintCoffee</drug>
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14145,25 +15114,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
+											<drug>VBE_IrishCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
+											<drug>VBE_LavishCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14175,7 +15132,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Whiskey</drug>
+											<drug>VBE_DoubleWhiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14199,31 +15156,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEV_Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14235,7 +15168,49 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14295,18 +15270,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -14314,6 +15277,18 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Flake</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>PsychiteTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14331,103 +15306,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Penoxycyline</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_BlackTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_NoonChai</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Lemonade</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Antibiotics</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Soda</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_FineDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EarlGreyTea</drug>
+											<drug>VBE_MintTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14445,7 +15330,103 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EarlGreyTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>GR_PoisonAmpoule</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Lemonade</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Antibiotics</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Soda</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_BlackTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Kombucha</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14458,12 +15439,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VG_BarleyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -14484,210 +15459,156 @@
 										<exposable Class="DrugPolicyEntry">
 											<drug>Beer</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyGood</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_HotCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyExcellent</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyMasterwork</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_CannibalCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyNormal</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Whiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_HotCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyGood</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MintCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyExcellent</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyMasterwork</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_CannibalCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IrishCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LavishCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyNormal</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DoubleWhiskey</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyAwful</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VFEP_Rum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VFEM_Wine</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
@@ -14698,244 +15619,194 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VFEV_Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_LatteCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>SmokeleafJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Cigars</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Cigarettes</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>GR_FeatherdustJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Ambrosia</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>PsychoidTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VFEI_RoyalInsectJelly</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VFEC_Opium</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Yayo</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Flake</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>PsychiteTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEE_Aperitif</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>GoJuice</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>WakeUp</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Penoxycyline</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_BlackTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_NoonChai</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
+											<drug>VBE_MintTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Lemonade</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Antibiotics</drug>
+											<drug>VBE_GreenTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Soda</drug>
+											<drug>VCE_GourmetDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_FineDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EarlGreyTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
@@ -14946,23 +15817,62 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EarlGreyTea</drug>
+											<drug>VCE_LavishDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GreenTea</drug>
+											<drug>VBE_Lemonade</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_GourmetDessert</drug>
+											<drug>VCE_FineDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Antibiotics</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Soda</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_BlackTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Kombucha</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
@@ -14973,30 +15883,26 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>Coffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VG_BarleyTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Coffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Fruitdrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 								</internalList>
@@ -15009,26 +15915,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Beer</drug>
-											<allowedForJoy>True</allowedForJoy>
-											<allowScheduled>True</allowScheduled>
-											<takeToInventory>1</takeToInventory>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15040,49 +15926,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyGood</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
+											<drug>VBE_Whiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15094,13 +15938,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyGood</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MintCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyExcellent</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15112,7 +15980,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintCoffee</drug>
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15130,25 +16028,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
+											<drug>VBE_IrishCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
+											<drug>VBE_LavishCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15160,7 +16046,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Whiskey</drug>
+											<drug>VBE_DoubleWhiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15184,31 +16070,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEV_Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15220,14 +16082,56 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>SmokeleafJoint</drug>
-											<allowedForJoy>True</allowedForJoy>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
@@ -15280,18 +16184,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -15299,6 +16191,18 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Flake</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>PsychiteTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15316,103 +16220,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Penoxycyline</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_BlackTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_NoonChai</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Lemonade</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Antibiotics</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Soda</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_FineDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EarlGreyTea</drug>
+											<drug>VBE_MintTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15430,7 +16244,103 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EarlGreyTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>GR_PoisonAmpoule</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Lemonade</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Antibiotics</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Soda</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_BlackTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Kombucha</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -15443,12 +16353,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VG_BarleyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
