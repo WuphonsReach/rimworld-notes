@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Replace_Stuff.Settings">
+		<bridgePrefNames>
+			<li>Bridge</li>
+			<li>VFEArch_BridgeSandstone</li>
+			<li>VFEArch_BridgeGranite</li>
+			<li>VFEArch_BridgeLimestone</li>
+			<li>VFEArch_BridgeSlate</li>
+			<li>VFEArch_BridgeMarble</li>
+			<li>VFEArch_BridgeSteel</li>
+			<li>VFEArch_ConcreteFoundation</li>
+			<li>ConcreteBridge</li>
+			<li>FloorStoneRoughSandstone</li>
+			<li>FloorStoneRoughGranite</li>
+			<li>FloorStoneRoughLimestone</li>
+			<li>FloorStoneRoughSlate</li>
+			<li>FloorStoneRoughMarble</li>
+			<li>FloorStoneRandomSandstone</li>
+			<li>FloorStoneRandomGranite</li>
+			<li>FloorStoneRandomLimestone</li>
+			<li>FloorStoneRandomSlate</li>
+			<li>FloorStoneRandomMarble</li>
+			<li>FloorWoodBarn</li>
+		</bridgePrefNames>
+	</ModSettings>
+</SettingsBlock>
