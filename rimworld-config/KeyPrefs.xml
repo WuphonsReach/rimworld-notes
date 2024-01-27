@@ -465,7 +465,7 @@
   <li>
     <key>PublishLogs</key>
     <value>
-      <keyBindingA>F12</keyBindingA>
+      <keyBindingA>KeypadDivide</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -494,13 +494,6 @@
     <key>HLOpenUpdateNews</key>
     <value>
       <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MainTab_LLLearning</key>
-    <value>
-      <keyBindingA>F10</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
@@ -592,6 +585,104 @@
     <key>Planning_Redo</key>
     <value>
       <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_BuildMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintResearch</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintWheel</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintBillMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PinningHide</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintGearMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VF_RestartGame</key>
+    <value>
+      <keyBindingA>Keypad1</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VF_QuickStartMenu</key>
+    <value>
+      <keyBindingA>Keypad2</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>VF_DebugSettings</key>
+    <value>
+      <keyBindingA>Keypad3</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>DubsOptimizerKey</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>DubsOptimizerRestartKey</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>dpa_ToggleAlertBlock</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_MedicalTab</key>
+    <value>
+      <keyBindingA>M</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_LLLearning</key>
+    <value>
+      <keyBindingA>F10</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>
