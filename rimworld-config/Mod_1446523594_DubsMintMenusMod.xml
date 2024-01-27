@@ -2,6 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="DubsMintMenus.Settings">
 		<ShowMintBillsButton>True</ShowMintBillsButton>
+		<OrderBillsAz>True</OrderBillsAz>
 		<HideFinished>True</HideFinished>
 		<ShowBillWorkIcons>True</ShowBillWorkIcons>
 		<BoxSizeX>90</BoxSizeX>
