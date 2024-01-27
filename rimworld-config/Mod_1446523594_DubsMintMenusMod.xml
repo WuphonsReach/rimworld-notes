@@ -5,9 +5,9 @@
 		<OrderBillsAz>True</OrderBillsAz>
 		<HideFinished>True</HideFinished>
 		<ShowBillWorkIcons>True</ShowBillWorkIcons>
-		<BoxSizeX>90</BoxSizeX>
-		<BoxSizeY>75</BoxSizeY>
-		<infocardW>350</infocardW>
+		<BoxSizeX>80</BoxSizeX>
+		<BoxSizeY>70</BoxSizeY>
+		<infocardW>330</infocardW>
 		<MaxHeight>650</MaxHeight>
 		<InfoWidth>358</InfoWidth>
 		<billTabH>300</billTabH>
