@@ -2,6 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="MURFactionRaidCooldown.Settings">
 		<extraHoursPerDeath>18</extraHoursPerDeath>
-		<maxCooldown>1600</maxCooldown>
+		<maxCooldown>1800</maxCooldown>
 	</ModSettings>
 </SettingsBlock>
