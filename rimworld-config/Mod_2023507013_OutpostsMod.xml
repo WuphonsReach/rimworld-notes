@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Outposts.OutpostsSettings">
-		<deliveryMethod>Store</deliveryMethod>
+		<deliveryMethod>PackOrPods</deliveryMethod>
 		<settingsPerOutpost>
 			<keys>
 				<li>Outpost_Factory</li>
