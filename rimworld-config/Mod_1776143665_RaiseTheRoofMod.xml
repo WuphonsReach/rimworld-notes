@@ -1,12 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RaiseTheRoof.RaiseTheRoofSettings">
-		<solarPowerOutput>35</solarPowerOutput>
+		<chunkChance>40</chunkChance>
 		<roofSteelCost>40</roofSteelCost>
-		<transparentRoofSteelCost>30</transparentRoofSteelCost>
-		<transparentRoofSynthreadCost>8</transparentRoofSynthreadCost>
-		<solarRoofSteelCost>20</solarRoofSteelCost>
-		<transparentSolarRoofSteelCost>30</transparentSolarRoofSteelCost>
-		<transparentSolarRoofSynthreadCost>6</transparentSolarRoofSynthreadCost>
+		<transparentRoofSteelCost>40</transparentRoofSteelCost>
+		<solarRoofSteelCost>40</solarRoofSteelCost>
+		<transparentSolarRoofSteelCost>40</transparentSolarRoofSteelCost>
 	</ModSettings>
 </SettingsBlock>
