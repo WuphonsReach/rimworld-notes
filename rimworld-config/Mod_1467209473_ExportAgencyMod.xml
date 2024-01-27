@@ -6,6 +6,7 @@
 				<li>BILL</li>
 				<li>OUTFIT</li>
 				<li>DRUGPOLICY</li>
+				<li>STORAGE_SETTINGS</li>
 			</keys>
 			<values>
 				<li>
@@ -19533,6 +19534,83 @@
 										<exposable Class="DrugPolicyEntry">
 											<drug>Fruitdrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+					</internalList>
+				</li>
+				<li>
+					<internalList>
+						<li>
+							<exposable>
+								<name>STORAGE_SETTINGS0</name>
+								<internalList>
+									<li>
+										<exposable Class="StorageSettings">
+											<priority>Normal</priority>
+											<filter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>MealHardtack</li>
+													<li>VG_Hardtack</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</filter>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>CorpseFertilizer</name>
+								<internalList>
+									<li>
+										<exposable Class="StorageSettings">
+											<priority>Critical</priority>
+											<filter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>Corpse_Human</li>
+													<li>Corpse_AA_FungalHusk</li>
+													<li>Corpse_AA_Mime</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</filter>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>QuarryPlatform</name>
+								<internalList>
+									<li>
+										<exposable Class="StorageSettings">
+											<priority>Low</priority>
+											<filter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Plasteel</li>
+													<li>Silver</li>
+													<li>Coal</li>
+													<li>Steel</li>
+													<li>Gold</li>
+													<li>AA_SkySteel</li>
+													<li>Jade</li>
+													<li>AA_UraniumCrystals</li>
+													<li>Uranium</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</filter>
 										</exposable>
 									</li>
 								</internalList>
