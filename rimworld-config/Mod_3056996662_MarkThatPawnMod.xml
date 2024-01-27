@@ -5,7 +5,7 @@
 		<enemyMarkerSet>Symbols</enemyMarkerSet>
 		<EnemyDiffer>True</EnemyDiffer>
 		<AutoRuleBlobs>
-			<li>PawnType;Enemy;Ideology;7;True;0;Default</li>
+			<li>PawnType;Enemy;Ideology;6;True;0;Default</li>
 		</AutoRuleBlobs>
 	</ModSettings>
 </SettingsBlock>
