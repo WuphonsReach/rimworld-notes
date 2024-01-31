@@ -4,11 +4,14 @@
 		<repEnableExpansion>True</repEnableExpansion>
 		<repAllowDistanceCalc>True</repAllowDistanceCalc>
 		<repAllowAlliance>True</repAllowAlliance>
+		<repAllowCloneFaction>True</repAllowCloneFaction>
 		<repGenerateHistoryLength>30000</repGenerateHistoryLength>
 		<repDefeatChance>2</repDefeatChance>
 		<repRazeChance>5</repRazeChance>
 		<repIdeoSurrenderChance>5</repIdeoSurrenderChance>
+		<repExcludeEmpire>True</repExcludeEmpire>
+		<repExpansionRadius>40</repExpansionRadius>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
-		<repSimulatedConquestThreatPoint>3002</repSimulatedConquestThreatPoint>
+		<repSimulatedConquestThreatPoint>4999</repSimulatedConquestThreatPoint>
 	</ModSettings>
 </SettingsBlock>
