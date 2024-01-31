@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="VanillaPsycastsExpanded.PsycastSettings" />
+	<ModSettings Class="VanillaPsycastsExpanded.PsycastSettings">
+		<baseSpawnChance>0.05633803</baseSpawnChance>
+		<additionalAbilityChance>0.05575117</additionalAbilityChance>
+		<maxLevel>40</maxLevel>
+	</ModSettings>
 </SettingsBlock>
