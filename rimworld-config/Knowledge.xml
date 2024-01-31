@@ -251,11 +251,11 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>EditingMemes</key>
