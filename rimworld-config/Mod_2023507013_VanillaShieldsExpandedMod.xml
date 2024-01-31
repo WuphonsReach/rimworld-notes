@@ -239,6 +239,8 @@
 				<li>VWEFT_Gun_SalvagedLaserHuntingRifle</li>
 				<li>VWEFT_Gun_Derringer</li>
 				<li>VWEFT_Gun_LeverActionShotgun</li>
+				<li>VPWE_MeleeWeapon_PsyfocusStaffBladelink</li>
+				<li>TCS_ConversionStaff</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -477,6 +479,8 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
+				<li>True</li>
+				<li>True</li>
 			</values>
 		</usableWithShieldsWeapons>
 	</ModSettings>
