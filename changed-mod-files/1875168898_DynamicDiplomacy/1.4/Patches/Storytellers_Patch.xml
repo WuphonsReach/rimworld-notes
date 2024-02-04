@@ -7,21 +7,21 @@
 		        <incident>NPC_DiploChange</incident>
 		        <onDays>180</onDays>
 		        <offDays>0.1</offDays>
-		        <minSpacingDays>45</minSpacingDays>
+		        <minSpacingDays>50</minSpacingDays>
 		        <numIncidentsRange>1~2</numIncidentsRange>
 		      </li>
 					<li Class="StorytellerCompProperties_OnOffCycle">
 		        <incident>NPC_Conquest</incident>
 		        <onDays>60</onDays>
 		        <offDays>0.1</offDays>
-		        <minSpacingDays>15</minSpacingDays>
-		        <numIncidentsRange>1~3</numIncidentsRange>
+		        <minSpacingDays>12</minSpacingDays>
+		        <numIncidentsRange>1~4</numIncidentsRange>
 		      </li>
 					<li Class="StorytellerCompProperties_OnOffCycle">
 		        <incident>NPC_Expansion</incident>
 		        <onDays>60</onDays>
 		        <offDays>0.1</offDays>
-		        <minSpacingDays>7</minSpacingDays>
+		        <minSpacingDays>6</minSpacingDays>
 		        <numIncidentsRange>2~6</numIncidentsRange>
 		      </li>
 					<li Class="StorytellerCompProperties_OnOffCycle">
