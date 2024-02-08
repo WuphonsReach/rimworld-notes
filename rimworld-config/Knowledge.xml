@@ -63,7 +63,7 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
@@ -231,7 +231,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>
@@ -339,7 +339,7 @@
     </li>
     <li>
       <key>BuildersTryMine</key>
-      <value>0</value>
+      <value>1</value>
     </li>
   </knowledge>
 </ConceptKnowledge>
