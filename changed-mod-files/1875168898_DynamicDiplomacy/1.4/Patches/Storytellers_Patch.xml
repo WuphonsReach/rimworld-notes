@@ -5,7 +5,7 @@
 		<value>
 					<li Class="StorytellerCompProperties_OnOffCycle">
 		        <incident>NPC_DiploChange</incident>
-		        <onDays>180</onDays>
+		        <onDays>200</onDays>
 		        <offDays>0.1</offDays>
 		        <minSpacingDays>50</minSpacingDays>
 		        <numIncidentsRange>1~2</numIncidentsRange>
@@ -15,20 +15,20 @@
 		        <onDays>60</onDays>
 		        <offDays>0.1</offDays>
 		        <minSpacingDays>12</minSpacingDays>
-		        <numIncidentsRange>1~4</numIncidentsRange>
+		        <numIncidentsRange>1~3</numIncidentsRange>
 		      </li>
 					<li Class="StorytellerCompProperties_OnOffCycle">
 		        <incident>NPC_Expansion</incident>
 		        <onDays>60</onDays>
 		        <offDays>0.1</offDays>
-		        <minSpacingDays>6</minSpacingDays>
+		        <minSpacingDays>8</minSpacingDays>
 		        <numIncidentsRange>2~6</numIncidentsRange>
 		      </li>
 					<li Class="StorytellerCompProperties_OnOffCycle">
 						<incident>NPC_Convert</incident>
-						<onDays>180</onDays>
+						<onDays>300</onDays>
 						<offDays>0.1</offDays>
-						<minSpacingDays>60</minSpacingDays>
+						<minSpacingDays>90</minSpacingDays>
 						<numIncidentsRange>1~2</numIncidentsRange>
 					</li>
 		</value>
