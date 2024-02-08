@@ -16728,7 +16728,7 @@
 												<li>VAE_Handwear_PlateGloves</li>
 												<li>VAE_Handwear_MarineGloves</li>
 											</allowedDefs>
-											<allowedHitPointsPercents>0.5504032~1</allowedHitPointsPercents>
+											<allowedHitPointsPercents>0.6532258~1</allowedHitPointsPercents>
 											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
 										</exposable>
 									</li>
@@ -17707,6 +17707,159 @@
 								</internalList>
 							</exposable>
 						</li>
+						<li>
+							<exposable>
+								<name>Tribal</name>
+								<internalList>
+									<li>
+										<exposable Class="ThingFilter">
+											<disallowedSpecialFilters>
+												<li>AllowDeadmansApparel</li>
+											</disallowedSpecialFilters>
+											<allowedDefs>
+												<li>MuffaloHeaddress</li>
+												<li>Gunmar_Apparel_PeltCap</li>
+												<li>Apparel_Tailcap</li>
+												<li>Domi_ThickHood</li>
+												<li>Apparel_TribalHeaddress</li>
+												<li>WovenHat</li>
+												<li>Apparel_WolfHood</li>
+												<li>Apparel_KidTribal</li>
+												<li>Apparel_KidPants</li>
+												<li>Apparel_KidParka</li>
+												<li>Apparel_KidRomper</li>
+												<li>Apparel_KidShirt</li>
+												<li>Mallow_kid_gloves</li>
+												<li>Mallow_kid_shoes</li>
+												<li>Mallow_kid_socks</li>
+												<li>WovenCloak_Child</li>
+												<li>Apparel_cskKidFlakVest</li>
+												<li>Apparel_KidHelmet</li>
+												<li>WovenHat_Child</li>
+												<li>Apparel_cskKidFlakJacket</li>
+												<li>Apparel_cskKidFlakPants</li>
+												<li>Apparel_cskKidPlateArmor</li>
+												<li>Apparel_ArcticHood</li>
+												<li>VAE_Headgear_Balaclava</li>
+												<li>Apparel_DeerHood</li>
+												<li>VIEHAR_Apparel_DeerSkull</li>
+												<li>Apparel_ScarabHood</li>
+												<li>Apparel_SpiderHelm</li>
+												<li>VFEV_MooseHeaddress</li>
+												<li>Apparel_SpelHelm</li>
+												<li>Apparel_WarMask</li>
+												<li>VAEA_Apparel_Quiver</li>
+												<li>VAEA_Apparel_AmmoPack</li>
+												<li>VFET_Apparel_TribalHeavy</li>
+												<li>Apparel_TribalA</li>
+												<li>VFET_Apparel_TribalWar</li>
+												<li>Apparel_ring</li>
+												<li>Apparel_Socks</li>
+												<li>Apparel_work_gloves</li>
+												<li>Apparel_feetwraps</li>
+												<li>Apparel_handwraps</li>
+												<li>Mallow_winter_socks</li>
+												<li>Mallow_winter_gloves</li>
+												<li>Mallow_work_gloves</li>
+												<li>River_Tribal_mukluks</li>
+												<li>River_Tribal_moccasins</li>
+												<li>River_Tribal_mittens</li>
+												<li>Mallow_wool_felt_boots</li>
+												<li>VAE_Footwear_Boots</li>
+												<li>Gunmar_Apparel_WovenMantle</li>
+												<li>WovenCloak</li>
+												<li>Domi_WorkGloves</li>
+												<li>Domi_WorkBoots</li>
+												<li>Mallow_work_boots</li>
+												<li>Gunmar_Apparel_Tribal</li>
+												<li>Tribal_Ring</li>
+												<li>VAE_Apparel_TribalPoncho</li>
+												<li>Tribal_Necklace</li>
+												<li>VAE_Apparel_TribalKilt</li>
+												<li>SimpleHideArmor_TribalHideVest</li>
+												<li>Apparel_TribalFurCloak</li>
+												<li>Tribal_Earrings</li>
+												<li>Apparel_TribalCloak</li>
+												<li>Apparel_TribalCape</li>
+												<li>Tribal_Bracelet</li>
+												<li>ThrumboHorn_TribalRing</li>
+												<li>ThrumboHorn_TribalNecklace</li>
+												<li>ThrumboHorn_TribalEarrings</li>
+												<li>ThrumboHorn_TribalBracelet</li>
+												<li>Domi_ThickCloak</li>
+												<li>Gunmar_Apparel_PeltMantle</li>
+												<li>Gunmar_Apparel_PeltHandWraps</li>
+												<li>VAE_Apparel_PeltCoat</li>
+												<li>Gunmar_Apparel_PeltBoots</li>
+												<li>Apparel_TribalBoots</li>
+												<li>Apparel_HatHood</li>
+											</allowedDefs>
+											<allowedHitPointsPercents>0.5987903~1</allowedHitPointsPercents>
+											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Tribal Melee</name>
+								<internalList>
+									<li>
+										<exposable Class="ThingFilter">
+											<disallowedSpecialFilters>
+												<li>AllowDeadmansApparel</li>
+											</disallowedSpecialFilters>
+											<allowedDefs>
+												<li>Apparel_TribalHelmet</li>
+												<li>VFET_Apparel_TribalHeavy</li>
+												<li>VFET_Apparel_TribalWar</li>
+												<li>VFEV_Shield_Round</li>
+												<li>VFEM_Shield_Heater</li>
+												<li>VFEM_Shield_Kite</li>
+												<li>Apparel_ring</li>
+												<li>Apparel_TribalBoots</li>
+												<li>Mallow_winter_socks</li>
+												<li>River_Tribal_mukluks</li>
+												<li>Gunmar_Apparel_PeltHandWraps</li>
+												<li>ThrumboHorn_TribalEarrings</li>
+												<li>Domi_ThickCloak</li>
+												<li>ThrumboHorn_TribalRing</li>
+												<li>Gunmar_Apparel_ThickPeltArmor</li>
+												<li>SimpleHideArmor_TribalHideVest</li>
+												<li>Tribal_Earrings</li>
+												<li>Apparel_TribalCloak</li>
+												<li>Apparel_TribalArmor</li>
+												<li>WovenCloak</li>
+												<li>Domi_WorkGloves</li>
+												<li>Mallow_work_gloves</li>
+												<li>Tribal_Ring</li>
+												<li>Apparel_TribalFurCloak</li>
+												<li>VAE_Apparel_PeltCoat</li>
+												<li>Gunmar_Apparel_PeltBoots</li>
+												<li>Mallow_work_boots</li>
+												<li>River_Tribal_mittens</li>
+												<li>River_Tribal_moccasins</li>
+												<li>VAE_Handwear_Gloves</li>
+												<li>Apparel_Gloves</li>
+												<li>Apparel_work_gloves</li>
+												<li>Apparel_Socks</li>
+												<li>Apparel_TribalA</li>
+												<li>VAE_Apparel_WoodenArmor</li>
+												<li>Domi_BrestPlate</li>
+												<li>Apparel_SimpleHelmet</li>
+												<li>VFEV_Apparel_LeatherHelmet</li>
+												<li>Apparel_WarMask</li>
+												<li>VFEV_MooseHeaddress</li>
+												<li>VAEA_Apparel_BattleBanner</li>
+											</allowedDefs>
+											<allowedHitPointsPercents>0.6975806~1</allowedHitPointsPercents>
+											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
 					</internalList>
 				</li>
 				<li>
@@ -17718,36 +17871,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Beer</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyExcellent</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyMasterwork</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17771,19 +17894,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17795,19 +17906,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17819,49 +17918,79 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_CannibalCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyExcellent</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyMasterwork</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumFine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LatteCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17891,19 +18020,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEP_Rum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17915,19 +18032,67 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LatteCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEP_Rum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumBasic</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17945,13 +18110,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cigarettes</drug>
+											<drug>GR_FeatherdustJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_FeatherdustJoint</drug>
+											<drug>VBE_Cigarettes</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17987,7 +18152,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_ElectroEgg</drug>
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -17999,13 +18164,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
+											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
+											<drug>PsychiteTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18023,25 +18188,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18059,25 +18212,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
+											<drug>VBE_MintTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EarlGreyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18090,6 +18237,30 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18113,7 +18284,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
+											<drug>VBE_Kombucha</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18125,25 +18296,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
+											<drug>GR_PoisonAmpoule</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18156,6 +18315,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Coffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18180,36 +18345,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyExcellent</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyMasterwork</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -18228,19 +18363,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18252,19 +18375,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18276,49 +18387,79 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_CannibalCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyExcellent</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyMasterwork</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumFine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LatteCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18348,19 +18489,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEP_Rum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18372,19 +18501,67 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LatteCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEP_Rum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumBasic</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18402,13 +18579,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cigarettes</drug>
+											<drug>GR_FeatherdustJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_FeatherdustJoint</drug>
+											<drug>VBE_Cigarettes</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18444,7 +18621,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_ElectroEgg</drug>
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18456,13 +18633,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
+											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
+											<drug>PsychiteTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18480,25 +18657,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18516,25 +18681,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
+											<drug>VBE_MintTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EarlGreyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18547,6 +18706,30 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18570,7 +18753,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
+											<drug>VBE_Kombucha</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18582,25 +18765,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
+											<drug>GR_PoisonAmpoule</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18613,6 +18784,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Coffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18637,36 +18814,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyExcellent</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyMasterwork</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -18685,19 +18832,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18709,19 +18844,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18733,49 +18856,79 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_CannibalCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyExcellent</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyMasterwork</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumFine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LatteCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18805,19 +18958,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEP_Rum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18829,19 +18970,67 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LatteCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEP_Rum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumBasic</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18859,13 +19048,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cigarettes</drug>
+											<drug>GR_FeatherdustJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_FeatherdustJoint</drug>
+											<drug>VBE_Cigarettes</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18901,7 +19090,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_ElectroEgg</drug>
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18913,13 +19102,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
+											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
+											<drug>PsychiteTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18937,25 +19126,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -18973,25 +19150,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
+											<drug>VBE_MintTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EarlGreyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19004,6 +19175,30 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19027,7 +19222,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
+											<drug>VBE_Kombucha</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19039,25 +19234,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
+											<drug>GR_PoisonAmpoule</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19070,6 +19253,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Coffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19094,36 +19283,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyExcellent</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyMasterwork</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_AmbrandyLegendary</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Gin</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tequila</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -19142,19 +19301,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19166,19 +19313,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DalgonaCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19190,49 +19325,79 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_CannibalCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyExcellent</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyMasterwork</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_AmbrandyLegendary</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DalgonaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Gin</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumFine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_IrishCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LatteCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MochaCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_PumpkinCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Yuenyeung</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19262,19 +19427,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cider</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_AmbrandyPoor</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VFEP_Rum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19286,19 +19439,67 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>Chemshine</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VRE_Antibiotics</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LatteCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MochaCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VFEP_Rum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_PumpkinCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Chemshine</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Yuenyeung</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VFEV_Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>AM_CorpseRumBasic</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Cider</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19316,13 +19517,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Cigarettes</drug>
+											<drug>GR_FeatherdustJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_FeatherdustJoint</drug>
+											<drug>VBE_Cigarettes</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19358,7 +19559,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>GR_ElectroEgg</drug>
+											<drug>VFEE_Aperitif</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19370,13 +19571,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>PsychiteTea</drug>
+											<drug>GR_ElectroEgg</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VFEE_Aperitif</drug>
+											<drug>PsychiteTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19394,25 +19595,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Painkillers</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Kombucha</drug>
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19430,25 +19619,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LemonTea</drug>
+											<drug>VBE_MintTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_LavishDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_EarlGreyTea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>GR_PoisonAmpoule</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19461,6 +19644,30 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LemonTea</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_MasalaChai</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Painkillers</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Tea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19484,7 +19691,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MintTea</drug>
+											<drug>VBE_Kombucha</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19496,25 +19703,13 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_LavishDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_MasalaChai</drug>
+											<drug>GR_PoisonAmpoule</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Luciferium</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -19527,6 +19722,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Coffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -20335,6 +20536,31 @@
 													<li>RawRedLentil</li>
 													<li>Rawmushroom</li>
 													<li>VG_GardenFish</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</filter>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Colonist Only Burials</name>
+								<internalList>
+									<li>
+										<exposable Class="StorageSettings">
+											<priority>Important</priority>
+											<filter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>Corpse_Human</li>
 												</allowedDefs>
 												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
