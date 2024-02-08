@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="Fluffy.Settings" />
+	<ModSettings Class="Fluffy.Settings">
+		<ShowAllHostiles>True</ShowAllHostiles>
+	</ModSettings>
 </SettingsBlock>
