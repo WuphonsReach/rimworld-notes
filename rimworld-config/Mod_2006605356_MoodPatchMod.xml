@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="ColoredMoodBar13.MoodPatchSettings">
-		<RefreshRate>250</RefreshRate>
+		<ShowGender>True</ShowGender>
+		<MaleColor>RGBA(0.007, 1.000, 0.891, 1.000)</MaleColor>
+		<FemaleColor>RGBA(0.987, 0.594, 0.987, 1.000)</FemaleColor>
+		<RefreshRate>500</RefreshRate>
 		<WeaponShowMode>Always</WeaponShowMode>
 	</ModSettings>
 </SettingsBlock>

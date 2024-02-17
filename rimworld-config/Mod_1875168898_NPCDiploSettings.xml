@@ -6,8 +6,8 @@
 		<repAllowAlliance>True</repAllowAlliance>
 		<repAllowCloneFaction>True</repAllowCloneFaction>
 		<repGenerateHistoryLength>30000</repGenerateHistoryLength>
-		<repDefeatChance>5</repDefeatChance>
-		<repRazeChance>10</repRazeChance>
+		<repDefeatChance>10</repDefeatChance>
+		<repRazeChance>20</repRazeChance>
 		<repIdeoSurrenderChance>5</repIdeoSurrenderChance>
 		<repExcludeEmpire>True</repExcludeEmpire>
 		<repExpansionRadius>35</repExpansionRadius>

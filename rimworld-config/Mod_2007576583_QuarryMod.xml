@@ -13,11 +13,11 @@
 			</li>
 			<li>
 				<thingDef>Silver</thingDef>
-				<count>55</count>
+				<count>76</count>
 			</li>
 			<li>
 				<thingDef>Gold</thingDef>
-				<count>12</count>
+				<count>19</count>
 			</li>
 			<li>
 				<thingDef>Uranium</thingDef>
@@ -25,7 +25,7 @@
 			</li>
 			<li>
 				<thingDef>Plasteel</thingDef>
-				<count>28</count>
+				<count>18</count>
 			</li>
 			<li>
 				<thingDef>Jade</thingDef>
@@ -33,7 +33,7 @@
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
-				<count>175</count>
+				<count>265</count>
 			</li>
 			<li>
 				<thingDef>ComponentIndustrial</thingDef>

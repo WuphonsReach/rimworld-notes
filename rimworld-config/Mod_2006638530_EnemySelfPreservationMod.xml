@@ -2,7 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="MUR_ESP.EnemySelfPreservationSettings">
 		<fleeLevel>80</fleeLevel>
-		<painFleeLevel>65</painFleeLevel>
+		<painFleeLevel>70</painFleeLevel>
 		<disableFleeMessage>False</disableFleeMessage>
 		<alliesFleeAlso>False</alliesFleeAlso>
 		<reenableAutoDeath>False</reenableAutoDeath>

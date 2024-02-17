@@ -16425,10 +16425,11 @@
 												<li>Apparel_TribalCape</li>
 												<li>Apparel_TribalCloak</li>
 												<li>Apparel_TribalFurCloak</li>
+												<li>VPE_Apparel_EltexCape</li>
 												<li>VFEV_Apparel_JarlCape</li>
 												<li>VFEV_Apparel_RoyalFurCoat</li>
-												<li>VFEC_Toga</li>
 												<li>VFEP_Apparel_Rumsuit</li>
+												<li>VFEC_Toga</li>
 												<li>VIEHAR_Apparel_Rags</li>
 												<li>VAE_Apparel_CasualTShirt</li>
 												<li>VAE_Apparel_Hoodie</li>
@@ -16455,6 +16456,13 @@
 												<li>VAE_Apparel_PeltCoat</li>
 												<li>VAE_Apparel_TribalPoncho</li>
 												<li>VAE_Apparel_TribalKilt</li>
+												<li>Domi_Aketon</li>
+												<li>Domi_Tabard</li>
+												<li>Domi_Cloak</li>
+												<li>Domi_ThickCloak</li>
+												<li>Domi_WorkBoots</li>
+												<li>Domi_WorkGloves</li>
+												<li>Domi_LightLeggings</li>
 												<li>WovenCloak_Child</li>
 												<li>WovenCloak</li>
 												<li>Apparel_TribalArmor</li>
@@ -16494,6 +16502,7 @@
 												<li>Gunmar_Apparel_PeltCap</li>
 												<li>Gunmar_Apparel_SunshadePeltCap</li>
 												<li>Gunmar_Apparel_WovenCap</li>
+												<li>VPE_Apparel_EltexMask</li>
 												<li>VFEV_MooseHeaddress</li>
 												<li>VFEV_BearHeaddress</li>
 												<li>VFEV_JarlCrown</li>
@@ -16513,6 +16522,7 @@
 												<li>VIEHAR_Apparel_Skullcap</li>
 												<li>VIEHAR_Apparel_SpikedSkullcap</li>
 												<li>VIEHAR_Apparel_WideHat</li>
+												<li>AM_Apparel_Eyepatch</li>
 												<li>VAE_Headgear_Fedora</li>
 												<li>VAE_Headgear_Scarf</li>
 												<li>VAE_Headgear_Beret</li>
@@ -16523,6 +16533,8 @@
 												<li>VAE_Headgear_Glasses</li>
 												<li>VAE_Headgear_ChefsToque</li>
 												<li>VAE_Headgear_Balaclava</li>
+												<li>Domi_Hood</li>
+												<li>Domi_ThickHood</li>
 												<li>WovenHat_Child</li>
 												<li>WovenHat</li>
 												<li>MuffaloHeaddress</li>
@@ -16554,11 +16566,13 @@
 												<li>Apparel_cskKidFlakVest</li>
 												<li>Apparel_cskKidFlakPants</li>
 												<li>Apparel_cskKidFlakJacket</li>
+												<li>VPE_Apparel_PlateArmorPrestige</li>
 												<li>VFEV_Apparel_GuardianArmor</li>
 												<li>VFEV_LeatherArmor</li>
 												<li>VFEV_Apparel_RavagerArmor</li>
 												<li>VFEV_CryptoArmor</li>
 												<li>VFEV_CryptoHeavyArmor</li>
+												<li>VFEP_Apparel_Privateer</li>
 												<li>VFEC_Apparel_LegionnaireArmor</li>
 												<li>VFEC_Apparel_CenturionArmor</li>
 												<li>VFEE_Apparel_ArmorDeserter</li>
@@ -16568,7 +16582,6 @@
 												<li>VFE_Apparel_RiotHelmet</li>
 												<li>VFE_MechaniteUnderArmor</li>
 												<li>VFE_MechanitePants</li>
-												<li>VFEP_Apparel_Privateer</li>
 												<li>VRE_AncientAstrosuit</li>
 												<li>VREA_Apparel_Archoplate</li>
 												<li>VAE_Apparel_RoyalTrooperArmor</li>
@@ -16584,6 +16597,15 @@
 												<li>VAE_Apparel_WoodenArmor</li>
 												<li>VAE_Apparel_TrooperArmor</li>
 												<li>VAE_Apparel_HeavyMarineArmor</li>
+												<li>Domi_BrestPlate</li>
+												<li>Domi_LamellarArmor</li>
+												<li>Domi_LightPlateMail</li>
+												<li>Domi_PlateMail</li>
+												<li>Domi_KnightArmor</li>
+												<li>Domi_LightPlateBoots</li>
+												<li>Domi_LightGauntlets</li>
+												<li>Domi_MittenGauntlets</li>
+												<li>Domi_PlateLeggings</li>
 												<li>Apparel_SimpleHelmet</li>
 												<li>Apparel_AdvancedHelmet</li>
 												<li>Apparel_PowerArmorHelmet</li>
@@ -16615,6 +16637,18 @@
 												<li>VAE_Headgear_HeavyMarineHelmet</li>
 												<li>VAE_Headgear_GhillieHood</li>
 												<li>VAE_Headgear_HAZMATMask</li>
+												<li>Domi_ImprovedHelmet</li>
+												<li>Domi_SpangenHelmA</li>
+												<li>Domi_SpangenHelmB</li>
+												<li>Domi_SpangenHelmC</li>
+												<li>Domi_MorionHelmet</li>
+												<li>Domi_KettleHat</li>
+												<li>Domi_PlateHelmet</li>
+												<li>Domi_GreatHelm</li>
+												<li>Domi_SalletHelmA</li>
+												<li>Domi_SalletHelmB</li>
+												<li>Domi_SalletHelmC</li>
+												<li>Domi_ArmetHelm</li>
 												<li>Apparel_ShieldBelt</li>
 												<li>Apparel_SmokepopBelt</li>
 												<li>Apparel_FirefoampopPack</li>
@@ -16630,6 +16664,8 @@
 												<li>Apparel_PackBandwidth</li>
 												<li>Apparel_PackTox</li>
 												<li>VWE_Apparel_Exoframe</li>
+												<li>VPE_Psyring</li>
+												<li>VPE_HeatPearls</li>
 												<li>VFEV_Apparel_TorchBelt</li>
 												<li>VFEV_OrbitalTargeterMjollnir</li>
 												<li>VWE_Apparel_GrenadeFragBelt</li>
@@ -16728,7 +16764,7 @@
 												<li>VAE_Handwear_PlateGloves</li>
 												<li>VAE_Handwear_MarineGloves</li>
 											</allowedDefs>
-											<allowedHitPointsPercents>0.6532258~1</allowedHitPointsPercents>
+											<allowedHitPointsPercents>0.5504032~1</allowedHitPointsPercents>
 											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
 										</exposable>
 									</li>
@@ -17701,159 +17737,6 @@
 												<li>VAE_Handwear_MarineGloves</li>
 											</allowedDefs>
 											<allowedHitPointsPercents>0.546371~1</allowedHitPointsPercents>
-											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
-										</exposable>
-									</li>
-								</internalList>
-							</exposable>
-						</li>
-						<li>
-							<exposable>
-								<name>Tribal</name>
-								<internalList>
-									<li>
-										<exposable Class="ThingFilter">
-											<disallowedSpecialFilters>
-												<li>AllowDeadmansApparel</li>
-											</disallowedSpecialFilters>
-											<allowedDefs>
-												<li>MuffaloHeaddress</li>
-												<li>Gunmar_Apparel_PeltCap</li>
-												<li>Apparel_Tailcap</li>
-												<li>Domi_ThickHood</li>
-												<li>Apparel_TribalHeaddress</li>
-												<li>WovenHat</li>
-												<li>Apparel_WolfHood</li>
-												<li>Apparel_KidTribal</li>
-												<li>Apparel_KidPants</li>
-												<li>Apparel_KidParka</li>
-												<li>Apparel_KidRomper</li>
-												<li>Apparel_KidShirt</li>
-												<li>Mallow_kid_gloves</li>
-												<li>Mallow_kid_shoes</li>
-												<li>Mallow_kid_socks</li>
-												<li>WovenCloak_Child</li>
-												<li>Apparel_cskKidFlakVest</li>
-												<li>Apparel_KidHelmet</li>
-												<li>WovenHat_Child</li>
-												<li>Apparel_cskKidFlakJacket</li>
-												<li>Apparel_cskKidFlakPants</li>
-												<li>Apparel_cskKidPlateArmor</li>
-												<li>Apparel_ArcticHood</li>
-												<li>VAE_Headgear_Balaclava</li>
-												<li>Apparel_DeerHood</li>
-												<li>VIEHAR_Apparel_DeerSkull</li>
-												<li>Apparel_ScarabHood</li>
-												<li>Apparel_SpiderHelm</li>
-												<li>VFEV_MooseHeaddress</li>
-												<li>Apparel_SpelHelm</li>
-												<li>Apparel_WarMask</li>
-												<li>VAEA_Apparel_Quiver</li>
-												<li>VAEA_Apparel_AmmoPack</li>
-												<li>VFET_Apparel_TribalHeavy</li>
-												<li>Apparel_TribalA</li>
-												<li>VFET_Apparel_TribalWar</li>
-												<li>Apparel_ring</li>
-												<li>Apparel_Socks</li>
-												<li>Apparel_work_gloves</li>
-												<li>Apparel_feetwraps</li>
-												<li>Apparel_handwraps</li>
-												<li>Mallow_winter_socks</li>
-												<li>Mallow_winter_gloves</li>
-												<li>Mallow_work_gloves</li>
-												<li>River_Tribal_mukluks</li>
-												<li>River_Tribal_moccasins</li>
-												<li>River_Tribal_mittens</li>
-												<li>Mallow_wool_felt_boots</li>
-												<li>VAE_Footwear_Boots</li>
-												<li>Gunmar_Apparel_WovenMantle</li>
-												<li>WovenCloak</li>
-												<li>Domi_WorkGloves</li>
-												<li>Domi_WorkBoots</li>
-												<li>Mallow_work_boots</li>
-												<li>Gunmar_Apparel_Tribal</li>
-												<li>Tribal_Ring</li>
-												<li>VAE_Apparel_TribalPoncho</li>
-												<li>Tribal_Necklace</li>
-												<li>VAE_Apparel_TribalKilt</li>
-												<li>SimpleHideArmor_TribalHideVest</li>
-												<li>Apparel_TribalFurCloak</li>
-												<li>Tribal_Earrings</li>
-												<li>Apparel_TribalCloak</li>
-												<li>Apparel_TribalCape</li>
-												<li>Tribal_Bracelet</li>
-												<li>ThrumboHorn_TribalRing</li>
-												<li>ThrumboHorn_TribalNecklace</li>
-												<li>ThrumboHorn_TribalEarrings</li>
-												<li>ThrumboHorn_TribalBracelet</li>
-												<li>Domi_ThickCloak</li>
-												<li>Gunmar_Apparel_PeltMantle</li>
-												<li>Gunmar_Apparel_PeltHandWraps</li>
-												<li>VAE_Apparel_PeltCoat</li>
-												<li>Gunmar_Apparel_PeltBoots</li>
-												<li>Apparel_TribalBoots</li>
-												<li>Apparel_HatHood</li>
-											</allowedDefs>
-											<allowedHitPointsPercents>0.5987903~1</allowedHitPointsPercents>
-											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
-										</exposable>
-									</li>
-								</internalList>
-							</exposable>
-						</li>
-						<li>
-							<exposable>
-								<name>Tribal Melee</name>
-								<internalList>
-									<li>
-										<exposable Class="ThingFilter">
-											<disallowedSpecialFilters>
-												<li>AllowDeadmansApparel</li>
-											</disallowedSpecialFilters>
-											<allowedDefs>
-												<li>Apparel_TribalHelmet</li>
-												<li>VFET_Apparel_TribalHeavy</li>
-												<li>VFET_Apparel_TribalWar</li>
-												<li>VFEV_Shield_Round</li>
-												<li>VFEM_Shield_Heater</li>
-												<li>VFEM_Shield_Kite</li>
-												<li>Apparel_ring</li>
-												<li>Apparel_TribalBoots</li>
-												<li>Mallow_winter_socks</li>
-												<li>River_Tribal_mukluks</li>
-												<li>Gunmar_Apparel_PeltHandWraps</li>
-												<li>ThrumboHorn_TribalEarrings</li>
-												<li>Domi_ThickCloak</li>
-												<li>ThrumboHorn_TribalRing</li>
-												<li>Gunmar_Apparel_ThickPeltArmor</li>
-												<li>SimpleHideArmor_TribalHideVest</li>
-												<li>Tribal_Earrings</li>
-												<li>Apparel_TribalCloak</li>
-												<li>Apparel_TribalArmor</li>
-												<li>WovenCloak</li>
-												<li>Domi_WorkGloves</li>
-												<li>Mallow_work_gloves</li>
-												<li>Tribal_Ring</li>
-												<li>Apparel_TribalFurCloak</li>
-												<li>VAE_Apparel_PeltCoat</li>
-												<li>Gunmar_Apparel_PeltBoots</li>
-												<li>Mallow_work_boots</li>
-												<li>River_Tribal_mittens</li>
-												<li>River_Tribal_moccasins</li>
-												<li>VAE_Handwear_Gloves</li>
-												<li>Apparel_Gloves</li>
-												<li>Apparel_work_gloves</li>
-												<li>Apparel_Socks</li>
-												<li>Apparel_TribalA</li>
-												<li>VAE_Apparel_WoodenArmor</li>
-												<li>Domi_BrestPlate</li>
-												<li>Apparel_SimpleHelmet</li>
-												<li>VFEV_Apparel_LeatherHelmet</li>
-												<li>Apparel_WarMask</li>
-												<li>VFEV_MooseHeaddress</li>
-												<li>VAEA_Apparel_BattleBanner</li>
-											</allowedDefs>
-											<allowedHitPointsPercents>0.6975806~1</allowedHitPointsPercents>
 											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
 										</exposable>
 									</li>
@@ -20563,6 +20446,87 @@
 													<li>Corpse_Human</li>
 												</allowedDefs>
 												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</filter>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Veggies (Misc)</name>
+								<internalList>
+									<li>
+										<exposable Class="StorageSettings">
+											<priority>Preferred</priority>
+											<filter>
+												<disallowedSpecialFilters>
+													<li>AllowRotten</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>RawCorn</li>
+													<li>RawToxipotato</li>
+													<li>AB_RawRedSlime</li>
+													<li>AA_CactusMeat</li>
+													<li>AA_RottingMoundItem</li>
+													<li>AA_BlackTruffles</li>
+													<li>SC_WildrootPotato</li>
+													<li>SC_Lichen</li>
+													<li>SC_Moss</li>
+													<li>SC_Cattail</li>
+													<li>SC_Plantago</li>
+													<li>SC_WildRice</li>
+													<li>SC_LotusRoot</li>
+													<li>SC_WaterLily</li>
+													<li>SC_WaterSpinach</li>
+													<li>SC_Kelp</li>
+													<li>SC_Seaweed</li>
+													<li>SC_FrostBud</li>
+													<li>SC_PricklyPearCactus</li>
+													<li>SC_Aloe</li>
+													<li>GR_Castoreum</li>
+													<li>VCE_RawSoybean</li>
+													<li>VCE_RawWasabi</li>
+													<li>VCE_RawOnion</li>
+													<li>VCE_RawPumpkin</li>
+													<li>VCE_RawPepper</li>
+													<li>VCE_RawPeas</li>
+													<li>VCE_RawEggplant</li>
+													<li>VCE_RawCabbage</li>
+													<li>VCE_RawBeets</li>
+													<li>VCE_RawTomatoes</li>
+													<li>VPE_Blisscap</li>
+													<li>VCE_RawOats</li>
+													<li>VCE_RawCelery</li>
+													<li>VCE_RawLettuce</li>
+													<li>VCE_RawRadish</li>
+													<li>VCE_RawBuckwheat</li>
+													<li>VCE_RawPeanut</li>
+													<li>VCE_RawSunflower</li>
+													<li>VCE_RawOkra</li>
+													<li>VCE_RawGarlic</li>
+													<li>VCE_RawCarrot</li>
+													<li>VCE_RawBrusselsSprouts</li>
+													<li>VCE_RawOlives</li>
+													<li>VCE_RawSweetPotatoes</li>
+													<li>VCE_RawCassava</li>
+													<li>VCE_RawBeans</li>
+													<li>VCE_RawBellPeppers</li>
+													<li>VCE_RawYellowBellPeppers</li>
+													<li>VCE_RawChickpeas</li>
+													<li>VCE_RawTaro</li>
+													<li>VCE_RawWatercress</li>
+													<li>VCE_RawLotus</li>
+													<li>VCE_RawWaterChestnut</li>
+													<li>VCE_RawCucumber</li>
+													<li>VCE_RawButternutSquash</li>
+													<li>Rawsnowbeet</li>
+													<li>Rawbean</li>
+													<li>RawOlive</li>
+													<li>RawCactusFruit</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>1~1</allowedHitPointsPercents>
 												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
 											</filter>
 										</exposable>

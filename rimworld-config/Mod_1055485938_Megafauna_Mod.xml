@@ -83,7 +83,7 @@
 				<li>False</li>
 			</values>
 		</pawnSpawnStates>
-		<megafaunaSpawnMultiplier>0.3</megafaunaSpawnMultiplier>
+		<megafaunaSpawnMultiplier>0.2</megafaunaSpawnMultiplier>
 		<flagVanillaAnimals>True</flagVanillaAnimals>
 	</ModSettings>
 </SettingsBlock>

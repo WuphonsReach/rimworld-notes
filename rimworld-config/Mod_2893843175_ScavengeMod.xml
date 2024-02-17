@@ -31,7 +31,7 @@
 			</keys>
 			<values>
 				<li>
-					<workAmount>800</workAmount>
+					<workAmount>403</workAmount>
 					<failChance>0.05</failChance>
 					<scavengingChance>
 						<keys>
@@ -95,7 +95,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>800</workAmount>
+					<workAmount>470</workAmount>
 					<failChance>0.05</failChance>
 					<scavengingChance>
 						<keys>
@@ -151,7 +151,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1000</workAmount>
+					<workAmount>739</workAmount>
 					<failChance>0.1</failChance>
 					<scavengingChance>
 						<keys>
@@ -211,7 +211,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>800</workAmount>
+					<workAmount>403</workAmount>
 					<failChance>0.05</failChance>
 					<scavengingChance>
 						<keys>
@@ -271,7 +271,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1200</workAmount>
+					<workAmount>772</workAmount>
 					<failChance>0.05</failChance>
 					<scavengingChance>
 						<keys>
@@ -331,7 +331,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1200</workAmount>
+					<workAmount>772</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -371,7 +371,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1200</workAmount>
+					<workAmount>772</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -411,7 +411,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>2400</workAmount>
+					<workAmount>940</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -479,7 +479,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>3600</workAmount>
+					<workAmount>2483</workAmount>
 					<failChance>0.65</failChance>
 					<scavengingChance>
 						<keys>
@@ -511,7 +511,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1800</workAmount>
+					<workAmount>1141</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -559,7 +559,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>3600</workAmount>
+					<workAmount>2920</workAmount>
 					<failChance>0.05</failChance>
 					<scavengingChance>
 						<keys>
@@ -591,7 +591,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>2800</workAmount>
+					<workAmount>2181</workAmount>
 					<failChance>0.1</failChance>
 					<scavengingChance>
 						<keys>
@@ -639,7 +639,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1800</workAmount>
+					<workAmount>772</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -699,7 +699,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>2800</workAmount>
+					<workAmount>1041</workAmount>
 					<failChance>0.05</failChance>
 					<scavengingChance>
 						<keys>
@@ -739,7 +739,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1600</workAmount>
+					<workAmount>1141</workAmount>
 					<failChance>0.1</failChance>
 					<scavengingChance>
 						<keys>
@@ -795,7 +795,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>1200</workAmount>
+					<workAmount>739</workAmount>
 					<failChance>0.1</failChance>
 					<scavengingChance>
 						<keys>
@@ -855,7 +855,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>2400</workAmount>
+					<workAmount>1208</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -923,7 +923,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>2400</workAmount>
+					<workAmount>1108</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>
@@ -991,7 +991,7 @@
 					</spawnAmount>
 				</li>
 				<li>
-					<workAmount>2400</workAmount>
+					<workAmount>1309</workAmount>
 					<failChance>0.2</failChance>
 					<scavengingChance>
 						<keys>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Inventory.Settings">
-		<defaultHitpoints>0.7513779~1</defaultHitpoints>
-		<defaultQualityRange>Good~Legendary</defaultQualityRange>
+		<defaultHitpoints>0.6511194~1</defaultHitpoints>
+		<defaultQualityRange>Normal~Legendary</defaultQualityRange>
 		<genericTags />
 	</ModSettings>
 </SettingsBlock>

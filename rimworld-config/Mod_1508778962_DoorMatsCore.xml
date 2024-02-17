@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="SyrDoorMats.DoorMatsSettings">
-		<SyrDoorMatsSlowdown>40</SyrDoorMatsSlowdown>
+		<SyrDoorMatsSlowdown>15</SyrDoorMatsSlowdown>
 	</ModSettings>
 </SettingsBlock>

@@ -45,24 +45,8 @@
 				<li>AEXP_WildGoose</li>
 				<li>AEXP_Wildebeest</li>
 				<li>AEXP_Zebra</li>
-				<li>VAECaves_AncientGiantSpider</li>
-				<li>VAECaves_BlindSalamander</li>
-				<li>VAECaves_CaveBear</li>
-				<li>VAECaves_CaveCrawler</li>
-				<li>VAECaves_GiantSpider</li>
-				<li>VAECaves_GiantSpiderHatchling</li>
-				<li>VAECaves_InsectoidHulk</li>
-				<li>VAECaves_Wyrm</li>
 			</keys>
 			<values>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>

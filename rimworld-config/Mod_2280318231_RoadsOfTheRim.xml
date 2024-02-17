@@ -4,7 +4,7 @@
 		<BaseEffort>10</BaseEffort>
 		<OverrideCosts>True</OverrideCosts>
 		<CostIncreaseElevationThreshold>1000</CostIncreaseElevationThreshold>
-		<CostUpgradeRebate>30</CostUpgradeRebate>
+		<CostUpgradeRebate>50</CostUpgradeRebate>
 		<useISR2G>True</useISR2G>
 	</ModSettings>
 </SettingsBlock>

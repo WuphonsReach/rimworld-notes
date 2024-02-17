@@ -36,7 +36,6 @@
     <li>vanillaexpanded.vwec</li>
     <li>vanillaexpanded.vweft</li>
     <li>oskarpotocki.vanillaexpanded.ideologypatches</li>
-    <li>jsin.lagfreetorches</li>
     <li>hanabishi.inwallcoolersandvents</li>
     <li>murmur.factionraidcooldown</li>
     <li>nilchei.dynamicdiplomacy</li>
@@ -107,7 +106,6 @@
     <li>smashphil.dropspot</li>
     <li>rimfridge.kv.rw</li>
     <li>sf.flowers.beauty.equality</li>
-    <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>mlie.smartervisitors</li>
     <li>telardo.romanceontherim</li>
     <li>uuugggg.safelyhiddenaway</li>
@@ -120,7 +118,6 @@
     <li>oskarpotocki.vfe.vikings</li>
     <li>vanillaexpanded.vanillaanimalsexpanded</li>
     <li>spino.megafauna</li>
-    <li>limey.optimizedwool</li>
     <li>vanillaexpanded.vcef</li>
     <li>vanillaexpanded.vcefaddon</li>
     <li>klvlt.smokedfish</li>
@@ -160,6 +157,8 @@
     <li>murmur.pawnnamevariety</li>
     <li>etrt.practicalpemmican</li>
     <li>dubwise.dubsmintmenus</li>
+    <li>frozensnowfox.filthvanisheswithrainandtime</li>
+    <li>jsin.lagfreetorches</li>
     <li>bazel.toxgenplus.2</li>
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vfeproduction</li>
@@ -253,7 +252,6 @@
     <li>generalm13.m13chemfuelgenerators</li>
     <li>mlie.extrasecurity</li>
     <li>romyashi.grenadetraps</li>
-    <li>ievgen.hardtack</li>
     <li>revolus.animalsarefun</li>
     <li>scherub.planningextended</li>
     <li>uuugggg.usebedrolls</li>
@@ -266,7 +264,6 @@
     <li>pyrce.mass.graves</li>
     <li>dakkpasserida.animareplant</li>
     <li>scherub.stonecuttingextended</li>
-    <li>nitrodev.absolutelynoroof</li>
     <li>ghxx.techadvancing</li>
     <li>danthewaann.fastspreadinggrass2.0</li>
     <li>navyseal5.moreharvestdesignators</li>
@@ -276,7 +273,6 @@
     <li>tostov.simpleindustrialfactions</li>
     <li>iiitta.simplemedievalfaction</li>
     <li>vanillaexpanded.vpe.hemosage</li>
-    <li>erdelf.exportagency</li>
     <li>domi.moremedievalhelms</li>
     <li>longman.smallerradiusforanimatreesandshrines</li>
     <li>dhultgren.buryonthespot</li>
@@ -295,10 +291,12 @@
     <li>jelly.caravangear</li>
     <li>thegoofyone.betterspots</li>
     <li>aelanna.betterpyromania</li>
+    <li>el.mow</li>
     <li>mlie.variousspaceshipchunk</li>
     <li>scorpio.optimizationleathers</li>
-    <li>frozensnowfox.betterpawnlendingquest</li>
     <li>zal.tribalessentials</li>
+    <li>mlie.variedbodysizes</li>
+    <li>mute.genebodysize</li>
     <li>vanillaexpanded.skills</li>
     <li>na.cheapflagstone</li>
     <li>trickity.conversion.staff</li>
@@ -306,6 +304,7 @@
     <li>derekbickley.ltocolonygroupsfinal</li>
     <li>crashm.colorcodedmoodbar.11</li>
     <li>dhultgren.useminifiedbuildings</li>
+    <li>frozensnowfox.betterpawnlendingquest</li>
     <li>safefactiontemps.mod</li>
     <li>silencer59.timekills</li>
     <li>praedon.adjustarchonexus</li>
@@ -315,12 +314,27 @@
     <li>deivisis.weightprice</li>
     <li>fyarn.easyspeedup</li>
     <li>syrchalis.setupcamp</li>
+    <li>battiebear.undergrounders.deepfabrics</li>
+    <li>qarsoonmeel.abilitiescooldownrimworld</li>
+    <li>omm.syntheticsmanufacturing</li>
+    <li>royalf.craftablerbarrels</li>
+    <li>tgo.steelextraction</li>
     <li>proxyer.smallshelf</li>
     <li>mf.shelfpricepatch</li>
+    <li>brrainz.rangefinder</li>
     <li>skye.lowerinsultedstackmultiplier</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>wiri.compositableloadouts</li>
+    <li>mitz.betterpetbed</li>
+    <li>kopp.caravanformationimprovements</li>
+    <li>kopp.caravanitemselectionenhanced</li>
+    <li>syrus.caravanmoodbuff</li>
+    <li>aoba.cargocontainer</li>
     <li>citrus.expectationsmodifier</li>
+    <li>erdelf.exportagency</li>
+    <li>llunak.nodefaultgatherspot</li>
+    <li>codi.foodwealth</li>
+    <li>limey.optimizedwool</li>
     <li>mlie.coalexpanded</li>
   </activeMods>
   <knownExpansions>
