@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="HarvestWhenButchering.HarvestWhenButcheringSettings">
-		<WildAnimalFactor>0.5011737</WildAnimalFactor>
-	</ModSettings>
-</SettingsBlock>

@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="BackupPower.Settings">
-		<updateInterval>180</updateInterval>
-		<minimumOnTime>900</minimumOnTime>
-	</ModSettings>
-</SettingsBlock>

@@ -2,12 +2,12 @@
 <PrefsData>
   <volumeMaster>0.8</volumeMaster>
   <volumeGame>1</volumeGame>
-  <volumeMusic>0.4</volumeMusic>
+  <volumeMusic>0.1981914</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
   <volumeUI>1</volumeUI>
   <screenWidth>3828</screenWidth>
   <screenHeight>2074</screenHeight>
-  <fullscreen>False</fullscreen>
+  <fullscreen>True</fullscreen>
   <uiScale>2</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>
@@ -38,7 +38,7 @@
   <autosaveIntervalDays>1</autosaveIntervalDays>
   <testMapSizes>False</testMapSizes>
   <maxNumberOfPlayerSettlements>1</maxNumberOfPlayerSettlements>
-  <pauseOnLoad>False</pauseOnLoad>
+  <pauseOnLoad>True</pauseOnLoad>
   <automaticPauseMode>MajorThreat</automaticPauseMode>
   <mapDragSensitivity>1.3</mapDragSensitivity>
   <smoothCameraJumps>True</smoothCameraJumps>

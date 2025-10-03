@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="LifeLessons.LLSettings">
-		<baseXpPerHour>30</baseXpPerHour>
-		<controlPanelColumns IsNull="True" />
-		<backstoryTemplates />
-	</ModSettings>
-</SettingsBlock>

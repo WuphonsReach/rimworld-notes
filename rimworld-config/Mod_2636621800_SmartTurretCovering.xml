@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="SmartTurretCovering.Settings">
-		<CurrentFactor>OneHalf</CurrentFactor>
-	</ModSettings>
-</SettingsBlock>

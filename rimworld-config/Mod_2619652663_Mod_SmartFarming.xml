@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="SmartFarming.ModSettings_SmartFarming">
-		<processedFoodFactor>1.2</processedFoodFactor>
-		<orchardAlignment>False</orchardAlignment>
-	</ModSettings>
-</SettingsBlock>
