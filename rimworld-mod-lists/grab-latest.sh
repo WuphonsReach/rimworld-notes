@@ -1,3 +1,3 @@
 #!/bin/sh
-cp -uv ~/.local/share/Steam/steamapps/compatdata/294100/pfx/drive_c/users/steamuser/AppData/LocalLow/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/ModLists/*.rml ./
+cp -uv ~/.var/app/com.valvesoftware.Steam/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/ModLists/*.rml ./
 
