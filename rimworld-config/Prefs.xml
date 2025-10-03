@@ -5,8 +5,8 @@
   <volumeMusic>0.4</volumeMusic>
   <volumeAmbient>1</volumeAmbient>
   <volumeUI>1</volumeUI>
-  <screenWidth>0</screenWidth>
-  <screenHeight>0</screenHeight>
+  <screenWidth>3828</screenWidth>
+  <screenHeight>2074</screenHeight>
   <fullscreen>False</fullscreen>
   <uiScale>2</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
@@ -43,7 +43,7 @@
   <mapDragSensitivity>1.3</mapDragSensitivity>
   <smoothCameraJumps>True</smoothCameraJumps>
   <gravshipCutscenes>True</gravshipCutscenes>
-  <autosavesCount>5</autosavesCount>
+  <autosavesCount>10</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
   <devMode>False</devMode>
