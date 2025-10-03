@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SmartSpeed.SmartSpeed_Settings">
+		<normalSpeed>0.5</normalSpeed>
+		<fastSpeed>1</fastSpeed>
+		<superfastSpeed>2</superfastSpeed>
+		<ultrafastSpeed>4.19999981</ultrafastSpeed>
+		<currSetting>Normal</currSetting>
+	</ModSettings>
+</SettingsBlock>

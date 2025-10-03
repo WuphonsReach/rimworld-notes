@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimBees.RimBees_Settings">
+		<RB_IgnoreNight>False</RB_IgnoreNight>
+		<RB_IgnoreRain>False</RB_IgnoreRain>
+		<RB_IgnoreTemperature>False</RB_IgnoreTemperature>
+		<RB_IgnorePlants>False</RB_IgnorePlants>
+		<RB_GreenhouseBees>False</RB_GreenhouseBees>
+		<RB_DisableMessages>False</RB_DisableMessages>
+		<RB_Ben_ShowMissingBees>True</RB_Ben_ShowMissingBees>
+		<RB_Ben_ShowProgress>True</RB_Ben_ShowProgress>
+		<RB_Ben_KnownBees>True</RB_Ben_KnownBees>
+		<RB_Ben_BeeDangerAlert>True</RB_Ben_BeeDangerAlert>
+		<RB_CarryBees>True</RB_CarryBees>
+		<beeProductionMultiplier>1</beeProductionMultiplier>
+		<beeEffectRadius>6</beeEffectRadius>
+		<workerBeeEffectMultiplier>1</workerBeeEffectMultiplier>
+		<damageBeeEffectMultiplier>1</damageBeeEffectMultiplier>
+		<broodChamberMultiplier>3</broodChamberMultiplier>
+		<hybridizationChamberMultiplier>1</hybridizationChamberMultiplier>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PersistentDate.PersistentDate_ModSettings">
+		<year>1</year>
+		<quadrum>Jugust</quadrum>
+		<day>4</day>
+		<mode>UseLatest</mode>
+		<cumulativeTimeStamp />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FactionSetupPreset>
+	<name>Faction Setup 2025-10-03 04-10</name>
+	<savedDateTicks>638950614604737150</savedDateTicks>
+	<factionDefNames>
+		<li>TribalRaiders</li>
+		<li>OutlanderCivil</li>
+		<li>AG_OutlanderCivilUnion</li>
+		<li>OutlanderRoughPig</li>
+		<li>BS_LittlePeople</li>
+		<li>BS_Niflheim</li>
+		<li>BS_Dvergr_Medieval_Union</li>
+		<li>BS_Muspelheim</li>
+		<li>TribeCivil</li>
+		<li>Orassan</li>
+		<li>TribeNeanderthal</li>
+		<li>BS_OgreFaction</li>
+		<li>TribeRoughNeanderthal</li>
+		<li>BearManTribe</li>
+		<li>CamelManTribe</li>
+		<li>ElephantManTribe</li>
+		<li>ElkManTribe</li>
+		<li>FoxManTribe</li>
+		<li>GazelleManTribe</li>
+		<li>LynxManTribe</li>
+		<li>PigManTribe</li>
+		<li>RaccoonManTribe</li>
+		<li>WolfManTribe</li>
+		<li>TribeSavageImpid</li>
+		<li>PirateYttakin</li>
+		<li>PirateWaster</li>
+		<li>AG_XenohumanPirates</li>
+		<li>Empire</li>
+		<li>TradersGuild</li>
+		<li>Mechanoid</li>
+		<li>Insect</li>
+		<li>Entities</li>
+		<li>Salvagers</li>
+		<li>BS_ZombieFaction</li>
+		<li>AA_BlackHive</li>
+		<li>Ancients</li>
+		<li>AncientsHostile</li>
+		<li>HoraxCult</li>
+		<li>OutlanderCivil</li>
+		<li>TribeCivil</li>
+		<li>TribeNeanderthal</li>
+		<li>NudistTribe</li>
+		<li>OutlanderRough</li>
+	</factionDefNames>
+</FactionSetupPreset>

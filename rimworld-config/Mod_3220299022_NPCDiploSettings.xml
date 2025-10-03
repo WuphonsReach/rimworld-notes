@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DynamicDiplomacy.NPCDiploModSettings">
+		<repEnableExpansion>True</repEnableExpansion>
+		<repAllowDistanceCalc>True</repAllowDistanceCalc>
+		<repGenerateHistoryLength>25000</repGenerateHistoryLength>
+		<repDefeatChance>5</repDefeatChance>
+		<repIdeoSurrenderChance>3</repIdeoSurrenderChance>
+		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
+		<repUsingSemiSimulation>True</repUsingSemiSimulation>
+		<repExtraExpansionChancePer6H>20</repExtraExpansionChancePer6H>
+	</ModSettings>
+</SettingsBlock>

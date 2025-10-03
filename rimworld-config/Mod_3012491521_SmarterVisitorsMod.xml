@@ -1,6 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="SmarterVisitors.SmarterVisitorsSettings">
-		<AddExtraFood>4</AddExtraFood>
-	</ModSettings>
+	<ModSettings Class="SmarterVisitors.SmarterVisitorsSettings" />
 </SettingsBlock>

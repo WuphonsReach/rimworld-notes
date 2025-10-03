@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Safely_Hidden_Away.Settings">
+		<logResults>False</logResults>
+		<islandAddedDays>12.2248802</islandAddedDays>
+		<isolatedMountainValleyDays>11.375598</isolatedMountainValleyDays>
+		<distanceFactor>0.301644742</distanceFactor>
+		<threatDiminshingFactor>4.00065804</threatDiminshingFactor>
+		<wealthLimit>358852.594</wealthLimit>
+		<wealthMax>1000000</wealthMax>
+		<wealthSpeed>0.578947902</wealthSpeed>
+		<wealthCurvy>5.14354801</wealthCurvy>
+	</ModSettings>
+</SettingsBlock>

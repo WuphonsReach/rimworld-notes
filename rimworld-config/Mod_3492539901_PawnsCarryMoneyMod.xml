@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PawnsCarryMoney.PCM_Settings">
+		<sMax_Neolithic>15</sMax_Neolithic>
+		<jMax_Neolithic>3</jMax_Neolithic>
+		<sMax_Medieval>30</sMax_Medieval>
+		<gMax_Medieval>3</gMax_Medieval>
+		<sMax_Industrial>50</sMax_Industrial>
+		<gMax_Industrial>5</gMax_Industrial>
+		<sMax_Spacer>200</sMax_Spacer>
+		<gMax_Spacer>20</gMax_Spacer>
+	</ModSettings>
+</SettingsBlock>

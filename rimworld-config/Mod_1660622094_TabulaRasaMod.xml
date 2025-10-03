@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TabulaRasa.TabulaRasaSettings">
+		<raceSpawningSettings>
+			<keys />
+			<values />
+		</raceSpawningSettings>
+		<raceSpawningWeights>
+			<keys />
+			<values />
+		</raceSpawningWeights>
+		<markedAsSeen />
+		<empireHostilityFixedFactions>
+			<keys>
+				<li>PlayerColony</li>
+				<li>PlayerTribe</li>
+				<li>ResearchExpedition</li>
+				<li>GravshipCrew</li>
+				<li>BS_PlayerTribeXenoPlus</li>
+				<li>BS_PlayerColonyXenoPlus</li>
+				<li>OrassanPlayerColony</li>
+				<li>BS_JotunPlayerColony</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</empireHostilityFixedFactions>
+	</ModSettings>
+</SettingsBlock>

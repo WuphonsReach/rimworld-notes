@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TribalMedicineRevamped.TribalMedicine_ModSettings">
+		<TM_Setting_EnableBrootPoisoning>True</TM_Setting_EnableBrootPoisoning>
+	</ModSettings>
+</SettingsBlock>

@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RimFridge.Settings">
-		<RimFridge.PowerFactor>0.8</RimFridge.PowerFactor>
+		<RimFridge.SchemaVersion>1</RimFridge.SchemaVersion>
+		<RimFridge.PowerFactor>1</RimFridge.PowerFactor>
+		<RimFridge.ActAsBeacon>False</RimFridge.ActAsBeacon>
+		<RimFridge.DefaultMaximumItemsPerCell>3</RimFridge.DefaultMaximumItemsPerCell>
+		<RimFridge.EnableFrostyBeverages>True</RimFridge.EnableFrostyBeverages>
+		<RimFridge.UglyStackAppearance>False</RimFridge.UglyStackAppearance>
+		<RimFridge.WallFridgesBlockLight>False</RimFridge.WallFridgesBlockLight>
+		<RimFridge.WallFridgesAreAirtight>True</RimFridge.WallFridgesAreAirtight>
+		<RimFridge.PrisonCellSideAvoidanceStrength>-1</RimFridge.PrisonCellSideAvoidanceStrength>
 		<RimFridge.ForcedApplicationOfPatches />
 	</ModSettings>
 </SettingsBlock>

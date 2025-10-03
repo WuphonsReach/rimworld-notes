@@ -48,11 +48,20 @@
 				<li>Immunity</li>
 				<li>Delicate</li>
 				<li>Recluse</li>
-				<li>VRE_Flirty</li>
-				<li>VRE_Distressed</li>
-				<li>AG_Beauty</li>
-				<li>VCEF_Fisherman</li>
-				<li>EBSG_EarlyBird</li>
+				<li>PerfectMemory</li>
+				<li>Occultist</li>
+				<li>Joyous</li>
+				<li>BodyMastery</li>
+				<li>Disturbing</li>
+				<li>VoidFascination</li>
+				<li>BS_Giant</li>
+				<li>HAR_Xenophobia</li>
+				<li>Straight</li>
+				<li>HeteroAce</li>
+				<li>HomoAce</li>
+				<li>BiAce</li>
+				<li>Faithful</li>
+				<li>Philanderer</li>
 				<li>VTE_AbsentMinded</li>
 				<li>VTE_Eccentric</li>
 				<li>VTE_Perfectionist</li>
@@ -106,13 +115,50 @@
 				<li>VTE_ThickSkinned</li>
 				<li>VTE_ThinSkinned</li>
 				<li>VTE_Schizoid</li>
-				<li>VFEP_WarcasketTrait</li>
-				<li>VFEP_Shellcasket</li>
-				<li>VPE_Thrall</li>
-				<li>VME_Elder</li>
-				<li>AM_Ahimsa</li>
+				<li>VCEF_Fisherman</li>
+				<li>Gossip</li>
+				<li>Trustworthy</li>
+				<li>Manipulative</li>
+				<li>Peacemaker</li>
+				<li>Gushing</li>
+				<li>CompulsiveLiar</li>
+				<li>Passioned_Learning</li>
+				<li>Very_Passioned_Learning</li>
+				<li>BS_AnimalFriend</li>
+				<li>BS_AlcoholAddict</li>
+				<li>BS_Gentle</li>
+				<li>BS_InsultProof</li>
+				<li>BS_Unpretentious</li>
+				<li>Gigantism</li>
+				<li>Large</li>
+				<li>Small</li>
+				<li>Dwarfism</li>
+				<li>AG_Beauty</li>
 			</keys>
 			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

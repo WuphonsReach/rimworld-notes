@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="AlphaBehavioursAndEvents.AlphaAnimalsEvents_Settings">
+		<alternatePokemonGraphics>False</alternatePokemonGraphics>
 		<flagBlackHiveRaids>True</flagBlackHiveRaids>
 		<flagStalkingLions>True</flagStalkingLions>
 		<flagCactipineDroppods>True</flagCactipineDroppods>
@@ -14,6 +15,6 @@
 		<flagAnimalisk>True</flagAnimalisk>
 		<flagMime>True</flagMime>
 		<flagFungalHusk>True</flagFungalHusk>
-		<alphaAnimalSpawnMultiplier>0.2</alphaAnimalSpawnMultiplier>
+		<alphaAnimalSpawnMultiplier>1</alphaAnimalSpawnMultiplier>
 	</ModSettings>
 </SettingsBlock>

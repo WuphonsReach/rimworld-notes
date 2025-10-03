@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="AnimalBehaviours.AnimalBehaviours_Settings">
+	<ModSettings Class="VEF.AnimalBehaviours.AnimalBehaviours_Settings">
 		<flagCorpseDecayingEffect>True</flagCorpseDecayingEffect>
 		<flagDigWhenHungry>True</flagDigWhenHungry>
 		<flagAnimalParticles>True</flagAnimalParticles>

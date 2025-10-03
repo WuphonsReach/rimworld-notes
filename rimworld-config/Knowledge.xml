@@ -7,11 +7,11 @@
     </li>
     <li>
       <key>ReformCaravan</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>Rescuing</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>Capturing</key>
@@ -35,7 +35,7 @@
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
@@ -47,15 +47,15 @@
     </li>
     <li>
       <key>OpeningComms</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>DrugAddiction</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -63,7 +63,7 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
@@ -75,7 +75,7 @@
     </li>
     <li>
       <key>DoorOpenSpeed</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>QueueOrders</key>
@@ -84,6 +84,10 @@
     <li>
       <key>Shelves</key>
       <value>1</value>
+    </li>
+    <li>
+      <key>Books</key>
+      <value>0</value>
     </li>
     <li>
       <key>CameraDolly</key>
@@ -231,7 +235,7 @@
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>MaxNumberOfPlayerSettlements</key>
@@ -251,11 +255,11 @@
     </li>
     <li>
       <key>MeditationSchedule</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>MeditationDesiredPsyfocus</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>EditingMemes</key>
@@ -267,19 +271,19 @@
     </li>
     <li>
       <key>PollutedTerrain</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>Babies</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>Children</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>Deathrest</key>
-      <value>1</value>
+      <value>0</value>
     </li>
     <li>
       <key>GenesAndXenotypes</key>
@@ -294,51 +298,127 @@
       <value>0</value>
     </li>
     <li>
+      <key>CapturingEntities</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>ContainingEntities</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>StudyingEntities</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>EntityCodex</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>SuppressingEntities</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>AnomalyResearch</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>ColonyGhouls</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>VoidProvocation</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Gravship</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Orbit</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>Fishing</key>
+      <value>1</value>
+    </li>
+    <li>
       <key>QRY_ReclaimingSoil</key>
       <value>0</value>
     </li>
     <li>
-      <key>LLResearchRequirements</key>
+      <key>Concept_SimpleSidearmsBasic</key>
       <value>1</value>
     </li>
     <li>
-      <key>LLLeadResearcher</key>
+      <key>Concept_SidearmsDropping</key>
       <value>1</value>
     </li>
     <li>
-      <key>LLMedicalRequirements</key>
-      <value>1</value>
-    </li>
-    <li>
-      <key>LLRecipeRequirements</key>
-      <value>1</value>
-    </li>
-    <li>
-      <key>LLBuildingRequirements</key>
-      <value>1</value>
-    </li>
-    <li>
-      <key>LLCommsRequirement</key>
+      <key>Concept_SidearmsMissing</key>
       <value>0</value>
     </li>
     <li>
-      <key>LLSpeaking</key>
+      <key>Concept_SimpleSidearmsPreference</key>
       <value>1</value>
     </li>
     <li>
-      <key>LLRareProficiency</key>
+      <key>Concept_SimpleSidearmsAdvancedRanged</key>
       <value>1</value>
     </li>
     <li>
-      <key>LLLessonPlanToolIntro1</key>
+      <key>Concept_SimpleSidearmsAdvancedMelee</key>
       <value>1</value>
     </li>
     <li>
-      <key>LLLessonPlanToolIntro2</key>
+      <key>Concept_SimpleSidearmsAdvancedDrafted</key>
       <value>1</value>
     </li>
     <li>
-      <key>BuildersTryMine</key>
+      <key>Concept_SimpleSidearmsLosingWeapons</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Concept_CEOverride</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Bees</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Combs</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_BeeHouse</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_BroodChamber</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Hybridization</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BenLubarsRimBeesPatches_Research</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Museums_DisplayingItems</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Museums_MuseumTouring</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Museums_BuildingAMuseum</key>
+      <value>1</value>
+    </li>
+    <li>
+      <key>Museums_DisplayableItemRestrictions</key>
       <value>1</value>
     </li>
   </knowledge>

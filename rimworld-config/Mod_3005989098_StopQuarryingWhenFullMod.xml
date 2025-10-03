@@ -1,6 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="StopQuarryingWhenFull.StopQuarryingWhenFullSettings">
-		<fullPercentage>0.502095</fullPercentage>
-	</ModSettings>
+	<ModSettings Class="StopQuarryingWhenFull.StopQuarryingWhenFullSettings" />
 </SettingsBlock>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FactionSetupPreset>
+	<name>Faction Setup 2025-09-30 19-33</name>
+	<savedDateTicks>638948576222732090</savedDateTicks>
+	<factionDefNames>
+		<li>TribalRaiders</li>
+		<li>SplinterColony</li>
+		<li>OutlanderCivil</li>
+		<li>OutlanderRoughPig</li>
+		<li>TribeCivil</li>
+		<li>Orassan</li>
+		<li>TribeNeanderthal</li>
+		<li>TribeRoughNeanderthal</li>
+		<li>TribeSavageImpid</li>
+		<li>PirateYttakin</li>
+		<li>PirateWaster</li>
+		<li>Empire</li>
+		<li>TradersGuild</li>
+		<li>Mechanoid</li>
+		<li>Insect</li>
+		<li>Entities</li>
+		<li>Salvagers</li>
+		<li>AA_BlackHive</li>
+		<li>Ancients</li>
+		<li>AncientsHostile</li>
+		<li>HoraxCult</li>
+		<li>NudistTribe</li>
+		<li>TribeNeanderthal</li>
+		<li>OutlanderCivil</li>
+	</factionDefNames>
+</FactionSetupPreset>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="VFECore.VanillaShieldsExpandedSettings">
+	<ModSettings Class="VEF.Apparels.VanillaShieldsExpandedSettings">
 		<usableWithShieldsWeapons>
 			<keys>
 				<li>Beer</li>
@@ -29,6 +29,8 @@
 				<li>Gun_AssaultRifle</li>
 				<li>Gun_SniperRifle</li>
 				<li>Gun_Minigun</li>
+				<li>Gun_TripleRocket</li>
+				<li>Gun_DoomsdayRocket</li>
 				<li>Weapon_GrenadeFrag</li>
 				<li>Weapon_GrenadeMolotov</li>
 				<li>Weapon_GrenadeEMP</li>
@@ -50,123 +52,29 @@
 				<li>Gun_ToxbombLauncher</li>
 				<li>Weapon_GrenadeTox</li>
 				<li>Flamebow</li>
-				<li>VFEM_Wine</li>
-				<li>VFEM_MeleeWeapon_HeavyMace</li>
-				<li>VFEM_Bow_HeavyCrossbow</li>
-				<li>VFES_Gun_DoubleActionRevolver</li>
-				<li>VFES_Gun_DoubleBarreledShotgun</li>
-				<li>VFES_Gun_HuntingRifle</li>
-				<li>VFES_Weapon_GrenadeDynamite</li>
-				<li>VFES_Tomahawk</li>
-				<li>VWE_SmokeGrenade</li>
-				<li>VWE_FlashGrenade</li>
-				<li>VWE_MeleeWeapon_Shovel</li>
-				<li>VWE_MeleeWeapon_Baton</li>
-				<li>VWE_MeleeWeapon_CombatKnife</li>
-				<li>VWE_MeleeWeapon_Hammer</li>
-				<li>VWE_MeleeWeapon_BattleAxe</li>
-				<li>VWE_MeleeWeapon_Halberd</li>
-				<li>VWE_MeleeWeapon_Axe</li>
-				<li>Gun_TripleRocket</li>
-				<li>Gun_DoomsdayRocket</li>
-				<li>VWE_Gun_RocketLauncher</li>
-				<li>VWE_Bow_Compound</li>
-				<li>VWE_Gun_HandCannon</li>
-				<li>VWE_CombatHandgun</li>
-				<li>VWE_SawedOffShotgun</li>
-				<li>VWE_Gun_GrenadeLauncher</li>
-				<li>VWE_Gun_Flamethrower</li>
-				<li>VWE_Gun_FireExtinguisher</li>
-				<li>VWE_Gun_SemiAutomaticRifle</li>
-				<li>VWE_Gun_LeverActionRifle</li>
-				<li>VWE_Gun_LightSMG</li>
-				<li>VWE_Gun_SMG</li>
-				<li>VWE_Gun_HMG</li>
-				<li>VWE_Gun_ServiceRifle</li>
-				<li>VWE_Gun_BattleRifle</li>
-				<li>VWE_Gun_Carbine</li>
-				<li>VWE_Gun_MarksmanRifle</li>
-				<li>VWE_Gun_AntiMaterialRifle</li>
-				<li>VWE_Bow_Crossbow</li>
-				<li>VWE_Gun_Musket</li>
-				<li>VWE_Gun_Flintlock</li>
-				<li>VWE_Throwing_Knives</li>
-				<li>VWE_Tool_Whip</li>
-				<li>VWE_Throwing_Rocks</li>
-				<li>VWE_Bow_Long</li>
-				<li>VWE_Gun_ChargePistol</li>
-				<li>VWE_Gun_ChargeShotgun</li>
-				<li>VWE_Gun_ChargeSMG</li>
-				<li>VWE_Gun_ChargeLMG</li>
-				<li>VWE_Gun_ChargeSniperRifle</li>
-				<li>VWE_Gun_ChargeMinigun</li>
-				<li>VWE_Gun_ChargeRocketLauncher</li>
-				<li>VWE_Gun_AutomaticPistol</li>
-				<li>VWE_Gun_BullpupRifle</li>
-				<li>VWE_Gun_BullpupDMR</li>
-				<li>VWE_Gun_PDW</li>
-				<li>VWEL_LaserSword</li>
-				<li>VWEL_Gun_LaserPistol</li>
-				<li>VWEL_Gun_LaserSMG</li>
-				<li>VWEL_Gun_LaserRifle</li>
-				<li>VWEL_Gun_LaserShotgun</li>
-				<li>VWEL_Gun_LaserSniperRifle</li>
-				<li>VWEL_Gun_LaserMinigun</li>
-				<li>VWEL_Gun_TeslaGun</li>
-				<li>VWEL_Gun_SalvagedLaserPistol</li>
-				<li>VWEL_Gun_SalvagedLaserRifle</li>
-				<li>VWEL_Gun_SalvagedLaserShotgun</li>
-				<li>VWEL_Gun_SalvagedLaserSniperRifle</li>
-				<li>VWE_Gun_Autocannon</li>
-				<li>VWE_Gun_HandheldMortar</li>
-				<li>VWE_Gun_HeavyFlamer</li>
-				<li>VWE_Gun_SwarmMissileLauncher</li>
-				<li>VWE_Gun_UraniumSlugRifle</li>
-				<li>VWE_Gun_GaussRifle</li>
-				<li>VWE_Gun_GaussMagnum</li>
-				<li>VWE_Gun_GaussLance</li>
-				<li>VWEFT_Gun_HeavyRevolver</li>
-				<li>VWEFT_Gun_VolcanicPistol</li>
-				<li>VWEFT_Gun_FrontierPistol</li>
-				<li>VWEFT_Gun_RollingBlockRifle</li>
-				<li>VWEFT_Gun_RepeatingShotgun</li>
-				<li>Gunmar_War_Bow</li>
-				<li>VPE_MeleeWeapon_EltexDagger</li>
-				<li>VPE_MeleeWeapon_EltexMace</li>
-				<li>VPE_MeleeWeapon_EltexSword</li>
-				<li>AA_GallatrossHorn</li>
-				<li>GU_RedWood</li>
-				<li>VFEV_Mead</li>
-				<li>VFEV_LothurrAntler</li>
-				<li>VFE_MeleeWeapon_Seax</li>
-				<li>VFE_MeleeWeapon_BeardedAxe</li>
-				<li>VFE_MeleeWeapon_DaneAxe</li>
-				<li>VFEV_CryptoHeavyAxe</li>
-				<li>VFEV_CryptoLightAxe</li>
-				<li>VFE_ThrowingAxe</li>
-				<li>VFE_Harpoon</li>
-				<li>VFEV_CryptoHeavyCrossbow</li>
-				<li>VFEV_CryptoLightCrossbow</li>
-				<li>VFEV_CryptoPistol</li>
-				<li>VFEV_CryptoRifle</li>
-				<li>AEXP_WalrusTusk</li>
-				<li>MammothTusk</li>
-				<li>ElasmotheriumHorn</li>
-				<li>SmilodonFangs</li>
-				<li>DeinotheriumTusk</li>
-				<li>ZygolophodonTusk</li>
-				<li>PlatybelodonTusk</li>
-				<li>VWE_Gun_MakeshiftPistol</li>
-				<li>VWE_Gun_MakeshiftSMG</li>
-				<li>VWE_Gun_MakeshiftRifle</li>
-				<li>VWE_Gun_MakeshiftShotgun</li>
-				<li>VWE_Gun_MakeshiftLMG</li>
-				<li>VWE_Gun_Taser</li>
-				<li>VWE_Gun_RubberBulletPistol</li>
-				<li>VWE_Gun_DartGun</li>
-				<li>VWE_Gun_TearGasLauncher</li>
-				<li>VWE_MeleeWeapon_StunBaton</li>
-				<li>VWE_TearGasGrenade</li>
+				<li>Gun_BeamGraser</li>
+				<li>Gun_HellcatRifle</li>
+				<li>Gun_Incinerator</li>
+				<li>NerveSpiker</li>
+				<li>MastodonTusk</li>
+				<li>AlphaThrumboHorn</li>
+				<li>Gun_Revolver_Unique</li>
+				<li>Gun_BoltActionRifle_Unique</li>
+				<li>Gun_ChainShotgun_Unique</li>
+				<li>Gun_HeavySMG_Unique</li>
+				<li>Gun_LMG_Unique</li>
+				<li>Gun_AssaultRifle_Unique</li>
+				<li>Gun_SniperRifle_Unique</li>
+				<li>Gun_Minigun_Unique</li>
+				<li>Bow_Great_Unique</li>
+				<li>Gun_ChargeRifle_Unique</li>
+				<li>Gun_ChargeLance_Unique</li>
+				<li>Gun_HellcatRifle_Unique</li>
+				<li>Gun_BeamRepeater_Unique</li>
+				<li>Gun_BeamRepeater</li>
+				<li>Bamboo</li>
+				<li>VG_IronWoodLog</li>
+				<li>Mead</li>
 				<li>VWE_MeleeWeapon_HeavyClub</li>
 				<li>VWE_MeleeWeapon_LightClub</li>
 				<li>VWE_MeleeWeapon_TribalAxe</li>
@@ -174,50 +82,6 @@
 				<li>VWE_Sling</li>
 				<li>VWE_Throwing_Shards</li>
 				<li>VWE_Weapon_FireBomb</li>
-				<li>VFEC_MeleeWeapon_Spatha</li>
-				<li>VFEC_MeleeWeapon_Dagger</li>
-				<li>VFEC_Javelin</li>
-				<li>VFEC_Weapon_Scorpion</li>
-				<li>VFEE_MeleeWeapon_ToxbladeBladelink</li>
-				<li>VFEE_MeleeWeapon_Toxblade</li>
-				<li>VEE_Gun_Fletcher</li>
-				<li>VFEE_Gun_ChargeThumper</li>
-				<li>VFED_Gun_ChargeCycler</li>
-				<li>VFED_Gun_Fletchling</li>
-				<li>VFE_Gun_Plasmacutter</li>
-				<li>VFE_Gun_Plasmapiercer</li>
-				<li>VFE_Gun_PlasmabeamRifle</li>
-				<li>VFE_Gun_PlasmaScattergun</li>
-				<li>VFE_Plasmasaw</li>
-				<li>VFE_Gun_CombatMechanoidGun</li>
-				<li>VFE_Gun_RaiderMechanoidGun</li>
-				<li>VFE_Gun_InfernoSpewerSmall</li>
-				<li>VFE_Gun_InfernoSpewer</li>
-				<li>VFE_Gun_AdvancedInfernoSpewer</li>
-				<li>VFE_Gun_AdvancedInfernoCannon</li>
-				<li>VFEP_WarcasketGun_FoldingGun</li>
-				<li>VFEP_WarcasketGun_TearGasGrenadeLauncher</li>
-				<li>VFEP_WarcasketGun_SalvagedLaserEradicator</li>
-				<li>VFEP_WarcasketGun_LaserBlaster</li>
-				<li>VFEP_WarcasketGun_Railgun</li>
-				<li>VFEP_WarcasketGun_CryptoCannon</li>
-				<li>VFEP_WarcasketMeleeWeapon_PlasmaSword</li>
-				<li>VFEP_Rum</li>
-				<li>VFEP_WarcasketMeleeWeapon_CombatKnife</li>
-				<li>VFEP_WarcasketMeleeWeapon_Broadsword</li>
-				<li>VFEP_WarcasketMeleeWeapon_GravityHammer</li>
-				<li>VFEP_WarcasketGun_Autorifle</li>
-				<li>VFEP_WarcasketGun_UraniumSlugRifle</li>
-				<li>VFEP_WarcasketGun_Slugthrower</li>
-				<li>VFEP_WarcasketGun_Minigun</li>
-				<li>VFEP_WarcasketGun_GrenadeLauncher</li>
-				<li>VFEP_WarcasketGun_HeavyFlamer</li>
-				<li>VFEP_WarcasketGun_ChargeLance</li>
-				<li>VFEP_WarcasketGun_HandheldCannon</li>
-				<li>VFEP_WarcasketGun_ChargeBlaster</li>
-				<li>VFET_Chunk</li>
-				<li>VFET_Stake</li>
-				<li>VFET_Throwspikes</li>
 				<li>VBE_Cider</li>
 				<li>VBE_Gin</li>
 				<li>VBE_Tequila</li>
@@ -225,32 +89,71 @@
 				<li>VBE_Whiskey</li>
 				<li>VBE_DoubleWhiskey</li>
 				<li>VBE_Soda</li>
-				<li>VBE_Lemonade</li>
-				<li>VREA_MeleeWeapon_ArchobladeBladelink</li>
-				<li>Bamboo</li>
-				<li>VG_IronWoodLog</li>
-				<li>Mead</li>
-				<li>AEXP_RawFish</li>
-				<li>VWEFT_Gun_GaussRevolver</li>
-				<li>VWEFT_Gun_GaussRepeater</li>
-				<li>VWEFT_Gun_HandheldGatlingGun</li>
-				<li>VWEFT_Gun_SalvagedLaserRevolver</li>
-				<li>VWEFT_Gun_SalvagedLaserRepeater</li>
-				<li>VWEFT_Gun_SalvagedLaserHuntingRifle</li>
-				<li>VWEFT_Gun_Derringer</li>
-				<li>VWEFT_Gun_LeverActionShotgun</li>
-				<li>VPWE_MeleeWeapon_PsyfocusStaffBladelink</li>
+				<li>Gunmar_War_Bow</li>
+				<li>MeleeWeapon_Pickaxe</li>
+				<li>MeleeWeapon_Hammer</li>
+				<li>MeleeWeapon_Adze</li>
+				<li>MeleeWeapon_Broom</li>
+				<li>MeleeWeapon_CookingCleaver</li>
+				<li>MeleeWeapon_Scalpel</li>
+				<li>MeleeWeapon_Cleaver</li>
+				<li>Catberryjuice</li>
+				<li>Gun_OrassanRocket</li>
+				<li>Gun_OrassanShotgun</li>
+				<li>Gun_OrassanRifle</li>
+				<li>Gun_OrassanBattleRifle</li>
+				<li>Gun_OrassanSniper</li>
+				<li>Gun_OrassanDMR</li>
+				<li>Gun_OrassanPistol</li>
+				<li>Gun_OrassanAEPistol</li>
+				<li>Gun_OrassanSMG</li>
+				<li>Gun_OrassanLMG</li>
+				<li>Gun_OrassanGMG</li>
+				<li>Gun_CryoLauncher</li>
+				<li>Gun_OrassanGrenadeLauncher</li>
+				<li>MeleeWeapon_kittyclaws</li>
+				<li>OrassanCombatKnife</li>
+				<li>OrassanWarHammer</li>
+				<li>MSMedSupplyFlare</li>
+				<li>MSEthanol</li>
+				<li>RB_Mead</li>
+				<li>AA_GallatrossHorn</li>
+				<li>GU_RedWood</li>
 				<li>TCS_ConversionStaff</li>
+				<li>BS_SurtrSword_Persona</li>
+				<li>BS_SkrymirHammer_Persona</li>
+				<li>BS_OgreClub</li>
+				<li>BS_GiantHammer</li>
+				<li>BS_JotunHammer</li>
+				<li>BS_SurtrSword</li>
+				<li>BS_SkrymirHammer</li>
+				<li>BS_JotunJavelin</li>
+				<li>BS_GiantPrimitiveBow</li>
+				<li>BS_OgreThrowinRock</li>
+				<li>BS_JotunRifle</li>
+				<li>BS_GiantMinigun</li>
+				<li>BS_JotunRocketLauncher</li>
+				<li>BS_JotunSword</li>
+				<li>VFEM_Bow_HeavyCrossbow</li>
+				<li>AG_ForsakenSniper</li>
+				<li>AG_ForsakenShotgun</li>
+				<li>AG_ForsakenAssaultRifle</li>
+				<li>AG_ForsakenLongBlade</li>
+				<li>AG_ForsakenBattleAxe</li>
+				<li>AG_ForsakenBulkSword</li>
+				<li>AG_ForsakenSpear</li>
+				<li>AG_ForsakenBow</li>
+				<li>AG_ForsakenHydra</li>
 			</keys>
 			<values>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
+				<li>False</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
+				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -258,7 +161,6 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -269,95 +171,37 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>False</li>
-				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -374,21 +218,11 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
@@ -396,29 +230,16 @@
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
 				<li>True</li>
 				<li>False</li>
 				<li>False</li>
@@ -426,27 +247,21 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>True</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -455,22 +270,8 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
-				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -479,8 +280,13 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>True</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>True</li>
+				<li>False</li>
 			</values>
 		</usableWithShieldsWeapons>
 	</ModSettings>

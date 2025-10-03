@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PeteTimesSix.SimpleSidearms.SimpleSidearms_Settings">
+		<SettingsEverOpened>True</SettingsEverOpened>
+		<ActivePreset>Basic</ActivePreset>
+		<SeparateModes>True</SeparateModes>
+		<LimitModeSingleMelee>RelativeWeight</LimitModeSingleMelee>
+		<LimitModeAmountMelee>Slots</LimitModeAmountMelee>
+		<LimitModeSingleRanged>RelativeWeight</LimitModeSingleRanged>
+		<LimitModeAmountRanged>Slots</LimitModeAmountRanged>
+		<LimitModeAmountTotal>Slots</LimitModeAmountTotal>
+		<LimitModeSingle_RelativeMass>0.0542857125</LimitModeSingle_RelativeMass>
+		<LimitModeAmount_RelativeMass>0.285714298</LimitModeAmount_RelativeMass>
+		<LimitModeSingleMelee_RelativeMass>0.0542857125</LimitModeSingleMelee_RelativeMass>
+		<LimitModeAmountMelee_RelativeMass>0.285714298</LimitModeAmountMelee_RelativeMass>
+		<LimitModeSingleRanged_RelativeMass>0.077142857</LimitModeSingleRanged_RelativeMass>
+		<LimitModeAmountRanged_RelativeMass>0.285714298</LimitModeAmountRanged_RelativeMass>
+		<LimitModeAmountTotal_RelativeMass>0.285714298</LimitModeAmountTotal_RelativeMass>
+		<LimitModeAmountTotal_Slots>3</LimitModeAmountTotal_Slots>
+		<LimitModeSingle_Selection_defNames>
+			<li>MeleeWeapon_Adze</li>
+			<li>OrassanWarHammer</li>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>OrassanCombatKnife</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_CookingCleaver</li>
+			<li>MeleeWeapon_Scalpel</li>
+			<li>VWE_MeleeWeapon_LightClub</li>
+			<li>VWE_Throwing_Shards</li>
+			<li>MeleeWeapon_kittyclaws</li>
+			<li>VWE_MeleeWeapon_Shiv</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>MSMedSupplyFlare</li>
+			<li>VWE_MeleeWeapon_TribalAxe</li>
+			<li>Gun_OrassanPistol</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>VWE_Weapon_FireBomb</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>Gun_Revolver_Unique</li>
+			<li>AG_ForsakenBow</li>
+			<li>Bow_Recurve</li>
+			<li>ElephantTusk</li>
+			<li>Bow_Short</li>
+			<li>NerveSpiker</li>
+			<li>Flamebow</li>
+			<li>VWE_Sling</li>
+			<li>Beer</li>
+			<li>WoodLog</li>
+		</LimitModeSingle_Selection_defNames>
+		<LimitModeSingleMelee_Selection_defNames>
+			<li>MeleeWeapon_Adze</li>
+			<li>OrassanWarHammer</li>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>OrassanCombatKnife</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_CookingCleaver</li>
+			<li>MeleeWeapon_Scalpel</li>
+			<li>VWE_MeleeWeapon_LightClub</li>
+			<li>MeleeWeapon_kittyclaws</li>
+			<li>VWE_MeleeWeapon_Shiv</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>VWE_MeleeWeapon_TribalAxe</li>
+			<li>ElephantTusk</li>
+			<li>Beer</li>
+			<li>WoodLog</li>
+		</LimitModeSingleMelee_Selection_defNames>
+		<LimitModeSingleRanged_Selection_defNames>
+			<li>VWE_Throwing_Shards</li>
+			<li>MSMedSupplyFlare</li>
+			<li>Gun_OrassanAEPistol</li>
+			<li>Gun_OrassanPistol</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Gun_MachinePistol</li>
+			<li>VWE_Weapon_FireBomb</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>Gun_Revolver_Unique</li>
+			<li>AG_ForsakenBow</li>
+			<li>Bow_Recurve</li>
+			<li>Bow_Short</li>
+			<li>NerveSpiker</li>
+			<li>Flamebow</li>
+			<li>VWE_Sling</li>
+		</LimitModeSingleRanged_Selection_defNames>
+		<LimitModeSingle_Selection />
+		<LimitModeSingleMelee_Selection />
+		<LimitModeSingleRanged_Selection />
+		<SkipDangerousWeapons>False</SkipDangerousWeapons>
+		<FumbleRecoveryChance>
+			<li>(0.00, 0.00)</li>
+			<li>(2.00, 0.15)</li>
+			<li>(5.00, 0.85)</li>
+			<li>(7.00, 1.00)</li>
+			<li>(20.00, 1.00)</li>
+		</FumbleRecoveryChance>
+		<ShowAlertsMissingSidearm>False</ShowAlertsMissingSidearm>
+		<PlaySounds>False</PlaySounds>
+	</ModSettings>
+</SettingsBlock>

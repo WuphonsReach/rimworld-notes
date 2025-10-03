@@ -113,16 +113,12 @@
 				<li>AA_Thermadon</li>
 				<li>AA_Thunderbeast</li>
 				<li>AA_UnblinkingEye</li>
-				<li>AA_WaywardMobileAssembler</li>
 				<li>AA_Wildpawn</li>
 				<li>AA_Wildpod</li>
 				<li>AA_WindBeast</li>
 				<li>AA_Thunderox</li>
-				<li>VFE_Mech_Slurrymaster</li>
 			</keys>
 			<values>
-				<li>False</li>
-				<li>False</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>

@@ -1,3 +1,3 @@
 #!/bin/sh
-cp -urv ~/.local/share/Steam/steamapps/compatdata/294100/pfx/drive_c/users/steamuser/AppData/LocalLow/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/Config/* ./
-
+# ~/.var/app/com.valvesoftware.Steam/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config/
+cp -urv ~/.var/app/com.valvesoftware.Steam/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/Config/* ./
