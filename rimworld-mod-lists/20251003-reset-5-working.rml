@@ -1,0 +1,1078 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedModList>
+	<meta>
+		<gameVersion>1.6.4566 rev619</gameVersion>
+		<modIds>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.odyssey</li>
+			<li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+			<li>redmattis.betterprerequisites</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>imranfish.xmlextensions</li>
+			<li>nightmare.core</li>
+			<li>drilledhead.mydogshouse</li>
+			<li>mlie.punjisticks</li>
+			<li>zal.researchspot</li>
+			<li>foodbowl.programmerlily.com</li>
+			<li>advancedturrets.velcroboy333</li>
+			<li>mlie.advancedmortar</li>
+			<li>og.repair.your.gear</li>
+			<li>mlie.o21barbedwire</li>
+			<li>slimesenpai.autoventsnopower</li>
+			<li>meltup.beautifuloutdoors</li>
+			<li>avocado999.betterpassivecooler.0001</li>
+			<li>brrainz.cameraplus</li>
+			<li>mlie.coalexpanded</li>
+			<li>headwar.delayeddeterioration</li>
+			<li>thereallemon.factioncontrol</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>overpl.drawnspots</li>
+			<li>edb.preparecarefully</li>
+			<li>botchjob.hthair</li>
+			<li>neronix17.retexture.vanillabeards</li>
+			<li>keshash.injurytextures</li>
+			<li>andromeda.nicehairs</li>
+			<li>sakama.roppoihair</li>
+			<li>won.hair</li>
+			<li>erin.hairredux</li>
+			<li>rimsenal.hair</li>
+			<li>won2.hair</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>jiopaba.fences</li>
+			<li>shenanigans.tribaltattoos</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>sarg.alphaanimals</li>
+			<li>zal.tribalinstruments</li>
+			<li>trickity.conversion.staff</li>
+			<li>sarg.alphagenes</li>
+			<li>nakomaru.carrygenes</li>
+			<li>shenanigans.tribalbackstories1.4</li>
+			<li>ghost.tribalicons</li>
+			<li>llunak.moreprecepts</li>
+			<li>jiopaba.fencetab</li>
+			<li>caretcake.resources.morecomponentsandsteelmorevanilla</li>
+			<li>vanillaexpanded.vwetb</li>
+			<li>vanillaexpanded.vanillatraitsexpanded</li>
+			<li>vanillaexpanded.vanillatradingexpanded</li>
+			<li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+			<li>chairheir.vperunesmith</li>
+			<li>vanillaexpanded.vpe.puppeteer</li>
+			<li>vanillaexpanded.vpe.hemosage</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>redmattis.vanillagenesrebalanced</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vee</li>
+			<li>vanillaexpanded.vbrewe</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vanillaanimalsexpanded</li>
+			<li>ratys.rtsolarflareshield</li>
+			<li>ratys.rtpowerswitch</li>
+			<li>ratys.rtfuse</li>
+			<li>morphsassorted.facetattoos</li>
+			<li>dismarzero.vgp.vgpvegetablegarden</li>
+			<li>dismarzero.vgp.vgpgardencanning</li>
+			<li>dismarzero.vgp.vgpgardengourmet</li>
+			<li>dismarzero.vgp.vgpmoreveggies</li>
+			<li>mlie.rftribalraiders</li>
+			<li>redmattis.bigsmall.core</li>
+			<li>redmattis.bigsmall</li>
+			<li>riprusse.manhair</li>
+			<li>hobtook.mortaraccuracy</li>
+			<li>og.likeafox.rimworld.safepause.continued</li>
+			<li>twobit.lpsmokeleaf</li>
+			<li>jelly.caravangear</li>
+			<li>4loris4.morelinkables</li>
+			<li>hol.stonebutcher</li>
+			<li>sirrandoo.mpe</li>
+			<li>ryder.satisfiedstorage</li>
+			<li>mlie.moreplanning</li>
+			<li>aardvark.morevisiblepause</li>
+			<li>toastyman.moreritualseats</li>
+			<li>iceworld.tribalouterwear</li>
+			<li>gunmar.tribalwarriorset</li>
+			<li>mud.tribalapparel</li>
+			<li>river.tribal.shoes</li>
+			<li>river.tribal.mittens</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>klvlt.smokedfish</li>
+			<li>dismarzero.vgp.smokedmeat</li>
+			<li>elshender.stackablechunks</li>
+			<li>indeed.stackxxl</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>mlie.markthatpawn</li>
+			<li>pyrce.mass.graves.continued</li>
+			<li>grandyy.industrial.defense.turrets</li>
+			<li>leion247138.medicalhiv</li>
+			<li>sarg.smartspeed</li>
+			<li>mlie.smartervisitors</li>
+			<li>denev.smartturretcovering</li>
+			<li>memegoddess.smartmedicine</li>
+			<li>koth.isid</li>
+			<li>turnovus.rimworld.persistentdate</li>
+			<li>p4v3l.pawnscarrymoney</li>
+			<li>redmattis.bettergeneinheritance</li>
+			<li>mlie.boommodexpanded</li>
+			<li>sneezingseal.sealsbackstorycollection</li>
+			<li>mlie.factionraidcooldown</li>
+			<li>flinnice.factionraidpointmultiplier</li>
+			<li>blacksmokedmax.fc2p.v101</li>
+			<li>hawkwood.floorsarealmostworthless</li>
+			<li>avilmask.grazinglands</li>
+			<li>mlie.pawnnamevariety</li>
+			<li>saucypigeon.pawnbadge</li>
+			<li>mlie.expandedincidents</li>
+			<li>cucumpear.flap</li>
+			<li>smashphil.dropspot</li>
+			<li>overpl.animalsarcophagus</li>
+			<li>sickboywi.vault.onepointone</li>
+			<li>mlie.extrasecurity</li>
+			<li>mlie.variousspaceshipchunk</li>
+			<li>proxyer.smallshelf</li>
+			<li>dracoix.doormat.r12a</li>
+			<li>pineapple.fueledheaters</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>mlie.stopquarryingwhenfull</li>
+			<li>scherub.stonecuttingextended</li>
+			<li>lucifer.realisticrooms</li>
+			<li>unon.noburnmetal</li>
+			<li>paddda.nocarriedfood</li>
+			<li>llunak.nodefaultgatherspot</li>
+			<li>jetroid.donotdrawversion</li>
+			<li>vesper.notmyfault</li>
+			<li>proxyer.cheapmortarshell</li>
+			<li>marvinkosh.sometimesraidsgowrong</li>
+			<li>marvinkosh.ughyougotme</li>
+			<li>mlie.badleathercategory</li>
+			<li>ivaera.wealthcable</li>
+			<li>mlie.railsandroadsoftherim</li>
+			<li>nightmare.museums</li>
+			<li>bblkepling.childrensbooks</li>
+			<li>kathanon.researchqueue</li>
+			<li>jaxe.bubbles</li>
+			<li>citrus.expectationsmodifier</li>
+			<li>vakaria.respectscars</li>
+			<li>allifreyr.patch.strongermetalwalls</li>
+			<li>bazel.toxgenplus.2</li>
+			<li>smoothedstoneisworthless.mod</li>
+			<li>twistedpacifist.reasonablecomponents</li>
+			<li>chemtoneutrocombo.velcroboy333</li>
+			<li>mlie.combatreadinesscheck</li>
+			<li>visiblewealth.1trickpwnyta</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>orbital.books</li>
+			<li>troopersmith1.deathrattle</li>
+			<li>crashm.colorcodedmoodbar.11</li>
+			<li>bs.xenotypespawncontrol</li>
+			<li>mlie.techappropriateroofmote</li>
+			<li>lc.tammybee.selectablesculpturegraphic</li>
+			<li>mlie.safelyhiddenaway</li>
+			<li>longman.smallerradiusforanimatreesandshrines</li>
+			<li>frozensnowfox.betterexplorationloot</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>divinederivative.romance</li>
+			<li>mayo.kindneanderthals</li>
+			<li>mlie.rfrumorhasit</li>
+			<li>mlie.betterbeggars</li>
+			<li>jamaicancastle.rf.fertilefields</li>
+			<li>oblitus.mylittleplanet</li>
+			<li>madarauchiha.custommapsizes</li>
+			<li>sirprook.grievouswounds</li>
+			<li>samael.livestocktraders</li>
+			<li>jm.bettertraders</li>
+			<li>wyr3d.bettervisitortrades</li>
+			<li>polymeric.bedownershiptools</li>
+			<li>falconne.aff</li>
+			<li>avilmask.commonsense</li>
+			<li>jmattspartacus.dynamicpopulationunlocked</li>
+			<li>nilchei.dynamicdiplomacycontinued</li>
+			<li>mlie.harvestwhenbutchering</li>
+			<li>laredson.harvestandhaul</li>
+			<li>ghxx.techadvancing</li>
+			<li>defi.stabilizebleeding</li>
+			<li>mlie.tendingtakestime</li>
+			<li>woolstrand.realruins</li>
+			<li>piggy.onediseasestart</li>
+			<li>leonapp.carcinomaspreads</li>
+			<li>mrhydralisk.layeredatmosphereorbit</li>
+			<li>keshash.layeredwalldestruction</li>
+			<li>seromas.layereddestruction.patches</li>
+			<li>frozensnowfox.nodefaultshelfstorage</li>
+			<li>mlie.kvsupplyanddemand</li>
+			<li>bedrestforfoodpoisoning.1trickponyta</li>
+			<li>davai.sortedcategories</li>
+			<li>leo.cleanresearchsort</li>
+			<li>sarg.alphabooks</li>
+			<li>keyz182.keyzallowutilities</li>
+			<li>andromeda.nicebilltab</li>
+			<li>erdelf.exportagency</li>
+		</modIds>
+		<modSteamIds>
+			<li>0</li>
+			<li>0</li>
+			<li>1149640</li>
+			<li>1392840</li>
+			<li>1826140</li>
+			<li>2380740</li>
+			<li>3022790</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>867467808</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+		</modSteamIds>
+		<modNames>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>Odyssey</li>
+			<li>Log Publisher from HugsLib</li>
+			<li>Big and Small - Framework</li>
+			<li>HugsLib</li>
+			<li>XML Extensions</li>
+			<li>Nightmare Core</li>
+			<li>[DHM]MyDogsHouse</li>
+			<li>Punji Sticks (Continued)</li>
+			<li>Research Spot (Continued)</li>
+			<li>Food Bowl</li>
+			<li>Advanced Mini-Turret [+] (continued)</li>
+			<li>Advanced Mortar (Continued)</li>
+			<li>[Og] Repair Your Gear</li>
+			<li>[O21] Barbed Wire (Continued)</li>
+			<li>AutoVents (No power)</li>
+			<li>Beautiful Outdoors</li>
+			<li>Better Passive Cooler</li>
+			<li>Camera+</li>
+			<li>Coal Expanded (Continued)</li>
+			<li>Delayed Deterioration</li>
+			<li>Faction Control (1.4-1.6)</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Drawn Spots</li>
+			<li>EdB Prepare Carefully</li>
+			<li>Hard Times: Hair and Beards</li>
+			<li>Vanilla Beards Retextured</li>
+			<li>Injury Texture Variety</li>
+			<li>Nice Short Female Hairs</li>
+			<li>Roppoi hair</li>
+			<li>Won hair_men</li>
+			<li>Erin's Hairstyles - Redux</li>
+			<li>Rimsenal - Hair pack</li>
+			<li>Won hair_women </li>
+			<li>Vanilla Hair Expanded</li>
+			<li>More Vanilla Fences</li>
+			<li>Tribal Tattoos</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Alpha Animals</li>
+			<li>TribalInstruments (Royalty)</li>
+			<li>T's Conversion Staff</li>
+			<li>Alpha Genes</li>
+			<li>Carrying Capacity Genes</li>
+			<li>Tribal Backstories</li>
+			<li>Tribal Ideology Icons</li>
+			<li>Ideology: More Precepts</li>
+			<li>More Vanilla Fences - Fence Tab</li>
+			<li>More Components and Steel (More) Vanilla</li>
+			<li>Vanilla Weapons Expanded - Tribal</li>
+			<li>Vanilla Traits Expanded</li>
+			<li>Vanilla Trading Expanded</li>
+			<li>Vanilla Social Interactions Expanded</li>
+			<li>Vanilla Psycasts Expanded - Runesmith</li>
+			<li>Vanilla Psycasts Expanded - Puppeteer</li>
+			<li>Vanilla Psycasts Expanded - Hemosage</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Genes Rebalanced</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Brewing Expanded</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Animals Expanded</li>
+			<li>RT Solar Flare Shield</li>
+			<li>RT Power Switch</li>
+			<li>RT Fuse</li>
+			<li>Morphs Assorted: Tattoos</li>
+			<li>VGP Vegetable Garden</li>
+			<li>VGP Garden Canning</li>
+			<li>VGP Garden Gourmet</li>
+			<li>VGP More Veggies</li>
+			<li>[RF] Tribal Raiders (Continued)</li>
+			<li>Big and Small - Genes &amp; More</li>
+			<li>Big and Small - Races</li>
+			<li>Manly Hairstyles</li>
+			<li>Mortar Accuracy</li>
+			<li>Safe Pause (Continued)</li>
+			<li>Less Punishing Smokeleaf</li>
+			<li>Caravan Gear</li>
+			<li>More Linkables</li>
+			<li>Make Butcher Tables from Stone</li>
+			<li>More Pause Events</li>
+			<li>SatisfiedStorage</li>
+			<li>More Planning (Continued)</li>
+			<li>More visible pause</li>
+			<li>More Ritual Seats</li>
+			<li>IceWorld: Tribal Outerwear</li>
+			<li>Tribal Warrior Set!</li>
+			<li>Mud's Tribal Apparel</li>
+			<li>River's Tribal Shoes</li>
+			<li>River's Tribal Mittens</li>
+			<li>Simple sidearms</li>
+			<li>Smoked Fish (Smoked meat Add-on)</li>
+			<li>Smoked meat</li>
+			<li>Stackable Chunks</li>
+			<li>Stack XXL</li>
+			<li>Map Preview</li>
+			<li>Mark That Pawn</li>
+			<li>Mass Graves 1.6</li>
+			<li>Industrial Defense Turrets</li>
+			<li>Medical IV</li>
+			<li>Smart Speed</li>
+			<li>Smarter Visitors</li>
+			<li>Smart Turret Covering</li>
+			<li>Smart Medicine - Continued</li>
+			<li>Infestations Spawn in Darkness 1.6</li>
+			<li>Persistent Start Date</li>
+			<li>Pawns Carry Money</li>
+			<li>Better Gene Inheritance</li>
+			<li>BoomMod Expanded</li>
+			<li>Seal's Backstory Collection</li>
+			<li>Faction Raid Cooldown (Continued)</li>
+			<li>Faction Raid Point Multiplier</li>
+			<li>Flagstone Cheaper (2 per) V1.05</li>
+			<li>Floors Are (Absolutely) Worthless</li>
+			<li>Grazing Lands</li>
+			<li>Pawn Name Variety (Continued)</li>
+			<li>Pawn Badge Fan Fork [Adopted]</li>
+			<li>Expanded Incidents (Continued)</li>
+			<li>Animal Flap Speed Fix</li>
+			<li>Trade Ships Drop Spot</li>
+			<li>Animal Sarcophagus</li>
+			<li>Vault Walls and Doors</li>
+			<li>ExtraSecurity (Continued)</li>
+			<li>Various Space Ship Chunk (Continued)</li>
+			<li>Small Shelf</li>
+			<li>Door Mat</li>
+			<li>[WD] Fueled Heaters (1.6 Updated)</li>
+			<li>Quarry</li>
+			<li>Stop Quarrying When Full (Continued)</li>
+			<li>Stonecutting Extended</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>No Burn Metal</li>
+			<li>No Carried Food (Continued)</li>
+			<li>No Default Gather Spot</li>
+			<li>No Version In Pause Menu</li>
+			<li>Not My Fault</li>
+			<li>Cheap Mortar Shell</li>
+			<li>Sometimes Raids Go Wrong</li>
+			<li>Ugh You Got Me</li>
+			<li>Bad Leather Category</li>
+			<li>Remove cable wealth</li>
+			<li>Rails and Roads of the Rim (Continued)</li>
+			<li>Museums</li>
+			<li>Childrens Books</li>
+			<li>Research Queue</li>
+			<li>Interaction Bubbles</li>
+			<li>Expectations Modifier</li>
+			<li>Respect the Scars</li>
+			<li>Stronger Walls</li>
+			<li>Toxic Wastepack Generator Plus</li>
+			<li>Smoothed stone is worthless</li>
+			<li>Reasonable Components</li>
+			<li>Process Neutroamine from Chemfuel + Herbal Medicine Combo</li>
+			<li>Combat Readiness Check (Continued)</li>
+			<li>Visible Wealth</li>
+			<li>Geological Landforms</li>
+			<li>Orbital Book Merchants</li>
+			<li>Death Rattle Continued [1.2+]</li>
+			<li>CM Color Coded Mood Bar [1.1+]</li>
+			<li>Xenotype Spawn Control</li>
+			<li>Tech-appropriate Roof Mote</li>
+			<li>[LC] Selectable Sculpture Graphic</li>
+			<li>Safely Hidden Away (Continued)</li>
+			<li>Smaller radius for Anima Trees, Shrines and Animus Stones</li>
+			<li>[FSF] Better Exploration Loot</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>Way Better Romance</li>
+			<li>Kinder Neanderthal Faction</li>
+			<li>[RF] Rumor Has It.... (Continued)</li>
+			<li>Better Beggars (Continued)</li>
+			<li>Fertile Fields 1.6</li>
+			<li>My Little Planet</li>
+			<li>Better Map Sizes</li>
+			<li>Grievous Wounds</li>
+			<li>Livestock Traders</li>
+			<li>Better Traders</li>
+			<li>[WYD] Better Visitor Trades</li>
+			<li>Bed Ownership Tools</li>
+			<li>Avoid Friendly Fire - 1.6</li>
+			<li>Common Sense</li>
+			<li>Dynamic Population Unlocked</li>
+			<li>Dynamic Diplomacy - Continued</li>
+			<li>Harvest When Butchering</li>
+			<li>Harvest And Haul</li>
+			<li>Tech Advancing</li>
+			<li>Stabilize Bleeding</li>
+			<li>Tending Takes Time</li>
+			<li>Real Ruins</li>
+			<li>Disease Outbreaks Start With One Pawn</li>
+			<li>Carcinoma spreads</li>
+			<li>Layered Atmosphere and Orbit</li>
+			<li>Layered Wall Destruction</li>
+			<li>Layered Wall Destruction - Additional Patches</li>
+			<li>[FSF] No Default Shelf Storage</li>
+			<li>[KV] Supply and Demand (Continued)</li>
+			<li>Bed Rest For Food Poisoning</li>
+			<li>Davai's Sorted Categories</li>
+			<li>Clean Research Sort</li>
+			<li>Alpha Books</li>
+			<li>Keyz' Allow Utilities</li>
+			<li>Nice Bill Tab</li>
+			<li>Export Agency</li>
+		</modNames>
+	</meta>
+	<modList>
+		<ids>
+			<li>brrainz.harmony</li>
+			<li>ludeon.rimworld</li>
+			<li>ludeon.rimworld.royalty</li>
+			<li>ludeon.rimworld.ideology</li>
+			<li>ludeon.rimworld.biotech</li>
+			<li>ludeon.rimworld.anomaly</li>
+			<li>ludeon.rimworld.odyssey</li>
+			<li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
+			<li>redmattis.betterprerequisites</li>
+			<li>unlimitedhugs.hugslib</li>
+			<li>imranfish.xmlextensions</li>
+			<li>nightmare.core</li>
+			<li>drilledhead.mydogshouse</li>
+			<li>mlie.punjisticks</li>
+			<li>zal.researchspot</li>
+			<li>foodbowl.programmerlily.com</li>
+			<li>advancedturrets.velcroboy333</li>
+			<li>mlie.advancedmortar</li>
+			<li>og.repair.your.gear</li>
+			<li>mlie.o21barbedwire</li>
+			<li>slimesenpai.autoventsnopower</li>
+			<li>meltup.beautifuloutdoors</li>
+			<li>avocado999.betterpassivecooler.0001</li>
+			<li>brrainz.cameraplus</li>
+			<li>mlie.coalexpanded</li>
+			<li>headwar.delayeddeterioration</li>
+			<li>thereallemon.factioncontrol</li>
+			<li>oskarpotocki.vanillafactionsexpanded.core</li>
+			<li>overpl.drawnspots</li>
+			<li>edb.preparecarefully</li>
+			<li>botchjob.hthair</li>
+			<li>neronix17.retexture.vanillabeards</li>
+			<li>keshash.injurytextures</li>
+			<li>andromeda.nicehairs</li>
+			<li>sakama.roppoihair</li>
+			<li>won.hair</li>
+			<li>erin.hairredux</li>
+			<li>rimsenal.hair</li>
+			<li>won2.hair</li>
+			<li>vanillaexpanded.vhe</li>
+			<li>jiopaba.fences</li>
+			<li>shenanigans.tribaltattoos</li>
+			<li>vanillaexpanded.vpsycastse</li>
+			<li>sarg.alphaanimals</li>
+			<li>zal.tribalinstruments</li>
+			<li>trickity.conversion.staff</li>
+			<li>sarg.alphagenes</li>
+			<li>nakomaru.carrygenes</li>
+			<li>shenanigans.tribalbackstories1.4</li>
+			<li>ghost.tribalicons</li>
+			<li>llunak.moreprecepts</li>
+			<li>jiopaba.fencetab</li>
+			<li>caretcake.resources.morecomponentsandsteelmorevanilla</li>
+			<li>vanillaexpanded.vwetb</li>
+			<li>vanillaexpanded.vanillatraitsexpanded</li>
+			<li>vanillaexpanded.vanillatradingexpanded</li>
+			<li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+			<li>chairheir.vperunesmith</li>
+			<li>vanillaexpanded.vpe.puppeteer</li>
+			<li>vanillaexpanded.vpe.hemosage</li>
+			<li>vanillaexpanded.vplantse</li>
+			<li>vanillaexpanded.vcooke</li>
+			<li>vanillaexpanded.vcef</li>
+			<li>vanillaexpanded.vmemese</li>
+			<li>redmattis.vanillagenesrebalanced</li>
+			<li>vanillaexpanded.vfepower</li>
+			<li>vanillaexpanded.vfeart</li>
+			<li>vanillaexpanded.vee</li>
+			<li>vanillaexpanded.vbrewe</li>
+			<li>vanillaexpanded.varme</li>
+			<li>vanillaexpanded.vappe</li>
+			<li>vanillaexpanded.vanillaanimalsexpanded</li>
+			<li>ratys.rtsolarflareshield</li>
+			<li>ratys.rtpowerswitch</li>
+			<li>ratys.rtfuse</li>
+			<li>morphsassorted.facetattoos</li>
+			<li>dismarzero.vgp.vgpvegetablegarden</li>
+			<li>dismarzero.vgp.vgpgardencanning</li>
+			<li>dismarzero.vgp.vgpgardengourmet</li>
+			<li>dismarzero.vgp.vgpmoreveggies</li>
+			<li>mlie.rftribalraiders</li>
+			<li>redmattis.bigsmall.core</li>
+			<li>redmattis.bigsmall</li>
+			<li>riprusse.manhair</li>
+			<li>hobtook.mortaraccuracy</li>
+			<li>og.likeafox.rimworld.safepause.continued</li>
+			<li>twobit.lpsmokeleaf</li>
+			<li>jelly.caravangear</li>
+			<li>4loris4.morelinkables</li>
+			<li>hol.stonebutcher</li>
+			<li>sirrandoo.mpe</li>
+			<li>ryder.satisfiedstorage</li>
+			<li>mlie.moreplanning</li>
+			<li>aardvark.morevisiblepause</li>
+			<li>toastyman.moreritualseats</li>
+			<li>iceworld.tribalouterwear</li>
+			<li>gunmar.tribalwarriorset</li>
+			<li>mud.tribalapparel</li>
+			<li>river.tribal.shoes</li>
+			<li>river.tribal.mittens</li>
+			<li>petetimessix.simplesidearms</li>
+			<li>klvlt.smokedfish</li>
+			<li>dismarzero.vgp.smokedmeat</li>
+			<li>elshender.stackablechunks</li>
+			<li>indeed.stackxxl</li>
+			<li>m00nl1ght.mappreview</li>
+			<li>mlie.markthatpawn</li>
+			<li>pyrce.mass.graves.continued</li>
+			<li>grandyy.industrial.defense.turrets</li>
+			<li>leion247138.medicalhiv</li>
+			<li>sarg.smartspeed</li>
+			<li>mlie.smartervisitors</li>
+			<li>denev.smartturretcovering</li>
+			<li>memegoddess.smartmedicine</li>
+			<li>koth.isid</li>
+			<li>turnovus.rimworld.persistentdate</li>
+			<li>p4v3l.pawnscarrymoney</li>
+			<li>redmattis.bettergeneinheritance</li>
+			<li>mlie.boommodexpanded</li>
+			<li>sneezingseal.sealsbackstorycollection</li>
+			<li>mlie.factionraidcooldown</li>
+			<li>flinnice.factionraidpointmultiplier</li>
+			<li>blacksmokedmax.fc2p.v101</li>
+			<li>hawkwood.floorsarealmostworthless</li>
+			<li>avilmask.grazinglands</li>
+			<li>mlie.pawnnamevariety</li>
+			<li>saucypigeon.pawnbadge</li>
+			<li>mlie.expandedincidents</li>
+			<li>cucumpear.flap</li>
+			<li>smashphil.dropspot</li>
+			<li>overpl.animalsarcophagus</li>
+			<li>sickboywi.vault.onepointone</li>
+			<li>mlie.extrasecurity</li>
+			<li>mlie.variousspaceshipchunk</li>
+			<li>proxyer.smallshelf</li>
+			<li>dracoix.doormat.r12a</li>
+			<li>pineapple.fueledheaters</li>
+			<li>ogliss.thewhitecrayon.quarry</li>
+			<li>mlie.stopquarryingwhenfull</li>
+			<li>scherub.stonecuttingextended</li>
+			<li>lucifer.realisticrooms</li>
+			<li>unon.noburnmetal</li>
+			<li>paddda.nocarriedfood</li>
+			<li>llunak.nodefaultgatherspot</li>
+			<li>jetroid.donotdrawversion</li>
+			<li>vesper.notmyfault</li>
+			<li>proxyer.cheapmortarshell</li>
+			<li>marvinkosh.sometimesraidsgowrong</li>
+			<li>marvinkosh.ughyougotme</li>
+			<li>mlie.badleathercategory</li>
+			<li>ivaera.wealthcable</li>
+			<li>mlie.railsandroadsoftherim</li>
+			<li>nightmare.museums</li>
+			<li>bblkepling.childrensbooks</li>
+			<li>kathanon.researchqueue</li>
+			<li>jaxe.bubbles</li>
+			<li>citrus.expectationsmodifier</li>
+			<li>vakaria.respectscars</li>
+			<li>allifreyr.patch.strongermetalwalls</li>
+			<li>bazel.toxgenplus.2</li>
+			<li>smoothedstoneisworthless.mod</li>
+			<li>twistedpacifist.reasonablecomponents</li>
+			<li>chemtoneutrocombo.velcroboy333</li>
+			<li>mlie.combatreadinesscheck</li>
+			<li>visiblewealth.1trickpwnyta</li>
+			<li>m00nl1ght.geologicallandforms</li>
+			<li>orbital.books</li>
+			<li>troopersmith1.deathrattle</li>
+			<li>crashm.colorcodedmoodbar.11</li>
+			<li>bs.xenotypespawncontrol</li>
+			<li>mlie.techappropriateroofmote</li>
+			<li>lc.tammybee.selectablesculpturegraphic</li>
+			<li>mlie.safelyhiddenaway</li>
+			<li>longman.smallerradiusforanimatreesandshrines</li>
+			<li>frozensnowfox.betterexplorationloot</li>
+			<li>frozensnowfox.filthvanisheswithrainandtime</li>
+			<li>divinederivative.romance</li>
+			<li>mayo.kindneanderthals</li>
+			<li>mlie.rfrumorhasit</li>
+			<li>mlie.betterbeggars</li>
+			<li>jamaicancastle.rf.fertilefields</li>
+			<li>oblitus.mylittleplanet</li>
+			<li>madarauchiha.custommapsizes</li>
+			<li>sirprook.grievouswounds</li>
+			<li>samael.livestocktraders</li>
+			<li>jm.bettertraders</li>
+			<li>wyr3d.bettervisitortrades</li>
+			<li>polymeric.bedownershiptools</li>
+			<li>falconne.aff</li>
+			<li>avilmask.commonsense</li>
+			<li>jmattspartacus.dynamicpopulationunlocked</li>
+			<li>nilchei.dynamicdiplomacycontinued</li>
+			<li>mlie.harvestwhenbutchering</li>
+			<li>laredson.harvestandhaul</li>
+			<li>ghxx.techadvancing</li>
+			<li>defi.stabilizebleeding</li>
+			<li>mlie.tendingtakestime</li>
+			<li>woolstrand.realruins</li>
+			<li>piggy.onediseasestart</li>
+			<li>leonapp.carcinomaspreads</li>
+			<li>mrhydralisk.layeredatmosphereorbit</li>
+			<li>keshash.layeredwalldestruction</li>
+			<li>seromas.layereddestruction.patches</li>
+			<li>frozensnowfox.nodefaultshelfstorage</li>
+			<li>mlie.kvsupplyanddemand</li>
+			<li>bedrestforfoodpoisoning.1trickponyta</li>
+			<li>davai.sortedcategories</li>
+			<li>leo.cleanresearchsort</li>
+			<li>sarg.alphabooks</li>
+			<li>keyz182.keyzallowutilities</li>
+			<li>andromeda.nicebilltab</li>
+			<li>erdelf.exportagency</li>
+		</ids>
+		<names>
+			<li>Harmony</li>
+			<li>Core</li>
+			<li>Royalty</li>
+			<li>Ideology</li>
+			<li>Biotech</li>
+			<li>Anomaly</li>
+			<li>Odyssey</li>
+			<li>Log Publisher from HugsLib</li>
+			<li>Big and Small - Framework</li>
+			<li>HugsLib</li>
+			<li>XML Extensions</li>
+			<li>Nightmare Core</li>
+			<li>[DHM]MyDogsHouse</li>
+			<li>Punji Sticks (Continued)</li>
+			<li>Research Spot (Continued)</li>
+			<li>Food Bowl</li>
+			<li>Advanced Mini-Turret [+] (continued)</li>
+			<li>Advanced Mortar (Continued)</li>
+			<li>[Og] Repair Your Gear</li>
+			<li>[O21] Barbed Wire (Continued)</li>
+			<li>AutoVents (No power)</li>
+			<li>Beautiful Outdoors</li>
+			<li>Better Passive Cooler</li>
+			<li>Camera+</li>
+			<li>Coal Expanded (Continued)</li>
+			<li>Delayed Deterioration</li>
+			<li>Faction Control (1.4-1.6)</li>
+			<li>Vanilla Expanded Framework</li>
+			<li>Drawn Spots</li>
+			<li>EdB Prepare Carefully</li>
+			<li>Hard Times: Hair and Beards</li>
+			<li>Vanilla Beards Retextured</li>
+			<li>Injury Texture Variety</li>
+			<li>Nice Short Female Hairs</li>
+			<li>Roppoi hair</li>
+			<li>Won hair_men</li>
+			<li>Erin's Hairstyles - Redux</li>
+			<li>Rimsenal - Hair pack</li>
+			<li>Won hair_women </li>
+			<li>Vanilla Hair Expanded</li>
+			<li>More Vanilla Fences</li>
+			<li>Tribal Tattoos</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Alpha Animals</li>
+			<li>TribalInstruments (Royalty)</li>
+			<li>T's Conversion Staff</li>
+			<li>Alpha Genes</li>
+			<li>Carrying Capacity Genes</li>
+			<li>Tribal Backstories</li>
+			<li>Tribal Ideology Icons</li>
+			<li>Ideology: More Precepts</li>
+			<li>More Vanilla Fences - Fence Tab</li>
+			<li>More Components and Steel (More) Vanilla</li>
+			<li>Vanilla Weapons Expanded - Tribal</li>
+			<li>Vanilla Traits Expanded</li>
+			<li>Vanilla Trading Expanded</li>
+			<li>Vanilla Social Interactions Expanded</li>
+			<li>Vanilla Psycasts Expanded - Runesmith</li>
+			<li>Vanilla Psycasts Expanded - Puppeteer</li>
+			<li>Vanilla Psycasts Expanded - Hemosage</li>
+			<li>Vanilla Plants Expanded</li>
+			<li>Vanilla Cooking Expanded</li>
+			<li>Vanilla Fishing Expanded</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Vanilla Genes Rebalanced</li>
+			<li>Vanilla Furniture Expanded - Power</li>
+			<li>Vanilla Furniture Expanded - Art</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Vanilla Brewing Expanded</li>
+			<li>Vanilla Armour Expanded</li>
+			<li>Vanilla Apparel Expanded</li>
+			<li>Vanilla Animals Expanded</li>
+			<li>RT Solar Flare Shield</li>
+			<li>RT Power Switch</li>
+			<li>RT Fuse</li>
+			<li>Morphs Assorted: Tattoos</li>
+			<li>VGP Vegetable Garden</li>
+			<li>VGP Garden Canning</li>
+			<li>VGP Garden Gourmet</li>
+			<li>VGP More Veggies</li>
+			<li>[RF] Tribal Raiders (Continued)</li>
+			<li>Big and Small - Genes &amp; More</li>
+			<li>Big and Small - Races</li>
+			<li>Manly Hairstyles</li>
+			<li>Mortar Accuracy</li>
+			<li>Safe Pause (Continued)</li>
+			<li>Less Punishing Smokeleaf</li>
+			<li>Caravan Gear</li>
+			<li>More Linkables</li>
+			<li>Make Butcher Tables from Stone</li>
+			<li>More Pause Events</li>
+			<li>SatisfiedStorage</li>
+			<li>More Planning (Continued)</li>
+			<li>More visible pause</li>
+			<li>More Ritual Seats</li>
+			<li>IceWorld: Tribal Outerwear</li>
+			<li>Tribal Warrior Set!</li>
+			<li>Mud's Tribal Apparel</li>
+			<li>River's Tribal Shoes</li>
+			<li>River's Tribal Mittens</li>
+			<li>Simple sidearms</li>
+			<li>Smoked Fish (Smoked meat Add-on)</li>
+			<li>Smoked meat</li>
+			<li>Stackable Chunks</li>
+			<li>Stack XXL</li>
+			<li>Map Preview</li>
+			<li>Mark That Pawn</li>
+			<li>Mass Graves 1.6</li>
+			<li>Industrial Defense Turrets</li>
+			<li>Medical IV</li>
+			<li>Smart Speed</li>
+			<li>Smarter Visitors</li>
+			<li>Smart Turret Covering</li>
+			<li>Smart Medicine - Continued</li>
+			<li>Infestations Spawn in Darkness 1.6</li>
+			<li>Persistent Start Date</li>
+			<li>Pawns Carry Money</li>
+			<li>Better Gene Inheritance</li>
+			<li>BoomMod Expanded</li>
+			<li>Seal's Backstory Collection</li>
+			<li>Faction Raid Cooldown (Continued)</li>
+			<li>Faction Raid Point Multiplier</li>
+			<li>Flagstone Cheaper (2 per) V1.05</li>
+			<li>Floors Are (Absolutely) Worthless</li>
+			<li>Grazing Lands</li>
+			<li>Pawn Name Variety (Continued)</li>
+			<li>Pawn Badge Fan Fork [Adopted]</li>
+			<li>Expanded Incidents (Continued)</li>
+			<li>Animal Flap Speed Fix</li>
+			<li>Trade Ships Drop Spot</li>
+			<li>Animal Sarcophagus</li>
+			<li>Vault Walls and Doors</li>
+			<li>ExtraSecurity (Continued)</li>
+			<li>Various Space Ship Chunk (Continued)</li>
+			<li>Small Shelf</li>
+			<li>Door Mat</li>
+			<li>[WD] Fueled Heaters (1.6 Updated)</li>
+			<li>Quarry</li>
+			<li>Stop Quarrying When Full (Continued)</li>
+			<li>Stonecutting Extended</li>
+			<li>Realistic Rooms Rewritten</li>
+			<li>No Burn Metal</li>
+			<li>No Carried Food (Continued)</li>
+			<li>No Default Gather Spot</li>
+			<li>No Version In Pause Menu</li>
+			<li>Not My Fault</li>
+			<li>Cheap Mortar Shell</li>
+			<li>Sometimes Raids Go Wrong</li>
+			<li>Ugh You Got Me</li>
+			<li>Bad Leather Category</li>
+			<li>Remove cable wealth</li>
+			<li>Rails and Roads of the Rim (Continued)</li>
+			<li>Museums</li>
+			<li>Childrens Books</li>
+			<li>Research Queue</li>
+			<li>Interaction Bubbles</li>
+			<li>Expectations Modifier</li>
+			<li>Respect the Scars</li>
+			<li>Stronger Walls</li>
+			<li>Toxic Wastepack Generator Plus</li>
+			<li>Smoothed stone is worthless</li>
+			<li>Reasonable Components</li>
+			<li>Process Neutroamine from Chemfuel + Herbal Medicine Combo</li>
+			<li>Combat Readiness Check (Continued)</li>
+			<li>Visible Wealth</li>
+			<li>Geological Landforms</li>
+			<li>Orbital Book Merchants</li>
+			<li>Death Rattle Continued [1.2+]</li>
+			<li>CM Color Coded Mood Bar [1.1+]</li>
+			<li>Xenotype Spawn Control</li>
+			<li>Tech-appropriate Roof Mote</li>
+			<li>[LC] Selectable Sculpture Graphic</li>
+			<li>Safely Hidden Away (Continued)</li>
+			<li>Smaller radius for Anima Trees, Shrines and Animus Stones</li>
+			<li>[FSF] Better Exploration Loot</li>
+			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>Way Better Romance</li>
+			<li>Kinder Neanderthal Faction</li>
+			<li>[RF] Rumor Has It.... (Continued)</li>
+			<li>Better Beggars (Continued)</li>
+			<li>Fertile Fields 1.6</li>
+			<li>My Little Planet</li>
+			<li>Better Map Sizes</li>
+			<li>Grievous Wounds</li>
+			<li>Livestock Traders</li>
+			<li>Better Traders</li>
+			<li>[WYD] Better Visitor Trades</li>
+			<li>Bed Ownership Tools</li>
+			<li>Avoid Friendly Fire - 1.6</li>
+			<li>Common Sense</li>
+			<li>Dynamic Population Unlocked</li>
+			<li>Dynamic Diplomacy - Continued</li>
+			<li>Harvest When Butchering</li>
+			<li>Harvest And Haul</li>
+			<li>Tech Advancing</li>
+			<li>Stabilize Bleeding</li>
+			<li>Tending Takes Time</li>
+			<li>Real Ruins</li>
+			<li>Disease Outbreaks Start With One Pawn</li>
+			<li>Carcinoma spreads</li>
+			<li>Layered Atmosphere and Orbit</li>
+			<li>Layered Wall Destruction</li>
+			<li>Layered Wall Destruction - Additional Patches</li>
+			<li>[FSF] No Default Shelf Storage</li>
+			<li>[KV] Supply and Demand (Continued)</li>
+			<li>Bed Rest For Food Poisoning</li>
+			<li>Davai's Sorted Categories</li>
+			<li>Clean Research Sort</li>
+			<li>Alpha Books</li>
+			<li>Keyz' Allow Utilities</li>
+			<li>Nice Bill Tab</li>
+			<li>Export Agency</li>
+		</names>
+	</modList>
+</savedModList>

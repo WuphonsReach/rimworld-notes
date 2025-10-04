@@ -4,10 +4,14 @@
 		<repEnableExpansion>True</repEnableExpansion>
 		<repAllowDistanceCalc>True</repAllowDistanceCalc>
 		<repGenerateHistoryLength>25000</repGenerateHistoryLength>
-		<repDefeatChance>5</repDefeatChance>
-		<repIdeoSurrenderChance>3</repIdeoSurrenderChance>
+		<repDefeatChance>2</repDefeatChance>
+		<repRazeChance>2</repRazeChance>
+		<repIdeoSurrenderChance>2</repIdeoSurrenderChance>
+		<repAllowRazeClear>False</repAllowRazeClear>
+		<repExpansionRadius>20</repExpansionRadius>
+		<repMaxExpansionLimit>150</repMaxExpansionLimit>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
 		<repUsingSemiSimulation>True</repUsingSemiSimulation>
-		<repExtraExpansionChancePer6H>20</repExtraExpansionChancePer6H>
+		<repExtraExpansionChancePer6H>5</repExtraExpansionChancePer6H>
 	</ModSettings>
 </SettingsBlock>

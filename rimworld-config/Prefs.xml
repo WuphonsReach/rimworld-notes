@@ -7,7 +7,7 @@
   <volumeUI>1</volumeUI>
   <screenWidth>3828</screenWidth>
   <screenHeight>2074</screenHeight>
-  <fullscreen>True</fullscreen>
+  <fullscreen>False</fullscreen>
   <uiScale>2</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>
@@ -35,7 +35,7 @@
   <zoomSwitchWorldLayer>True</zoomSwitchWorldLayer>
   <zoomToMouse>False</zoomToMouse>
   <temperatureMode>Celsius</temperatureMode>
-  <autosaveIntervalDays>1</autosaveIntervalDays>
+  <autosaveIntervalDays>0.5</autosaveIntervalDays>
   <testMapSizes>False</testMapSizes>
   <maxNumberOfPlayerSettlements>1</maxNumberOfPlayerSettlements>
   <pauseOnLoad>True</pauseOnLoad>

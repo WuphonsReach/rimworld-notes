@@ -18,25 +18,17 @@
 		<LimitModeAmountTotal_RelativeMass>0.285714298</LimitModeAmountTotal_RelativeMass>
 		<LimitModeAmountTotal_Slots>3</LimitModeAmountTotal_Slots>
 		<LimitModeSingle_Selection_defNames>
-			<li>MeleeWeapon_Adze</li>
-			<li>OrassanWarHammer</li>
 			<li>MeleeWeapon_Gladius</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Mace</li>
 			<li>MeleeWeapon_BreachAxe</li>
 			<li>MeleeWeapon_Ikwa</li>
-			<li>OrassanCombatKnife</li>
 			<li>MeleeWeapon_Knife</li>
-			<li>MeleeWeapon_CookingCleaver</li>
-			<li>MeleeWeapon_Scalpel</li>
 			<li>VWE_MeleeWeapon_LightClub</li>
 			<li>VWE_Throwing_Shards</li>
-			<li>MeleeWeapon_kittyclaws</li>
 			<li>VWE_MeleeWeapon_Shiv</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
-			<li>MSMedSupplyFlare</li>
 			<li>VWE_MeleeWeapon_TribalAxe</li>
-			<li>Gun_OrassanPistol</li>
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
 			<li>Weapon_GrenadeFrag</li>
@@ -45,7 +37,6 @@
 			<li>Gun_Autopistol</li>
 			<li>Gun_Revolver</li>
 			<li>Gun_Revolver_Unique</li>
-			<li>AG_ForsakenBow</li>
 			<li>Bow_Recurve</li>
 			<li>ElephantTusk</li>
 			<li>Bow_Short</li>
@@ -56,19 +47,13 @@
 			<li>WoodLog</li>
 		</LimitModeSingle_Selection_defNames>
 		<LimitModeSingleMelee_Selection_defNames>
-			<li>MeleeWeapon_Adze</li>
-			<li>OrassanWarHammer</li>
 			<li>MeleeWeapon_Gladius</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>MeleeWeapon_Mace</li>
 			<li>MeleeWeapon_BreachAxe</li>
 			<li>MeleeWeapon_Ikwa</li>
-			<li>OrassanCombatKnife</li>
 			<li>MeleeWeapon_Knife</li>
-			<li>MeleeWeapon_CookingCleaver</li>
-			<li>MeleeWeapon_Scalpel</li>
 			<li>VWE_MeleeWeapon_LightClub</li>
-			<li>MeleeWeapon_kittyclaws</li>
 			<li>VWE_MeleeWeapon_Shiv</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
 			<li>VWE_MeleeWeapon_TribalAxe</li>
@@ -78,9 +63,6 @@
 		</LimitModeSingleMelee_Selection_defNames>
 		<LimitModeSingleRanged_Selection_defNames>
 			<li>VWE_Throwing_Shards</li>
-			<li>MSMedSupplyFlare</li>
-			<li>Gun_OrassanAEPistol</li>
-			<li>Gun_OrassanPistol</li>
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
 			<li>Weapon_GrenadeFrag</li>
@@ -90,7 +72,6 @@
 			<li>Gun_Autopistol</li>
 			<li>Gun_Revolver</li>
 			<li>Gun_Revolver_Unique</li>
-			<li>AG_ForsakenBow</li>
 			<li>Bow_Recurve</li>
 			<li>Bow_Short</li>
 			<li>NerveSpiker</li>

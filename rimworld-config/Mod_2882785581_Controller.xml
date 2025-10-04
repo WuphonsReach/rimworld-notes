@@ -3,7 +3,7 @@
 	<ModSettings Class="FactionControl.Settings">
 		<masterDensity>108.457314</masterDensity>
 		<densityMin>29.5630817</densityMin>
-		<densityMax>184.11116</densityMax>
+		<densityMax>211.358429</densityMax>
 		<factionDensities>
 			<li>
 				<faction>AG_OutlanderCivilUnion</faction>
@@ -13,11 +13,6 @@
 			<li>
 				<faction>AG_XenohumanPirates</faction>
 				<density>374.314728</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>BearManTribe</faction>
-				<density>98.1472092</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -46,22 +41,7 @@
 				<enabled>True</enabled>
 			</li>
 			<li>
-				<faction>CamelManTribe</faction>
-				<density>55.8312187</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
 				<faction>CannibalPirate</faction>
-			</li>
-			<li>
-				<faction>ElephantManTribe</faction>
-				<density>72.9060898</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>ElkManTribe</faction>
-				<density>63.9974632</density>
-				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>Empire</faction>
@@ -69,28 +49,8 @@
 				<enabled>True</enabled>
 			</li>
 			<li>
-				<faction>FoxManTribe</faction>
-				<density>58.8007622</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>GazelleManTribe</faction>
-				<density>53.6040611</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>LynxManTribe</faction>
-				<density>55.0888329</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
 				<faction>NudistTribe</faction>
 				<density>307.5</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>Orassan</faction>
-				<density>15</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -109,11 +69,6 @@
 				<enabled>True</enabled>
 			</li>
 			<li>
-				<faction>PigManTribe</faction>
-				<density>72.1637039</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
 				<faction>Pirate</faction>
 			</li>
 			<li>
@@ -124,11 +79,6 @@
 			<li>
 				<faction>PirateYttakin</faction>
 				<density>404.752533</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>RaccoonManTribe</faction>
-				<density>58.0583763</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -172,11 +122,6 @@
 			<li>
 				<faction>TribeSavageImpid</faction>
 				<density>506.459381</density>
-				<enabled>True</enabled>
-			</li>
-			<li>
-				<faction>WolfManTribe</faction>
-				<density>55.8312187</density>
 				<enabled>True</enabled>
 			</li>
 		</factionDensities>
