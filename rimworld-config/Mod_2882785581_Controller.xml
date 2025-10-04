@@ -69,6 +69,9 @@
 				<enabled>True</enabled>
 			</li>
 			<li>
+				<faction>OutlanderRoughStoneborn</faction>
+			</li>
+			<li>
 				<faction>Pirate</faction>
 			</li>
 			<li>

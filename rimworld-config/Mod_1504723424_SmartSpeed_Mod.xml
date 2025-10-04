@@ -3,8 +3,8 @@
 	<ModSettings Class="SmartSpeed.SmartSpeed_Settings">
 		<normalSpeed>0.5</normalSpeed>
 		<fastSpeed>1</fastSpeed>
-		<superfastSpeed>2</superfastSpeed>
-		<ultrafastSpeed>4.19999981</ultrafastSpeed>
+		<superfastSpeed>2.4000001</superfastSpeed>
+		<ultrafastSpeed>4.80000019</ultrafastSpeed>
 		<currSetting>Normal</currSetting>
 	</ModSettings>
 </SettingsBlock>

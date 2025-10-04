@@ -4761,4 +4761,13 @@
       <a>0</a>
     </Color>
   </CacheEntry>
+  <CacheEntry>
+    <DefName>VRecyclingE_TrashBrickFloor</DefName>
+    <Color>
+      <r>0.305882365</r>
+      <g>0.305882365</g>
+      <b>0.3019608</b>
+      <a>0</a>
+    </Color>
+  </CacheEntry>
 </ArrayOfCacheEntry>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LayeredAtmosphereOrbit.LAOSettings">
+		<UseFuelCostBetweenLayers>True</UseFuelCostBetweenLayers>
+		<KmPerFuelSpace>25</KmPerFuelSpace>
+		<AutoAddLayersDefNames>
+			<li>LAO_Troposphere</li>
+			<li>LAO_Stratosphere</li>
+			<li>LAO_Mesosphere</li>
+			<li>LAO_HighOrbit</li>
+			<li>LAO_Surface_Luna</li>
+		</AutoAddLayersDefNames>
+	</ModSettings>
+</SettingsBlock>

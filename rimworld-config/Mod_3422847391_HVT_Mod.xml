@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="MassGravesContinued.Settings">
-		<corpseCapacity>25</corpseCapacity>
+	<ModSettings Class="HautsTraits.HVT_Settings">
+		<traitsMax>3</traitsMax>
 	</ModSettings>
 </SettingsBlock>

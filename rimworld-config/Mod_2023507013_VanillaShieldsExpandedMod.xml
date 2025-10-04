@@ -144,6 +144,10 @@
 				<li>AG_ForsakenSpear</li>
 				<li>AG_ForsakenBow</li>
 				<li>AG_ForsakenHydra</li>
+				<li>VPE_MeleeWeapon_EltexDagger</li>
+				<li>VPE_MeleeWeapon_EltexMace</li>
+				<li>VPE_MeleeWeapon_EltexSword</li>
+				<li>VPER_MeleeWeapon_RunesmithBattleaxe</li>
 			</keys>
 			<values>
 				<li>True</li>
@@ -287,6 +291,10 @@
 				<li>False</li>
 				<li>True</li>
 				<li>False</li>
+				<li>False</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
 			</values>
 		</usableWithShieldsWeapons>
 	</ModSettings>

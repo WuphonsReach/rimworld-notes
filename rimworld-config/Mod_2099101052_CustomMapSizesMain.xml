@@ -2,9 +2,9 @@
 <SettingsBlock>
 	<ModSettings Class="CustomMapSizes.CustomMapSizesSettings">
 		<selectedMapSize>-1</selectedMapSize>
-		<customMapSizeHeight>400</customMapSizeHeight>
-		<customMapSizeWidth>400</customMapSizeWidth>
-		<customMapSizeWidthBuffer>400</customMapSizeWidthBuffer>
-		<customMapSizeHeightBuffer>400</customMapSizeHeightBuffer>
+		<customMapSizeHeight>450</customMapSizeHeight>
+		<customMapSizeWidth>450</customMapSizeWidth>
+		<customMapSizeWidthBuffer>450</customMapSizeWidthBuffer>
+		<customMapSizeHeightBuffer>450</customMapSizeHeightBuffer>
 	</ModSettings>
 </SettingsBlock>

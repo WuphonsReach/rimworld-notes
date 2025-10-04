@@ -35,6 +35,26 @@
 				<li>cucumpear.storage;ccpsscategoryb</li>
 				<li>NuanKi.ConcreteWalls;Embrasures</li>
 				<li>cucumpear.flap;speed</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFTamingWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFSlaughterWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFConvertWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFPrisonCareWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFTeachWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFRescueWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFClearPollutionWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFClearSnowWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFMergeWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFPaintWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFMechanoidsWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFPruningWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFSmoothingWorktype</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFAnomalyTasksInDarkStudy</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFDraftedWorkTasks</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFIdeoRolesAreCapable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFMechanoidsAreCapable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFRescueInFirefighting</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFSlavesAreCapable</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFWarcasketsAreCapable</li>
 			</keys>
 			<values>
 				<li>true</li>
@@ -69,6 +89,26 @@
 				<li>True</li>
 				<li>False</li>
 				<li>1.5</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
+				<li>false</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

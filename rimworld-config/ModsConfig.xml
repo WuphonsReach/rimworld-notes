@@ -12,7 +12,10 @@
     <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
     <li>redmattis.betterprerequisites</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>imranfish.xmlextensions</li>
+    <li>mlie.visualxmlpatches</li>
+    <li>smashphil.xmlpatchhelper</li>
     <li>nightmare.core</li>
     <li>drilledhead.mydogshouse</li>
     <li>mlie.punjisticks</li>
@@ -50,11 +53,15 @@
     <li>sarg.alphaanimals</li>
     <li>zal.tribalinstruments</li>
     <li>trickity.conversion.staff</li>
+    <li>side1iner.traitsplus</li>
     <li>sarg.alphagenes</li>
     <li>nakomaru.carrygenes</li>
     <li>shenanigans.tribalbackstories1.4</li>
     <li>ghost.tribalicons</li>
     <li>llunak.moreprecepts</li>
+    <li>vanillaexpanded.vpe.puppeteer</li>
+    <li>hautarche.hautsframework</li>
+    <li>hautarche.hautstraits</li>
     <li>jiopaba.fencetab</li>
     <li>caretcake.resources.morecomponentsandsteelmorevanilla</li>
     <li>vanillaexpanded.vwetb</li>
@@ -62,11 +69,11 @@
     <li>vanillaexpanded.vanillatradingexpanded</li>
     <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>chairheir.vperunesmith</li>
-    <li>vanillaexpanded.vpe.puppeteer</li>
     <li>vanillaexpanded.vpe.hemosage</li>
     <li>vanillaexpanded.vplantse</li>
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vcef</li>
+    <li>vanillaexpanded.vbookse</li>
     <li>vanillaexpanded.vmemese</li>
     <li>redmattis.vanillagenesrebalanced</li>
     <li>vanillaexpanded.vfepower</li>
@@ -79,6 +86,7 @@
     <li>ratys.rtsolarflareshield</li>
     <li>ratys.rtpowerswitch</li>
     <li>ratys.rtfuse</li>
+    <li>dubwise.rimefeller</li>
     <li>nephlite.orbitaltradecolumn</li>
     <li>morphsassorted.facetattoos</li>
     <li>dismarzero.vgp.vgpvegetablegarden</li>
@@ -90,7 +98,9 @@
     <li>redmattis.bigsmall</li>
     <li>riprusse.manhair</li>
     <li>asf.deepstorage</li>
+    <li>seanbeag.animatree</li>
     <li>jdgg.adaptive.cargoholds</li>
+    <li>harkon.veaddon.vanillaexpandedextraembrasures</li>
     <li>sbz.gravshipstorage</li>
     <li>sbz.neatstorage</li>
     <li>adaptive.simplestorage</li>
@@ -98,6 +108,7 @@
     <li>og.likeafox.rimworld.safepause.continued</li>
     <li>twobit.lpsmokeleaf</li>
     <li>jelly.caravangear</li>
+    <li>drenwick.burialurns</li>
     <li>4loris4.morelinkables</li>
     <li>hol.stonebutcher</li>
     <li>sirrandoo.mpe</li>
@@ -126,6 +137,7 @@
     <li>memegoddess.smartmedicine</li>
     <li>koth.isid</li>
     <li>turnovus.rimworld.persistentdate</li>
+    <li>kathanon.impressionablechildren</li>
     <li>p4v3l.pawnscarrymoney</li>
     <li>redmattis.bettergeneinheritance</li>
     <li>mlie.boommodexpanded</li>
@@ -166,9 +178,9 @@
     <li>bblkepling.childrensbooks</li>
     <li>kathanon.researchqueue</li>
     <li>jaxe.bubbles</li>
-    <li>citrus.expectationsmodifier</li>
+    <li>bdew.cremateautostrip</li>
+    <li>telardo.epitaph</li>
     <li>vakaria.respectscars</li>
-    <li>allifreyr.patch.strongermetalwalls</li>
     <li>bazel.toxgenplus.2</li>
     <li>smoothedstoneisworthless.mod</li>
     <li>twistedpacifist.reasonablecomponents</li>
@@ -183,7 +195,7 @@
     <li>mlie.techappropriateroofmote</li>
     <li>lc.tammybee.selectablesculpturegraphic</li>
     <li>mlie.safelyhiddenaway</li>
-    <li>longman.smallerradiusforanimatreesandshrines</li>
+    <li>det.stoneborn</li>
     <li>frozensnowfox.betterexplorationloot</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
     <li>divinederivative.romance</li>
@@ -196,6 +208,7 @@
     <li>sirprook.grievouswounds</li>
     <li>samael.livestocktraders</li>
     <li>jm.bettertraders</li>
+    <li>kikohi.jewelry</li>
     <li>wyr3d.bettervisitortrades</li>
     <li>polymeric.bedownershiptools</li>
     <li>falconne.aff</li>
@@ -211,16 +224,27 @@
     <li>woolstrand.realruins</li>
     <li>piggy.onediseasestart</li>
     <li>leonapp.carcinomaspreads</li>
+    <li>thelastbulletbender.rwexploration</li>
+    <li>vanillaexpanded.recycling</li>
+    <li>arvkus.simplerecycling</li>
+    <li>mlie.mealradius</li>
     <li>keshash.layeredwalldestruction</li>
     <li>seromas.layereddestruction.patches</li>
+    <li>billnotic.actuallyvanillamusicexpansion</li>
+    <li>ilarion.bulkloadfortransporters</li>
     <li>frozensnowfox.nodefaultshelfstorage</li>
     <li>mlie.kvsupplyanddemand</li>
     <li>bedrestforfoodpoisoning.1trickponyta</li>
+    <li>citrus.expectationsmodifier</li>
     <li>davai.sortedcategories</li>
     <li>leo.cleanresearchsort</li>
     <li>sarg.alphabooks</li>
     <li>keyz182.keyzallowutilities</li>
     <li>mrhydralisk.layeredatmosphereorbit</li>
+    <li>frozensnowfox.complexjobs</li>
+    <li>allifreyr.patch.strongermetalwalls</li>
+    <li>mlie.noversionwarning</li>
+    <li>mehni.numbers</li>
     <li>andromeda.nicebilltab</li>
     <li>erdelf.exportagency</li>
   </activeMods>
