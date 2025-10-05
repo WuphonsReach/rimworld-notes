@@ -8,7 +8,7 @@
   <screenWidth>3828</screenWidth>
   <screenHeight>2074</screenHeight>
   <fullscreen>False</fullscreen>
-  <uiScale>2</uiScale>
+  <uiScale>1.75</uiScale>
   <customCursorEnabled>True</customCursorEnabled>
   <hatsOnlyOnMap>False</hatsOnlyOnMap>
   <plantWindSway>True</plantWindSway>
@@ -43,7 +43,7 @@
   <mapDragSensitivity>1.3</mapDragSensitivity>
   <smoothCameraJumps>True</smoothCameraJumps>
   <gravshipCutscenes>True</gravshipCutscenes>
-  <autosavesCount>10</autosavesCount>
+  <autosavesCount>25</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
   <devMode>False</devMode>

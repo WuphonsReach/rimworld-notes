@@ -70,9 +70,11 @@
 			</li>
 			<li>
 				<faction>OutlanderRoughStoneborn</faction>
+				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>Pirate</faction>
+				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>PirateWaster</faction>
@@ -102,12 +104,12 @@
 			</li>
 			<li>
 				<faction>TribeCivil</faction>
-				<density>64.7398453</density>
+				<density>49.1497459</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TribeNeanderthal</faction>
-				<density>154.568527</density>
+				<density>96.6624374</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -120,11 +122,12 @@
 			</li>
 			<li>
 				<faction>TribeSavage</faction>
+				<density>423.312195</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TribeSavageImpid</faction>
-				<density>506.459381</density>
+				<density>409.206848</density>
 				<enabled>True</enabled>
 			</li>
 		</factionDensities>

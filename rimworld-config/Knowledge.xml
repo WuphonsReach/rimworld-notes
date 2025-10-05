@@ -11,7 +11,7 @@
     </li>
     <li>
       <key>Rescuing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Capturing</key>
@@ -55,7 +55,7 @@
     </li>
     <li>
       <key>DrugPolicies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>TVForSickPeople</key>
@@ -63,7 +63,7 @@
     </li>
     <li>
       <key>PrisonerTab</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SetGrowingZonePlant</key>
@@ -279,7 +279,7 @@
     </li>
     <li>
       <key>Children</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Deathrest</key>
@@ -355,7 +355,7 @@
     </li>
     <li>
       <key>Concept_SidearmsMissing</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>Concept_SimpleSidearmsPreference</key>

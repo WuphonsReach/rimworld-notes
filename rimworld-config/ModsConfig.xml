@@ -9,8 +9,15 @@
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
-    <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
     <li>redmattis.betterprerequisites</li>
+    <li>thereallemon.factioncontrol</li>
+    <li>adaptive.storage.framework</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>troopersmith1.deathrattle</li>
+    <li>adaptive.primitivestorage</li>
+    <li>vanillaexpanded.vpsycastse</li>
+    <li>sisq.vpsyedeathrattle</li>
+    <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
     <li>unlimitedhugs.hugslib</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>imranfish.xmlextensions</li>
@@ -31,9 +38,6 @@
     <li>brrainz.cameraplus</li>
     <li>mlie.coalexpanded</li>
     <li>headwar.delayeddeterioration</li>
-    <li>thereallemon.factioncontrol</li>
-    <li>adaptive.storage.framework</li>
-    <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>overpl.drawnspots</li>
     <li>edb.preparecarefully</li>
     <li>botchjob.hthair</li>
@@ -48,8 +52,6 @@
     <li>vanillaexpanded.vhe</li>
     <li>jiopaba.fences</li>
     <li>shenanigans.tribaltattoos</li>
-    <li>adaptive.primitivestorage</li>
-    <li>vanillaexpanded.vpsycastse</li>
     <li>sarg.alphaanimals</li>
     <li>zal.tribalinstruments</li>
     <li>trickity.conversion.staff</li>
@@ -83,15 +85,17 @@
     <li>vanillaexpanded.varme</li>
     <li>vanillaexpanded.vappe</li>
     <li>vanillaexpanded.vanillaanimalsexpanded</li>
+    <li>dev.tobot.renamesettlements</li>
     <li>ratys.rtsolarflareshield</li>
     <li>ratys.rtpowerswitch</li>
     <li>ratys.rtfuse</li>
     <li>dubwise.rimefeller</li>
+    <li>dismarzero.vgp.vgpvegetablegarden</li>
+    <li>dismarzero.vgp.vgpgardengourmet</li>
+    <li>unblestmatt.chocolateredeux</li>
     <li>nephlite.orbitaltradecolumn</li>
     <li>morphsassorted.facetattoos</li>
-    <li>dismarzero.vgp.vgpvegetablegarden</li>
     <li>dismarzero.vgp.vgpgardencanning</li>
-    <li>dismarzero.vgp.vgpgardengourmet</li>
     <li>dismarzero.vgp.vgpmoreveggies</li>
     <li>mlie.rftribalraiders</li>
     <li>redmattis.bigsmall.core</li>
@@ -189,7 +193,6 @@
     <li>visiblewealth.1trickpwnyta</li>
     <li>m00nl1ght.geologicallandforms</li>
     <li>orbital.books</li>
-    <li>troopersmith1.deathrattle</li>
     <li>crashm.colorcodedmoodbar.11</li>
     <li>bs.xenotypespawncontrol</li>
     <li>mlie.techappropriateroofmote</li>
@@ -221,6 +224,7 @@
     <li>ghxx.techadvancing</li>
     <li>defi.stabilizebleeding</li>
     <li>mlie.tendingtakestime</li>
+    <li>mersid.backuppowerupdated</li>
     <li>woolstrand.realruins</li>
     <li>piggy.onediseasestart</li>
     <li>leonapp.carcinomaspreads</li>
@@ -228,6 +232,7 @@
     <li>vanillaexpanded.recycling</li>
     <li>arvkus.simplerecycling</li>
     <li>mlie.mealradius</li>
+    <li>dubwise.dubsskylights</li>
     <li>keshash.layeredwalldestruction</li>
     <li>seromas.layereddestruction.patches</li>
     <li>billnotic.actuallyvanillamusicexpansion</li>
@@ -236,6 +241,7 @@
     <li>mlie.kvsupplyanddemand</li>
     <li>bedrestforfoodpoisoning.1trickponyta</li>
     <li>citrus.expectationsmodifier</li>
+    <li>owlchemist.smartfarming</li>
     <li>davai.sortedcategories</li>
     <li>leo.cleanresearchsort</li>
     <li>sarg.alphabooks</li>

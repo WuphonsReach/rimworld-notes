@@ -2,9 +2,9 @@
 <SettingsBlock>
 	<ModSettings Class="DynamicPopulationUnlocked.DynamicPopulationSettings">
 		<popLow>2</popLow>
-		<popDesired>8</popDesired>
-		<popHigh>16</popHigh>
-		<popCriticalHigh>32</popCriticalHigh>
+		<popDesired>6</popDesired>
+		<popHigh>12</popHigh>
+		<popCriticalHigh>24</popCriticalHigh>
 		<popMax>64</popMax>
 	</ModSettings>
 </SettingsBlock>
