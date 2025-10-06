@@ -26,6 +26,7 @@
   - [More errors](#more-errors)
     - [Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver\_LayDown](#exception-in-jobdriver-fixed-tick-for-pawn-entasga-driverjobdriver_laydown)
   - [Disable Many Harvest and Haul Options](#disable-many-harvest-and-haul-options)
+    - [Remove both HAH and PUAH](#remove-both-hah-and-puah)
 
 
 # Pawn Gets Stuck
@@ -545,6 +546,11 @@ Verse.TickManager:TickManagerUpdate ()
 ## Disable Many Harvest and Haul Options
 
 Try disabling everything on the "work" tab in "Harvest and Haul" options.
+
+### Remove both HAH and PUAH
+
+Remove both Harvest and Haul and Pick Up and Haul
+
 
 
 
