@@ -1,0 +1,792 @@
+Mono path[0] = '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/Managed'
+Mono config path = '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/etc'
+Preloaded 'lib_burst_generated.so'
+Preloaded 'libsteam_api.so'
+Display 0 'DELL U4320Q 43"': 3840x2160 (primary device).
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Desktop is 3840 x 2160 @ 60 Hz
+Initialize engine version: 2022.3.35f1 (011206c7a712)
+[Subsystems] Discovering subsystems at path /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Renderer: AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 19.1.7, DRM 3.57, 6.8.0-85-generic)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 25.2.2 (git-22ded5f256)
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_cla
+mp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_A
+RB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync 
+GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_obj
+ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
+ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
+_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 316838048
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.056 seconds
+- Finished resetting the current domain, in  0.001 seconds
+Default vsync count 1
+requesting resize 3828 x 2074
+resizing window to 3828 x 2074
+Desktop is 3840 x 2160 @ 60 Hz
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.547248 ms
+Command line arguments: -disable-compute-shaders
+[S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 294100
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198011700377 [API loaded no]
+RimWorld 1.6.4566 rev619
+requesting resize 3828 x 2074
+resizing window to 3828 x 2074
+Desktop is 3840 x 2160 @ 60 Hz
+Mod [DHM]MyDogsHouse dependency (brrainz.harmony) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
+Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
+Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x75757cc15e80.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x75757cc68790.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x75757f8f68d0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x75757f987690.so
+[HugsLib] version 12.0.0
+ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7575753f51e0.so
+SatisfiedStorage loading
+[WDHeaters] Loaded.
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+[Interaction Bubbles v4.2] Initialized
+Combat Readiness Check: Patched Caravan.PlayerWealthForStoryteller.
+[Visible Wealth] Loaded.
+[HarvestAndHaul] Harmony patches applied.
+[RealRuins][System]: Loaded RealRuins_Mod (no HugsLib)
+Dubs Skylight 1.5.3114
+[Bed Rest For Food Poisoning] Loaded.
+<color=#1c6beb>[KeyzAllowUtilities]</color> Loading KeyzAllowUtilities
+Key binding conflict: MainTab_kNumbersOverviewTab and OpenMapSearch are both bound to Z.
+Key binding conflict: OpenMapSearch and MainTab_kNumbersOverviewTab are both bound to Z.
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble, Vacstone
+Translation data for language English has 2 errors. Generate translation report for more info.
+KCSG has Created 7252 symbolDefs for vanilla and DLCs
+[XML Extensions] Initialized 4 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
+[XML Extensions] 4291 total patch operations run in 6234ms, 0 failed
+[XML Extensions] Emitted 4 mod class(es)
+[XmlPatchHelper] version 1.6.1124
+[Hauts' Framework] active.
+[Hauts' Added Traits] active.
+[Utility Columns] - Patching...
+[BorderOnPause 2.0.0.18] Initialized
+[TrueTerrainColors v1.12.22] Loaded cached true colors for 530 terrain defs from file.
+[MarkThatPawn]: Pawn Badge mod loaded, trying to generate marker-sets of 25 badge definitions
+[MarkThatPawn]: Found 8 icons for Militar - PawnBadge
+[MarkThatPawn]: Found 17 icons for Skill - PawnBadge
+[MarkThatPawn]: Imported all pawn badges into 2 marker-sets
+[MarkThatPawn]: Found 20 icons for GDI
+[MarkThatPawn]: Found 8 icons for Ideology
+[MarkThatPawn]: Found 19 icons for Jobs
+[MarkThatPawn]: Found 8 icons for Militar
+[MarkThatPawn]: Found 20 icons for Nod
+[MarkThatPawn]: Found 8 icons for Numbers
+[MarkThatPawn]: Found 17 icons for Skills
+[MarkThatPawn]: Found 16 icons for Symbols
+[MarkThatPawn]: Found 13 icons for Weapons
+[MarkThatPawn]: Found 8 icons for WOW Style
+[MarkThatPawn]: Found 18 icons for XCOM
+[MarkThatPawn]: Found 13 icons for XCOM 2
+[MarkThatPawn]: Found 9 icons for XCOM Medieval
+[MarkThatPawn]: Found 162 loaded weapons, 11 explosive weapons and 20 thrown projectiles
+[MarkThatPawn]: Found 228 loaded apparel, 65 armored apparel, 27 royal apparel, 23 psycast apparel, 7 enviromental protection apparel, 6 mechanator apparel and 128 basic apparel 
+[MarkThatPawn]: Found 0 automatic rules defined
+BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea, small, acanthamoeba gigantea, large, acanthamoeba gigantea, huge, aerofleet, colossal aerofleet, chemfuel myrmidon, genix, green goo, infected aerofleet, luciferbug, red goo, red spore, boombat
+[BoomModExpanded]: Adding support for Animal Behaviour
+[BoomModExpanded]: Adding support for Alpha Genes
+[RaidPointMultiplier] Initialized with 34 factions.
+[BadLeatherCategory]: Note that Leather_Human is also used by non-humanlikes. Gorehulk, AA_FungalHusk, AA_Mime, Corpse_Gorehulk, Corpse_AA_FungalHusk, Corpse_AA_Mime
+[BadLeatherCategory]: Note that Leather_Lizard is also used by non-humanlikes. Cobra, Tortoise, Iguana, MonitorLizard, Alligator, SeaTurtle, AA_AnimaColossus, AA_CrescendoAnole, AA_DecayDrake, AA_Erin, AA_Lockjaw, AA_OvergrownColossus, AA_PedigreedRaptor, AA_RayHound, AA_RoughPlatedMonitor, AEXP_Crocodile, AEXP_DesertTortoise, AEXP_GilaMonster, AEXP_Rattlesnake, AEXP_Anaconda, Corpse_Cobra, Corpse_Tortoise, Corpse_Iguana, Corpse_MonitorLizard, Corpse_Alligator, Corpse_SeaTurtle, Corpse_AA_AnimaColossus, Corpse_AA_CrescendoAnole, Corpse_AA_DecayDrake, Corpse_AA_Erin, Corpse_AA_Lockjaw, Corpse_AA_OvergrownColossus, Corpse_AA_PedigreedRaptor, Corpse_AA_RayHound, Corpse_AA_RoughPlatedMonitor, Corpse_AEXP_Crocodile, Corpse_AEXP_DesertTortoise, Corpse_AEXP_GilaMonster, Corpse_AEXP_Rattlesnake, Corpse_AEXP_Anaconda
+[BadLeatherCategory]: Moved 3 leather to the Bad Leather-category
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.6.4553.2 initialized
+[GrievousWounds] EBF Enabled?: False
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+[Dynamic Diplomacy] DD loaded
+[RealRuins][System]: RealRuins started patching at 10/6/2025 8:03:57 AM
+PostOpen is patchable.
+[RealRuins][System]: RealRuins performing manual patching optional mods at 10/6/2025 8:03:57 AM
+[RealRuins][System]: RealRuins finished patching at 10/6/2025 8:03:57 AM (45.459 msec)
+SupplyAndDemand Harmony Patches:
+  Postfix:
+    StockGenerator.RandomCountOf
+[Expectations Modifier] Expectations Modifier Harmony Patches Loaded.
+[Davai's Sorted Categories] [SortNastyMeat] starting
+[Davai's Sorted Categories] [SortNastyMeat] Moved 7 meat to the Nasty meat category
+[Davai's Sorted Categories] [ChangeDefaultSocialDrugs] starting
+[Davai's Sorted Categories] [ChangeDefaultSocialDrugs] Added 2 drugs to Social drugs by default
+[Davai's Sorted Categories] [SortDrugs] starting
+[Davai's Sorted Categories] [SortDrugs] Moved 24 drugs to the Social drugs category
+[Davai's Sorted Categories] [SortDrugs] Moved 2 drugs to the Medical drugs category
+[Davai's Sorted Categories] [SortDrugs] Moved 4 drugs to the Hard drugs category
+[Davai's Sorted Categories] [SortDrugs] Moved 8 sera to the Sera category
+found field: Verse.Room room
+Walls are Solid - transpiler patched successfully.
+[Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
+[Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1334 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 13)
+MVCF successfully applied 49 patches
+[net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 56833.
+Total: 453.149738 ms (FindLiveObjects: 3.296173 ms CreateObjectMapping: 1.897805 ms MarkObjects: 447.408832 ms  DeleteObjects: 0.546377 ms)
+
+[DivineFramework] Loaded version 0.12.0.1
+CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
+[HugsLib] initializing com.github.alandariva.moreplanning, StackableChunks, StackXXL, AvoidFriendlyFire
+[StackableChunks] Chunk Stacks set too: 15
+[StackableChunks] Slag Stacks set too: 15
+[StackXXL] Loaded
+[RealRuins][System]: RealRuins Startup hook triggered
+[VirtualClassOnLoad] Virtual Loadtime Class Starting!
+[Expectations Modifier] Modifying All Wealth Expectations Now!
+[Expectations Modifier] Successfully Modified All Wealth Expectations!
+[Expectations Modifier] Modifying All Expectations Mood Effects Now!
+[Expectations Modifier] Successfully Modified All Expectations Mood Effects!
+[Expectations Modifier] All Undesired Expectations Removed!
+[VirtualClassOnLoad] Virtual Class Ended with 1 PostFixes.
+  RimWorld.Citrus.ExpectationsModifier
+[Clean Research Sort]: Successfully applied sorted research tree layout.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.589968 ms
+requesting resize 3828 x 2074
+resizing window to 3828 x 2074
+Desktop is 3840 x 2160 @ 60 Hz
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57099.
+Total: 422.971299 ms (FindLiveObjects: 2.592681 ms CreateObjectMapping: 1.332614 ms MarkObjects: 418.984940 ms  DeleteObjects: 0.060553 ms)
+
+Loading game from file Autosave-1 with mods:
+  - brrainz.harmony
+  - brrainz.visualexceptions
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - Ludeon.RimWorld.Odyssey
+  - RedMattis.BetterPrerequisites
+  - thereallemon.factioncontrol
+  - adaptive.storage.framework
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - Troopersmith1.DeathRattle
+  - Adaptive.PrimitiveStorage
+  - m00nl1ght.UnofficialUpdates.HugsLogPublisher
+  - UnlimitedHugs.HugsLib
+  - name.krypt.rimworld.rwlayout.alpha2
+  - imranfish.xmlextensions
+  - Mlie.VisualXMLPatches
+  - smashphil.xmlpatchhelper
+  - Nightmare.Core
+  - drilledhead.MyDogsHouse
+  - Mlie.PunjiSticks
+  - zal.researchspot
+  - foodbowl.programmerlily.com
+  - AdvancedTurrets.velcroboy333
+  - Mlie.AdvancedMortar
+  - Og.Repair.Your.Gear
+  - Mlie.O21BarbedWire
+  - SlimeSenpai.AutoVentsNoPower
+  - Meltup.BeautifulOutdoors
+  - Avocado999.BetterPassiveCooler.0001
+  - brrainz.cameraplus
+  - Mlie.CoalExpanded
+  - HeadWar.DelayedDeterioration
+  - overpl.DrawnSpots
+  - EdB.PrepareCarefully
+  - BotchJob.HTHair
+  - Neronix17.Retexture.VanillaBeards
+  - Keshash.InjuryTextures
+  - Andromeda.NiceHairs
+  - sakama.RoppoiHair
+  - won.hair
+  - Erin.Hairredux
+  - rimsenal.hair
+  - won2.hair
+  - VanillaExpanded.VHE
+  - Jiopaba.Fences
+  - Shenanigans.TribalTattoos
+  - VanillaExpanded.VPsycastsE
+  - sarg.alphaanimals
+  - zal.tribalinstruments
+  - Trickity.Conversion.Staff
+  - Side1iner.TraitsPlus
+  - nakomaru.carrygenes
+  - Shenanigans.TribalBackstories1.4
+  - GHOST.TribalIcons
+  - llunak.MorePrecepts
+  - VanillaExpanded.VPE.Puppeteer
+  - Hautarche.HautsFramework
+  - Hautarche.HautsTraits
+  - sarg.alphagenes
+  - Jiopaba.FenceTab
+  - CaretCake.Resources.MoreComponentsandSteelMoreVanilla
+  - VanillaExpanded.VWETB
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VanillaTradingExpanded
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VMemesE
+  - RedMattis.VanillaGenesRebalanced
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - Chairheir.VPERunesmith
+  - VanillaExpanded.VPE.Hemosage
+  - SiSq.VPsyEDeathRattle
+  - ratys.rtsolarflareshield
+  - ratys.rtpowerswitch
+  - ratys.rtfuse
+  - Dubwise.Rimefeller
+  - dismarzero.VGP.VGPVegetableGarden
+  - dismarzero.VGP.VGPGardenGourmet
+  - UnblestMATT.ChocolateRedeux
+  - nephlite.orbitaltradecolumn
+  - MorphsAssorted.FaceTattoos
+  - dismarzero.VGP.VGPGardenCanning
+  - dismarzero.VGP.VGPMoreVeggies
+  - Mlie.RFTribalRaiders
+  - RedMattis.BigSmall.Core
+  - RedMattis.BigSmall
+  - riprusse.manhair
+  - ASF.DeepStorage
+  - Seanbeag.AnimaTree
+  - jdgg.adaptive.cargoholds
+  - Harkon.VEAddOn.VanillaExpandedExtraEmbrasures
+  - sbz.GravshipStorage
+  - sbz.NeatStorage
+  - Adaptive.SimpleStorage
+  - hobtook.mortaraccuracy
+  - Og.likeafox.rimworld.safepause.Continued
+  - Twobit.LPSmokeleaf
+  - jelly.caravangear
+  - Drenwick.BurialUrns
+  - 4loris4.MoreLinkables
+  - Hol.StoneButcher
+  - sirrandoo.mpe
+  - ryder.SatisfiedStorage
+  - Mlie.MorePlanning
+  - aardvark.MoreVisiblePause
+  - toastyman.moreritualseats
+  - iceworld.tribalouterwear
+  - Gunmar.TribalWarriorSet
+  - Mud.TribalApparel
+  - River.Tribal.Shoes
+  - River.Tribal.Mittens
+  - PeteTimesSix.SimpleSidearms
+  - klvlt.smokedfish
+  - dismarzero.VGP.Smokedmeat
+  - Elshender.stackablechunks
+  - Indeed.StackXXL
+  - m00nl1ght.MapPreview
+  - Mlie.MarkThatPawn
+  - pyrce.mass.graves.continued
+  - Grandyy.Industrial.Defense.Turrets
+  - leion247138.MedicalHIV
+  - sarg.smartspeed
+  - Mlie.SmarterVisitors
+  - denev.SmartTurretCovering
+  - Memegoddess.SmartMedicine
+  - Koth.ISiD
+  - Turnovus.RimWorld.PersistentDate
+  - kathanon.ImpressionableChildren
+  - P4V3L.PawnsCarryMoney
+  - RedMattis.BetterGeneInheritance
+  - Mlie.BoomModExpanded
+  - sneezingseal.sealsbackstorycollection
+  - Mlie.FactionRaidCooldown
+  - FlinNice.FactionRaidPointMultiplier
+  - BlackSmokeDMax.FC2p.v101
+  - Hawkwood.FloorsAreAlmostWorthless
+  - avilmask.GrazingLands
+  - Mlie.PawnNameVariety
+  - SaucyPigeon.PawnBadge
+  - Mlie.ExpandedIncidents
+  - cucumpear.flap
+  - smashphil.dropspot
+  - overpl.AnimalSarcophagus
+  - SickBoyWi.Vault.OnePointOne
+  - archie.turrettargetpatch
+  - Mlie.ExtraSecurity
+  - Mlie.VariousSpaceShipChunk
+  - Proxyer.SmallShelf
+  - dracoix.doormat.r12a
+  - Pineapple.fueledheaters
+  - Ogliss.TheWhiteCrayon.Quarry
+  - Mlie.StopQuarryingWhenFull
+  - Scherub.StonecuttingExtended
+  - Lucifer.RealisticRooms
+  - Unon.NoBurnMetal
+  - paddda.NoCarriedFood
+  - llunak.NoDefaultGatherSpot
+  - Jetroid.DoNotDrawVersion
+  - Vesper.NotMyFault
+  - Proxyer.CheapMortarShell
+  - marvinkosh.sometimesraidsgowrong
+  - marvinkosh.ughyougotme
+  - Mlie.BadLeatherCategory
+  - ivaera.wealthcable
+  - Mlie.RailsAndRoadsOfTheRim
+  - Nightmare.Museums
+  - bblkepling.childrensbooks
+  - kathanon.ResearchQueue
+  - Jaxe.Bubbles
+  - BDew.CremateAutoStrip
+  - telardo.Epitaph
+  - Vakaria.RespectScars
+  - Bazel.ToxGenPlus.2
+  - SmoothedStoneIsWorthless.Mod
+  - twistedpacifist.ReasonableComponents
+  - ChemToNeutroCombo.velcroboy333
+  - Mlie.CombatReadinessCheck
+  - visiblewealth.1trickPwnyta
+  - m00nl1ght.GeologicalLandforms
+  - Orbital.Books
+  - CrashM.ColorCodedMoodBar.11
+  - bs.xenotypespawncontrol
+  - Mlie.TechappropriateRoofMote
+  - lc.tammybee.selectablesculpturegraphic
+  - Mlie.SafelyHiddenAway
+  - det.stoneborn
+  - FrozenSnowFox.BetterExplorationLoot
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - divineDerivative.Romance
+  - mayo.kindneanderthals
+  - Mlie.RFRumorHasIt
+  - Mlie.BetterBeggars
+  - jamaicancastle.RF.fertilefields
+  - Oblitus.MyLittlePlanet
+  - madarauchiha.custommapsizes
+  - Sirprook.GrievousWounds
+  - Samael.LivestockTraders
+  - JM.betterTraders
+  - kikohi.jewelry
+  - Wyr3d.BetterVisitorTrades
+  - polymeric.bedownershiptools
+  - falconne.AFF
+  - Mehni.PickUpAndHaul
+  - Jmattspartacus.DynamicPopulationUnlocked
+  - nilchei.dynamicdiplomacycontinued
+  - Mlie.HarvestWhenButchering
+  - laredson.harvestandhaul
+  - GHXX.TechAdvancing
+  - Defi.StabilizeBleeding
+  - Mlie.TendingTakesTime
+  - Mersid.BackupPowerUpdated
+  - Woolstrand.RealRuins
+  - Piggy.OneDiseaseStart
+  - Leonapp.CarcinomaSpreads
+  - TheLastBulletBender.RWExploration
+  - VanillaExpanded.Recycling
+  - arvkus.simplerecycling
+  - Mlie.MealRadius
+  - Dubwise.DubsSkylights
+  - alyssapaws.oocmovespeedboost
+  - Keshash.LayeredWallDestruction
+  - seromas.LayeredDestruction.Patches
+  - Billnotic.ActuallyVanillaMusicExpansion
+  - Ilarion.BulkLoadForTransporters
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - Mlie.KVSupplyAndDemand
+  - bedrestforfoodpoisoning.1trickPonyta
+  - Citrus.ExpectationsModifier
+  - davai.sortedcategories
+  - Leo.CleanResearchSort
+  - sarg.alphabooks
+  - keyz182.KeyzAllowUtilities
+  - MrHydralisk.LayeredAtmosphereOrbit
+  - FrozenSnowFox.ComplexJobs
+  - PeteTimesSix.CategorizedCleaning.Split
+  - Mlie.MoreGraphs
+  - allifreyr.patch.strongermetalwalls
+  - Victor.WallsAreSolid
+  - Mlie.NoVersionWarning
+  - Mehni.Numbers
+  - Andromeda.NiceBillTab
+  - Owlchemist.SmartFarming
+  - avilmask.CommonSense
+  - erdelf.ExportAgency
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+MealRadius - Settings loaded
+Could not resolve reference to object with loadID Faction_109 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
+Null key while loading dictionary of RimWorld.Faction and MURFactionRaidCooldown.FactionData. label=factionDataDict
+Could not resolve reference to object with loadID Faction_109 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref AE695B11]
+ [0x00006] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Designation.Delete () [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Designation.ExposeData () [0x0007b] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX com.github.alandariva.moreplanning: Boolean MorePlanning.Patches.HarmonyPatches:DesignationPlanningExposeData_Prefix(Designation __instance)
+  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+    - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.CrossRefHandler_ResolveAllCrossReferences:Postfix()
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+[Tech Advancing] [Information] Detected existing world. Loading existing config...
+[Tech Advancing] [Information] Loading config...
+Unloading 0 Unused Serialized files (Serialized files now loaded: 14)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 76623.
+Total: 490.245262 ms (FindLiveObjects: 3.186647 ms CreateObjectMapping: 2.028150 ms MarkObjects: 484.936859 ms  DeleteObjects: 0.093125 ms)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Home area bounds: (227, 10) - (346, 110)
+Origin: 227, 10
+Start capturing in area of: (227,10)-(345,109)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[RaidPointMultiplier] Adjusted raid points for OutlanderRoughPig: Original 99.19573, Multiplier 1, New 99.19573
+Sometimes Raids Go Wrong: Got zero possible things to go wrong.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception in CheckCurrentToilEndOrFail for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=5) driver.job=(Milk (Job_2301417) A = Thing_Yak819621 Giver = JobGiver_Work [workGiverDef: Milk])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D1485A13]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at Verse.AI.JobDriver.EndJobWith (Verse.AI.JobCondition condition) [0x00028] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.CheckCurrentToilEndOrFail () [0x0016a] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception ticking Green (at (274, 0, 68)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at Verse.AI.Pawn_JobTracker.JobTrackerTickInterval (System.Int32 delta) [0x001c4] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Pawn.TickInterval (System.Int32 delta) [0x00050] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Thing.DoTick () [0x000eb] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.TickList.Tick () [0x00157] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Exception ticking Green (at (274, 0, 68)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception ticking Green (at (274, 0, 68)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception ticking Red (at (307, 0, 87)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2306602) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at Verse.AI.Toils_Reserve+<>c__DisplayClass1_0.<Reserve>b__0 () [0x0005b] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x00208] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Exception ticking Balcam (at (278, 0, 75)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F996DB06]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at RimWorld.Pawn_DraftController.set_Drafted (System.Boolean value) [0x001c8] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.Drafted_Patch:Prefix(Pawn_DraftController __instance, Boolean& value)
+    - POSTFIX PeteTimesSix.SimpleSidearms: Void PeteTimesSix.SimpleSidearms.Intercepts.Pawn_DraftController_Drafted_Setter_Postfix:DraftedSetter(Pawn_DraftController __instance)
+    - POSTFIX Mlie.MarkThatPawn: Void MarkThatPawn.Harmony.Pawn_DraftController_Drafted:Postfix(Pawn ___pawn)
+    - POSTFIX alyssapaws.oocmovespeedboost: Void OOCMoveSpeedBoost.PawnDraftController_Drafted:Postfix(Pawn_DraftController __instance)
+    - POSTFIX falconne.AFF: Void AvoidFriendlyFire.Pawn_DraftController_set_Drafted_Patch:Postfix(Pawn_DraftController __instance, Boolean value)
+  at RimWorld.Pawn_DraftController.<GetGizmos>b__15_1 () [0x00007] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Command_Toggle.ProcessInput (UnityEngine.Event ev) [0x00007] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.GizmoGridDrawer.DrawGizmoGrid (System.Collections.Generic.IEnumerable`1[T] gizmos, System.Single startX, Verse.Gizmo& mouseoverGizmo, System.Func`2[T,TResult] customActivatorFunc, System.Func`2[T,TResult] highlightFunc, System.Func`2[T,TResult] lowlightFunc, System.Boolean multipleSelected) [0x007aa] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.GizmoGridDrawer.DrawGizmoGridFor (System.Collections.Generic.IEnumerable`1[T] selectedObjects, Verse.Gizmo& mouseoverGizmo) [0x00204] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original) currentSelectable: null
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception ticking Entasga (at (306, 0, 94)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_HaulToCell (toilIndex=0)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 3D2E1BC0]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at Verse.AI.JobDriver.EndJobWith (Verse.AI.JobCondition condition) [0x00028] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x00105] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+  at Verse.AI.JobDriver.ReadyForNextToil () [0x00007] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.DriverTick () [0x00047] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception ticking Crosswell (at (305, 0, 77)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception in JobDriver fixed tick for pawn Crosswell driver=JobDriver_ConstructFinishFrame (toilIndex=0)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 3D2E1BC0] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB]
+  at RimWorld.Quest.Notify_SignalReceived (RimWorld.Signal signal) [0x00026] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+  at RimWorld.SignalManager.SendSignal (RimWorld.Signal signal) [0x000cc] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F5B3AFEB] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2340280) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+Exception in CheckCurrentToilEndOrFail for pawn Red driver=JobDriver_HaulToInventory (toilIndex=2) driver.job=(Research (Job_2344328) A = Thing_SimpleResearchBench1147644 Giver = JobGiver_Work [workGiverDef: Research])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D1485A13] Duplicate stacktrace, see ref for original
+Could not reserve Thing_Human1053 (layer: null) for Purple for job ProposeHangout (Job_2345390) A = Thing_Human1053 Giver = JobGiver_GetJoy [workGiverDef: null] (now doing job ProposeHangout (Job_2345390) A = Thing_Human1053 Giver = JobGiver_GetJoy [workGiverDef: null](curToil=-1)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Crosswell (job: ProposeHangout (Job_2345219) A = Thing_Human1053 Giver = JobGiver_GetJoy [workGiverDef: null], toil: 0, maxPawns: 1, stackCount: -1)
+TryMakePreToilReservations() returned false for a non-queued job right after StartJob(). This should have been checked before. pawn = Purple, curJob = ProposeHangout (Job_2345390) A = Thing_Human1053 Giver = JobGiver_GetJoy [workGiverDef: null]
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception ticking Purple (at (309, 0, 87)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2365728) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2371018) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2405140) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+Exception ticking Alligator (at (265, 0, 71)). Suppressing further errors. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2408137) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+Exception in JobDriver fixed tick for pawn Balcam driver=JobDriver_LayDown (toilIndex=0)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 3D2E1BC0] Duplicate stacktrace, see ref for original
+JobDriver threw exception in toil null's initAction for pawn Alligator driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2412850) A = Thing_Human1684476)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2423800) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception in CheckCurrentToilEndOrFail for pawn Red driver=JobDriver_JobDateFollow (toilIndex=37) driver.job=(LayDown (Job_2426919) A = Thing_BedrollDouble1154971 Giver = JobGiver_GetRest [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D1485A13] Duplicate stacktrace, see ref for original
+Exception in JobDriver fixed tick for pawn Red driver=JobDriver_LayDown (toilIndex=0)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 3D2E1BC0] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_2432727) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original
+Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_Milk (toilIndex=0)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 3D2E1BC0] Duplicate stacktrace, see ref for original
+Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_Milk (toilIndex=0)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 3D2E1BC0] Duplicate stacktrace, see ref for original
+Exception in CheckCurrentToilEndOrFail for pawn Crosswell driver=JobDriver_HaulToInventory (toilIndex=2) driver.job=(HaulToCell (Job_2438619) A = Thing_MealSimple1685598 B = (267, 0, 42))
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D1485A13] Duplicate stacktrace, see ref for original
