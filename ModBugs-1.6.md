@@ -25,6 +25,7 @@
     - [Hypothesis - conflicting pawn work](#hypothesis---conflicting-pawn-work)
   - [More errors](#more-errors)
     - [Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver\_LayDown](#exception-in-jobdriver-fixed-tick-for-pawn-entasga-driverjobdriver_laydown)
+  - [Disable Many Harvest and Haul Options](#disable-many-harvest-and-haul-options)
 
 
 # Pawn Gets Stuck
@@ -540,6 +541,10 @@ Verse.TickManager:TickManagerUpdate ()
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
 ```
+
+## Disable Many Harvest and Haul Options
+
+Try disabling everything on the "work" tab in "Harvest and Haul" options.
 
 
 

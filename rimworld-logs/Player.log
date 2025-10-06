@@ -747,3 +747,68 @@ System.NullReferenceException: Object reference not set to an instance of an obj
   at RimWorld.Toils_LayDown+<>c__DisplayClass6_0.<LayDown>b__1 () [0x000cc] in <31482697ada14932981abc5e76101d5d>:0 
   at Verse.AI.JobDriver.DriverTick () [0x001a3] in <31482697ada14932981abc5e76101d5d>:0 
     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Exception ticking Entasga (at (276, 0, 46)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Object with load ID Faction_110 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+Object with load ID Faction_111 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+Object with load ID Faction_110 is referenced (xml node name: faction) but is not deep-saved. This will cause errors during loading.
+Object with load ID Faction_111 is referenced (xml node name: faction) but is not deep-saved. This will cause errors during loading.
+Object with load ID Thing_BS_SurtrSword_Persona1801370 is referenced (xml node name: bondedWeapon) but is not deep-saved. This will cause errors during loading.
+[Dynamic Diplomacy] battle sim defender wins
+[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
+Exception ticking Red (at (274, 0, 78)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception ticking Crosswell (at (269, 0, 73)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception ticking Crosswell (at (269, 0, 73)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref F996DB06]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at RimWorld.Pawn_DraftController.set_Drafted (System.Boolean value) [0x001c8] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.Drafted_Patch:Prefix(Pawn_DraftController __instance, Boolean& value)
+    - POSTFIX PeteTimesSix.SimpleSidearms: Void PeteTimesSix.SimpleSidearms.Intercepts.Pawn_DraftController_Drafted_Setter_Postfix:DraftedSetter(Pawn_DraftController __instance)
+    - POSTFIX Mlie.MarkThatPawn: Void MarkThatPawn.Harmony.Pawn_DraftController_Drafted:Postfix(Pawn ___pawn)
+    - POSTFIX alyssapaws.oocmovespeedboost: Void OOCMoveSpeedBoost.PawnDraftController_Drafted:Postfix(Pawn_DraftController __instance)
+    - POSTFIX falconne.AFF: Void AvoidFriendlyFire.Pawn_DraftController_set_Drafted_Patch:Postfix(Pawn_DraftController __instance, Boolean value)
+  at RimWorld.Pawn_DraftController.<GetGizmos>b__15_1 () [0x00007] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Command_Toggle.ProcessInput (UnityEngine.Event ev) [0x00007] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.GizmoGridDrawer.DrawGizmoGrid (System.Collections.Generic.IEnumerable`1[T] gizmos, System.Single startX, Verse.Gizmo& mouseoverGizmo, System.Func`2[T,TResult] customActivatorFunc, System.Func`2[T,TResult] highlightFunc, System.Func`2[T,TResult] lowlightFunc, System.Boolean multipleSelected) [0x007aa] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.GizmoGridDrawer.DrawGizmoGridFor (System.Collections.Generic.IEnumerable`1[T] selectedObjects, Verse.Gizmo& mouseoverGizmo) [0x00204] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original) currentSelectable: null
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Object with load ID Faction_110 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+Object with load ID Faction_111 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading.
+Object with load ID Faction_110 is referenced (xml node name: faction) but is not deep-saved. This will cause errors during loading.
+Object with load ID Faction_111 is referenced (xml node name: faction) but is not deep-saved. This will cause errors during loading.
+Object with load ID Thing_BS_SurtrSword_Persona1801370 is referenced (xml node name: bondedWeapon) but is not deep-saved. This will cause errors during loading.
+Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_LayDown (toilIndex=2) driver.job=(LayDown (Job_5919453) A = Thing_Bedroll114754 Giver = JobGiver_GetRest [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref A0E43A0A] Duplicate stacktrace, see ref for original
+Exception ticking Red (at (268, 0, 71)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception ticking Red (at (268, 0, 71)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8E127AF6] Duplicate stacktrace, see ref for original
+Exception in JobDriver tick for pawn Red driver=JobDriver_DoBill (toilIndex=-1) driver.job=(DoBill (Job_5925518) A = Thing_TableStonecutter1573992 Giver = JobGiver_Work [workGiverDef: DoBillsStonecut])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 325FAC53]
+  at Verse.AI.JobDriver.DriverTickInterval (System.Int32 delta) [0x0003a] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_5928422) A = Thing_Human1059)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref CB24E419] Duplicate stacktrace, see ref for original

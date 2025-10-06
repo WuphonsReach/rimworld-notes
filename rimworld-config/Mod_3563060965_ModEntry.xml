@@ -1,4 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="HarvestAndHaul.HAH_Settings" />
+	<ModSettings Class="HarvestAndHaul.HAH_Settings">
+		<enableAutoPickup_Wood>False</enableAutoPickup_Wood>
+		<enableHarvestPlants>False</enableHarvestPlants>
+		<enableMining>False</enableMining>
+		<enableDeepDrill>False</enableDeepDrill>
+		<enableDeconstruct>False</enableDeconstruct>
+		<enableAnimalProducts>False</enableAnimalProducts>
+	</ModSettings>
 </SettingsBlock>
