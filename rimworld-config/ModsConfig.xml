@@ -3,6 +3,7 @@
   <version>1.6.4566 rev619</version>
   <activeMods>
     <li>brrainz.harmony</li>
+    <li>brrainz.visualexceptions</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.ideology</li>
@@ -56,7 +57,6 @@
     <li>zal.tribalinstruments</li>
     <li>trickity.conversion.staff</li>
     <li>side1iner.traitsplus</li>
-    <li>sarg.alphagenes</li>
     <li>nakomaru.carrygenes</li>
     <li>shenanigans.tribalbackstories1.4</li>
     <li>ghost.tribalicons</li>
@@ -232,6 +232,7 @@
     <li>arvkus.simplerecycling</li>
     <li>mlie.mealradius</li>
     <li>dubwise.dubsskylights</li>
+    <li>alyssapaws.oocmovespeedboost</li>
     <li>keshash.layeredwalldestruction</li>
     <li>seromas.layereddestruction.patches</li>
     <li>billnotic.actuallyvanillamusicexpansion</li>
