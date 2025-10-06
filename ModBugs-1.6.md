@@ -1,11 +1,12 @@
 
 
 - [Pawn Gets Stuck](#pawn-gets-stuck)
-  - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry)
-  - [Exception in JobDriver fixed tick for pawn Green driver=JobDriver\_Meditate](#exception-in-jobdriver-fixed-tick-for-pawn-green-driverjobdriver_meditate)
-  - [Haul Urgently had a similar error in the past](#haul-urgently-had-a-similar-error-in-the-past)
-  - [Haul designation has no target! Deleting.](#haul-designation-has-no-target-deleting)
-    - [Haul designation has no target! Deleting.](#haul-designation-has-no-target-deleting-1)
+  - [Initial errors](#initial-errors)
+    - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry)
+    - [Exception in JobDriver fixed tick for pawn Green driver=JobDriver\_Meditate](#exception-in-jobdriver-fixed-tick-for-pawn-green-driverjobdriver_meditate)
+    - [Haul Urgently had a similar error in the past](#haul-urgently-had-a-similar-error-in-the-past)
+  - [Another set of errors on 10/6](#another-set-of-errors-on-106)
+    - [Haul designation has no target! Deleting.](#haul-designation-has-no-target-deleting)
     - [Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.](#could-not-resolve-cross-refs-systemargumentnullexception-value-cannot-be-null)
     - [Thing-needing designation (Haul target=null) had no thing target. Removing...](#thing-needing-designation-haul-targetnull-had-no-thing-target-removing)
     - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry-1)
@@ -13,13 +14,17 @@
     - [System.NullReferenceException: Object reference not set to an instance of an object](#systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object-1)
     - [Exception in JobDriver fixed tick for pawn Red driver=JobDriver\_HaulToContainer](#exception-in-jobdriver-fixed-tick-for-pawn-red-driverjobdriver_haultocontainer)
     - [Exception in Verse.TickList.Tick: System.NullReferenceException: Object reference not set to an instance of an object](#exception-in-verseticklisttick-systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object)
+  - [Removed Alpha Genes mod 10/6](#removed-alpha-genes-mod-106)
+    - [System.NullReferenceException: Object reference not set to an instance of an object](#systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object-2)
 
 
 # Pawn Gets Stuck
 
 Seen in 1.6 with the mod list of Oct 5th 2025.  First guess is that it's the quarry mod.  But it's probably something else like Common Sense or a mod that tells the pawn to carry what they harvest.  
 
-## JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry
+## Initial errors
+
+### JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry
 
 ```
 JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver_MineQuarry (toilIndex=3) driver.job=(UnloadYourHauledInventory (Job_1584342) A = Thing_Human1059)
@@ -58,7 +63,7 @@ Verse.TickManager:TickManagerUpdate ()
 Verse.Root_Play:Update ()
 ```
 
-## Exception in JobDriver fixed tick for pawn Green driver=JobDriver_Meditate
+### Exception in JobDriver fixed tick for pawn Green driver=JobDriver_Meditate
 
 Second pawn
 
@@ -99,13 +104,13 @@ Verse.TickManager:TickManagerUpdate ()
 Verse.Root_Play:Update ()
 ```
 
-## Haul Urgently had a similar error in the past
+### Haul Urgently had a similar error in the past
 
 We've seen this error before with Haul Urgently.
 
 > It is trying to pass the Object Reference (which it couldnt generate because the object is supposed to be invisible or obscured by the Fogged function) over to the Haul Urgently
 
-## Haul designation has no target! Deleting.
+## Another set of errors on 10/6
 
 Another set of errors on 10/6 at 5am, seen even with CommonSense at the bottom of the list.  Not all of these errors are specific to the root issue.
 
@@ -357,3 +362,39 @@ Exception in Verse.TickList.Tick: System.NullReferenceException: Object referenc
     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
 ```
 
+## Removed Alpha Genes mod 10/6
+
+Removing this from the game to see if this deals with the issue.
+
+### System.NullReferenceException: Object reference not set to an instance of an object
+
+Seen after removing Alpha Genes mod.  This probably points to something in the Common Sense mod?
+
+```
+Exception ticking Entasga (at (289, 0, 63)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref A55FF508]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at Verse.AI.Pawn_JobTracker.JobTrackerTickInterval (System.Int32 delta) [0x001c4] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Pawn.TickInterval (System.Int32 delta) [0x00050] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Thing.DoTick () [0x000eb] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.TickList.Tick () [0x00157] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickList.Tick_Patch1 (Verse.TickList)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickManager.DoSingleTick_Patch4 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+```

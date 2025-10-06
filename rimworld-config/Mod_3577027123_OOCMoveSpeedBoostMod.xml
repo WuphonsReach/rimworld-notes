@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="OOCMoveSpeedBoost.Settings">
+		<speedBoostMult>1.25</speedBoostMult>
+		<showBoostToggle>True</showBoostToggle>
+		<speedBoostToggle>True</speedBoostToggle>
+		<manualReactivation>False</manualReactivation>
+		<disableWhenDrafted>True</disableWhenDrafted>
+		<onOffNotification>True</onOffNotification>
+	</ModSettings>
+</SettingsBlock>
