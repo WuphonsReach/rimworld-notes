@@ -19,7 +19,10 @@
     - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry-2)
   - [Patterns Emerge](#patterns-emerge)
   - [Disable Vanilla Psycasts Expanded (No Change)](#disable-vanilla-psycasts-expanded-no-change)
-  - [Disable CommonSense "haul ingredients for a bill to stockpile"](#disable-commonsense-haul-ingredients-for-a-bill-to-stockpile)
+  - [Disable CommonSense Options](#disable-commonsense-options)
+    - ["haul ingredients for a bill to stockpile"](#haul-ingredients-for-a-bill-to-stockpile)
+    - [Disable CommonSense "pickup all ingredients"](#disable-commonsense-pickup-all-ingredients)
+    - [Hypothesis - conflicting pawn work](#hypothesis---conflicting-pawn-work)
 
 
 # Pawn Gets Stuck
@@ -485,9 +488,21 @@ Verse.TickManager:TickManagerUpdate ()
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
 ```
 
-## Disable CommonSense "haul ingredients for a bill to stockpile"
+## Disable CommonSense Options
 
-Maybe?
+### "haul ingredients for a bill to stockpile"
+
+Maybe?  Negative.
+
+### Disable CommonSense "pickup all ingredients"
+
+Maybe? Probably not. 
+
+### Hypothesis - conflicting pawn work
+
+Could it be that two pawns are trying to do the same job at the same time?
+
+
 
 
 
