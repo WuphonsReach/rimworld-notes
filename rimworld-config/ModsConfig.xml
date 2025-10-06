@@ -85,7 +85,6 @@
     <li>vanillaexpanded.varme</li>
     <li>vanillaexpanded.vappe</li>
     <li>vanillaexpanded.vanillaanimalsexpanded</li>
-    <li>dev.tobot.renamesettlements</li>
     <li>ratys.rtsolarflareshield</li>
     <li>ratys.rtpowerswitch</li>
     <li>ratys.rtfuse</li>
@@ -158,6 +157,7 @@
     <li>smashphil.dropspot</li>
     <li>overpl.animalsarcophagus</li>
     <li>sickboywi.vault.onepointone</li>
+    <li>archie.turrettargetpatch</li>
     <li>mlie.extrasecurity</li>
     <li>mlie.variousspaceshipchunk</li>
     <li>proxyer.smallshelf</li>
@@ -215,7 +215,6 @@
     <li>wyr3d.bettervisitortrades</li>
     <li>polymeric.bedownershiptools</li>
     <li>falconne.aff</li>
-    <li>avilmask.commonsense</li>
     <li>mehni.pickupandhaul</li>
     <li>jmattspartacus.dynamicpopulationunlocked</li>
     <li>nilchei.dynamicdiplomacycontinued</li>
@@ -241,17 +240,21 @@
     <li>mlie.kvsupplyanddemand</li>
     <li>bedrestforfoodpoisoning.1trickponyta</li>
     <li>citrus.expectationsmodifier</li>
-    <li>owlchemist.smartfarming</li>
     <li>davai.sortedcategories</li>
     <li>leo.cleanresearchsort</li>
     <li>sarg.alphabooks</li>
     <li>keyz182.keyzallowutilities</li>
     <li>mrhydralisk.layeredatmosphereorbit</li>
     <li>frozensnowfox.complexjobs</li>
+    <li>petetimessix.categorizedcleaning.split</li>
+    <li>mlie.moregraphs</li>
     <li>allifreyr.patch.strongermetalwalls</li>
+    <li>victor.wallsaresolid</li>
     <li>mlie.noversionwarning</li>
     <li>mehni.numbers</li>
     <li>andromeda.nicebilltab</li>
+    <li>owlchemist.smartfarming</li>
+    <li>avilmask.commonsense</li>
     <li>erdelf.exportagency</li>
   </activeMods>
   <knownExpansions>
