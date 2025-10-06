@@ -604,12 +604,12 @@ Try disabling everything on the "work" tab in "Harvest and Haul" options.
 
 ### Remove both HAH and PUAH
 
-Remove both Harvest and Haul and Pick Up and Haul mods.  Also Bulk Load for Transports mod.
+Remove both Harvest and Haul and Pick Up and Haul mods.  Also Bulk Load for Transports mod because it depends on "Pick Up and Haul" (PUAH).
 
-I might have to put PUAH back due to errors when trying to continue the save.
+- mehni.pickupandhaul
+- laredson.harvestandhaul
+- ilarion.bulkloadfortransporters (depends on mehni.pickupandhaul)
 
-
-
-
+Given that I've avoided any errors since removing those (3) mods, it'sprobably one of those.
 
 
