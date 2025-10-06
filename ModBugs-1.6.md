@@ -502,6 +502,8 @@ Maybe? Probably not. Negative.
 
 Could it be that two pawns are trying to do the same job at the same time?
 
+Better guess, it's when a pawn goes to switch to a different job.  Which might point back to opportunistic jobs.
+
 
 
 
