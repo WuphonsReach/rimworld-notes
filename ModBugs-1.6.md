@@ -18,7 +18,8 @@
     - [System.NullReferenceException: Object reference not set to an instance of an object](#systemnullreferenceexception-object-reference-not-set-to-an-instance-of-an-object-2)
     - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry-2)
   - [Patterns Emerge](#patterns-emerge)
-  - [Disable Vanilla Psycasts Expanded](#disable-vanilla-psycasts-expanded)
+  - [Disable Vanilla Psycasts Expanded (No Change)](#disable-vanilla-psycasts-expanded-no-change)
+  - [](#)
 
 
 # Pawn Gets Stuck
@@ -448,7 +449,40 @@ Verse.TickManager:TickManagerUpdate ()
 
 The [fix for this in the "RimworldAllowTool" was a null check](https://github.com/UnlimitedHugs/RimworldAllowTool/pull/56/files#diff-5b78c6ac1df3320a2900363dc1d190db73865b27a174a5495b23f49a89f9e696L42-L44).
 
-## Disable Vanilla Psycasts Expanded
+## Disable Vanilla Psycasts Expanded (No Change)
 
 See if this makes a difference.
 
+Nope.
+
+That rules out Vanilla Psycasts Expanded and Alpha Genes.
+
+```
+Exception ticking Balcam (at (268, 0, 70)): System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B3F2734B]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x00487] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.TryFindAndStartJob () [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.EndCurrentJob (Verse.AI.JobCondition condition, System.Boolean startNewJob, System.Boolean canReturnToPool) [0x002a7] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_EndCurrentJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch __instance, JobCondition condition)
+    - PREFIX kathanon.ImpressionableChildren: Void ImpressionableChildren.Learning_Patches:EndCurrentJob(Pawn ___pawn, JobDriver ___curDriver)
+    - PREFIX Ilarion.BulkLoadForTransporters: Void BulkLoadForTransporters.HarmonyPatches.LoadTransporters.Pawn_JobTracker_EndCurrentJob_Patch:Prefix(Pawn_JobTracker __instance, JobCondition condition, Pawn ___pawn)
+  at Verse.AI.Pawn_JobTracker.JobTrackerTickInterval (System.Int32 delta) [0x001c4] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Pawn.TickInterval (System.Int32 delta) [0x00050] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Thing.DoTick () [0x000eb] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.TickList.Tick () [0x00157] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickList.Tick_Patch1 (Verse.TickList)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickManager.DoSingleTick_Patch4 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+```
+
+## 
