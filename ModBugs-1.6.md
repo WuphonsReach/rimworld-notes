@@ -496,7 +496,7 @@ Maybe?  Negative.
 
 ### Disable CommonSense "pickup all ingredients"
 
-Maybe? Probably not. 
+Maybe? Probably not. Negative.
 
 ### Hypothesis - conflicting pawn work
 

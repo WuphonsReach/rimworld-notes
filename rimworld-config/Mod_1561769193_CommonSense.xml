@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="CommonSense.Settings">
-		<adv_haul_all_ings>False</adv_haul_all_ings>
+		<doc_clean_num>5</doc_clean_num>
 		<mood_regen>True</mood_regen>
 		<safe_wander>True</safe_wander>
 		<optimal_patching>True</optimal_patching>
