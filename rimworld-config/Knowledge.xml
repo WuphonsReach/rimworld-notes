@@ -75,7 +75,7 @@
     </li>
     <li>
       <key>DoorOpenSpeed</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>QueueOrders</key>

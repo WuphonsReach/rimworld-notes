@@ -1,5 +1,6 @@
 
 
+- [Categorized Cleaning](#categorized-cleaning)
 - [Pawn Gets Stuck](#pawn-gets-stuck)
   - [Initial errors](#initial-errors)
     - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry)
@@ -28,6 +29,60 @@
   - [Disable Many Harvest and Haul Options](#disable-many-harvest-and-haul-options)
     - [Remove both HAH and PUAH](#remove-both-hah-and-puah)
 
+
+# Categorized Cleaning
+
+This happened when changing walls out where we remove the old wall first, then build a new one.  This is the split version of the module with three different priorites for the three jobs.
+
+- I have the split version of the mod
+- I have three different priorities for the three jobs (with the outside 3rd one turned off)
+- I tear down a wall to replace it (vanilla behavior)
+- Which changes the rooms.
+
+```
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2983166E]
+  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
+  at Verse.Room.Notify_RoomShapeChanged () [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
+  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms_Patch1 (Verse.RegionAndRoomUpdater)
+Verse.RegionGrid:GetValidRegionAt (Verse.IntVec3)
+Verse.RegionAndRoomQuery:RegionAt (Verse.IntVec3,Verse.Map,Verse.RegionType)
+Verse.RegionAndRoomQuery:DistrictAt (Verse.IntVec3,Verse.Map,Verse.RegionType)
+Verse.RegionAndRoomQuery:RoomAt (Verse.IntVec3,Verse.Map,Verse.RegionType)
+Verse.GridsUtility:GetRoom (Verse.IntVec3,Verse.Map)
+Verse.GenPlace:PlaceSpotQualityAt (Verse.IntVec3,Verse.Rot4,Verse.Map,Verse.Thing,Verse.IntVec3,bool,System.Predicate`1<Verse.IntVec3>)
+Verse.GenPlace:TryFindPlaceSpotNear (Verse.IntVec3,Verse.Rot4,Verse.Map,Verse.Thing,bool,Verse.IntVec3&,System.Predicate`1<Verse.IntVec3>)
+Verse.GenPlace:TryPlaceThing (Verse.Thing,Verse.IntVec3,Verse.Map,Verse.ThingPlaceMode,Verse.Thing&,System.Action`2<Verse.Thing, int>,System.Predicate`1<Verse.IntVec3>,System.Nullable`1<Verse.Rot4>,int)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.GenDrop.TryDropSpawn_Patch1 (Verse.Thing,Verse.IntVec3,Verse.Map,Verse.ThingPlaceMode,Verse.Thing&,System.Action`2<Verse.Thing, int>,System.Predicate`1<Verse.IntVec3>,bool)
+Verse.ThingOwner:TryDrop (Verse.Thing,Verse.IntVec3,Verse.Map,Verse.ThingPlaceMode,Verse.Thing&,System.Action`2<Verse.Thing, int>,System.Predicate`1<Verse.IntVec3>,bool)
+Verse.ThingOwner`1<Verse.Thing>:TryDrop (Verse.Thing,Verse.IntVec3,Verse.Map,Verse.ThingPlaceMode,Verse.Thing&,System.Action`2<Verse.Thing, int>,System.Predicate`1<Verse.IntVec3>)
+RimWorld.GenLeaving:DoLeavingsFor (Verse.Thing,Verse.Map,Verse.DestroyMode,Verse.CellRect,System.Predicate`1<Verse.IntVec3>,System.Collections.Generic.List`1<Verse.Thing>)
+RimWorld.GenLeaving:DoLeavingsFor (Verse.Thing,Verse.Map,Verse.DestroyMode,System.Collections.Generic.List`1<Verse.Thing>)
+Verse.Thing:Destroy (Verse.DestroyMode)
+Verse.ThingWithComps:Destroy (Verse.DestroyMode)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Building.Destroy_Patch1 (Verse.Building,Verse.DestroyMode)
+RimWorld.JobDriver_Deconstruct:FinishedRemoving ()
+RimWorld.JobDriver_RemoveBuilding:<MakeNewToils>b__14_5 ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.AI.JobDriver.TryActuallyStartNextToil_Patch1 (Verse.AI.JobDriver)
+Verse.AI.JobDriver:ReadyForNextToil ()
+RimWorld.JobDriver_RemoveBuilding/<>c__DisplayClass14_0:<MakeNewToils>b__2 (int)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.AI.JobDriver.DriverTickInterval_Patch1 (Verse.AI.JobDriver,int)
+Verse.AI.Pawn_JobTracker:JobTrackerTickInterval (int)
+Verse.Pawn:TickInterval (int)
+Verse.Thing:DoTick ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickList.Tick_Patch1 (Verse.TickList)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickManager.DoSingleTick_Patch4 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+```
 
 # Pawn Gets Stuck
 
