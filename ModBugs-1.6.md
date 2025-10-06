@@ -549,7 +549,11 @@ Try disabling everything on the "work" tab in "Harvest and Haul" options.
 
 ### Remove both HAH and PUAH
 
-Remove both Harvest and Haul and Pick Up and Haul
+Remove both Harvest and Haul and Pick Up and Haul mods.  Also Bulk Load for Transports mod.
+
+I might have to put PUAH back due to errors when trying to continue the save.
+
+
 
 
 
