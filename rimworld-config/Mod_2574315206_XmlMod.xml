@@ -55,6 +55,16 @@
 				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFRescueInFirefighting</li>
 				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFSlavesAreCapable</li>
 				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFWarcasketsAreCapable</li>
+				<li>Victor.WallsAreSolid;Buildings_Toggle</li>
+				<li>Victor.WallsAreSolid;SharpMeleePassable</li>
+				<li>Victor.WallsAreSolid;SharpMeleeImpassable</li>
+				<li>Victor.WallsAreSolid;BluntPassable</li>
+				<li>Victor.WallsAreSolid;BluntImpassable</li>
+				<li>Victor.WallsAreSolid;SharpRangedPassable</li>
+				<li>Victor.WallsAreSolid;SharpRangedImpassable</li>
+				<li>Victor.WallsAreSolid;BombPassable</li>
+				<li>Victor.WallsAreSolid;BombImpassable</li>
+				<li>Victor.WallsAreSolid;Resistant_Stone</li>
 			</keys>
 			<values>
 				<li>true</li>
@@ -109,6 +119,16 @@
 				<li>false</li>
 				<li>false</li>
 				<li>false</li>
+				<li>True</li>
+				<li>0.4</li>
+				<li>0.1</li>
+				<li>0.5</li>
+				<li>0.3</li>
+				<li>0.2</li>
+				<li>0.2</li>
+				<li>0.8</li>
+				<li>1</li>
+				<li>False</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

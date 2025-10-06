@@ -7,11 +7,11 @@
 		<QRY_OreDictionary>
 			<li>
 				<thingDef>Steel</thingDef>
-				<count>130</count>
+				<count>61</count>
 			</li>
 			<li>
 				<thingDef>Silver</thingDef>
-				<count>3</count>
+				<count>9</count>
 			</li>
 			<li>
 				<thingDef>Gold</thingDef>
@@ -35,11 +35,11 @@
 			</li>
 			<li>
 				<thingDef>ChunkSalt</thingDef>
-				<count>10</count>
+				<count>5</count>
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
-				<count>60</count>
+				<count>15</count>
 			</li>
 			<li>
 				<thingDef>AA_SkySteel</thingDef>
