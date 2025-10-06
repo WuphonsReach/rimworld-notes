@@ -1,7 +1,5 @@
 #!/bin/bash
 
-current_datetime=$(date '+%Y-%m-%d %H:%M:%S')
-echo "date=$current_datetime"
 
 pushd rimworld-config
 ./grab-latest.sh
@@ -14,5 +12,7 @@ pushd rimworld-logs
 popd
 
 git add "rimworld-config/" "rimworld-mod-lists/"
-git commit -m "snapshot: $current_datetime"
 
+#current_datetime=$(date '+%Y-%m-%d %H:%M:%S')
+#echo "date=$current_datetime"
+#git commit -m "snapshot: $current_datetime"

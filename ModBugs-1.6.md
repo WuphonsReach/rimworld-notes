@@ -23,6 +23,8 @@
     - ["haul ingredients for a bill to stockpile"](#haul-ingredients-for-a-bill-to-stockpile)
     - [Disable CommonSense "pickup all ingredients"](#disable-commonsense-pickup-all-ingredients)
     - [Hypothesis - conflicting pawn work](#hypothesis---conflicting-pawn-work)
+  - [More errors](#more-errors)
+    - [Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver\_LayDown](#exception-in-jobdriver-fixed-tick-for-pawn-entasga-driverjobdriver_laydown)
 
 
 # Pawn Gets Stuck
@@ -504,7 +506,40 @@ Could it be that two pawns are trying to do the same job at the same time?
 
 Better guess, it's when a pawn goes to switch to a different job.  Which might point back to opportunistic jobs.
 
+## More errors
 
+### Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_LayDown
+
+
+```
+Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_LayDown (toilIndex=2) driver.job=(LayDown (Job_5865962) A = Thing_Bedroll114754 Giver = JobGiver_GetRest [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref A0E43A0A]
+  at Verse.GridsUtility.Fogged (Verse.Thing t) [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.HaulAIUtility.PawnCanAutomaticallyHaulFast (Verse.Pawn p, Verse.Thing t, System.Boolean forced) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER com.alphagenes: IEnumerable`1 AlphaGenes.AlphaGenes_HaulAIUtility_PawnCanAutomaticallyHaulFast:Transpiler(IEnumerable`1 instructions, ILGenerator generator)
+  at Verse.AI.Pawn_JobTracker.TryOpportunisticJob (Verse.AI.Job finalizerJob, Verse.AI.Job job) [0x00188] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.Pawn_JobTracker.StartJob (Verse.AI.Job newJob, Verse.AI.JobCondition lastJobEndCondition, Verse.AI.ThinkNode jobGiver, System.Boolean resumeCurJobAfterwards, System.Boolean cancelBusyStances, Verse.ThinkTreeDef thinkTree, System.Nullable`1[T] tag, System.Boolean fromQueue, System.Boolean canReturnCurJobToPool, System.Nullable`1[T] keepCarryingThingOverride, System.Boolean continueSleeping, System.Boolean addToJobsThisTick, System.Boolean preToilReservationsCanFail) [0x004a9] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX net.avilmask.rimworld.mod.CommonSense: Boolean CommonSense.OpportunisticTasks+Pawn_JobTracker_StartJob_CommonSensePatch:Prefix(Pawn_JobTracker_Crutch& __instance, Job newJob, Boolean fromQueue)
+    - PREFIX OskarPotocki.VanillaPsycastsExpanded: Boolean VanillaPsycastsExpanded.Pawn_JobTracker_StartJob_Patch:Prefix(Pawn_JobTracker __instance, Pawn ___pawn, Job newJob, Nullable`1 tag)
+    - PREFIX OskarPotocki.VanillaTraitsExpanded: Boolean VanillaTraitsExpanded.StartJob_Patch:Prefix(Pawn ___pawn, Job newJob, JobCondition lastJobEndCondition)
+  at Verse.AI.Pawn_JobTracker.CheckForJobOverride (System.Single minPriority, System.Boolean ignoreQueue) [0x0007a] in <31482697ada14932981abc5e76101d5d>:0 
+  at RimWorld.Toils_LayDown+<>c__DisplayClass6_0.<LayDown>b__1 () [0x000cc] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.DriverTick () [0x001a3] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.AI.JobUtility:TryStartErrorRecoverJob (Verse.Pawn,string,System.Exception,Verse.AI.JobDriver)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.AI.JobDriver.DriverTick_Patch1 (Verse.AI.JobDriver)
+Verse.AI.Pawn_JobTracker:JobTrackerTick ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Pawn.Tick_Patch1 (Verse.Pawn)
+Verse.Thing:DoTick ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickList.Tick_Patch1 (Verse.TickList)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickManager.DoSingleTick_Patch4 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+```
 
 
 
