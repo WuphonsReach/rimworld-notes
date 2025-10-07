@@ -60,3 +60,396 @@ Combat Readiness Check: Patched Caravan.PlayerWealthForStoryteller.
 Dubs Skylight 1.5.3114
 [Bed Rest For Food Poisoning] Loaded.
 <color=#1c6beb>[KeyzAllowUtilities]</color> Loading KeyzAllowUtilities
+Key binding conflict: MainTab_kNumbersOverviewTab and OpenMapSearch are both bound to Z.
+Key binding conflict: OpenMapSearch and MainTab_kNumbersOverviewTab are both bound to Z.
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble, Vacstone
+Translation data for language English has 2 errors. Generate translation report for more info.
+KCSG has Created 7252 symbolDefs for vanilla and DLCs
+[XML Extensions] Initialized 4 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
+[XML Extensions] 4291 total patch operations run in 6535ms, 0 failed
+[XML Extensions] Emitted 4 mod class(es)
+[XmlPatchHelper] version 1.6.1124
+[Hauts' Framework] active.
+[Hauts' Added Traits] active.
+[Utility Columns] - Patching...
+[BorderOnPause 2.0.0.18] Initialized
+[TrueTerrainColors v1.12.22] Loaded cached true colors for 530 terrain defs from file.
+[MarkThatPawn]: Pawn Badge mod loaded, trying to generate marker-sets of 25 badge definitions
+[MarkThatPawn]: Found 8 icons for Militar - PawnBadge
+[MarkThatPawn]: Found 17 icons for Skill - PawnBadge
+[MarkThatPawn]: Imported all pawn badges into 2 marker-sets
+[MarkThatPawn]: Found 20 icons for GDI
+[MarkThatPawn]: Found 8 icons for Ideology
+[MarkThatPawn]: Found 19 icons for Jobs
+[MarkThatPawn]: Found 8 icons for Militar
+[MarkThatPawn]: Found 20 icons for Nod
+[MarkThatPawn]: Found 8 icons for Numbers
+[MarkThatPawn]: Found 17 icons for Skills
+[MarkThatPawn]: Found 16 icons for Symbols
+[MarkThatPawn]: Found 13 icons for Weapons
+[MarkThatPawn]: Found 8 icons for WOW Style
+[MarkThatPawn]: Found 18 icons for XCOM
+[MarkThatPawn]: Found 13 icons for XCOM 2
+[MarkThatPawn]: Found 9 icons for XCOM Medieval
+[MarkThatPawn]: Found 162 loaded weapons, 11 explosive weapons and 20 thrown projectiles
+[MarkThatPawn]: Found 228 loaded apparel, 65 armored apparel, 27 royal apparel, 23 psycast apparel, 7 enviromental protection apparel, 6 mechanator apparel and 128 basic apparel 
+[MarkThatPawn]: Found 0 automatic rules defined
+BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea, small, acanthamoeba gigantea, large, acanthamoeba gigantea, huge, aerofleet, colossal aerofleet, chemfuel myrmidon, genix, green goo, infected aerofleet, luciferbug, red goo, red spore, boombat
+[BoomModExpanded]: Adding support for Animal Behaviour
+[BoomModExpanded]: Adding support for Alpha Genes
+[RaidPointMultiplier] Initialized with 34 factions.
+[BadLeatherCategory]: Note that Leather_Human is also used by non-humanlikes. Gorehulk, AA_FungalHusk, AA_Mime, Corpse_Gorehulk, Corpse_AA_FungalHusk, Corpse_AA_Mime
+[BadLeatherCategory]: Note that Leather_Lizard is also used by non-humanlikes. Cobra, Tortoise, Iguana, MonitorLizard, Alligator, SeaTurtle, AA_AnimaColossus, AA_CrescendoAnole, AA_DecayDrake, AA_Erin, AA_Lockjaw, AA_OvergrownColossus, AA_PedigreedRaptor, AA_RayHound, AA_RoughPlatedMonitor, AEXP_Crocodile, AEXP_DesertTortoise, AEXP_GilaMonster, AEXP_Rattlesnake, AEXP_Anaconda, Corpse_Cobra, Corpse_Tortoise, Corpse_Iguana, Corpse_MonitorLizard, Corpse_Alligator, Corpse_SeaTurtle, Corpse_AA_AnimaColossus, Corpse_AA_CrescendoAnole, Corpse_AA_DecayDrake, Corpse_AA_Erin, Corpse_AA_Lockjaw, Corpse_AA_OvergrownColossus, Corpse_AA_PedigreedRaptor, Corpse_AA_RayHound, Corpse_AA_RoughPlatedMonitor, Corpse_AEXP_Crocodile, Corpse_AEXP_DesertTortoise, Corpse_AEXP_GilaMonster, Corpse_AEXP_Rattlesnake, Corpse_AEXP_Anaconda
+[BadLeatherCategory]: Moved 3 leather to the Bad Leather-category
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.6.4553.2 initialized
+[GrievousWounds] EBF Enabled?: False
+[Dynamic Diplomacy] DD loaded
+[RealRuins][System]: RealRuins started patching at 10/7/2025 7:10:04 PM
+PostOpen is patchable.
+[RealRuins][System]: RealRuins performing manual patching optional mods at 10/7/2025 7:10:04 PM
+[RealRuins][System]: RealRuins finished patching at 10/7/2025 7:10:04 PM (33.402 msec)
+SupplyAndDemand Harmony Patches:
+  Postfix:
+    StockGenerator.RandomCountOf
+[Expectations Modifier] Expectations Modifier Harmony Patches Loaded.
+[Davai's Sorted Categories] [SortNastyMeat] starting
+[Davai's Sorted Categories] [SortNastyMeat] Moved 7 meat to the Nasty meat category
+[Davai's Sorted Categories] [ChangeDefaultSocialDrugs] starting
+[Davai's Sorted Categories] [ChangeDefaultSocialDrugs] Added 2 drugs to Social drugs by default
+[Davai's Sorted Categories] [SortDrugs] starting
+[Davai's Sorted Categories] [SortDrugs] Moved 24 drugs to the Social drugs category
+[Davai's Sorted Categories] [SortDrugs] Moved 2 drugs to the Medical drugs category
+[Davai's Sorted Categories] [SortDrugs] Moved 4 drugs to the Hard drugs category
+[Davai's Sorted Categories] [SortDrugs] Moved 8 sera to the Sera category
+found field: Verse.Room room
+Walls are Solid - transpiler patched successfully.
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
+[Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
+[Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1228 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 13)
+MVCF successfully applied 49 patches
+[net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 56776.
+Total: 449.274467 ms (FindLiveObjects: 3.231143 ms CreateObjectMapping: 1.496743 ms MarkObjects: 444.011856 ms  DeleteObjects: 0.534254 ms)
+
+[DivineFramework] Loaded version 0.12.0.1
+CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
+[HugsLib] initializing com.github.alandariva.moreplanning, StackableChunks, StackXXL, AvoidFriendlyFire
+[StackableChunks] Chunk Stacks set too: 15
+[StackableChunks] Slag Stacks set too: 15
+[StackXXL] Loaded
+[RealRuins][System]: RealRuins Startup hook triggered
+[VirtualClassOnLoad] Virtual Loadtime Class Starting!
+[Expectations Modifier] Modifying All Wealth Expectations Now!
+[Expectations Modifier] Successfully Modified All Wealth Expectations!
+[Expectations Modifier] Modifying All Expectations Mood Effects Now!
+[Expectations Modifier] Successfully Modified All Expectations Mood Effects!
+[Expectations Modifier] All Undesired Expectations Removed!
+[VirtualClassOnLoad] Virtual Class Ended with 1 PostFixes.
+  RimWorld.Citrus.ExpectationsModifier
+[Clean Research Sort]: Successfully applied sorted research tree layout.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.578447 ms
+requesting resize 3828 x 2074
+resizing window to 3828 x 2074
+Desktop is 3840 x 2160 @ 60 Hz
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57042.
+Total: 438.226432 ms (FindLiveObjects: 2.756340 ms CreateObjectMapping: 2.392597 ms MarkObjects: 433.012892 ms  DeleteObjects: 0.063870 ms)
+
+Loading game from file Sparrow Tribe 08-Apr6 smoking with mods:
+  - brrainz.harmony
+  - brrainz.visualexceptions
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - Ludeon.RimWorld.Biotech
+  - Ludeon.RimWorld.Anomaly
+  - Ludeon.RimWorld.Odyssey
+  - RedMattis.BetterPrerequisites
+  - thereallemon.factioncontrol
+  - adaptive.storage.framework
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - Troopersmith1.DeathRattle
+  - Adaptive.PrimitiveStorage
+  - m00nl1ght.UnofficialUpdates.HugsLogPublisher
+  - UnlimitedHugs.HugsLib
+  - name.krypt.rimworld.rwlayout.alpha2
+  - imranfish.xmlextensions
+  - Mlie.VisualXMLPatches
+  - smashphil.xmlpatchhelper
+  - Nightmare.Core
+  - drilledhead.MyDogsHouse
+  - Mlie.PunjiSticks
+  - zal.researchspot
+  - foodbowl.programmerlily.com
+  - AdvancedTurrets.velcroboy333
+  - Mlie.AdvancedMortar
+  - Og.Repair.Your.Gear
+  - Mlie.O21BarbedWire
+  - SlimeSenpai.AutoVentsNoPower
+  - Meltup.BeautifulOutdoors
+  - Avocado999.BetterPassiveCooler.0001
+  - brrainz.cameraplus
+  - Mlie.CoalExpanded
+  - HeadWar.DelayedDeterioration
+  - overpl.DrawnSpots
+  - EdB.PrepareCarefully
+  - BotchJob.HTHair
+  - Neronix17.Retexture.VanillaBeards
+  - Keshash.InjuryTextures
+  - Andromeda.NiceHairs
+  - sakama.RoppoiHair
+  - won.hair
+  - Erin.Hairredux
+  - rimsenal.hair
+  - won2.hair
+  - VanillaExpanded.VHE
+  - Jiopaba.Fences
+  - Shenanigans.TribalTattoos
+  - VanillaExpanded.VPsycastsE
+  - sarg.alphaanimals
+  - zal.tribalinstruments
+  - Trickity.Conversion.Staff
+  - Side1iner.TraitsPlus
+  - nakomaru.carrygenes
+  - Shenanigans.TribalBackstories1.4
+  - GHOST.TribalIcons
+  - llunak.MorePrecepts
+  - VanillaExpanded.VPE.Puppeteer
+  - Hautarche.HautsFramework
+  - Hautarche.HautsTraits
+  - sarg.alphagenes
+  - Jiopaba.FenceTab
+  - CaretCake.Resources.MoreComponentsandSteelMoreVanilla
+  - VanillaExpanded.VWETB
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VanillaTradingExpanded
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VBooksE
+  - VanillaExpanded.VMemesE
+  - RedMattis.VanillaGenesRebalanced
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VAPPE
+  - VanillaExpanded.VanillaAnimalsExpanded
+  - Chairheir.VPERunesmith
+  - VanillaExpanded.VPE.Hemosage
+  - SiSq.VPsyEDeathRattle
+  - ratys.rtsolarflareshield
+  - ratys.rtpowerswitch
+  - ratys.rtfuse
+  - Dubwise.Rimefeller
+  - dismarzero.VGP.VGPVegetableGarden
+  - dismarzero.VGP.VGPGardenGourmet
+  - UnblestMATT.ChocolateRedeux
+  - nephlite.orbitaltradecolumn
+  - MorphsAssorted.FaceTattoos
+  - dismarzero.VGP.VGPGardenCanning
+  - dismarzero.VGP.VGPMoreVeggies
+  - Mlie.RFTribalRaiders
+  - RedMattis.BigSmall.Core
+  - RedMattis.BigSmall
+  - riprusse.manhair
+  - ASF.DeepStorage
+  - Seanbeag.AnimaTree
+  - jdgg.adaptive.cargoholds
+  - Harkon.VEAddOn.VanillaExpandedExtraEmbrasures
+  - sbz.GravshipStorage
+  - sbz.NeatStorage
+  - Adaptive.SimpleStorage
+  - hobtook.mortaraccuracy
+  - Og.likeafox.rimworld.safepause.Continued
+  - Twobit.LPSmokeleaf
+  - jelly.caravangear
+  - Drenwick.BurialUrns
+  - 4loris4.MoreLinkables
+  - Hol.StoneButcher
+  - sirrandoo.mpe
+  - ryder.SatisfiedStorage
+  - Mlie.MorePlanning
+  - aardvark.MoreVisiblePause
+  - toastyman.moreritualseats
+  - iceworld.tribalouterwear
+  - Gunmar.TribalWarriorSet
+  - Mud.TribalApparel
+  - River.Tribal.Shoes
+  - River.Tribal.Mittens
+  - PeteTimesSix.SimpleSidearms
+  - klvlt.smokedfish
+  - dismarzero.VGP.Smokedmeat
+  - Elshender.stackablechunks
+  - Indeed.StackXXL
+  - m00nl1ght.MapPreview
+  - Mlie.MarkThatPawn
+  - pyrce.mass.graves.continued
+  - Grandyy.Industrial.Defense.Turrets
+  - leion247138.MedicalHIV
+  - sarg.smartspeed
+  - Mlie.SmarterVisitors
+  - denev.SmartTurretCovering
+  - Memegoddess.SmartMedicine
+  - Koth.ISiD
+  - Turnovus.RimWorld.PersistentDate
+  - kathanon.ImpressionableChildren
+  - P4V3L.PawnsCarryMoney
+  - RedMattis.BetterGeneInheritance
+  - Mlie.BoomModExpanded
+  - sneezingseal.sealsbackstorycollection
+  - Mlie.FactionRaidCooldown
+  - FlinNice.FactionRaidPointMultiplier
+  - BlackSmokeDMax.FC2p.v101
+  - Hawkwood.FloorsAreAlmostWorthless
+  - avilmask.GrazingLands
+  - Mlie.PawnNameVariety
+  - SaucyPigeon.PawnBadge
+  - Mlie.ExpandedIncidents
+  - cucumpear.flap
+  - smashphil.dropspot
+  - overpl.AnimalSarcophagus
+  - SickBoyWi.Vault.OnePointOne
+  - archie.turrettargetpatch
+  - Mlie.ExtraSecurity
+  - Mlie.VariousSpaceShipChunk
+  - Proxyer.SmallShelf
+  - dracoix.doormat.r12a
+  - Pineapple.fueledheaters
+  - Ogliss.TheWhiteCrayon.Quarry
+  - Mlie.StopQuarryingWhenFull
+  - Scherub.StonecuttingExtended
+  - Lucifer.RealisticRooms
+  - Unon.NoBurnMetal
+  - paddda.NoCarriedFood
+  - llunak.NoDefaultGatherSpot
+  - Jetroid.DoNotDrawVersion
+  - Vesper.NotMyFault
+  - Proxyer.CheapMortarShell
+  - marvinkosh.sometimesraidsgowrong
+  - marvinkosh.ughyougotme
+  - Mlie.BadLeatherCategory
+  - ivaera.wealthcable
+  - Mlie.RailsAndRoadsOfTheRim
+  - Nightmare.Museums
+  - bblkepling.childrensbooks
+  - kathanon.ResearchQueue
+  - Jaxe.Bubbles
+  - BDew.CremateAutoStrip
+  - telardo.Epitaph
+  - Vakaria.RespectScars
+  - Bazel.ToxGenPlus.2
+  - SmoothedStoneIsWorthless.Mod
+  - twistedpacifist.ReasonableComponents
+  - ChemToNeutroCombo.velcroboy333
+  - Mlie.CombatReadinessCheck
+  - visiblewealth.1trickPwnyta
+  - m00nl1ght.GeologicalLandforms
+  - Orbital.Books
+  - CrashM.ColorCodedMoodBar.11
+  - bs.xenotypespawncontrol
+  - Mlie.TechappropriateRoofMote
+  - lc.tammybee.selectablesculpturegraphic
+  - Mlie.SafelyHiddenAway
+  - det.stoneborn
+  - FrozenSnowFox.BetterExplorationLoot
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - divineDerivative.Romance
+  - mayo.kindneanderthals
+  - Mlie.RFRumorHasIt
+  - Mlie.BetterBeggars
+  - jamaicancastle.RF.fertilefields
+  - Oblitus.MyLittlePlanet
+  - madarauchiha.custommapsizes
+  - Sirprook.GrievousWounds
+  - Samael.LivestockTraders
+  - JM.betterTraders
+  - kikohi.jewelry
+  - Wyr3d.BetterVisitorTrades
+  - polymeric.bedownershiptools
+  - falconne.AFF
+  - Jmattspartacus.DynamicPopulationUnlocked
+  - nilchei.dynamicdiplomacycontinued
+  - Mlie.HarvestWhenButchering
+  - GHXX.TechAdvancing
+  - Defi.StabilizeBleeding
+  - Mlie.TendingTakesTime
+  - Mersid.BackupPowerUpdated
+  - Woolstrand.RealRuins
+  - Piggy.OneDiseaseStart
+  - Leonapp.CarcinomaSpreads
+  - TheLastBulletBender.RWExploration
+  - VanillaExpanded.Recycling
+  - arvkus.simplerecycling
+  - Mlie.MealRadius
+  - Dubwise.DubsSkylights
+  - alyssapaws.oocmovespeedboost
+  - Keshash.LayeredWallDestruction
+  - seromas.LayeredDestruction.Patches
+  - Billnotic.ActuallyVanillaMusicExpansion
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - Mlie.KVSupplyAndDemand
+  - bedrestforfoodpoisoning.1trickPonyta
+  - Citrus.ExpectationsModifier
+  - davai.sortedcategories
+  - Leo.CleanResearchSort
+  - sarg.alphabooks
+  - MrHydralisk.LayeredAtmosphereOrbit
+  - PeteTimesSix.CategorizedCleaning.Split
+  - Mlie.MoreGraphs
+  - allifreyr.patch.strongermetalwalls
+  - Victor.WallsAreSolid
+  - Mlie.NoVersionWarning
+  - Mehni.Numbers
+  - Owlchemist.SmartFarming
+  - avilmask.CommonSense
+  - Mehni.PickUpAndHaul
+  - keyz182.KeyzAllowUtilities
+  - FrozenSnowFox.ComplexJobs
+  - erdelf.ExportAgency
+Could not find class NiceBillTab.ModIntegration while resolving node li. Trying to use Verse.GameComponent instead. Full node: <li Class="NiceBillTab.ModIntegration" />
+SaveableFromNode exception: System.ArgumentException: Can't load abstract class Verse.GameComponent
+[Ref 9177A81]
+  at Verse.ScribeExtractor.SaveableFromNode[T] (System.Xml.XmlNode subNode, System.Object[] ctorArgs) [0x00143] in <31482697ada14932981abc5e76101d5d>:0 
+Subnode:
+<li Class="NiceBillTab.ModIntegration" />
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+MealRadius - Settings loaded
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Detected existing world. Loading existing config...
+[Tech Advancing] [Information] Loading config...
+Unloading 0 Unused Serialized files (Serialized files now loaded: 14)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 75841.
+Total: 495.326836 ms (FindLiveObjects: 3.146975 ms CreateObjectMapping: 1.945667 ms MarkObjects: 490.146780 ms  DeleteObjects: 0.086753 ms)
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Home area bounds: (202, 10) - (376, 140)
+Origin: 202, 10
+Start capturing in area of: (202,10)-(375,139)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception in JobDriver tick for pawn Raul driver=JobDriver_GoForWalk (toilIndex=0) driver.job=(LayDown (Job_8703630) A = Thing_Bedroll114748)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 6B230B99]
+  at HautsFramework.HautsFramework.HautsJoyTickCheckEndPostfix (Verse.Pawn pawn) [0x00008] in <f1eb5dbe37fc44838e9aa734bf8d481b>:0 
+  at RimWorld.JoyUtility.JoyTickCheckEnd (Verse.Pawn pawn, System.Int32 delta, RimWorld.JoyTickFullJoyAction fullJoyAction, System.Single extraJoyGainFactor, Verse.Building joySource) [0x00255] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX OskarPotocki.VanillaSocialInteractionsExpanded: Void VanillaSocialInteractionsExpanded.JoyUtility_JoyTickCheckEnd:Prefix(Pawn pawn, Single& extraJoyGainFactor)
+    - POSTFIX rimworld.hautarche.hautsframework.main: Void HautsFramework.HautsFramework:HautsJoyTickCheckEndPostfix(Pawn pawn)
+    - POSTFIX com.vanillamemesexpanded: Void VanillaMemesExpanded.VanillaMemesExpanded_JoyUtility_JoyTickCheckEnd_Patch:InformJoyTakingPlace(Pawn pawn)
+  at RimWorld.JobDriver_GoForWalk+<>c__DisplayClass1_0.<MakeNewToils>b__1 (System.Int32 delta) [0x0003a] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.DriverTickInterval (System.Int32 delta) [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.

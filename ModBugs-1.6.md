@@ -617,4 +617,30 @@ Given that I've avoided any errors since removing those (3) mods, it'sprobably o
 
 Try putting Pick Up and Haul back, but below CommonSense.  Note that "(FSF) Complex Jobs" and "Keyz' Allow Utilities" have soft dependencies on PUAH and must be below it in the list.
 
+And got an error almost immediately.  But this one ties back to [HautsJoyTickCheckEndPostfix](https://github.com/LaserToothLiger/Hauts-Framework) which is [line 643 or so in this file](https://github.com/LaserToothLiger/Hauts-Framework/blob/main/1.6/Source/HautsFramework/Class1.cs#L643).  Pawn is stuck trying to go clean trash before laying down?  It's similar to the other bug, but possibly not related.  
 
+```
+Exception in JobDriver tick for pawn Raul driver=JobDriver_GoForWalk (toilIndex=0) driver.job=(LayDown (Job_8703630) A = Thing_Bedroll114748)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 6B230B99]
+  at HautsFramework.HautsFramework.HautsJoyTickCheckEndPostfix (Verse.Pawn pawn) [0x00008] in <f1eb5dbe37fc44838e9aa734bf8d481b>:0 
+  at RimWorld.JoyUtility.JoyTickCheckEnd (Verse.Pawn pawn, System.Int32 delta, RimWorld.JoyTickFullJoyAction fullJoyAction, System.Single extraJoyGainFactor, Verse.Building joySource) [0x00255] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX OskarPotocki.VanillaSocialInteractionsExpanded: Void VanillaSocialInteractionsExpanded.JoyUtility_JoyTickCheckEnd:Prefix(Pawn pawn, Single& extraJoyGainFactor)
+    - POSTFIX rimworld.hautarche.hautsframework.main: Void HautsFramework.HautsFramework:HautsJoyTickCheckEndPostfix(Pawn pawn)
+    - POSTFIX com.vanillamemesexpanded: Void VanillaMemesExpanded.VanillaMemesExpanded_JoyUtility_JoyTickCheckEnd_Patch:InformJoyTakingPlace(Pawn pawn)
+  at RimWorld.JobDriver_GoForWalk+<>c__DisplayClass1_0.<MakeNewToils>b__1 (System.Int32 delta) [0x0003a] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.AI.JobDriver.DriverTickInterval (System.Int32 delta) [0x000bd] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Log.Error_Patch2 (string)
+Verse.AI.JobUtility:TryStartErrorRecoverJob (Verse.Pawn,string,System.Exception,Verse.AI.JobDriver)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.AI.JobDriver.DriverTickInterval_Patch1 (Verse.AI.JobDriver,int)
+Verse.AI.Pawn_JobTracker:JobTrackerTickInterval (int)
+Verse.Pawn:TickInterval (int)
+Verse.Thing:DoTick ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickList.Tick_Patch1 (Verse.TickList)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.TickManager.DoSingleTick_Patch4 (Verse.TickManager)
+Verse.TickManager:TickManagerUpdate ()
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
+(wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
+```
