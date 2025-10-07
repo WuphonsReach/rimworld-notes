@@ -28,6 +28,7 @@
     - [Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver\_LayDown](#exception-in-jobdriver-fixed-tick-for-pawn-entasga-driverjobdriver_laydown)
   - [Disable Many Harvest and Haul Options](#disable-many-harvest-and-haul-options)
     - [Remove both HAH and PUAH](#remove-both-hah-and-puah)
+  - [Put PUAH back below CommonSense](#put-puah-back-below-commonsense)
 
 
 # Categorized Cleaning
@@ -611,5 +612,9 @@ Remove both Harvest and Haul and Pick Up and Haul mods.  Also Bulk Load for Tran
 - ilarion.bulkloadfortransporters (depends on mehni.pickupandhaul)
 
 Given that I've avoided any errors since removing those (3) mods, it'sprobably one of those.
+
+## Put PUAH back below CommonSense
+
+Try putting Pick Up and Haul back, but below CommonSense.  Note that "(FSF) Complex Jobs" and "Keyz' Allow Utilities" have soft dependencies on PUAH and must be below it in the list.
 
 
