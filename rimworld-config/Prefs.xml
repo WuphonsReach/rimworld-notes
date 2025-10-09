@@ -46,7 +46,7 @@
   <autosavesCount>25</autosavesCount>
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
-  <devMode>True</devMode>
+  <devMode>False</devMode>
   <debugActionPalette />
   <devPalettePosition>
     <x>0</x>
