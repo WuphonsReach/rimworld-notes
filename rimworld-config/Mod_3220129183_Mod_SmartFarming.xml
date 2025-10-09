@@ -2,6 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="SmartFarming.ModSettings_SmartFarming">
 		<processedFoodFactor>1.20000005</processedFoodFactor>
-		<minTempAllowed>5</minTempAllowed>
+		<minTempAllowed>-3.02062345</minTempAllowed>
 	</ModSettings>
 </SettingsBlock>
