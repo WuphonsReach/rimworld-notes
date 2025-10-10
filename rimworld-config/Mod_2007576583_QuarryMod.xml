@@ -7,11 +7,11 @@
 		<QRY_OreDictionary>
 			<li>
 				<thingDef>Steel</thingDef>
-				<count>61</count>
+				<count>45</count>
 			</li>
 			<li>
 				<thingDef>Silver</thingDef>
-				<count>9</count>
+				<count>12</count>
 			</li>
 			<li>
 				<thingDef>Gold</thingDef>
@@ -19,15 +19,15 @@
 			</li>
 			<li>
 				<thingDef>Uranium</thingDef>
-				<count>8</count>
+				<count>6</count>
 			</li>
 			<li>
 				<thingDef>Plasteel</thingDef>
-				<count>8</count>
+				<count>6</count>
 			</li>
 			<li>
 				<thingDef>Jade</thingDef>
-				<count>4</count>
+				<count>6</count>
 			</li>
 			<li>
 				<thingDef>Obsidian</thingDef>
@@ -35,19 +35,19 @@
 			</li>
 			<li>
 				<thingDef>ChunkSalt</thingDef>
-				<count>5</count>
+				<count>6</count>
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
-				<count>15</count>
+				<count>20</count>
 			</li>
 			<li>
 				<thingDef>AA_SkySteel</thingDef>
-				<count>1</count>
+				<count>3</count>
 			</li>
 			<li>
 				<thingDef>ComponentIndustrial</thingDef>
-				<count>2</count>
+				<count>1</count>
 			</li>
 			<li>
 				<thingDef>MSFireThroat</thingDef>
