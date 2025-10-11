@@ -2,6 +2,6 @@
 <SettingsBlock>
 	<ModSettings Class="Dubs_Skylight.Settings">
 		<HideWindows>False</HideWindows>
-		<SunlightHeatsRoom>False</SunlightHeatsRoom>
+		<SunlightHeatsRoom>True</SunlightHeatsRoom>
 	</ModSettings>
 </SettingsBlock>
