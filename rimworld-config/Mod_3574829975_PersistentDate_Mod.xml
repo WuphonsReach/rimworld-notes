@@ -2,7 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="PersistentDate.PersistentDate_ModSettings">
 		<year>12</year>
-		<day>5</day>
+		<quadrum>Septober</quadrum>
+		<day>6</day>
 		<mode>UseLatest</mode>
 		<cumulativeTimeStamp />
 	</ModSettings>
