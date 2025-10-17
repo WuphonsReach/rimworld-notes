@@ -57,7 +57,6 @@
 												<li>Gunmar_Apparel_PeltCap</li>
 												<li>VAE_Apparel_TribalPoncho</li>
 												<li>VAE_Apparel_TribalKilt</li>
-												<li>Gunmar_Apparel_Tribal</li>
 												<li>Apparel_KidTribalCape</li>
 												<li>Apparel_KidTribalFurCloak</li>
 												<li>Apparel_WarVeil</li>
@@ -119,13 +118,78 @@
 												<li>Gunmar_Apparel_PeltCap</li>
 												<li>VAE_Apparel_TribalPoncho</li>
 												<li>VAE_Apparel_TribalKilt</li>
-												<li>Gunmar_Apparel_Tribal</li>
 												<li>Apparel_KidTribalCape</li>
 												<li>Apparel_KidTribalFurCloak</li>
 												<li>Apparel_WarVeil</li>
 												<li>Apparel_Tailcap</li>
 												<li>VAE_Headgear_Scarf</li>
 												<li>Apparel_ShieldBelt</li>
+											</allowedDefs>
+											<allowedHitPointsPercents>0.50999999~1</allowedHitPointsPercents>
+											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Tribal Melee Warrior</name>
+								<internalList>
+									<li>
+										<exposable Class="ThingFilter">
+											<disallowedSpecialFilters>
+												<li>AllowDeadmansApparel</li>
+												<li>AllowBiocodedApparel</li>
+											</disallowedSpecialFilters>
+											<allowedDefs>
+												<li>Gunmar_Apparel_PeltBoots</li>
+												<li>VAE_Apparel_PeltCoat</li>
+												<li>Gunmar_Apparel_PeltHandWraps</li>
+												<li>Gunmar_Apparel_PeltLeggings</li>
+												<li>Gunmar_Apparel_PeltMantle</li>
+												<li>Gunmar_Apparel_SunshadePeltMantle</li>
+												<li>Gunmar_Apparel_WovenFootWraps</li>
+												<li>Gunmar_Apparel_WovenHandWraps</li>
+												<li>Gunmar_Apparel_WovenLeggings</li>
+												<li>Gunmar_Apparel_WovenMantle</li>
+												<li>River_Tribal_mittens</li>
+												<li>River_Tribal_moccasins</li>
+												<li>River_Tribal_mukluks</li>
+												<li>Jewelry_Ring</li>
+												<li>Jewelry_Bracelet</li>
+												<li>Jewelry_Earring</li>
+												<li>Jewelry_Necklace</li>
+												<li>VAE_Footwear_Boots</li>
+												<li>VAE_Handwear_Gloves</li>
+												<li>VAE_Footwear_Shoes</li>
+												<li>Apparel_Parka</li>
+												<li>IceWorld_Mantle</li>
+												<li>Apparel_TribalCape</li>
+												<li>Apparel_TribalCloak</li>
+												<li>Apparel_TribalFurCloak</li>
+												<li>Apparel_TribalA</li>
+												<li>Apparel_KidTribal</li>
+												<li>Apparel_KidTribalCloak</li>
+												<li>Apparel_KidShirt</li>
+												<li>Apparel_KidRomper</li>
+												<li>Apparel_KidParka</li>
+												<li>Apparel_KidPants</li>
+												<li>Apparel_TribalHeaddress</li>
+												<li>Gunmar_Apparel_PeltCap</li>
+												<li>VAE_Apparel_TribalPoncho</li>
+												<li>VAE_Apparel_TribalKilt</li>
+												<li>Gunmar_Apparel_Tribal</li>
+												<li>Apparel_KidTribalCape</li>
+												<li>Apparel_KidTribalFurCloak</li>
+												<li>Apparel_WarVeil</li>
+												<li>Apparel_Tailcap</li>
+												<li>VAE_Headgear_Scarf</li>
+												<li>Gunmar_Apparel_ThickPeltArmor</li>
+												<li>VAE_Apparel_WoodenArmor</li>
+												<li>Apparel_ShieldBelt</li>
+												<li>BS_BarbarianArmor</li>
 											</allowedDefs>
 											<allowedHitPointsPercents>0.50999999~1</allowedHitPointsPercents>
 											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>

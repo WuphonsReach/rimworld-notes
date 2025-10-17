@@ -19,16 +19,16 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 515096992
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 948969040
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.054 seconds
+- Loaded All Assemblies, in  0.060 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.512333 ms
+UnloadTime: 0.569570 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
@@ -40,13 +40,13 @@ Desktop is 3840 x 2160 @ 60 Hz
 Mod [DHM]MyDogsHouse dependency (brrainz.harmony) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x71a44cc2e310.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x71a44cc669a0.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x71a44f990dd0.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x71a44fa7a6f0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e213cc0fa90.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e213cdb1b00.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e213f962230.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e213fbe7d10.so
 [HugsLib] version 12.0.0
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x71a41d5400e0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e212d57b7c0.so
 SatisfiedStorage loading
 [WDHeaters] Loaded.
 Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
@@ -70,7 +70,7 @@ Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limest
 Translation data for language English has 2 errors. Generate translation report for more info.
 KCSG has Created 7252 symbolDefs for vanilla and DLCs
 [XML Extensions] Initialized 4 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4294 total patch operations run in 6554ms, 0 failed
+[XML Extensions] 4296 total patch operations run in 7016ms, 0 failed
 [XML Extensions] Emitted 4 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 [Hauts' Framework] active.
@@ -108,10 +108,10 @@ BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea
 [CMColorCodedMoodBar] CMColorCodedMoodBar 1.6.4553.2 initialized
 [GrievousWounds] EBF Enabled?: False
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 10/17/2025 7:03:17 AM
+[RealRuins][System]: RealRuins started patching at 10/17/2025 8:15:43 AM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 10/17/2025 7:03:17 AM
-[RealRuins][System]: RealRuins finished patching at 10/17/2025 7:03:17 AM (34.138 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 10/17/2025 8:15:43 AM
+[RealRuins][System]: RealRuins finished patching at 10/17/2025 8:15:43 AM (38.114 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -130,12 +130,12 @@ Walls are Solid - transpiler patched successfully.
 PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1217 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1191 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 13)
 MVCF successfully applied 49 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 56856.
-Total: 448.135636 ms (FindLiveObjects: 3.411774 ms CreateObjectMapping: 3.116118 ms MarkObjects: 441.065656 ms  DeleteObjects: 0.541317 ms)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 56873.
+Total: 478.008062 ms (FindLiveObjects: 3.638760 ms CreateObjectMapping: 3.294764 ms MarkObjects: 470.539372 ms  DeleteObjects: 0.534385 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
@@ -155,14 +155,14 @@ CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share
 [Clean Research Sort]: Successfully applied sorted research tree layout.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.641145 ms
+UnloadTime: 0.588055 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57124.
-Total: 444.413239 ms (FindLiveObjects: 2.623863 ms CreateObjectMapping: 1.343445 ms MarkObjects: 440.383494 ms  DeleteObjects: 0.061836 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57141.
+Total: 432.980918 ms (FindLiveObjects: 3.006241 ms CreateObjectMapping: 2.185930 ms MarkObjects: 427.733563 ms  DeleteObjects: 0.054603 ms)
 
-Loading game from file Sparrow Tribe 15-Jul12 with mods:
+Loading game from file Sparrow Tribe 15-Sep1 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -357,6 +357,7 @@ Loading game from file Sparrow Tribe 15-Jul12 with mods:
   - twistedpacifist.ReasonableComponents
   - ChemToNeutroCombo.velcroboy333
   - Mlie.CombatReadinessCheck
+  - Arkymn.SlowerPawnTickRate
   - visiblewealth.1trickPwnyta
   - m00nl1ght.GeologicalLandforms
   - Orbital.Books
@@ -408,6 +409,8 @@ Loading game from file Sparrow Tribe 15-Jul12 with mods:
   - Citrus.ExpectationsModifier
   - Aelanna.GetOutOfMyChair
   - davai.sortedcategories
+  - rabiosus.autoblink
+  - rabiosus.jumplifter
   - Leo.CleanResearchSort
   - sarg.alphabooks
   - MrHydralisk.LayeredAtmosphereOrbit
@@ -427,39 +430,15 @@ Loading game from file Sparrow Tribe 15-Jul12 with mods:
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 MealRadius - Settings loaded
-Could not resolve reference to object with loadID WorldObject_747 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID WorldObject_748 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID WorldObject_755 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID Lord_230 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_230 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_230 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_238 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Faction_105 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=
-Could not resolve reference to object with loadID Thing_Human3347613 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/bigBoned
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11]
- [0x00006] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.Designation.Delete () [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.Designation.ExposeData () [0x0007b] in <31482697ada14932981abc5e76101d5d>:0 
-    - PREFIX com.github.alandariva.moreplanning: Boolean MorePlanning.Patches.HarmonyPatches:DesignationPlanningExposeData_Prefix(Designation __instance)
-  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <31482697ada14932981abc5e76101d5d>:0 
-    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-    - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.CrossRefHandler_ResolveAllCrossReferences:Postfix()
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
@@ -469,144 +448,116 @@ Notify_NewLink was called but the link is already here.
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 14)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 76527.
-Total: 539.221194 ms (FindLiveObjects: 3.248517 ms CreateObjectMapping: 3.070352 ms MarkObjects: 532.810773 ms  DeleteObjects: 0.090791 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 76602.
+Total: 534.688303 ms (FindLiveObjects: 3.417926 ms CreateObjectMapping: 3.168776 ms MarkObjects: 528.010169 ms  DeleteObjects: 0.090631 ms)
 
-[RaidPointMultiplier] Adjusted raid points for TribeRoughNeanderthal: Original 248.8154, Multiplier 1, New 248.8154
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Home area bounds: (88, 82) - (439, 375)
 Origin: 88, 82
 Start capturing in area of: (88,82)-(438,374)
-Attempted to draw AEXP_BlackBear2983373 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
 current settlememt count of 151 greater than max expansion limit of 150
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E]
-  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
-  at Verse.Room.Notify_RoomShapeChanged () [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
-    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
-  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <31482697ada14932981abc5e76101d5d>:0 
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Squirrel3475704 without a resolved render tree.
+[RaidPointMultiplier] Adjusted raid points for BS_Niflheim: Original 367.5939, Multiplier 1, New 367.5939
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Tried to SetForbidden on non-Forbiddable Thing Hamm
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Heron3360554 without a resolved render tree.
+Attempted to draw AA_Aerofleet3589846 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Use material Cloth2375438
+Use material Leather_Wolf2361971
+Use material Leather_Wolf2361971
+Use material Leather_Wolf2361971
+Use material Cloth2375438
+Use material Cloth3597034
+Use material Cloth3597038
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception in JobDriver fixed tick for pawn Entasga driver=JobDriver_Ingest (toilIndex=12) driver.job=(Ingest (Job_69818007) A = Thing_bowlstew3597544 B = Thing_Filth_Trash3597518 Giver = JobGiver_GetFood [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D4B28696]
+  at Verse.GridsUtility.GetTerrain (Verse.IntVec3 c, Verse.Map map) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
+  at CommonSense.Utility+<>c__DisplayClass21_0.<CleanFilthToil>b__1 () [0x0003b] in <c08ea0632ba44dd18c410e20e9470cb1>:0 
+  at Verse.AI.JobDriver.DriverTick () [0x001a3] in <31482697ada14932981abc5e76101d5d>:0 
     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Exception in JobDriver fixed tick for pawn Lopez driver=JobDriver_Ingest (toilIndex=12) driver.job=(Ingest (Job_69822679) A = Thing_bowlstew3597689 B = Thing_Filth_Dirt3597659 Giver = JobGiver_GetFood [workGiverDef: null])
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref D4B28696] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 current settlememt count of 151 greater than max expansion limit of 150
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Did FindClosestThing with start out of bounds ((-1000, -1000, -1000)), thingReq=ThingRequest(group BuildingArtificial)
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
+[Dynamic Diplomacy] battle sim attacker wins conquest
+[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
 current settlememt count of 151 greater than max expansion limit of 150
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 2983166E] Duplicate stacktrace, see ref for original
+[Dynamic Diplomacy] battle sim defender wins
+[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Unloading 2 Unused Serialized files (Serialized files now loaded: 14)
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 63273.
-Total: 693.579273 ms (FindLiveObjects: 3.146104 ms CreateObjectMapping: 3.181972 ms MarkObjects: 687.158904 ms  DeleteObjects: 0.091482 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 14)
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.446389 ms
-[DivineFramework] Loaded version 0.12.0.1
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 62437.
-Total: 552.349783 ms (FindLiveObjects: 2.991433 ms CreateObjectMapping: 2.289604 ms MarkObjects: 546.962226 ms  DeleteObjects: 0.105779 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 14)
-Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 62397.
-Total: 598.233026 ms (FindLiveObjects: 3.217859 ms CreateObjectMapping: 2.574329 ms MarkObjects: 592.304252 ms  DeleteObjects: 0.135795 ms)
-
-[UnityMemory] Configuration Parameters - Can be set up in boot.config
-    "memorysetup-bucket-allocator-granularity=16"
-    "memorysetup-bucket-allocator-bucket-count=8"
-    "memorysetup-bucket-allocator-block-size=4194304"
-    "memorysetup-bucket-allocator-block-count=1"
-    "memorysetup-main-allocator-block-size=16777216"
-    "memorysetup-thread-allocator-block-size=16777216"
-    "memorysetup-gfx-main-allocator-block-size=16777216"
-    "memorysetup-gfx-thread-allocator-block-size=16777216"
-    "memorysetup-cache-allocator-block-size=4194304"
-    "memorysetup-typetree-allocator-block-size=2097152"
-    "memorysetup-profiler-bucket-allocator-granularity=16"
-    "memorysetup-profiler-bucket-allocator-bucket-count=8"
-    "memorysetup-profiler-bucket-allocator-block-size=4194304"
-    "memorysetup-profiler-bucket-allocator-block-count=1"
-    "memorysetup-profiler-allocator-block-size=16777216"
-    "memorysetup-profiler-editor-allocator-block-size=1048576"
-    "memorysetup-temp-allocator-size-main=4194304"
-    "memorysetup-job-temp-allocator-block-size=2097152"
-    "memorysetup-job-temp-allocator-block-size-background=1048576"
-    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
-    "memorysetup-allocator-temp-initial-block-size-main=262144"
-    "memorysetup-allocator-temp-initial-block-size-worker=262144"
-    "memorysetup-temp-allocator-size-background-worker=32768"
-    "memorysetup-temp-allocator-size-job-worker=262144"
-    "memorysetup-temp-allocator-size-preload-manager=262144"
-    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
-    "memorysetup-temp-allocator-size-audio-worker=65536"
-    "memorysetup-temp-allocator-size-cloud-worker=32768"
-    "memorysetup-temp-allocator-size-gfx=262144"
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[RaidPointMultiplier] Adjusted raid points for TribeSavageImpid: Original 474.4826, Multiplier 1, New 474.4826
+Attempted to draw Rat3615267 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 23832 frames, [1.0 KB-2.0 KB]: 33 frames, [2.0 KB-4.0 KB]: 132717 frames, [4.0 KB-8.0 KB]: 17046 frames, [8.0 KB-16.0 KB]: 6433 frames, [16.0 KB-32.0 KB]: 3566 frames, [32.0 KB-64.0 KB]: 3553 frames, [64.0 KB-128.0 KB]: 259 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 7 frames
+      Peak usage frame count: [0-1.0 KB]: 3400 frames, [1.0 KB-2.0 KB]: 6 frames, [2.0 KB-4.0 KB]: 195268 frames, [4.0 KB-8.0 KB]: 46317 frames, [8.0 KB-16.0 KB]: 32962 frames, [16.0 KB-32.0 KB]: 13773 frames, [32.0 KB-64.0 KB]: 5285 frames, [64.0 KB-128.0 KB]: 31 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 4 frames
       Initial Block Size 4.0 MB
       Current Block Size 8.0 MB
       Peak Allocated Bytes 8.0 MB
-      Overflow Count 52
+      Overflow Count 44
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 120.0 KB
@@ -616,7 +567,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 6.6 KB
-      Overflow Count 12
+      Overflow Count 8
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -716,7 +667,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 504.0 KB
       Peak Allocated Bytes 500.6 KB
-      Overflow Count 2587
+      Overflow Count 2560
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -798,31 +749,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 15910
+  Peak main deferred allocation count 13830
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 1283673
-        32B: 30 Subsections = 15360 buckets. Failed count: 731940
-        48B: 34 Subsections = 11605 buckets. Failed count: 2208899
-        64B: 89 Subsections = 22784 buckets. Failed count: 694300
-        80B: 82 Subsections = 16793 buckets. Failed count: 1316109
-        96B: 6 Subsections = 1024 buckets. Failed count: 260453
-        112B: 7 Subsections = 1024 buckets. Failed count: 27893
-        128B: 4 Subsections = 512 buckets. Failed count: 182559
+        16B: 4 Subsections = 4096 buckets. Failed count: 2297650
+        32B: 30 Subsections = 15360 buckets. Failed count: 1615923
+        48B: 34 Subsections = 11605 buckets. Failed count: 4110935
+        64B: 89 Subsections = 22784 buckets. Failed count: 1188542
+        80B: 82 Subsections = 16793 buckets. Failed count: 2981469
+        96B: 6 Subsections = 1024 buckets. Failed count: 401520
+        112B: 7 Subsections = 1024 buckets. Failed count: 35698
+        128B: 4 Subsections = 512 buckets. Failed count: 344086
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1833 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 32490 frames, [0.50 GB-1.00 GB]: 153125 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1858 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 7443 frames, [0.50 GB-1.00 GB]: 287746 frames
       Requested Block Size 16.0 MB
-      Peak Block count 34
-      Peak Allocated memory 0.53 GB
+      Peak Block count 41
+      Peak Allocated memory 0.64 GB
       Peak Large allocation bytes 95.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1834 frames, [64.0 MB-128.0 MB]: 21841 frames, [128.0 MB-256.0 MB]: 330 frames, [256.0 MB-0.50 GB]: 163444 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1859 frames, [64.0 MB-128.0 MB]: 1239 frames, [128.0 MB-256.0 MB]: 326 frames, [256.0 MB-0.50 GB]: 293624 frames
       Requested Block Size 16.0 MB
       Peak Block count 18
-      Peak Allocated memory 276.4 MB
+      Peak Allocated memory 277.2 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -845,31 +796,31 @@ Memory Statistics:
   Overflow Count (too large) 38
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 138
+  Peak main deferred allocation count 84
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 1283673
-        32B: 30 Subsections = 15360 buckets. Failed count: 731940
-        48B: 34 Subsections = 11605 buckets. Failed count: 2208899
-        64B: 89 Subsections = 22784 buckets. Failed count: 694300
-        80B: 82 Subsections = 16793 buckets. Failed count: 1316109
-        96B: 6 Subsections = 1024 buckets. Failed count: 260453
-        112B: 7 Subsections = 1024 buckets. Failed count: 27893
-        128B: 4 Subsections = 512 buckets. Failed count: 182559
+        16B: 4 Subsections = 4096 buckets. Failed count: 2297650
+        32B: 30 Subsections = 15360 buckets. Failed count: 1615923
+        48B: 34 Subsections = 11605 buckets. Failed count: 4110935
+        64B: 89 Subsections = 22784 buckets. Failed count: 1188542
+        80B: 82 Subsections = 16793 buckets. Failed count: 2981469
+        96B: 6 Subsections = 1024 buckets. Failed count: 401520
+        112B: 7 Subsections = 1024 buckets. Failed count: 35698
+        128B: 4 Subsections = 512 buckets. Failed count: 344086
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1833 frames, [4.0 MB-8.0 MB]: 18189 frames, [8.0 MB-16.0 MB]: 509 frames, [16.0 MB-32.0 MB]: 146 frames, [32.0 MB-64.0 MB]: 3326 frames, [128.0 MB-256.0 MB]: 163444 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1858 frames, [4.0 MB-8.0 MB]: 1060 frames, [8.0 MB-16.0 MB]: 504 frames, [128.0 MB-256.0 MB]: 293624 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 13
+      Peak Block count 14
       Peak Allocated memory 0.75 GB
       Peak Large allocation bytes 0.75 GB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 1869 frames, [1.0 KB-2.0 KB]: 18034 frames, [2.0 KB-4.0 KB]: 122 frames, [16.0 KB-32.0 KB]: 3343 frames, [32.0 KB-64.0 KB]: 1196 frames, [64.0 KB-128.0 KB]: 442 frames, [128.0 KB-256.0 KB]: 192 frames, [256.0 KB-0.5 MB]: 18779 frames, [0.5 MB-1.0 MB]: 143472 frames
+      Peak usage frame count: [0-1.0 KB]: 1885 frames, [1.0 KB-2.0 KB]: 852 frames, [2.0 KB-4.0 KB]: 78 frames, [16.0 KB-32.0 KB]: 611 frames, [32.0 KB-64.0 KB]: 341 frames, [64.0 KB-128.0 KB]: 2079 frames, [128.0 KB-256.0 KB]: 19578 frames, [256.0 KB-0.5 MB]: 13429 frames, [0.5 MB-1.0 MB]: 258195 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 0.7 MB
+      Peak Allocated memory 0.8 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 177
@@ -878,22 +829,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 1283673
-        32B: 30 Subsections = 15360 buckets. Failed count: 731940
-        48B: 34 Subsections = 11605 buckets. Failed count: 2208899
-        64B: 89 Subsections = 22784 buckets. Failed count: 694300
-        80B: 82 Subsections = 16793 buckets. Failed count: 1316109
-        96B: 6 Subsections = 1024 buckets. Failed count: 260453
-        112B: 7 Subsections = 1024 buckets. Failed count: 27893
-        128B: 4 Subsections = 512 buckets. Failed count: 182559
+        16B: 4 Subsections = 4096 buckets. Failed count: 2297650
+        32B: 30 Subsections = 15360 buckets. Failed count: 1615923
+        48B: 34 Subsections = 11605 buckets. Failed count: 4110935
+        64B: 89 Subsections = 22784 buckets. Failed count: 1188542
+        80B: 82 Subsections = 16793 buckets. Failed count: 2981469
+        96B: 6 Subsections = 1024 buckets. Failed count: 401520
+        112B: 7 Subsections = 1024 buckets. Failed count: 35698
+        128B: 4 Subsections = 512 buckets. Failed count: 344086
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1833 frames, [16.0 MB-32.0 MB]: 185615 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1858 frames, [16.0 MB-32.0 MB]: 295189 frames
       Requested Block Size 4.0 MB
       Peak Block count 6
-      Peak Allocated memory 20.8 MB
+      Peak Allocated memory 20.7 MB
       Peak Large allocation bytes 2.0 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1833 frames, [32.0 KB-64.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 185611 frames, [0.5 MB-1.0 MB]: 4 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1858 frames, [32.0 KB-64.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 8101 frames, [0.5 MB-1.0 MB]: 287088 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.8 MB
@@ -905,22 +856,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 1283673
-        32B: 30 Subsections = 15360 buckets. Failed count: 731940
-        48B: 34 Subsections = 11605 buckets. Failed count: 2208899
-        64B: 89 Subsections = 22784 buckets. Failed count: 694300
-        80B: 82 Subsections = 16793 buckets. Failed count: 1316109
-        96B: 6 Subsections = 1024 buckets. Failed count: 260453
-        112B: 7 Subsections = 1024 buckets. Failed count: 27893
-        128B: 4 Subsections = 512 buckets. Failed count: 182559
+        16B: 4 Subsections = 4096 buckets. Failed count: 2297650
+        32B: 30 Subsections = 15360 buckets. Failed count: 1615923
+        48B: 34 Subsections = 11605 buckets. Failed count: 4110935
+        64B: 89 Subsections = 22784 buckets. Failed count: 1188542
+        80B: 82 Subsections = 16793 buckets. Failed count: 2981469
+        96B: 6 Subsections = 1024 buckets. Failed count: 401520
+        112B: 7 Subsections = 1024 buckets. Failed count: 35698
+        128B: 4 Subsections = 512 buckets. Failed count: 344086
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1833 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 185614 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1858 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 295188 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 504.2 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 187449 frames
+      Peak usage frame count: [0-1.0 KB]: 297048 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B

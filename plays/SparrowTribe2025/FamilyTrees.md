@@ -10,11 +10,15 @@ Parent-child relationships within the colony.  Strictly about biological parents
 ---
 classDiagram
   Orange --> Red
+  Orange --> Pauor
+  Pauwlik --> Pauor
   Orange --> Green
   Green --> Naag
   Green --> Kagree
+  Green --> Billa
   Shemi --> Naag
   Shemi --> Kagree
+  Shemi --> Billa
   Entasga --> Dezaga
   Maras --> Dezaga
   Unknown1 --> Amudeus
