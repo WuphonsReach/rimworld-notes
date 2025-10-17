@@ -1,6 +1,7 @@
 
 
 - [Categorized Cleaning](#categorized-cleaning)
+- [No Carried Meals / Common Sense](#no-carried-meals--common-sense)
 - [Pawn Gets Stuck](#pawn-gets-stuck)
   - [Initial errors](#initial-errors)
     - [JobDriver threw exception in toil null's initAction for pawn Balcam driver=JobDriver\_MineQuarry](#jobdriver-threw-exception-in-toil-nulls-initaction-for-pawn-balcam-driverjobdriver_minequarry)
@@ -84,6 +85,10 @@ Verse.TickManager:TickManagerUpdate ()
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
 ```
+
+# No Carried Meals / Common Sense
+
+No Carried Meals conflicts with Common Sense.  Whichever is later in the load order will take precendence as both patch the same method.  It's a soft conflict, not a hard conflict, but you may want to skip trying to use both.
 
 # Pawn Gets Stuck
 
