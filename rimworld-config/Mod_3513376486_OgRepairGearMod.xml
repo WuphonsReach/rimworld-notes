@@ -2,8 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="Og_RepairGear.OgRepairGearSettings">
 		<OgRYGrepaireHitpoints>10</OgRYGrepaireHitpoints>
-		<OgRYGrepairTime>15</OgRYGrepairTime>
+		<OgRYGrepairTime>20</OgRYGrepairTime>
 		<OgRYGuseMaterial>True</OgRYGuseMaterial>
-		<OgRYGfreePercentage>90</OgRYGfreePercentage>
+		<OgRYGfreePercentage>80</OgRYGfreePercentage>
 	</ModSettings>
 </SettingsBlock>
