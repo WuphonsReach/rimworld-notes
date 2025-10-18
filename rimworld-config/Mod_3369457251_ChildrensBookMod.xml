@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
-	<ModSettings Class="Childrens_Books.ChildrensBookSettings" />
+	<ModSettings Class="Childrens_Books.ChildrensBookSettings">
+		<colorbookFactor>150</colorbookFactor>
+		<boredTicks>10</boredTicks>
+		<colorbookTick>15</colorbookTick>
+	</ModSettings>
 </SettingsBlock>
