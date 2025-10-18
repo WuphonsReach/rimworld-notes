@@ -11,7 +11,7 @@
 			</li>
 			<li>
 				<thingDef>Silver</thingDef>
-				<count>12</count>
+				<count>6</count>
 			</li>
 			<li>
 				<thingDef>Gold</thingDef>
@@ -19,15 +19,15 @@
 			</li>
 			<li>
 				<thingDef>Uranium</thingDef>
-				<count>6</count>
+				<count>4</count>
 			</li>
 			<li>
 				<thingDef>Plasteel</thingDef>
-				<count>6</count>
+				<count>3</count>
 			</li>
 			<li>
 				<thingDef>Jade</thingDef>
-				<count>6</count>
+				<count>4</count>
 			</li>
 			<li>
 				<thingDef>Obsidian</thingDef>
@@ -35,7 +35,7 @@
 			</li>
 			<li>
 				<thingDef>ChunkSalt</thingDef>
-				<count>6</count>
+				<count>4</count>
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
