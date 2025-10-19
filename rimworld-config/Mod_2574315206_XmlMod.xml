@@ -68,7 +68,7 @@
 			</keys>
 			<values>
 				<li>true</li>
-				<li>600</li>
+				<li>415</li>
 				<li>0</li>
 				<li>315</li>
 				<li>0</li>
@@ -80,11 +80,11 @@
 				<li>0</li>
 				<li>350</li>
 				<li>0</li>
-				<li>751</li>
+				<li>780</li>
 				<li>0</li>
-				<li>751</li>
+				<li>755</li>
 				<li>0</li>
-				<li>360</li>
+				<li>435</li>
 				<li>0</li>
 				<li>420</li>
 				<li>0</li>
@@ -120,12 +120,12 @@
 				<li>false</li>
 				<li>false</li>
 				<li>True</li>
-				<li>0.4</li>
-				<li>0.1</li>
+				<li>0.25</li>
+				<li>0.05</li>
 				<li>0.5</li>
 				<li>0.3</li>
-				<li>0.2</li>
-				<li>0.2</li>
+				<li>0.1</li>
+				<li>0.05</li>
 				<li>0.8</li>
 				<li>1</li>
 				<li>False</li>

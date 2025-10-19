@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CaravanMoodBuff.CaravanMoodBuffSettings">
+		<CaravanTraveling_MoodEffect>12</CaravanTraveling_MoodEffect>
+		<CaravanEventSuccess_MoodEffect>15</CaravanEventSuccess_MoodEffect>
+		<CaravanEventSuccess_DurationDays>7</CaravanEventSuccess_DurationDays>
+		<CaravanBattleWon_MoodEffect>15</CaravanBattleWon_MoodEffect>
+		<CaravanBattleWon_DurationDays>5</CaravanBattleWon_DurationDays>
+	</ModSettings>
+</SettingsBlock>

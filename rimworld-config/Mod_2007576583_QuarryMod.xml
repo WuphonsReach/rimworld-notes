@@ -2,8 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="Quarry.QuarrySettings">
 		<QRY_quarryMaxHealth>10100</QRY_quarryMaxHealth>
+		<QRY_junkChance>80</QRY_junkChance>
 		<QRY_chunkChance>67</QRY_chunkChance>
-		<QRY_mineTicksVariance>2250</QRY_mineTicksVariance>
+		<QRY_mineTicksAverage>3000</QRY_mineTicksAverage>
+		<QRY_mineTicksVariance>2000</QRY_mineTicksVariance>
 		<QRY_OreDictionary>
 			<li>
 				<thingDef>Steel</thingDef>

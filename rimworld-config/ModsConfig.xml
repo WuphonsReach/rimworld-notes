@@ -6,11 +6,12 @@
     <li>brrainz.visualexceptions</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
-    <li>acetoyourface.fasteranimameditation</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
+    <li>dubwise.dubsperformanceanalyzer.steam</li>
+    <li>acetoyourface.fasteranimameditation</li>
     <li>redmattis.betterprerequisites</li>
     <li>thereallemon.factioncontrol</li>
     <li>adaptive.storage.framework</li>
@@ -134,6 +135,12 @@
     <li>elshender.stackablechunks</li>
     <li>indeed.stackxxl</li>
     <li>m00nl1ght.mappreview</li>
+    <li>nep.childsizedarmor</li>
+    <li>itchyflea.medicaltraining</li>
+    <li>heatherathebyne.insulatedhelmets</li>
+    <li>steelchicken.insultatedplatearmor</li>
+    <li>memegoddess.thickarmor</li>
+    <li>vanillaexpanded.vfefarming</li>
     <li>mlie.markthatpawn</li>
     <li>pyrce.mass.graves.continued</li>
     <li>grandyy.industrial.defense.turrets</li>
@@ -255,6 +262,7 @@
     <li>rabiosus.autoblink</li>
     <li>rabiosus.jumplifter</li>
     <li>leo.cleanresearchsort</li>
+    <li>syrus.caravanmoodbuff</li>
     <li>sarg.alphabooks</li>
     <li>mrhydralisk.layeredatmosphereorbit</li>
     <li>petetimessix.categorizedcleaning.split</li>
@@ -266,10 +274,13 @@
     <li>mehni.numbers</li>
     <li>owlchemist.smartfarming</li>
     <li>avilmask.commonsense</li>
+    <li>mlie.syrharvestyield</li>
     <li>mehni.pickupandhaul</li>
     <li>keyz182.keyzallowutilities</li>
     <li>frozensnowfox.complexjobs</li>
+    <li>oels.chooseyouroutfit</li>
     <li>erdelf.exportagency</li>
+    <li>kas.strongerscaling</li>
     <li>imranfish.xmldocumentviewer</li>
   </activeMods>
   <knownExpansions>
