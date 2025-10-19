@@ -16,9 +16,11 @@ classDiagram
   Green --> Naag
   Green --> Kagree
   Green --> Billa
+  Green --> Galzo
   Shemi --> Naag
   Shemi --> Kagree
   Shemi --> Billa
+  Shemi --> Galzo
   Entasga --> Dezaga
   Maras --> Dezaga
   Unknown1 --> Amudeus
