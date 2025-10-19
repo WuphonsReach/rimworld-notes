@@ -10,6 +10,9 @@ popd
 pushd rimworld-logs
 ./grab-latest.sh
 popd
+pushd rimworld-xml-exports
+./grab-latest.sh
+popd
 
 git add "rimworld-config/" "rimworld-mod-lists/" "rimworld-logs/"
 
