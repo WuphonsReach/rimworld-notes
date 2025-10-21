@@ -30,6 +30,7 @@
   - [Disable Many Harvest and Haul Options](#disable-many-harvest-and-haul-options)
     - [Remove both HAH and PUAH](#remove-both-hah-and-puah)
   - [Put PUAH back below CommonSense](#put-puah-back-below-commonsense)
+  - [Bug is back](#bug-is-back)
 
 
 # Categorized Cleaning
@@ -649,3 +650,8 @@ Verse.TickManager:TickManagerUpdate ()
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Game.UpdatePlay_Patch2 (Verse.Game)
 (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root_Play.Update_Patch1 (Verse.Root_Play)
 ```
+
+## Bug is back
+
+Caught one of the pawns in an "unloading inventory / standing" loop.  But there are no errors in the log.
+

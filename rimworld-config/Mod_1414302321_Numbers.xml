@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Numbers.Numbers_Settings">
+		<numbersPawnTableDefs>
+			<li>Numbers_Guests,Default,LabelShortWithIcon,Numbers_Equipment,Numbers_Bleedrate,RemainingSpace,</li>
+		</numbersPawnTableDefs>
+	</ModSettings>
+</SettingsBlock>
