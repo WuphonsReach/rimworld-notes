@@ -57,6 +57,7 @@
 - [5517](#5517)
   - [Apr-5517](#apr-5517)
   - [Jul-5517](#jul-5517)
+  - [Sep-5517](#sep-5517)
 
 # Start (2025-10-07)
 
@@ -708,6 +709,27 @@ We're starting to make devilstrand dusters.
 Thinking about [caravan planning](../../CaravanPlanning.md).
 
 Psychic bloom event.
+
+Dezaga (M, 17) charmed Beyersdorf (F, 20) and they are now lovers.  Dezaga is the child of Maras and Entasga, from before Maras started the affair with Purple.
+
+## Sep-5517
+
+Three unit mechanoid raid did a number on us.  Linke and Endra too hits, but nothing serious.  Juliet lost her right shoulder (and probably the arm).  Crowley took a lot of graser burns.
+
+We are now allied with The Mighty Clan.
+
+Linke (M, 40) and Hircorozz (M, 48) are now lovers.
+
+Beyersdorf is pregnant.
+
+Billa reaches age 7.  She picks up passions in shooting, cooking and medical.  Her trait will be backpacker (+carry, +plant yield, etc.).  Her animal skill is now a base of 10 and plant skill is a base of 7 from genes and traits.
+
+Pauor reaches age 7.  He picks gets the trait of fighter.  Passions in shooting, plants and melee.
+
+My mech cluster fights are going poorly.  Linke is dead.  Beyersdorf is bleeding out with a gunshot wound that destroyed her heart.  Beyersdorf loses her child when the resurrection takes place.
+
+
+
 
 
 

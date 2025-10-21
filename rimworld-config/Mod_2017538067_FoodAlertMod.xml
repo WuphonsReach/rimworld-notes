@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="FoodAlert.FoodAlertSettings">
-		<foodPreferability>RawTasty</foodPreferability>
+		<foodPreferability>MealAwful</foodPreferability>
+		<estimateIngredients>0</estimateIngredients>
 	</ModSettings>
 </SettingsBlock>
