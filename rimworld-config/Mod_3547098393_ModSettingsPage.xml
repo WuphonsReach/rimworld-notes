@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="MURFactionRaidCooldown.Settings">
-		<maxCooldown>500</maxCooldown>
+		<extraHoursPerDeath>15</extraHoursPerDeath>
+		<maxCooldown>1200</maxCooldown>
 	</ModSettings>
 </SettingsBlock>

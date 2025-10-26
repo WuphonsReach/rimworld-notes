@@ -8,7 +8,7 @@ Desktop is 3840 x 2160 @ 60 Hz
 Initialize engine version: 2022.3.35f1 (011206c7a712)
 [Subsystems] Discovering subsystems at path /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=0
-Renderer: AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 19.1.7, DRM 3.57, 6.8.0-85-generic)
+Renderer: AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 19.1.7, DRM 3.57, 6.8.0-86-generic)
 Vendor:   AMD
 Version:  4.6 (Core Profile) Mesa 25.2.2 (git-22ded5f256)
 GLES:     0
@@ -19,16 +19,16 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 301179488
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 825739824
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.060 seconds
+- Loaded All Assemblies, in  0.052 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.531336 ms
+UnloadTime: 0.634472 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
@@ -37,20 +37,19 @@ RimWorld 1.6.4566 rev619
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
-Mod [DHM]MyDogsHouse dependency (brrainz.harmony) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified.
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x775308cc2c00.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x775308dfdf70.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x77530ba15320.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e588ccc5270.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e588cde2e10.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e588fa9bf60.so
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7753007bd6f0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e58847be7e0.so
 [HugsLib] version 12.0.0
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7753018253f0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e58858077d0.so
 SatisfiedStorage loading
 [WDHeaters] Loaded.
 Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
@@ -71,11 +70,11 @@ Key binding conflict: OpenMapSearch and MainTab_kNumbersOverviewTab are both bou
 Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
 Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
 Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble, Vacstone
-Translation data for language English has 2 errors. Generate translation report for more info.
+Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7252 symbolDefs for vanilla and DLCs
-[XML Extensions] Initialized 4 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4351 total patch operations run in 6805ms, 0 failed
-[XML Extensions] Emitted 4 mod class(es)
+[XML Extensions] Initialized 5 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
+[XML Extensions] 4434 total patch operations run in 7731ms, 0 failed
+[XML Extensions] Emitted 5 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 [Hauts' Framework] active.
 [Hauts' Added Traits] active.
@@ -99,8 +98,8 @@ KCSG has Created 7252 symbolDefs for vanilla and DLCs
 [MarkThatPawn]: Found 18 icons for XCOM
 [MarkThatPawn]: Found 13 icons for XCOM 2
 [MarkThatPawn]: Found 9 icons for XCOM Medieval
-[MarkThatPawn]: Found 162 loaded weapons, 11 explosive weapons and 20 thrown projectiles
-[MarkThatPawn]: Found 235 loaded apparel, 69 armored apparel, 27 royal apparel, 23 psycast apparel, 7 enviromental protection apparel, 6 mechanator apparel and 131 basic apparel 
+[MarkThatPawn]: Found 192 loaded weapons, 11 explosive weapons and 21 thrown projectiles
+[MarkThatPawn]: Found 306 loaded apparel, 71 armored apparel, 71 royal apparel, 23 psycast apparel, 7 enviromental protection apparel, 6 mechanator apparel and 157 basic apparel 
 [MarkThatPawn]: Found 0 automatic rules defined
 BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea, small, acanthamoeba gigantea, large, acanthamoeba gigantea, huge, aerofleet, colossal aerofleet, chemfuel myrmidon, genix, green goo, infected aerofleet, luciferbug, red goo, red spore, boombat
 [BoomModExpanded]: Adding support for Animal Behaviour
@@ -114,10 +113,10 @@ BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 10/21/2025 4:43:53 PM
+[RealRuins][System]: RealRuins started patching at 10/26/2025 10:13:29 AM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 10/21/2025 4:43:53 PM
-[RealRuins][System]: RealRuins finished patching at 10/21/2025 4:43:53 PM (38.207 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 10/26/2025 10:13:29 AM
+[RealRuins][System]: RealRuins finished patching at 10/26/2025 10:13:29 AM (34.408 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -134,16 +133,14 @@ SupplyAndDemand Harmony Patches:
 found field: Verse.Room room
 Walls are Solid - transpiler patched successfully.
 PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
-Could not resolve reference to object with loadID Zone_16 of type Verse.ILoadReferenceable. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Bill_MakeCompost5_-2147483648_ExportAgency_-519114504 curPathRelToParent=
-Could not resolve reference to object with loadID Zone_16 of type Verse.ILoadReferenceable. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Bill_MakeCompost5_-2147483648_ExportAgency_1815198384 curPathRelToParent=
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1078 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1207 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 13)
 MVCF successfully applied 49 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 57171.
-Total: 787.193287 ms (FindLiveObjects: 3.360552 ms CreateObjectMapping: 1.301891 ms MarkObjects: 781.987815 ms  DeleteObjects: 0.542488 ms)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 58614.
+Total: 821.264121 ms (FindLiveObjects: 3.760047 ms CreateObjectMapping: 3.545685 ms MarkObjects: 813.380804 ms  DeleteObjects: 0.576934 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
@@ -163,14 +160,14 @@ CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share
 [Clean Research Sort]: Successfully applied sorted research tree layout.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 14)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.591289 ms
+UnloadTime: 0.757483 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 57439.
-Total: 794.454905 ms (FindLiveObjects: 2.678122 ms CreateObjectMapping: 1.252108 ms MarkObjects: 790.460854 ms  DeleteObjects: 0.063179 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 58883.
+Total: 825.363477 ms (FindLiveObjects: 2.977396 ms CreateObjectMapping: 1.764767 ms MarkObjects: 820.555660 ms  DeleteObjects: 0.064942 ms)
 
-Loading game from file Sparrow Tribe 10-Jul10 with mods:
+Loading game from file Sparrow Tribe 15-Sep9 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -301,6 +298,7 @@ Loading game from file Sparrow Tribe 10-Jul10 with mods:
   - PeteTimesSix.SimpleSidearms
   - klvlt.smokedfish
   - dismarzero.VGP.Smokedmeat
+  - Mallow.Shoes.Socks
   - Elshender.stackablechunks
   - Indeed.StackXXL
   - m00nl1ght.MapPreview
@@ -434,6 +432,9 @@ Loading game from file Sparrow Tribe 10-Jul10 with mods:
   - Leo.CleanResearchSort
   - Syrus.CaravanMoodBuff
   - sarg.alphabooks
+  - ILuvSilicon.SimpleVest
+  - al9000.tastycore
+  - al9000.fireandsteel
   - MrHydralisk.LayeredAtmosphereOrbit
   - PeteTimesSix.CategorizedCleaning.Split
   - Mlie.MoreGraphs
@@ -451,68 +452,138 @@ Loading game from file Sparrow Tribe 10-Jul10 with mods:
   - keyz182.KeyzAllowUtilities
   - FrozenSnowFox.ComplexJobs
   - oels.chooseyouroutfit
+  - Kattalisk.AllProductionXP
   - erdelf.ExportAgency
   - Kas.StrongerScaling
+  - Scorpio.ResourceDictionary
   - imranfish.xmldocumentviewer
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not resolve reference to object with loadID WorldObject_581 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID WorldObject_583 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID Lord_67 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=SmarterVisitors.GameComponent_ApprovedLords curPathRelToParent=/LordDelaysDictionary/keys
-Null key while loading dictionary of Verse.AI.Group.Lord and System.Int32. label=LordDelaysDictionary
-Null key while loading dictionary of Verse.Pawn and System.Int32. label=colonist_booze_tracker
+Could not resolve reference to object with loadID Lord_290 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_290 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_290 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_290 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_290 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_290 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Thing_Human2060957 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/snobs
+Could not resolve reference to object with loadID Faction_114 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
+Null key while loading dictionary of RimWorld.Faction and MURFactionRaidCooldown.FactionData. label=factionDataDict
+Could not resolve reference to object with loadID Faction_114 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref AE695B11]
+ [0x00006] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
+  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Designation.Delete () [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.Designation.ExposeData () [0x0007b] in <31482697ada14932981abc5e76101d5d>:0 
+    - PREFIX com.github.alandariva.moreplanning: Boolean MorePlanning.Patches.HarmonyPatches:DesignationPlanningExposeData_Prefix(Designation __instance)
+  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+    - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.CrossRefHandler_ResolveAllCrossReferences:Postfix()
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref AE695B11] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
 Could not find think node with key 609489829
 Could not find think node with key 609489829
-Could not find think node with key 609489829
-Could not find think node with key 609489829
-Could not find think node with key 609489829
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Error in PostMapInit() for Wild_PlantPlumeria2727598: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 355810D6]
+  at VEE.Plant_PostMapInit_Patch.Postfix (RimWorld.Plant& __instance, System.Int32& ___madeLeaflessTick) [0x0000f] in <5f9e5b3f68a74d34a61d038b40611c7d>:0 
+  at RimWorld.Plant.PostMapInit () [0x0000b] in <31482697ada14932981abc5e76101d5d>:0 
+    - POSTFIX Kikohi.VanillaEventExpanded: Void VEE.Plant_PostMapInit_Patch:Postfix(Plant& __instance, Int32& ___madeLeaflessTick)
+  at Verse.Map.FinalizeInit () [0x000a6] in <31482697ada14932981abc5e76101d5d>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+    - POSTFIX UnlimitedHugs.HugsLib: Void HugsLib.Patches.Map_FinalizeInit_Patch:MapLoadedHook(Map __instance)
+    - POSTFIX rimworld.mrhydralisk.LayeredAtmosphereOrbit: Void LayeredAtmosphereOrbit.HarmonyPatches:M_FinalizeInit_Postfix(Map __instance)
+Error in PostMapInit() for VG_Plant_TreeBamboo2727632: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 355810D6] Duplicate stacktrace, see ref for original
+Error in PostMapInit() for Plantmushroom2727767: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 355810D6] Duplicate stacktrace, see ref for original
+Error in PostMapInit() for Plantmushroom2728161: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 355810D6] Duplicate stacktrace, see ref for original
+Error in PostMapInit() for Plantmushroom2728446: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 355810D6] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 14)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 75544.
-Total: 851.448355 ms (FindLiveObjects: 3.215020 ms CreateObjectMapping: 3.093471 ms MarkObjects: 845.045047 ms  DeleteObjects: 0.094237 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 80452.
+Total: 915.447266 ms (FindLiveObjects: 3.538160 ms CreateObjectMapping: 2.818667 ms MarkObjects: 908.997182 ms  DeleteObjects: 0.092664 ms)
 
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (50, 204) - (274, 374)
-Origin: 50, 204
-Start capturing in area of: (50,204)-(273,373)
 [Dynamic Diplomacy] battle sim defender wins
 [Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for TribeSavageImpid: Original 129.8665, Multiplier 1, New 129.8665
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-DEBUG: Removed gene furskin with metabolism cost -1. New metabololism level is -4
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for PirateWaster: Original 91.31297, Multiplier 1.5, New 136.9695
-Attempted to draw Heron715139 without a resolved render tree.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
+Home area bounds: (50, 185) - (439, 376)
+Origin: 50, 185
+Start capturing in area of: (50,185)-(438,375)
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Dynamic Diplomacy] battle sim attacker wins conquest
 [Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Attempted to draw Muffalo2557416 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Squirrel2832986 without a resolved render tree.
+Attempted to draw Sparrow2723956 without a resolved render tree.
+Attempted to draw Sparrow2723958 without a resolved render tree.
+Attempted to draw Sparrow2723962 without a resolved render tree.
+Attempted to draw Sparrow2723960 without a resolved render tree.
+Attempted to draw Sparrow2723954 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Rat2596897 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Hare2835611 without a resolved render tree.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+NullReferenceException: Object reference not set to an instance of an object
+[Ref 832ED357] Duplicate stacktrace, see ref for original
+
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Lawson tried to wear TA_KidHood2843843 but is not allowed to.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
@@ -525,16 +596,6 @@ Attempted to draw Heron715139 without a resolved render tree.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Attempted to draw Crow836879 without a resolved render tree.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] battle sim defender wins
-[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Attempted to draw Crow838850 without a resolved render tree.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
@@ -543,23 +604,5 @@ Attempted to draw Crow838850 without a resolved render tree.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for OutlanderRoughPig: Original 117.0454, Multiplier 1.5, New 175.5681
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Use material Leather_Bear589814
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
