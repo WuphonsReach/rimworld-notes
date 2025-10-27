@@ -285,6 +285,53 @@
 								</internalList>
 							</exposable>
 						</li>
+						<li>
+							<exposable>
+								<name>Apparel policy 5</name>
+								<internalList>
+									<li>
+										<exposable Class="ThingFilter">
+											<disallowedSpecialFilters>
+												<li>AllowDeadmansApparel</li>
+												<li>AllowBiocodedApparel</li>
+											</disallowedSpecialFilters>
+											<allowedDefs>
+												<li>IH_Apparel_InsulatedHelmet</li>
+												<li>IH_Apparel_InsulatedFlakHelmet</li>
+												<li>VAE_Apparel_FleeceShirt</li>
+												<li>Apparel_CollarShirt</li>
+												<li>VAE_Handwear_Gloves</li>
+												<li>River_Tribal_mittens</li>
+												<li>Gunmar_Apparel_WovenHandWraps</li>
+												<li>VAE_Apparel_Jeans</li>
+												<li>Jewelry_Earring</li>
+												<li>Jewelry_Necklace</li>
+												<li>Jewelry_Ring</li>
+												<li>Apparel_Pants</li>
+												<li>Mallow_riding_boots</li>
+												<li>VAE_Footwear_Boots</li>
+												<li>Mallow_winter_socks</li>
+												<li>Mallow_summer_socks</li>
+												<li>Mallow_stockings</li>
+												<li>Mallow_work_boots</li>
+												<li>VAE_Apparel_Overalls</li>
+												<li>VAE_Apparel_Apron</li>
+												<li>VAE_Headgear_Sunglasses</li>
+												<li>Apparel_Duster</li>
+												<li>TA_LongcoatClosed</li>
+												<li>TA_LongcoatOpen</li>
+												<li>TA_TallBoots</li>
+												<li>TA_TallGloves</li>
+												<li>VAE_Apparel_Hoodie</li>
+											</allowedDefs>
+											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
 					</internalList>
 				</li>
 				<li>

@@ -19,16 +19,16 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 237211952
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 667941536
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.055 seconds
+- Loaded All Assemblies, in  0.051 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.522983 ms
+UnloadTime: 0.504838 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
@@ -41,17 +41,17 @@ Mod  is missing supported versions list in About.xml! (example: <supportedVersio
 Mod rimworld-steel-roof is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f7ef0cb1e00.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f7ef0d04ce0.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f7ef388d770.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x77a6f8cec750.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x77a6f8d973e0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x77a6fba94bb0.so
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f7ee80ebcc0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x77a6ec786430.so
 [HugsLib] version 12.0.0
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f7ee9192880.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x77a6ed835830.so
 SatisfiedStorage loading
 [WDHeaters] Loaded.
 Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
@@ -75,7 +75,7 @@ Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limest
 Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7252 symbolDefs for vanilla and DLCs
 [XML Extensions] Initialized 5 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4443 total patch operations run in 7254ms, 0 failed
+[XML Extensions] 4443 total patch operations run in 7130ms, 0 failed
 [XML Extensions] Emitted 5 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 [Hauts' Framework] active.
@@ -115,10 +115,10 @@ BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 10/26/2025 9:08:01 PM
+[RealRuins][System]: RealRuins started patching at 10/27/2025 3:40:41 AM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 10/26/2025 9:08:01 PM
-[RealRuins][System]: RealRuins finished patching at 10/26/2025 9:08:01 PM (32.586 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 10/27/2025 3:40:41 AM
+[RealRuins][System]: RealRuins finished patching at 10/27/2025 3:40:41 AM (32.715 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -137,12 +137,12 @@ Walls are Solid - transpiler patched successfully.
 PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1187 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1179 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 14)
 MVCF successfully applied 49 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
 Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 58927.
-Total: 797.622496 ms (FindLiveObjects: 3.244098 ms CreateObjectMapping: 1.789193 ms MarkObjects: 792.015827 ms  DeleteObjects: 0.572917 ms)
+Total: 807.654822 ms (FindLiveObjects: 3.353524 ms CreateObjectMapping: 1.731474 ms MarkObjects: 802.009221 ms  DeleteObjects: 0.560143 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
@@ -162,14 +162,14 @@ CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share
 [Clean Research Sort]: Successfully applied sorted research tree layout.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 15)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.580130 ms
+UnloadTime: 0.578808 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 59199.
-Total: 777.265382 ms (FindLiveObjects: 3.865536 ms CreateObjectMapping: 1.710835 ms MarkObjects: 771.627566 ms  DeleteObjects: 0.060904 ms)
+Total: 780.852865 ms (FindLiveObjects: 2.574248 ms CreateObjectMapping: 1.448443 ms MarkObjects: 776.772997 ms  DeleteObjects: 0.056697 ms)
 
-Loading game from file Sparrow Tribe 16-Jul10 with mods:
+Loading game from file Sparrow Tribe 16-Sep1 captured jotun with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -466,33 +466,18 @@ Loading game from file Sparrow Tribe 16-Jul10 with mods:
   - imranfish.xmldocumentviewer
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not resolve reference to object with loadID Lord_328 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Faction_121 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=
-Could not resolve reference to object with loadID Lord_332 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Faction_122 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=
-Could not resolve reference to object with loadID Faction_116 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
+Could not resolve reference to object with loadID WorldObject_832 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
+Could not resolve reference to object with loadID Faction_118 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
 Null key while loading dictionary of RimWorld.Faction and MURFactionRaidCooldown.FactionData. label=factionDataDict
-Could not resolve reference to object with loadID Faction_116 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
+Could not resolve reference to object with loadID Faction_118 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11]
- [0x00006] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.Designation.Delete () [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.Designation.ExposeData () [0x0007b] in <31482697ada14932981abc5e76101d5d>:0 
-    - PREFIX com.github.alandariva.moreplanning: Boolean MorePlanning.Patches.HarmonyPatches:DesignationPlanningExposeData_Prefix(Designation __instance)
-  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <31482697ada14932981abc5e76101d5d>:0 
-    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-    - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.CrossRefHandler_ResolveAllCrossReferences:Postfix()
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Thing-needing designation (Haul target=null) had no thing target. Removing...
+Could not find think node with key 609489829
 Could not find think node with key 1565512094
+Could not find think node with key 609489829
+Could not find think node with key 609489829
 Could not find think node with key 609489829
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
@@ -509,8 +494,8 @@ Notify_NewLink was called but the link is already here.
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 79165.
-Total: 879.479872 ms (FindLiveObjects: 3.297708 ms CreateObjectMapping: 2.303069 ms MarkObjects: 873.783756 ms  DeleteObjects: 0.094728 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 79128.
+Total: 877.560575 ms (FindLiveObjects: 3.418866 ms CreateObjectMapping: 3.179456 ms MarkObjects: 870.866804 ms  DeleteObjects: 0.094748 ms)
 
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
@@ -519,32 +504,37 @@ Origin: 50, 185
 Start capturing in area of: (50,185)-(438,375)
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Quarry:: Tried to quarry mineable ore, but the ore given was null.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Quarry:: Tried to quarry mineable ore, but the ore given was null.
-[Dynamic Diplomacy] battle sim defender wins
-[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
+Attempted to draw AA_Groundrunner3145994 without a resolved render tree.
+Attempted to draw Heron3027028 without a resolved render tree.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Exception in JobDriver fixed tick for pawn Wanysh driver=JobDriver_Ingest (toilIndex=7) driver.job=(Ingest (Job_35420047) A = Thing_MealFine3139740 B = Thing_Filth_Dirt3140083 Giver = JobGiver_GetFood [workGiverDef: null])
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception in JobDriver fixed tick for pawn Wanysh driver=JobDriver_Ingest (toilIndex=12) driver.job=(Ingest (Job_35778901) A = Thing_MealFine3257764 B = Thing_Filth_Dirt3257673 Giver = JobGiver_GetFood [workGiverDef: null])
 System.NullReferenceException: Object reference not set to an instance of an object
 [Ref D4B28696]
   at Verse.GridsUtility.GetTerrain (Verse.IntVec3 c, Verse.Map map) [0x00000] in <31482697ada14932981abc5e76101d5d>:0 
   at CommonSense.Utility+<>c__DisplayClass21_0.<CleanFilthToil>b__1 () [0x0003b] in <c08ea0632ba44dd18c410e20e9470cb1>:0 
   at Verse.AI.JobDriver.DriverTick () [0x001a3] in <31482697ada14932981abc5e76101d5d>:0 
     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Tauky tried to wear TA_KidHood3142526 but is not allowed to.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for BS_Muspelheim: Original 424.4216, Multiplier 1, New 424.4216
+Resource ID out of range in GetResource: 1048576 (max is 1048575)
+Resource ID out of range in GetResource: 1048576 (max is 1048575)
+Resource ID out of range in GetResource: 1048576 (max is 1048575)
+Resource ID out of range in SetResource: 1048576 (max is 1048575)
+Resource ID out of range in GetResource: 1048576 (max is 1048575)
+Resource ID out of range in GetResource: 1048576 (max is 1048575)
+Resource ID out of range in GetResource: 1048577 (max is 1048575)
+Resource ID out of range in GetResource: 1048577 (max is 1048575)
+Resource ID out of range in SetResource: 1048577 (max is 1048575)
+Resource ID out of range in GetResource: 1048577 (max is 1048575)
+Resource ID out of range in GetResource: 1048577 (max is 1048575)
+Resource ID out of range in GetResource: 1048577 (max is 1048575)
+Resource ID out of range in GetResource: 1048576 (max is 1048575)
+Caught fatal signal - signo:5 code:128 errno:0 addr:(nil)
+Obtained 2 stack frames.
+#0  0x0077a8af863a3f in PlayerMain(int, char**)
+#1  0x0077a8ae481c9d in (Unknown)
