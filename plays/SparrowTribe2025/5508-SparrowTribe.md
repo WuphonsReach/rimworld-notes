@@ -46,6 +46,11 @@
   - [Jul-5515](#jul-5515)
   - [Sep-5515](#sep-5515)
   - [Dec-5515](#dec-5515)
+- [5516](#5516)
+  - [Apr-5516](#apr-5516)
+  - [Jul-5516](#jul-5516)
+  - [Sep-5516](#sep-5516)
+  - [Dec-5516](#dec-5516)
 
 # Start (2025-10-07)
 
@@ -462,6 +467,52 @@ Allied with Treaty of Nabium after loading their caravan down with raw meats.  A
 ## Dec-5515
 
 A leathery stranger approaches.  We don't need the trouble so will send them away.
+
+Cyan becomes a child.
+
+Menga and Rytt are now lovers.
+
+Wanysh is pregnant again.
+
+Rolu reaches age 10.  She picks up great memory as a trait.  Burning passion for shooting and mining with a regular passion for plants.
+
+# 5516
+
+## Apr-5516
+
+Elder Remembrance: Unimpressive.
+
+Zebra reaches age 3 and becomes a child.
+
+Raid, with a psycaster, by the Gaa Union.  Looks like they are a level 10 wildspeaker.
+
+Blue reaches the age of 10.  She picks up the backpacker trait to go with her navigator trait.  Now she has a burning passion for cooking and construction and also picks up passions for mining and intellectual.
+
+Porg reaches adulthood.  She's our large trait half-jotun.  Already has a burning passion for plants and a small interest in cooking, but has the poor cooking gene.  She picks up the determined trait.  That balances out her delicate trait and add in the jotun gene of robust and she'll make a half-decent melee pawn.  She picks up the burning passion for melee and regular passions for medical, intellectual and construction.
+
+## Jul-5516
+
+Wanysh is in labor.  She gives birth to a sick child.  They are psychically dull, sleepy, strong melee, robust, furskin and hulk body.  We'll unlock 5 doses of glitterworld medicine and set Orange to priority one for tending to the infant.  Her nickname will be Ryk.
+
+Growth moment for Yellow.  She already has the backpacker trait, she adds the outdoorsy trait to that.  Picks up a burning passion for plants and normal massions in medical and shooting.
+
+Purple has another heart attack.
+
+Nexia is pregnant.
+
+We're capturing a jotun namecd Geirmundr (Geir).  He's 47, hard working, giant with all the strong jotun genes and came with a nearly full set of steel armor.
+
+## Sep-5516
+
+Aguirre is pregnant.
+
+Geir has converted to our ideology, now to persuade them to join our colony.
+
+Fair of Age: Terrible
+
+Nexia enters labor on the 11th.  She gives birth to a healthy baby boy (half-genie) that we'll name Stork.  He picks up the dead calm and delicate genes, along with great crafting and intellectual.  But he'll be poor at plants.
+
+## Dec-5516
 
 
 
