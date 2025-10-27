@@ -2,7 +2,7 @@
 <SettingsBlock>
 	<ModSettings Class="Quarry.QuarrySettings">
 		<QRY_quarryMaxHealth>10100</QRY_quarryMaxHealth>
-		<QRY_junkChance>80</QRY_junkChance>
+		<QRY_junkChance>75</QRY_junkChance>
 		<QRY_chunkChance>67</QRY_chunkChance>
 		<QRY_mineTicksAverage>3000</QRY_mineTicksAverage>
 		<QRY_mineTicksVariance>2000</QRY_mineTicksVariance>
@@ -41,7 +41,7 @@
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
-				<count>20</count>
+				<count>27</count>
 			</li>
 			<li>
 				<thingDef>AA_SkySteel</thingDef>
