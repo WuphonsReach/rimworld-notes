@@ -3,13 +3,13 @@
 	<ModSettings Class="Quarry.QuarrySettings">
 		<QRY_quarryMaxHealth>10100</QRY_quarryMaxHealth>
 		<QRY_junkChance>75</QRY_junkChance>
-		<QRY_chunkChance>67</QRY_chunkChance>
-		<QRY_mineTicksAverage>3000</QRY_mineTicksAverage>
-		<QRY_mineTicksVariance>2000</QRY_mineTicksVariance>
+		<QRY_chunkChance>75</QRY_chunkChance>
+		<QRY_mineTicksAverage>2400</QRY_mineTicksAverage>
+		<QRY_mineTicksVariance>1800</QRY_mineTicksVariance>
 		<QRY_OreDictionary>
 			<li>
 				<thingDef>Steel</thingDef>
-				<count>45</count>
+				<count>40</count>
 			</li>
 			<li>
 				<thingDef>Silver</thingDef>
@@ -21,7 +21,7 @@
 			</li>
 			<li>
 				<thingDef>Uranium</thingDef>
-				<count>4</count>
+				<count>5</count>
 			</li>
 			<li>
 				<thingDef>Plasteel</thingDef>
@@ -37,7 +37,7 @@
 			</li>
 			<li>
 				<thingDef>ChunkSalt</thingDef>
-				<count>4</count>
+				<count>2</count>
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
