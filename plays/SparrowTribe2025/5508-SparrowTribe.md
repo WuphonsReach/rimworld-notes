@@ -51,6 +51,13 @@
   - [Jul-5516](#jul-5516)
   - [Sep-5516](#sep-5516)
   - [Dec-5516](#dec-5516)
+- [5517](#5517)
+  - [Apr-5517](#apr-5517)
+  - [Jul-5517](#jul-5517)
+  - [Sep-5517](#sep-5517)
+  - [Dec-5517](#dec-5517)
+- [5518](#5518)
+  - [Apr-5518](#apr-5518)
 
 # Start (2025-10-07)
 
@@ -512,7 +519,116 @@ Fair of Age: Terrible
 
 Nexia enters labor on the 11th.  She gives birth to a healthy baby boy (half-genie) that we'll name Stork.  He picks up the dead calm and delicate genes, along with great crafting and intellectual.  But he'll be poor at plants.
 
+Geir has been persuaded to join.
+
+Ren reaches age 7.  He picks up passions for social, shooting and plants.  Gains the mentor trait.
+
 ## Dec-5516
+
+Rolu reaches adulthood.  She picks up the groundbreaker trait for increased construction and mining.  She picks up normal passions for art, medical and crafting since her skills will never fade.  Her burning passion is still mining.
+
+Rolu is going to start into Technomancer to use up some of that high neural heat capacity to run rock golems.
+
+Rytt proposed to Menga who agreed to get married.
+
+Cyan reaches age 7.  She picks up the aestheticist trait with a passion for crafting and art.  But her passions lie in plants, medical, intellectual and shooting.
+
+Aguirre enters labor on the 7th.  She already has two daughters, Cyan and Yellow.  She gives birth to another girl who will be named Indigo.
+
+Blue becomes an adult.  She picks up the tough trait for 50% damage reduction.  She picks up a burning passion for mining and plants, with normal passions in shooting and medical.  She'll start down the staticlord psycast tree.
+
+# 5517
+
+## Apr-5517
+
+Elder Remembrance: Beautiful
+
+Rytt and Menga get married on the 1st.
+
+Ryk reaches childhood.
+
+Toxic fallout begins on the 1st.
+
+Zebra reaches age 7.  She picks up diligent student and a burning passion for intellectual pursuits.  Regular passions for medical and shooting.
+
+Yellow becomes an adult.  She picks up the industrious trait and burning passions for social and cooking.
+
+## Jul-5517
+
+Space battle from which we've captured three survivors.  
+
+- Zemlik (F, 20, baseliner): Has the rock and stone trait making her a great miner.
+- Shae (F, 71, drakonori): Angelic beauty, tycoon, uninstulable, environmentalist.  Burning passion for shooting and crafting.
+- Deeth (M, 49, baseliner): Cold inclined, imperceptive, incapable of violence. Burning passions for crafting, social and intellectual.
+
+Zemlik converts to our ideology after a few days, now to let our colonists gain social XP from recruitment.
+
+Shae is proving impossible to convert to our ideology.  Even with Red's ability and the conversion staff.  We'll have to fall back to the old standby of Mind Wipe.  In the meantime, we'll wait for her to heal and use her for social XP gain.
+
+Jaketh and Connor break up.
+
+Stork becomes a child.
+
+Ren reaches age 10.  He picks up the healthy routines trait.  A burning passion for shooting and animals and a regular passion for melee.  Because of his mentor trait, we want him to be well rounded.  Every social interaction grants a chance for Ren to teach the other pawn something.
+
+A volcanic winter starts on the 14th.
+
+## Sep-5517
+
+Cold snap on top of the volcanic winter.  It ends on the 4th.
+
+Fair of Age: Fun
+
+Purple's artery blockage has reached extreme.  
+
+Cyan reaches age 10.  She picks up a passion for social and the go-getter trait.  Also a burning passion for medical work.
+
+Indigo is now age 3.
+
+Nexia is pregnant.
+
+Volcanic winter ends on the 13th.
+
+Purple has another heart attack.  
+
+## Dec-5517
+
+Zemlik courted Ra and they are now lovers.
+
+Zebra reaches age 10.  She picks up hotfoot and a burning passion for shooting and crafting.  Along with a minor interest in artistic things.  
+
+A drought starts in on the 4th.  
+
+Buch and Porg are now lovers.
+
+Aguirre is pregnant.
+
+A starjack named Suski (F, 17) has crashed.  A member of a hostile faction but with burning passions for shooting and art.  Along with normal passions for construction, plants and cooking.  She's incapable of social or caring.  We'll capture her, convert her and then recruit her.  Deeth uses his inspiration to recruit her on the 10th.
+
+A pair of ravagers has wandered in.  These are battle animals with a minimum handling skill of 10.
+
+Purple has another heart attack on the 9th.  Good medical practice for Ra.
+
+Ra proposed to Zemlik and they are now engaged.
+
+Drought ends on the 11th.
+
+Nexia enters labor on the 15th.  She gives birth to a healthy baby boy named Fince.
+
+# 5518
+
+## Apr-5518
+
+Elder Remembrance: Terrible!
+
+Ryk reaches age 7.  She's now a psychically dull zealot.  Passions for art, shooting and medical.
+
+Purple has a heart attack.  
+
+Nexia is pregnant again.
+
+Buch proposed to Porg and they are now engaged to be married.
+
 
 
 

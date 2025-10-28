@@ -15,6 +15,7 @@ flowchart
   Red --> RedNexia(birth)
   RedNexia --> Zebra
   RedNexia --> Stork
+  RedNexia --> Finch
   Red --> RedAguirre(birth)
   Aguirre --> RedAguirre(birth)
   OrangeMarriage --> Green
@@ -32,4 +33,19 @@ flowchart
   Aguirre --> GreenAguirre(birth)
   Green --> GreenAguirre(birth) 
   GreenAguirre --> Cyan
+  GreenAguirre --> Indigo
+  GreenAguirre --> Baby2017A
 ```
+
+Name candidates for Green/Aguirre
+- Teal
+- Gold
+- Silver
+- Sienna
+- Violet
+- Pearl
+- Amber
+- Crimson
+- Lime
+- Olive
+
