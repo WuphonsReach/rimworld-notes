@@ -58,6 +58,7 @@
   - [Dec-5517](#dec-5517)
 - [5518](#5518)
   - [Apr-5518](#apr-5518)
+  - [Jul-5518](#jul-5518)
 
 # Start (2025-10-07)
 
@@ -628,6 +629,16 @@ Purple has a heart attack.
 Nexia is pregnant again.
 
 Buch proposed to Porg and they are now engaged to be married.
+
+Aguirre starts labor.  She gives birth to a healthy baby boy named Lime.
+
+Ren becomes an adult.  He picks up burning passions in plants and melee and a small interest in medical.  For his last trait, he picks up small talker for increased social ability.
+
+## Jul-5518
+
+We captured Rocavin (M, 21, imp) from the raid.  Natural focus, sniper, mariner, pretty with burning passion for construction.
+
+Buch and Porg get married on the 3rd.
 
 
 

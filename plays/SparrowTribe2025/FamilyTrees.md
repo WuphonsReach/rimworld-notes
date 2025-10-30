@@ -16,6 +16,7 @@ flowchart
   RedNexia --> Zebra
   RedNexia --> Stork
   RedNexia --> Finch
+  RedNexia --> RN4
   Red --> RedAguirre(birth)
   Aguirre --> RedAguirre(birth)
   OrangeMarriage --> Green
@@ -34,7 +35,7 @@ flowchart
   Green --> GreenAguirre(birth) 
   GreenAguirre --> Cyan
   GreenAguirre --> Indigo
-  GreenAguirre --> Baby2017A
+  GreenAguirre --> Lime
 ```
 
 Name candidates for Green/Aguirre
