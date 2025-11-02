@@ -59,6 +59,15 @@
 - [5518](#5518)
   - [Apr-5518](#apr-5518)
   - [Jul-5518](#jul-5518)
+  - [Sep-5518](#sep-5518)
+  - [Dec-5518](#dec-5518)
+- [5519](#5519)
+  - [Apr-5519](#apr-5519)
+  - [Jul-5519](#jul-5519)
+  - [Sep-5519](#sep-5519)
+  - [Dec-5519](#dec-5519)
+- [5520](#5520)
+  - [Apr-5520](#apr-5520)
 
 # Start (2025-10-07)
 
@@ -639,6 +648,131 @@ Ren becomes an adult.  He picks up burning passions in plants and melee and a sm
 We captured Rocavin (M, 21, imp) from the raid.  Natural focus, sniper, mariner, pretty with burning passion for construction.
 
 Buch and Porg get married on the 3rd.
+
+Ra and Zemlik get married on the 6th.
+
+Purple has a fatal heart attack on the 9th.  Fortunately, we have the technology, er, Buch with the Resurrect ability.
+
+Cyan reaches adulthood.  She picks up fast learner along with burning passions for shooting, crafting, construction and intellectual.
+
+Blue flirted with Rocavin and they are now lovers.
+
+Nexia enters labor on the 11th.  She gives birth to a healthy baby girl named Quail.  Quail picks up the wimp trait from her mother due to the extra pain gene.  But no other xenogenes were passed down.
+
+Stork reaches age 7.  He picks up burning passions for intellectual and crafting and normal passions for medical and plants.  His trait will be swift and steady which has bonuses to medical.
+
+## Sep-5518
+
+Fair of Age: Fun
+
+Caravaners:
+- Blue
+- Cyan
+- Rocavin
+- Rytt
+- Suski
+- Yellow
+- Zemlik
+
+Sending 6 colonists off map to start building a basic road down to the nearest stone road.  They're leaving on the 4th, it's about 2 days to the far end of the project then they start building coming back.  I gave them about 9 days of food.  We need to plan on about 300 wood per tile of road.  I'm sure that I'm not sending enough wood.
+
+Zebra becomes an adult and picks up a burning passion for medical.  Her new trait is groundbreaker to go with hotfoot and diligent student.  She picks up passions for plants and social.
+
+Indigo reaches the age of 7.  She's gaining the pescatarian trait (loves to eat fish).  Her passions are animals, intellectual and construction.
+
+Another caravan for road building on the 9th.  
+
+Psychic bloom starts on the 15th.
+
+Finch becomes a child.
+
+## Dec-5518
+
+Ryk reaches age 10.  She picks up the optimist trait and a burning passion for shooting.  Along with passions for social and plants.
+
+Blue proposed marriage to Rocavin, who accepted.
+
+We've unlocked electricity after 10 years.
+
+Lime reaches age 3.
+
+Psychic bloom ends on the 12th.
+
+# 5519
+
+## Apr-5519
+
+Elder Remembrance: Beautiful
+
+Blue is pregnant with Rocavin's child.
+
+Allied with Pact of Wasgaler by dumping large piles of raw meat onto the traders.  Enough for +200 relations.
+
+Stork reaches age 10.  He picks up diligent student.  He picks up passions for cooking, social, artistic and animals.  He already had burning passions for crafting and intellectual.  No luck on getting a burning passion for medical, maybe when he turns 13.
+
+Quail reaches age 3.
+
+## Jul-5519
+
+Blue enters labor.  She gives birth to a baby girl named Szov.  Szov picked up very fast runner and fire resistant from Rocavin.  Also a lot of not so good genes like weak immunity, slow healing, unhappy, poor plants and animals.
+
+Indigo reaches age 10.  She picks up the backpacker trait.  She picks up passions for medical, plants and crafting.
+
+Drop pod raid.  
+
+Nexia is pregnant.
+
+War merchant from Union of Foobenthor is selling us two slaves, Svorda and Breire.  We'll hold the emancipation ritual and see if either join us.  We'll also dump enough goods onto the caravan to get us to allied.
+
+Svorda joined us.  She's age 11, fun-loving and insatiable.  A burning passion for crafting and regular passions for mining and intellectual.
+
+Blue is pregnant.
+
+## Sep-5519
+
+Fair of Age: Unforgettable
+
+Allied with Wayoufarberium.
+
+Porg is pregnant.  She's one of our frontline fighters, sleeping with Buch.  
+
+Ryk becomes an adult.  She picks up the martial artist trait, plus burning passions in medical and social.  A minor passion in melee to go with the martial artist trait seems good.
+
+Lime (M, 5) and Finch (M, 6) decide to have a beer and smokeleaf party.  
+
+Mech cluster on the 8th.  We use Vortex to stun the mobile units, a smoke launcher to blind the two turrets and melee use their leap abilities to get in an kill the turrets before bashing the mobile units to bits.
+
+Shuttle crash drops Pavilion (M, 57) into our lap.  Brave and nimble with burning passions for melee and animals.  Plus he has the natural focus meditation type.
+
+Nexia enters labor on the 14th.  She gives birth to a healthy baby girl named Cricket.  Ricket picks up great crafting and dead calm from her mother.  But also delicate, extra pain and awful social genes.
+
+Finch reaches age 7.  He picks up passions for shooting, crafting and artistic.  He picks up the nimble trait.
+
+## Dec-5519
+
+Allied with Langua Pact.  
+
+Svorda reaches adulthood and picks up an interest in artistic things.  She's also a hard worker.
+
+Blue starts labor on the 6th.  Rocavin was already at the hospital due to a fight with an unwanted dark visitor.  She gives birth to a healthy baby boy named Thaaz.  Thazz picks up the fire spew, slow wound healing, unhappy, cold weakness, heat super-tolerant and weak melee damage from Rocavin.
+
+Finished battery research, we can finally build the windmills.
+
+Porg enters labor on the 8th.  She gives birth to a healthy baby girl named Heidr.  Heidr picked up mild cell instability and poor cooking, but no other xenogenes.
+
+Lime reaches age 7.  He picks up passions for social and medical along with the hale trait.
+
+Stork reaches adulthood.  He picks up powerful senses.  Burning passions for social, shooting, medical and cooking to go with his burning passions for crafting and intellectual.  He'll be set to research when not doing wardening or butchering or caring for the tribal children.
+
+# 5520
+
+## Apr-5520
+
+Elder Remembrance: Unimpressive
+
+
+
+
 
 
 

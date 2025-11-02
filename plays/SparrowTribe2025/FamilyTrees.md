@@ -8,7 +8,7 @@ Parent-child relationships within the colony.  Strictly about biological parents
     class:
       hideEmptyMembersBox: true
 ---
-flowchart
+flowchart LR
   Orange --> OrangeMarriage(birth)
   OrangeMarriage --> Red
   Nexia --> RedNexia(birth)
@@ -16,13 +16,18 @@ flowchart
   RedNexia --> Zebra
   RedNexia --> Stork
   RedNexia --> Finch
-  RedNexia --> RN4
+  RedNexia --> Quail
+  RedNexia --> Cricket
   Red --> RedAguirre(birth)
   Aguirre --> RedAguirre(birth)
   OrangeMarriage --> Green
   Orange --> OrangeIratha(birth)
   Iratha --> OrangeIratha(birth)
   OrangeIratha --> Blue
+  Rocavin --> BlueRocavin(birth)
+  Blue --> BlueRocavin(birth)
+  BlueRocavin(birth) --> Szov
+  BlueRocavin(birth) --> Thaaz
   Entasga --> EntasgaWanysh(birth)
   Wanysh --> EntasgaWanysh(birth)
   EntasgaWanysh --> Ra
@@ -36,9 +41,12 @@ flowchart
   GreenAguirre --> Cyan
   GreenAguirre --> Indigo
   GreenAguirre --> Lime
+  Buch --> BuchPorg(birth)
+  Porg --> BuchPorg(birth) 
+  BuchPorg(birth) --> Heidr
 ```
 
-Name candidates for Green/Aguirre
+Name candidates for Orange's line
 - Teal
 - Gold
 - Silver
@@ -47,6 +55,5 @@ Name candidates for Green/Aguirre
 - Pearl
 - Amber
 - Crimson
-- Lime
 - Olive
 
