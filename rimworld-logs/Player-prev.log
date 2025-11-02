@@ -19,21 +19,21 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1081396720
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 370113792
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.057 seconds
+- Loaded All Assemblies, in  0.053 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.511281 ms
+UnloadTime: 0.531056 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
 SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198011700377 [API loaded no]
-RimWorld 1.6.4566 rev619
+RimWorld 1.6.4630 rev485
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
@@ -43,17 +43,17 @@ Mod  is missing supported versions list in About.xml! (example: <supportedVersio
 Mod rimworld-steel-roof is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f6050ca9360.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f6050e56880.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f6053a04c40.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ddc1ccf8040.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ddc1cc319e0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ddc1f9f2890.so
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f60447d3b70.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ddbe4ebb690.so
 [HugsLib] version 12.0.0
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7f60455e4430.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ddbe58e29f0.so
 SatisfiedStorage loading
 [WDHeaters] Loaded.
 Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
@@ -77,7 +77,7 @@ Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limest
 Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7252 symbolDefs for vanilla and DLCs
 [XML Extensions] Initialized 5 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4450 total patch operations run in 7146ms, 0 failed
+[XML Extensions] 4481 total patch operations run in 7495ms, 0 failed
 [XML Extensions] Emitted 5 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 [Hauts' Framework] active.
@@ -117,10 +117,10 @@ BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 10/28/2025 6:21:14 PM
+[RealRuins][System]: RealRuins started patching at 11/2/2025 6:26:37 AM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 10/28/2025 6:21:14 PM
-[RealRuins][System]: RealRuins finished patching at 10/28/2025 6:21:14 PM (33.724 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 11/2/2025 6:26:37 AM
+[RealRuins][System]: RealRuins finished patching at 11/2/2025 6:26:37 AM (33.359 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -139,12 +139,12 @@ Walls are Solid - transpiler patched successfully.
 PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1185 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1267 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 14)
 MVCF successfully applied 49 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 58946.
-Total: 823.191434 ms (FindLiveObjects: 3.823567 ms CreateObjectMapping: 3.602671 ms MarkObjects: 815.201036 ms  DeleteObjects: 0.563680 ms)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 59007.
+Total: 833.744292 ms (FindLiveObjects: 3.423460 ms CreateObjectMapping: 1.682955 ms MarkObjects: 828.068910 ms  DeleteObjects: 0.568496 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
@@ -164,14 +164,14 @@ CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share
 [Clean Research Sort]: Successfully applied sorted research tree layout.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 15)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.590951 ms
+UnloadTime: 0.623429 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 59218.
-Total: 793.543869 ms (FindLiveObjects: 3.689114 ms CreateObjectMapping: 1.750871 ms MarkObjects: 788.045484 ms  DeleteObjects: 0.057639 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 59291.
+Total: 816.179397 ms (FindLiveObjects: 2.731431 ms CreateObjectMapping: 1.516013 ms MarkObjects: 811.874605 ms  DeleteObjects: 0.056736 ms)
 
-Loading game from file Sparrow Tribe 17-Dec14 with mods:
+Loading game from file Sparrow Tribe 19-Sep14 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -463,6 +463,7 @@ Loading game from file Sparrow Tribe 17-Dec14 with mods:
   - Kattalisk.AllProductionXP
   - Mlie.TradeableTrinkets
   - erdelf.ExportAgency
+  - Memegoddess.ReplaceStuff
   - Kas.StrongerScaling
   - zal.tradegoods
   - Runzu.TradeGoodsRetexture
@@ -470,84 +471,38 @@ Loading game from file Sparrow Tribe 17-Dec14 with mods:
   - imranfish.xmldocumentviewer
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not resolve reference to object with loadID Lord_405 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_405 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_405 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_405 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
-Could not resolve reference to object with loadID Lord_405 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Haul designation has no target! Deleting.
 Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
 Parameter name: key
-[Ref AE695B11]
+[Ref CF75A5C9]
  [0x00006] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
   at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
   at System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.Designation.Delete () [0x00006] in <31482697ada14932981abc5e76101d5d>:0 
-  at Verse.Designation.ExposeData () [0x0007b] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.Designation.Delete () [0x00006] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.Designation.ExposeData () [0x0007b] in <ef9964fdcdea49308a165413272831ef>:0 
     - PREFIX com.github.alandariva.moreplanning: Boolean MorePlanning.Patches.HarmonyPatches:DesignationPlanningExposeData_Prefix(Designation __instance)
-  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <31482697ada14932981abc5e76101d5d>:0 
+  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <ef9964fdcdea49308a165413272831ef>:0 
     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
     - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.CrossRefHandler_ResolveAllCrossReferences:Postfix()
 Haul designation has no target! Deleting.
 Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
 Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref AE695B11] Duplicate stacktrace, see ref for original
+[Ref CF75A5C9] Duplicate stacktrace, see ref for original
+Could not resolve reference to object with loadID Lord_517 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=LayDown (Job_61366016) curPathRelToParent=
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
+Could not find think node with key 609489829
+Could not find think node with key 1565512094
 Could not find think node with key 609489829
 Could not find think node with key 609489829
-Could not find think node with key 609489829
-Could not find think node with key 609489829
+Could not find think node with key 1565512094
+Could not find think node with key 1565512094
+Could not find think node with key 1565512094
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
@@ -563,107 +518,778 @@ Notify_NewLink was called but the link is already here.
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 80708.
-Total: 906.606449 ms (FindLiveObjects: 3.272270 ms CreateObjectMapping: 2.204343 ms MarkObjects: 901.036110 ms  DeleteObjects: 0.093044 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 81981.
+Total: 953.005580 ms (FindLiveObjects: 3.545468 ms CreateObjectMapping: 3.432656 ms MarkObjects: 945.924404 ms  DeleteObjects: 0.102482 ms)
 
+Quarry:: Tried to quarry mineable ore, but the ore given was null.
+Could not reserve Thing_Bed1490778 (layer: null) for Green for job BBLK_Job_BedTimeStory (Job_61397908) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_61397908) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Finch (job: LayDown (Job_61396422) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A]
+  at Verse.GenCollection.RemoveWhere[T] (System.Collections.Generic.IList`1[T] list, System.Func`2[T,TResult] predicate) [0x00000] in <ef9964fdcdea49308a165413272831ef>:0 
+  at RimWorld.CompTransporter.PostExposeData () [0x0014d] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.ThingWithComps.ExposeData () [0x00035] in <ef9964fdcdea49308a165413272831ef>:0 
+    - POSTFIX OskarPotocki.VEF: Void VEF.Weapons.VanillaExpandedFramework_ThingWithComps_ExposeData_Patch:Postfix(ThingWithComps __instance)
+    - POSTFIX net.avilmask.rimworld.mod.CommonSense: Void CommonSense.ThingWithComps_ExposeData_CommonSensePatch:Postfix(ThingWithComps __instance)
+  at Verse.Building.ExposeData () [0x00000] in <ef9964fdcdea49308a165413272831ef>:0 
+    - POSTFIX rimworld.aelanna.getoutofmychair: Void GetOutOfMyChair.HarmonyPatches:BuildingExposeData_Postfix(Building __instance)
+  at Verse.Scribe_Deep.Look[T] (T& target, System.Boolean saveDestroyedThings, System.String label, System.Object[] ctorArgs) [0x00155] in <ef9964fdcdea49308a165413272831ef>:0 
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (50, 133) - (439, 376)
-Origin: 50, 133
-Start capturing in area of: (50,133)-(438,375)
+Home area bounds: (50, 81) - (439, 376)
+Origin: 50, 81
+Start capturing in area of: (50,81)-(438,375)
+Attempted to draw Elk5514540 without a resolved render tree.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
 current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Stingray tried to wear TA_KidHood4191849 but is not allowed to.
+Loumaba tried to wear TA_KidHood5628156 but is not allowed to.
+Black tried to wear TA_KidHood5628167 but is not allowed to.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+[RaidPointMultiplier] Adjusted raid points for OutlanderRoughPig: Original 382.2555, Multiplier 1.5, New 573.3833
+Barn tried to wear TA_KidHood5628389 but is not allowed to.
+Kuork tried to wear TA_KidHood5628398 but is not allowed to.
+Phadia tried to wear TA_KidHood5629321 but is not allowed to.
+Witham tried to wear TA_KidHood5629343 but is not allowed to.
+Ole tried to wear TA_KidHood5629366 but is not allowed to.
+Elwyn tried to wear TA_KidHood5629377 but is not allowed to.
+Jennasis tried to wear TA_KidHood5629401 but is not allowed to.
+Corynn tried to wear TA_KidHood5629422 but is not allowed to.
+MakeThing error: Bow_Great_Unique is madeFromStuff but stuff=null. Assigning default.
+Jaqi tried to wear TA_KidHood5629454 but is not allowed to.
+MakeThing error: Bow_Great_Unique is madeFromStuff but stuff=null. Assigning default.
+Alvaro tried to wear TA_KidHood5629486 but is not allowed to.
+Klob tried to wear TA_KidHood5629506 but is not allowed to.
+Caol tried to wear TA_KidHood5629516 but is not allowed to.
+Mayumi tried to wear TA_KidHood5629567 but is not allowed to.
+Faucher tried to wear TA_KidHood5629599 but is not allowed to.
+Kaasen tried to wear TA_KidHood5629610 but is not allowed to.
+Muirhead tried to wear TA_KidHood5629621 but is not allowed to.
+MakeThing error: Bow_Great_Unique is madeFromStuff but stuff=null. Assigning default.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Tried to split off 75 of Meat_Megaspider5632629 but there are only 70
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle5632308: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Could not load Texture2D at 'UI/Commands/UI_Repair_Active' in any active mod or in base resources.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Canto tried to wear TA_KidHood5646059 but is not allowed to.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 21018906]
+  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
+  at Verse.Room.Notify_RoomShapeChanged () [0x00000] in <ef9964fdcdea49308a165413272831ef>:0 
+    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
+  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <ef9964fdcdea49308a165413272831ef>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 21018906] Duplicate stacktrace, see ref for original
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 21018906] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 21018906] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Deer5634507 without a resolved render tree.
+Could not reserve Thing_Bed1490778 (layer: null) for Connor for job BBLK_Job_BedTimeStory (Job_61745509) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_61745509) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Finch (job: LayDown (Job_61745395) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Deer5634502 without a resolved render tree.
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B]
+  at RimWorld.Quest.Notify_SignalReceived (RimWorld.Signal signal) [0x00026] in <ef9964fdcdea49308a165413272831ef>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+  at RimWorld.SignalManager.SendSignal (RimWorld.Signal signal) [0x000cc] in <ef9964fdcdea49308a165413272831ef>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 4CA60C7B] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Quarry:: Tried to quarry mineable ore, but the ore given was null.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 21018906] Duplicate stacktrace, see ref for original
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 21018906] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Attempted to draw Crow4194863 without a resolved render tree.
-current settlememt count of 201 greater than max expansion limit of 200
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-current settlememt count of 201 greater than max expansion limit of 200
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Screen position out of view frustum (screen pos inf, -1150624569236969458642198657499136.000000) (Camera rect 0 0 3828 2074)
-Screen position out of view frustum (screen pos inf, -1150624569236969458642198657499136.000000) (Camera rect 0 0 3828 2074)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
+Home area bounds: (50, 81) - (439, 376)
+Origin: 50, 81
+Start capturing in area of: (50,81)-(438,375)
 NullReferenceException: Object reference not set to an instance of an object
-[Ref 832ED357] Duplicate stacktrace, see ref for original
+[Ref 8EC54D73] Duplicate stacktrace, see ref for original
 
-Attempted to draw WildBoar4194328 without a resolved render tree.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Elk5646413 without a resolved render tree.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Could not reserve Thing_Bed1490778 (layer: null) for Jaketh for job BBLK_Job_BedTimeStory (Job_61839432) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_61839432) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Finch (job: LayDown (Job_61839003) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 current settlememt count of 201 greater than max expansion limit of 200
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-TryMakePreToilReservations() returned false right after TryTakeOrderedJob(). This should have been checked before. pawn = Ra, job = TendPatient (Job_49212326) A = Thing_Human3881166 B = Thing_MedicineHerbal4215928
+Could not reserve Thing_Bed1490778 (layer: null) for Rytt for job BBLK_Job_BedTimeStory (Job_61922162) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_61922162) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Finch (job: LayDown (Job_61921864) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Eloa tried to wear TA_KidHood5674590 but is not allowed to.
+Could not reserve Thing_Bed1490778 (layer: null) for Deeth for job BBLK_Job_BedTimeStory (Job_61959404) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_61959404) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Finch (job: LayDown (Job_61958685) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[RaidPointMultiplier] Adjusted raid points for TribalRaiders: Original 369.6694, Multiplier 1, New 369.6694
+Leira tried to wear TA_KidHood5676195 but is not allowed to.
+Brincamen tried to wear TA_KidHood5676213 but is not allowed to.
+Fox tried to wear TA_KidHood5676223 but is not allowed to.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Attempted to draw Muffalo5396430 without a resolved render tree.
+Tried to SetForbidden on non-Forbiddable Thing Trip
+current settlememt count of 201 greater than max expansion limit of 200
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[RaidPointMultiplier] Adjusted raid points for BS_Muspelheim: Original 485.0783, Multiplier 1, New 485.0783
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 current settlememt count of 201 greater than max expansion limit of 200
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Attempted to draw Rat4214754 without a resolved render tree.
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Hello world :P
+Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
+Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref BC20D19A] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Attempted to draw AEXP_Hedgehog4217004 without a resolved render tree.
-current settlememt count of 201 greater than max expansion limit of 200
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 73214.
+Total: 992.247551 ms (FindLiveObjects: 3.702543 ms CreateObjectMapping: 2.564689 ms MarkObjects: 985.792708 ms  DeleteObjects: 0.187161 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+UnloadTime: 0.666039 ms
+[DivineFramework] Loaded version 0.12.0.1
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 70730.
+Total: 983.128853 ms (FindLiveObjects: 3.279429 ms CreateObjectMapping: 2.895710 ms MarkObjects: 976.836064 ms  DeleteObjects: 0.117089 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 70685.
+Total: 1017.441490 ms (FindLiveObjects: 3.320957 ms CreateObjectMapping: 2.410970 ms MarkObjects: 1011.540777 ms  DeleteObjects: 0.167985 ms)
+
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=4194304"
+    "memorysetup-bucket-allocator-block-count=1"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=4194304"
+    "memorysetup-profiler-bucket-allocator-block-count=1"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=4194304"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 33409 frames, [1.0 KB-2.0 KB]: 6 frames, [2.0 KB-4.0 KB]: 172859 frames, [4.0 KB-8.0 KB]: 47909 frames, [8.0 KB-16.0 KB]: 43959 frames, [16.0 KB-32.0 KB]: 16897 frames, [32.0 KB-64.0 KB]: 96 frames, [64.0 KB-128.0 KB]: 36 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 4 frames
+      Peak usage frame count: [0-1.0 KB]: 21802 frames, [1.0 KB-2.0 KB]: 25 frames, [2.0 KB-4.0 KB]: 405721 frames, [4.0 KB-8.0 KB]: 136439 frames, [8.0 KB-16.0 KB]: 90606 frames, [16.0 KB-32.0 KB]: 17361 frames, [32.0 KB-64.0 KB]: 1480 frames, [64.0 KB-128.0 KB]: 519 frames, [128.0 KB-256.0 KB]: 31 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 7 frames
       Initial Block Size 4.0 MB
       Current Block Size 8.0 MB
       Peak Allocated Bytes 8.0 MB
-      Overflow Count 45
+      Overflow Count 63
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 120.0 KB
@@ -673,7 +1299,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 6.6 KB
-      Overflow Count 8
+      Overflow Count 12
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -682,7 +1308,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 0 B
+      Peak Allocated Bytes 449 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
@@ -773,7 +1399,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 504.0 KB
       Peak Allocated Bytes 500.6 KB
-      Overflow Count 3022
+      Overflow Count 3053
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -855,31 +1481,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 26014
+  Peak main deferred allocation count 100572
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 3366901
-        32B: 30 Subsections = 15360 buckets. Failed count: 1814924
-        48B: 34 Subsections = 11605 buckets. Failed count: 4050483
-        64B: 89 Subsections = 22784 buckets. Failed count: 1320278
-        80B: 82 Subsections = 16793 buckets. Failed count: 5914405
-        96B: 6 Subsections = 1024 buckets. Failed count: 477850
-        112B: 7 Subsections = 1024 buckets. Failed count: 45253
-        128B: 4 Subsections = 512 buckets. Failed count: 383169
+        16B: 4 Subsections = 4096 buckets. Failed count: 8074899
+        32B: 30 Subsections = 15360 buckets. Failed count: 4401628
+        48B: 34 Subsections = 11605 buckets. Failed count: 12266686
+        64B: 89 Subsections = 22784 buckets. Failed count: 3977061
+        80B: 82 Subsections = 16793 buckets. Failed count: 13858289
+        96B: 6 Subsections = 1024 buckets. Failed count: 1391494
+        112B: 7 Subsections = 1024 buckets. Failed count: 85283
+        128B: 4 Subsections = 512 buckets. Failed count: 1067847
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1838 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 31594 frames, [0.50 GB-1.00 GB]: 281744 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1941 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 20025 frames, [0.50 GB-1.00 GB]: 652026 frames
       Requested Block Size 16.0 MB
-      Peak Block count 44
-      Peak Allocated memory 0.70 GB
+      Peak Block count 56
+      Peak Allocated memory 0.87 GB
       Peak Large allocation bytes 95.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1839 frames, [64.0 MB-128.0 MB]: 31244 frames, [128.0 MB-256.0 MB]: 350 frames, [256.0 MB-0.50 GB]: 281744 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1942 frames, [64.0 MB-128.0 MB]: 19917 frames, [128.0 MB-256.0 MB]: 108 frames, [256.0 MB-0.50 GB]: 652026 frames
       Requested Block Size 16.0 MB
       Peak Block count 19
-      Peak Allocated memory 288.7 MB
+      Peak Allocated memory 285.4 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -902,31 +1528,31 @@ Memory Statistics:
   Overflow Count (too large) 38
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 82
+  Peak main deferred allocation count 146
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 3366901
-        32B: 30 Subsections = 15360 buckets. Failed count: 1814924
-        48B: 34 Subsections = 11605 buckets. Failed count: 4050483
-        64B: 89 Subsections = 22784 buckets. Failed count: 1320278
-        80B: 82 Subsections = 16793 buckets. Failed count: 5914405
-        96B: 6 Subsections = 1024 buckets. Failed count: 477850
-        112B: 7 Subsections = 1024 buckets. Failed count: 45253
-        128B: 4 Subsections = 512 buckets. Failed count: 383169
+        16B: 4 Subsections = 4096 buckets. Failed count: 8074899
+        32B: 30 Subsections = 15360 buckets. Failed count: 4401628
+        48B: 34 Subsections = 11605 buckets. Failed count: 12266686
+        64B: 89 Subsections = 22784 buckets. Failed count: 3977061
+        80B: 82 Subsections = 16793 buckets. Failed count: 13858289
+        96B: 6 Subsections = 1024 buckets. Failed count: 1391494
+        112B: 7 Subsections = 1024 buckets. Failed count: 85283
+        128B: 4 Subsections = 512 buckets. Failed count: 1067847
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1838 frames, [4.0 MB-8.0 MB]: 31082 frames, [8.0 MB-16.0 MB]: 511 frames, [128.0 MB-256.0 MB]: 281744 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1941 frames, [4.0 MB-8.0 MB]: 14923 frames, [8.0 MB-16.0 MB]: 312 frames, [32.0 MB-64.0 MB]: 213 frames, [64.0 MB-128.0 MB]: 4576 frames, [128.0 MB-256.0 MB]: 652026 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 16
+      Peak Block count 15
       Peak Allocated memory 0.75 GB
       Peak Large allocation bytes 0.75 GB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 1901 frames, [1.0 KB-2.0 KB]: 30870 frames, [2.0 KB-4.0 KB]: 55 frames, [16.0 KB-32.0 KB]: 609 frames, [32.0 KB-64.0 KB]: 1579 frames, [64.0 KB-128.0 KB]: 152 frames, [128.0 KB-256.0 KB]: 296 frames, [256.0 KB-0.5 MB]: 9988 frames, [0.5 MB-1.0 MB]: 269727 frames
+      Peak usage frame count: [0-1.0 KB]: 2014 frames, [1.0 KB-2.0 KB]: 14745 frames, [2.0 KB-4.0 KB]: 108 frames, [16.0 KB-32.0 KB]: 523 frames, [32.0 KB-64.0 KB]: 1319 frames, [64.0 KB-128.0 KB]: 5254 frames, [128.0 KB-256.0 KB]: 5406 frames, [256.0 KB-0.5 MB]: 3550 frames, [0.5 MB-1.0 MB]: 641074 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 0.9 MB
+      Peak Allocated memory 1.0 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 177
@@ -935,22 +1561,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 3366901
-        32B: 30 Subsections = 15360 buckets. Failed count: 1814924
-        48B: 34 Subsections = 11605 buckets. Failed count: 4050483
-        64B: 89 Subsections = 22784 buckets. Failed count: 1320278
-        80B: 82 Subsections = 16793 buckets. Failed count: 5914405
-        96B: 6 Subsections = 1024 buckets. Failed count: 477850
-        112B: 7 Subsections = 1024 buckets. Failed count: 45253
-        128B: 4 Subsections = 512 buckets. Failed count: 383169
+        16B: 4 Subsections = 4096 buckets. Failed count: 8074899
+        32B: 30 Subsections = 15360 buckets. Failed count: 4401628
+        48B: 34 Subsections = 11605 buckets. Failed count: 12266686
+        64B: 89 Subsections = 22784 buckets. Failed count: 3977061
+        80B: 82 Subsections = 16793 buckets. Failed count: 13858289
+        96B: 6 Subsections = 1024 buckets. Failed count: 1391494
+        112B: 7 Subsections = 1024 buckets. Failed count: 85283
+        128B: 4 Subsections = 512 buckets. Failed count: 1067847
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1838 frames, [16.0 MB-32.0 MB]: 313338 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1941 frames, [16.0 MB-32.0 MB]: 672051 frames
       Requested Block Size 4.0 MB
       Peak Block count 6
-      Peak Allocated memory 20.9 MB
+      Peak Allocated memory 21.0 MB
       Peak Large allocation bytes 2.0 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1838 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 31083 frames, [256.0 KB-0.5 MB]: 282253 frames, [0.5 MB-1.0 MB]: 2 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1941 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 14924 frames, [256.0 KB-0.5 MB]: 657122 frames, [0.5 MB-1.0 MB]: 5 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.7 MB
@@ -962,22 +1588,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 3366901
-        32B: 30 Subsections = 15360 buckets. Failed count: 1814924
-        48B: 34 Subsections = 11605 buckets. Failed count: 4050483
-        64B: 89 Subsections = 22784 buckets. Failed count: 1320278
-        80B: 82 Subsections = 16793 buckets. Failed count: 5914405
-        96B: 6 Subsections = 1024 buckets. Failed count: 477850
-        112B: 7 Subsections = 1024 buckets. Failed count: 45253
-        128B: 4 Subsections = 512 buckets. Failed count: 383169
+        16B: 4 Subsections = 4096 buckets. Failed count: 8074899
+        32B: 30 Subsections = 15360 buckets. Failed count: 4401628
+        48B: 34 Subsections = 11605 buckets. Failed count: 12266686
+        64B: 89 Subsections = 22784 buckets. Failed count: 3977061
+        80B: 82 Subsections = 16793 buckets. Failed count: 13858289
+        96B: 6 Subsections = 1024 buckets. Failed count: 1391494
+        112B: 7 Subsections = 1024 buckets. Failed count: 85283
+        128B: 4 Subsections = 512 buckets. Failed count: 1067847
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1838 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 313337 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1941 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 672050 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 509.2 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 315177 frames
+      Peak usage frame count: [0-1.0 KB]: 673993 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B

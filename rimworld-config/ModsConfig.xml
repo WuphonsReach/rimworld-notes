@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.6.4566 rev619</version>
+  <version>1.6.4630 rev485</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>brrainz.visualexceptions</li>
@@ -98,6 +98,7 @@
     <li>nephlite.orbitaltradecolumn</li>
     <li>morphsassorted.facetattoos</li>
     <li>dismarzero.vgp.vgpgardencanning</li>
+    <li>rimfridge.kv.rw</li>
     <li>dismarzero.vgp.vgpmoreveggies</li>
     <li>mlie.rftribalraiders</li>
     <li>redmattis.bigsmall.core</li>
@@ -234,6 +235,7 @@
     <li>jm.bettertraders</li>
     <li>goldenlumia.atewithouttable</li>
     <li>kikohi.jewelry</li>
+    <li>5tratz.wallheatercooler</li>
     <li>dvs.norandomrelations</li>
     <li>mlie.foodalert</li>
     <li>wyr3d.bettervisitortrades</li>
@@ -293,6 +295,7 @@
     <li>kattalisk.allproductionxp</li>
     <li>mlie.tradeabletrinkets</li>
     <li>erdelf.exportagency</li>
+    <li>memegoddess.replacestuff</li>
     <li>kas.strongerscaling</li>
     <li>zal.tradegoods</li>
     <li>runzu.tradegoodsretexture</li>

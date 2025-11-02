@@ -37,12 +37,10 @@
 												<li>River_Tribal_mittens</li>
 												<li>VAE_Footwear_Boots</li>
 												<li>River_Tribal_mukluks</li>
-												<li>Gunmar_Apparel_PeltLeggings</li>
 												<li>Gunmar_Apparel_PeltHandWraps</li>
 												<li>Gunmar_Apparel_PeltBoots</li>
 												<li>Gunmar_Apparel_WovenFootWraps</li>
 												<li>Gunmar_Apparel_WovenHandWraps</li>
-												<li>Gunmar_Apparel_WovenLeggings</li>
 												<li>Gunmar_Apparel_Tribal</li>
 												<li>Apparel_CollarShirt</li>
 												<li>Apparel_Pants</li>
@@ -261,11 +259,10 @@
 												<li>VAE_Apparel_LightPlateArmor</li>
 												<li>River_Tribal_mittens</li>
 												<li>River_Tribal_mukluks</li>
-												<li>Gunmar_Apparel_PeltLeggings</li>
 												<li>Gunmar_Apparel_PeltHandWraps</li>
 												<li>Gunmar_Apparel_PeltBoots</li>
 												<li>Mallow_riding_boots</li>
-												<li>Gunmar_Apparel_WovenLeggings</li>
+												<li>VAE_Apparel_Apron</li>
 												<li>Gunmar_Apparel_WovenHandWraps</li>
 												<li>Gunmar_Apparel_WovenFootWraps</li>
 												<li>Apparel_ShieldBelt</li>
@@ -290,42 +287,58 @@
 						</li>
 						<li>
 							<exposable>
-								<name>Apparel policy 5</name>
+								<name>Medieval Ranged</name>
 								<internalList>
 									<li>
 										<exposable Class="ThingFilter">
 											<disallowedSpecialFilters>
-												<li>AllowDeadmansApparel</li>
 												<li>AllowBiocodedApparel</li>
+												<li>AllowDeadmansApparel</li>
 											</disallowedSpecialFilters>
 											<allowedDefs>
-												<li>IH_Apparel_InsulatedHelmet</li>
 												<li>IH_Apparel_InsulatedFlakHelmet</li>
-												<li>VAE_Apparel_FleeceShirt</li>
-												<li>Apparel_CollarShirt</li>
-												<li>VAE_Handwear_Gloves</li>
-												<li>River_Tribal_mittens</li>
-												<li>Gunmar_Apparel_WovenHandWraps</li>
-												<li>VAE_Apparel_Jeans</li>
-												<li>Jewelry_Earring</li>
-												<li>Jewelry_Necklace</li>
-												<li>Jewelry_Ring</li>
-												<li>Apparel_Pants</li>
-												<li>Mallow_riding_boots</li>
-												<li>VAE_Footwear_Boots</li>
-												<li>Mallow_winter_socks</li>
-												<li>Mallow_summer_socks</li>
-												<li>Mallow_stockings</li>
-												<li>Mallow_work_boots</li>
-												<li>VAE_Apparel_Overalls</li>
-												<li>VAE_Apparel_Apron</li>
-												<li>VAE_Headgear_Sunglasses</li>
-												<li>Apparel_Duster</li>
-												<li>TA_LongcoatClosed</li>
-												<li>TA_LongcoatOpen</li>
+												<li>IH_Apparel_InsulatedHelmet</li>
+												<li>TA_MailleShirt</li>
 												<li>TA_TallBoots</li>
 												<li>TA_TallGloves</li>
+												<li>TA_Gauntlets</li>
+												<li>TA_Bazubands</li>
+												<li>Mallow_winter_socks</li>
+												<li>Mallow_footwraps</li>
+												<li>VAE_Apparel_Jeans</li>
+												<li>Apparel_Pants</li>
+												<li>Mallow_stockings</li>
+												<li>Mallow_summer_socks</li>
+												<li>Apparel_CollarShirt</li>
+												<li>VAE_Apparel_Chainmail</li>
+												<li>VAE_Apparel_Gambeson</li>
 												<li>VAE_Apparel_Hoodie</li>
+												<li>VAE_Apparel_MilitaryUniform</li>
+												<li>TA_DoubletVest</li>
+												<li>Mallow_work_boots</li>
+												<li>VAE_Footwear_Boots</li>
+												<li>Mallow_wool_felt_boots</li>
+												<li>VAE_Handwear_Gloves</li>
+												<li>VAE_Apparel_LightPlateArmor</li>
+												<li>River_Tribal_mittens</li>
+												<li>River_Tribal_mukluks</li>
+												<li>Gunmar_Apparel_PeltHandWraps</li>
+												<li>Gunmar_Apparel_PeltBoots</li>
+												<li>Mallow_riding_boots</li>
+												<li>VAE_Apparel_Apron</li>
+												<li>Gunmar_Apparel_WovenHandWraps</li>
+												<li>Gunmar_Apparel_WovenFootWraps</li>
+												<li>Apparel_FirefoampopPack</li>
+												<li>Jewelry_Ring</li>
+												<li>Jewelry_Necklace</li>
+												<li>Jewelry_Earring</li>
+												<li>Jewelry_Bracelet</li>
+												<li>VAE_Headgear_Scarf</li>
+												<li>Apparel_TribalA</li>
+												<li>Gunmar_Apparel_Tribal</li>
+												<li>TA_Doublet</li>
+												<li>VAE_Apparel_Tunic</li>
+												<li>TA_PeasantTunic</li>
 											</allowedDefs>
 											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
@@ -32836,6 +32849,2730 @@
 								</internalList>
 							</exposable>
 						</li>
+						<li>
+							<exposable>
+								<name>BILL53</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_Duster</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>12~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand duster</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_LongcoatClosed</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand longcoat</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_Pants</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand pants</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_CollarShirt</recipe>
+											<ingredientSearchRadius>20.2617207</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil button shirt</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_Jeans</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand jeans</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_FleeceShirt</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil fleece shirt</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Handwear_Gloves</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>12~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>BestStockpile</storeMode>
+											<playerCustomName>Make devilstrand gloves</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Mallow_stockings</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil stockings</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Headgear_Scarf</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand scarf</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_Apron</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil apron</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Tailor Devil 2511A</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_Duster</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>12~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand duster</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_LongcoatClosed</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand longcoat</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_Pants</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand pants</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_CollarShirt</recipe>
+											<ingredientSearchRadius>20.2617207</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil button shirt</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_Jeans</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand jeans</playerCustomName>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_FleeceShirt</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil fleece shirt</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Handwear_Gloves</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>12~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>BestStockpile</storeMode>
+											<playerCustomName>Make devilstrand gloves</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Mallow_stockings</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil stockings</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Headgear_Scarf</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devilstrand scarf</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_Apron</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make devil apron</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>BILL55</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_KidTribal</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bear</li>
+													<li>AA_Leather_Aerofleet</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Wolf</li>
+													<li>Leather_Heavy</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Panthera</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_KidTribalCloak</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Heavy</li>
+													<li>WoolSheep</li>
+													<li>Leather_Wolf</li>
+													<li>Leather_Panthera</li>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bluefur</li>
+													<li>WoolBison</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>WoolMastodon</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>Leather_Bear</li>
+													<li>AA_Leather_Aerofleet</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Mallow_kid_socks</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMastodon</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>WoolBison</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_KidCloak</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMastodon</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>WoolBison</li>
+													<li>WoolSheep</li>
+													<li>AA_NightWool</li>
+													<li>WoolMuskox</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_CM_Tradeable_Trinkets_Thing_Trinket_Doll</recipe>
+											<ingredientSearchRadius>20.2617207</ingredientSearchRadius>
+											<allowedSkillRange>5~12</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Plain</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>300</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>250</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>SimpleRecycleApparel</recipe>
+											<ingredientSearchRadius>30.0572948</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowCorpsesUnnatural</li>
+													<li>BS_AllowCorpsesColonistRobot</li>
+													<li>BS_AllowCorpsesSlaveRobot</li>
+													<li>BS_AllowCorpsesStrangerRobot</li>
+													<li>AllowSmeltableApparel</li>
+													<li>AllowNonDeadmansApparel</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>VAE_Apparel_CasualTShirt</li>
+													<li>VAE_Apparel_Hoodie</li>
+													<li>VAE_Apparel_Shorts</li>
+													<li>VAE_Apparel_Skirt</li>
+													<li>VAE_Apparel_ShirtandTie</li>
+													<li>VAE_Apparel_SuitJacket</li>
+													<li>VAE_Apparel_Trousers</li>
+													<li>VAE_Apparel_Overalls</li>
+													<li>VAE_Apparel_FleeceShirt</li>
+													<li>VAE_Apparel_Jeans</li>
+													<li>VAE_Apparel_ChefsUniform</li>
+													<li>VAE_Apparel_MilitaryJacket</li>
+													<li>VAE_Apparel_MilitaryUniform</li>
+													<li>VAE_Apparel_BuildersJacket</li>
+													<li>VAE_Apparel_DoctorScrubs</li>
+													<li>VAE_Apparel_LabCoat</li>
+													<li>VAE_Apparel_TankTop</li>
+													<li>VAE_Apparel_SheriffShirt</li>
+													<li>VAE_Apparel_Jumpsuit</li>
+													<li>VAE_Apparel_Tunic</li>
+													<li>VAE_Apparel_Blouse</li>
+													<li>VAE_Apparel_Apron</li>
+													<li>VAE_Apparel_PeltCoat</li>
+													<li>VAE_Apparel_TribalPoncho</li>
+													<li>VAE_Apparel_TribalKilt</li>
+													<li>Gunmar_Apparel_Tribal</li>
+													<li>Gunmar_Apparel_ThickPeltArmor</li>
+													<li>Gunmar_Apparel_PeltMantle</li>
+													<li>Gunmar_Apparel_PeltHandWraps</li>
+													<li>Gunmar_Apparel_PeltLeggings</li>
+													<li>Gunmar_Apparel_PeltBoots</li>
+													<li>Gunmar_Apparel_SunshadePeltMantle</li>
+													<li>Gunmar_Apparel_WovenMantle</li>
+													<li>Gunmar_Apparel_WovenHandWraps</li>
+													<li>Gunmar_Apparel_WovenLeggings</li>
+													<li>Gunmar_Apparel_WovenFootWraps</li>
+													<li>Apparel_KidTribalCape</li>
+													<li>Apparel_KidTribalFurCloak</li>
+													<li>River_Tribal_sandals</li>
+													<li>River_Tribal_moccasins</li>
+													<li>River_Tribal_mukluks</li>
+													<li>River_Tribal_mittens</li>
+													<li>Mallow_dress_shoes</li>
+													<li>Mallow_royal_shoes</li>
+													<li>Mallow_kid_shoes</li>
+													<li>Mallow_kid_socks</li>
+													<li>Mallow_clogs</li>
+													<li>Mallow_wool_felt_boots</li>
+													<li>Mallow_footwraps</li>
+													<li>Mallow_summer_socks</li>
+													<li>Mallow_winter_socks</li>
+													<li>Mallow_riding_boots</li>
+													<li>Mallow_stockings</li>
+													<li>Mallow_work_boots</li>
+													<li>Mallow_school_shoes</li>
+													<li>Apparel_CowboyHat</li>
+													<li>Apparel_BowlerHat</li>
+													<li>Apparel_TribalHeaddress</li>
+													<li>Apparel_Tuque</li>
+													<li>Apparel_WarMask</li>
+													<li>Apparel_WarVeil</li>
+													<li>Apparel_PsychicFoilHelmet</li>
+													<li>Apparel_HatHood</li>
+													<li>Apparel_ClothMask</li>
+													<li>Apparel_PsyfocusHelmet</li>
+													<li>Apparel_EltexSkullcap</li>
+													<li>Apparel_Headwrap</li>
+													<li>Apparel_Broadwrap</li>
+													<li>Apparel_VisageMask</li>
+													<li>Apparel_Slicecap</li>
+													<li>Apparel_Collar</li>
+													<li>Apparel_AuthorityCap</li>
+													<li>Apparel_Tailcap</li>
+													<li>Apparel_Shadecone</li>
+													<li>Apparel_Flophat</li>
+													<li>Apparel_TortureCrown</li>
+													<li>Apparel_Blindfold</li>
+													<li>Apparel_AirwireHeadset</li>
+													<li>Apparel_ArrayHeadset</li>
+													<li>Apparel_GasMask</li>
+													<li>Apparel_CultistMask</li>
+													<li>Apparel_CeremonialCultistMask</li>
+													<li>VPE_Apparel_EltexMask</li>
+													<li>AG_Forsaken_Hood</li>
+													<li>AG_Forsaken_Hood_Child</li>
+													<li>VAE_Headgear_Balaclava</li>
+													<li>VAE_Headgear_Fedora</li>
+													<li>VAE_Headgear_Scarf</li>
+													<li>VAE_Headgear_Beret</li>
+													<li>VAE_Headgear_Hardhat</li>
+													<li>VAE_Headgear_SurgicalMask</li>
+													<li>VAE_Headgear_BaseballCap</li>
+													<li>VAE_Headgear_Sunglasses</li>
+													<li>VAE_Headgear_Glasses</li>
+													<li>VAE_Headgear_ChefsToque</li>
+													<li>BS_Nisse_Cap</li>
+													<li>Gunmar_Apparel_PeltCap</li>
+													<li>Gunmar_Apparel_SunshadePeltCap</li>
+													<li>Gunmar_Apparel_WovenCap</li>
+													<li>TA_KidHood</li>
+													<li>TA_FeltHat</li>
+													<li>TA_HatCavalier</li>
+													<li>TA_MusketeerHat</li>
+													<li>TA_LandsknechtHat</li>
+													<li>TA_Bonnet</li>
+													<li>TA_Turban</li>
+													<li>TA_TurbanWhite</li>
+													<li>TA_JanissaryHat</li>
+													<li>TA_FurCap</li>
+													<li>TA_NobleFurCap</li>
+													<li>Apparel_PlateArmor</li>
+													<li>Apparel_FlakVest</li>
+													<li>Apparel_FlakPants</li>
+													<li>Apparel_FlakJacket</li>
+													<li>Apparel_PowerArmor</li>
+													<li>Apparel_ArmorRecon</li>
+													<li>Apparel_ArmorReconPrestige</li>
+													<li>Apparel_ArmorMarinePrestige</li>
+													<li>Apparel_ArmorCataphract</li>
+													<li>Apparel_ArmorCataphractPrestige</li>
+													<li>Apparel_ArmorLocust</li>
+													<li>Apparel_ArmorMarineGrenadier</li>
+													<li>Apparel_ArmorCataphractPhoenix</li>
+													<li>Apparel_MechlordSuit</li>
+													<li>Apparel_Vacsuit</li>
+													<li>Apparel_VacsuitChildren</li>
+													<li>VPE_Apparel_PlateArmorPrestige</li>
+													<li>AG_ForsakenMarineArmor</li>
+													<li>VAE_Apparel_RoyalTrooperArmor</li>
+													<li>VAE_Apparel_RoyalSiegeArmor</li>
+													<li>VAE_Apparel_GhillieSuit</li>
+													<li>VAE_Apparel_HAZMATSuit</li>
+													<li>VAE_Apparel_Gambeson</li>
+													<li>VAE_Apparel_QuiltedVest</li>
+													<li>VAE_Apparel_LightPlateArmor</li>
+													<li>VAE_Apparel_PlateShoulderpads</li>
+													<li>VAE_Apparel_Chestplate</li>
+													<li>VAE_Apparel_Chainmail</li>
+													<li>VAE_Apparel_WoodenArmor</li>
+													<li>VAE_Apparel_RiotArmor</li>
+													<li>VAE_Apparel_RiotHelmet</li>
+													<li>VAE_Apparel_TrooperArmor</li>
+													<li>VAE_Apparel_HeavyMarineArmor</li>
+													<li>BS_BarbarianArmor</li>
+													<li>Apparel_NepChildArmor</li>
+													<li>Apparel_NepChildVest</li>
+													<li>Apparel_NepChildRecon</li>
+													<li>Apparel_InsultatedPlateArmor</li>
+													<li>Apparel_SimpleVest</li>
+													<li>TA_MailleShirt</li>
+													<li>TA_MailleVest</li>
+													<li>TA_Bazubands</li>
+													<li>TA_Gauntlets</li>
+													<li>TA_TallBoots</li>
+													<li>TA_TallGloves</li>
+													<li>TA_BuffCoat</li>
+													<li>TA_BuffVest</li>
+													<li>TA_Cuirass</li>
+													<li>TA_Gorget</li>
+													<li>TA_Krug</li>
+													<li>TA_PaddedDoublet</li>
+													<li>TA_PaddedVest</li>
+													<li>TA_PikemanPlate</li>
+													<li>TA_ThreeQuartersPlate</li>
+													<li>TA_Yushman</li>
+													<li>TA_Burgonet</li>
+													<li>TA_BurgonetVisored_off</li>
+													<li>TA_BurgonetVisored_on</li>
+													<li>TA_CloseHelmet_off</li>
+													<li>TA_CloseHelmet_on</li>
+													<li>TA_LobstertailHelmet</li>
+													<li>TA_HussarHelmet</li>
+													<li>TA_SipahiHelmet</li>
+													<li>TA_Morion</li>
+													<li>TA_Cabasset</li>
+													<li>Apparel_SimpleHelmet</li>
+													<li>Apparel_AdvancedHelmet</li>
+													<li>Apparel_PowerArmorHelmet</li>
+													<li>Apparel_ArmorHelmetRecon</li>
+													<li>Apparel_ArmorHelmetReconPrestige</li>
+													<li>Apparel_ArmorMarineHelmetPrestige</li>
+													<li>Apparel_ArmorHelmetCataphract</li>
+													<li>Apparel_ArmorHelmetCataphractPrestige</li>
+													<li>Apparel_Gunlink</li>
+													<li>Apparel_KidHelmet</li>
+													<li>Apparel_IntegratorHeadset</li>
+													<li>Apparel_ArmorHelmetMechCommander</li>
+													<li>Apparel_ArmorHelmetMechlordHelmet</li>
+													<li>Apparel_VacsuitHelmet</li>
+													<li>AG_ForsakenMarineHelmet</li>
+													<li>AG_ForsakenMarineHelmetPsy</li>
+													<li>VAE_Headgear_RoyalTrooperHelmet</li>
+													<li>VAE_Headgear_RoyalSiegeHelmet</li>
+													<li>VAE_Apparel_PlateHelmet</li>
+													<li>VAE_Headgear_StoneWarMask</li>
+													<li>VAE_Headgear_TrooperHelmet</li>
+													<li>VAE_Headgear_HeavyMarineHelmet</li>
+													<li>VAE_Headgear_GhillieHood</li>
+													<li>VAE_Headgear_HAZMATMask</li>
+													<li>Apparel_NepChildHelmetRecon</li>
+													<li>IH_Apparel_InsulatedHelmet</li>
+													<li>IH_Apparel_InsulatedFlakHelmet</li>
+													<li>Apparel_ShieldBelt</li>
+													<li>Apparel_SmokepopBelt</li>
+													<li>Apparel_FirefoampopPack</li>
+													<li>Apparel_PsychicShockLance</li>
+													<li>Apparel_PsychicInsanityLance</li>
+													<li>OrbitalTargeterBombardment</li>
+													<li>OrbitalTargeterPowerBeam</li>
+													<li>TornadoGenerator</li>
+													<li>Apparel_PackJump</li>
+													<li>Apparel_PackBroadshield</li>
+													<li>OrbitalTargeterMechCluster</li>
+													<li>Apparel_PackControl</li>
+													<li>Apparel_PackBandwidth</li>
+													<li>Apparel_PackTox</li>
+													<li>Apparel_DisruptorFlarePack</li>
+													<li>Apparel_PackTurret</li>
+													<li>Apparel_DeadlifePack</li>
+													<li>Apparel_ShardPsychicShockLance</li>
+													<li>Apparel_ShardPsychicInsanityLance</li>
+													<li>Apparel_BiomutationLance</li>
+													<li>Apparel_PackHunter</li>
+													<li>Apparel_CerebrexNode</li>
+													<li>VPE_Psyring</li>
+													<li>VPE_HeatPearls</li>
+													<li>VME_TackleBox</li>
+													<li>ComponentArchoDrone</li>
+													<li>TA_HussarWings</li>
+													<li>TA_MusketeerBandolier</li>
+													<li>TA_RapierBaldrick</li>
+													<li>TA_RapierSash</li>
+													<li>TA_HussarSaberScabbard</li>
+													<li>TM_SashBelt</li>
+													<li>Apparel_Cape</li>
+													<li>Apparel_ShirtRuffle</li>
+													<li>Apparel_Corset</li>
+													<li>Apparel_VestRoyal</li>
+													<li>Apparel_RobeRoyal</li>
+													<li>Apparel_HatLadies</li>
+													<li>Apparel_HatTop</li>
+													<li>Apparel_Coronet</li>
+													<li>Apparel_Crown</li>
+													<li>Apparel_CrownStellic</li>
+													<li>Apparel_Beret</li>
+													<li>Apparel_TribalA</li>
+													<li>Apparel_Parka</li>
+													<li>Apparel_Pants</li>
+													<li>Apparel_BasicShirt</li>
+													<li>Apparel_CollarShirt</li>
+													<li>Apparel_Duster</li>
+													<li>Apparel_Jacket</li>
+													<li>Apparel_Robe</li>
+													<li>Apparel_PsyfocusShirt</li>
+													<li>Apparel_PsyfocusVest</li>
+													<li>Apparel_PsyfocusRobe</li>
+													<li>Apparel_BodyStrap</li>
+													<li>Apparel_Burka</li>
+													<li>Apparel_KidRomper</li>
+													<li>Apparel_KidShirt</li>
+													<li>Apparel_KidPants</li>
+													<li>Apparel_KidParka</li>
+													<li>Apparel_KidTribal</li>
+													<li>Apparel_Bandolier</li>
+													<li>Apparel_Sash</li>
+													<li>Apparel_LabCoat</li>
+													<li>VPE_Apparel_EltexCape</li>
+													<li>AG_ForsakenCloak</li>
+													<li>AG_ForsakenCloak_Child</li>
+													<li>IceWorld_Mantle</li>
+													<li>Apparel_KidTribalCloak</li>
+													<li>Apparel_TribalCape</li>
+													<li>Apparel_TribalCloak</li>
+													<li>Apparel_TribalFurCloak</li>
+													<li>WYD_SlaveBelt</li>
+													<li>TA_CloakClosed</li>
+													<li>TA_CloakSemi</li>
+													<li>TA_CloakOpen</li>
+													<li>TA_KidCloak</li>
+													<li>TA_PeasantTunic</li>
+													<li>TA_KidDress</li>
+													<li>TA_CassockClosed</li>
+													<li>TA_CassockShoulder</li>
+													<li>TA_Doublet</li>
+													<li>TA_DoubletVest</li>
+													<li>TA_LongcoatClosed</li>
+													<li>TA_LongcoatOpen</li>
+													<li>TA_ShirtSashBelt</li>
+													<li>TA_ShirtSashBeltWhite</li>
+													<li>VAE_Apparel_Shield_Riot</li>
+													<li>VAE_Footwear_PlateBoots</li>
+													<li>VAE_Footwear_MarineBoots</li>
+													<li>VAE_Handwear_PlateGloves</li>
+													<li>VAE_Handwear_MarineGloves</li>
+													<li>VAE_Footwear_Boots</li>
+													<li>VAE_Footwear_Shoes</li>
+													<li>VAE_Handwear_Gloves</li>
+													<li>Jewelry_Bracelet</li>
+													<li>Jewelry_Necklace</li>
+													<li>Jewelry_Ring</li>
+													<li>Jewelry_Earring</li>
+													<li>Jewelry_EltexBracelet</li>
+													<li>Jewelry_PsychicNecklace</li>
+													<li>Jewelry_EltexRing</li>
+													<li>Jewelry_EltexEarring</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>Forever</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Recycle tainted apparel</playerCustomName>
+											<targetCount>10</targetCount>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Tailor Kids 2511A</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_KidTribal</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bear</li>
+													<li>AA_Leather_Aerofleet</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Wolf</li>
+													<li>Leather_Heavy</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Panthera</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_KidTribalCloak</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Heavy</li>
+													<li>WoolSheep</li>
+													<li>Leather_Wolf</li>
+													<li>Leather_Panthera</li>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bluefur</li>
+													<li>WoolBison</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>WoolMastodon</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>Leather_Bear</li>
+													<li>AA_Leather_Aerofleet</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Mallow_kid_socks</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMastodon</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>WoolBison</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_KidCloak</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMastodon</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>WoolBison</li>
+													<li>WoolSheep</li>
+													<li>AA_NightWool</li>
+													<li>WoolMuskox</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>3</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>2</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_CM_Tradeable_Trinkets_Thing_Trinket_Doll</recipe>
+											<ingredientSearchRadius>20.2617207</ingredientSearchRadius>
+											<allowedSkillRange>5~12</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Plain</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>300</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>250</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_Production">
+											<loadID>-2147483648</loadID>
+											<recipe>SimpleRecycleApparel</recipe>
+											<ingredientSearchRadius>30.0572948</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters>
+													<li>AllowCorpsesColonist</li>
+													<li>AllowCorpsesStranger</li>
+													<li>AllowCorpsesSlave</li>
+													<li>AllowCorpsesMechFriendly</li>
+													<li>AllowCorpsesMechEnemy</li>
+													<li>AllowCorpsesUnnatural</li>
+													<li>BS_AllowCorpsesColonistRobot</li>
+													<li>BS_AllowCorpsesSlaveRobot</li>
+													<li>BS_AllowCorpsesStrangerRobot</li>
+													<li>AllowSmeltableApparel</li>
+													<li>AllowNonDeadmansApparel</li>
+												</disallowedSpecialFilters>
+												<allowedDefs>
+													<li>VAE_Apparel_CasualTShirt</li>
+													<li>VAE_Apparel_Hoodie</li>
+													<li>VAE_Apparel_Shorts</li>
+													<li>VAE_Apparel_Skirt</li>
+													<li>VAE_Apparel_ShirtandTie</li>
+													<li>VAE_Apparel_SuitJacket</li>
+													<li>VAE_Apparel_Trousers</li>
+													<li>VAE_Apparel_Overalls</li>
+													<li>VAE_Apparel_FleeceShirt</li>
+													<li>VAE_Apparel_Jeans</li>
+													<li>VAE_Apparel_ChefsUniform</li>
+													<li>VAE_Apparel_MilitaryJacket</li>
+													<li>VAE_Apparel_MilitaryUniform</li>
+													<li>VAE_Apparel_BuildersJacket</li>
+													<li>VAE_Apparel_DoctorScrubs</li>
+													<li>VAE_Apparel_LabCoat</li>
+													<li>VAE_Apparel_TankTop</li>
+													<li>VAE_Apparel_SheriffShirt</li>
+													<li>VAE_Apparel_Jumpsuit</li>
+													<li>VAE_Apparel_Tunic</li>
+													<li>VAE_Apparel_Blouse</li>
+													<li>VAE_Apparel_Apron</li>
+													<li>VAE_Apparel_PeltCoat</li>
+													<li>VAE_Apparel_TribalPoncho</li>
+													<li>VAE_Apparel_TribalKilt</li>
+													<li>Gunmar_Apparel_Tribal</li>
+													<li>Gunmar_Apparel_ThickPeltArmor</li>
+													<li>Gunmar_Apparel_PeltMantle</li>
+													<li>Gunmar_Apparel_PeltHandWraps</li>
+													<li>Gunmar_Apparel_PeltLeggings</li>
+													<li>Gunmar_Apparel_PeltBoots</li>
+													<li>Gunmar_Apparel_SunshadePeltMantle</li>
+													<li>Gunmar_Apparel_WovenMantle</li>
+													<li>Gunmar_Apparel_WovenHandWraps</li>
+													<li>Gunmar_Apparel_WovenLeggings</li>
+													<li>Gunmar_Apparel_WovenFootWraps</li>
+													<li>Apparel_KidTribalCape</li>
+													<li>Apparel_KidTribalFurCloak</li>
+													<li>River_Tribal_sandals</li>
+													<li>River_Tribal_moccasins</li>
+													<li>River_Tribal_mukluks</li>
+													<li>River_Tribal_mittens</li>
+													<li>Mallow_dress_shoes</li>
+													<li>Mallow_royal_shoes</li>
+													<li>Mallow_kid_shoes</li>
+													<li>Mallow_kid_socks</li>
+													<li>Mallow_clogs</li>
+													<li>Mallow_wool_felt_boots</li>
+													<li>Mallow_footwraps</li>
+													<li>Mallow_summer_socks</li>
+													<li>Mallow_winter_socks</li>
+													<li>Mallow_riding_boots</li>
+													<li>Mallow_stockings</li>
+													<li>Mallow_work_boots</li>
+													<li>Mallow_school_shoes</li>
+													<li>Apparel_CowboyHat</li>
+													<li>Apparel_BowlerHat</li>
+													<li>Apparel_TribalHeaddress</li>
+													<li>Apparel_Tuque</li>
+													<li>Apparel_WarMask</li>
+													<li>Apparel_WarVeil</li>
+													<li>Apparel_PsychicFoilHelmet</li>
+													<li>Apparel_HatHood</li>
+													<li>Apparel_ClothMask</li>
+													<li>Apparel_PsyfocusHelmet</li>
+													<li>Apparel_EltexSkullcap</li>
+													<li>Apparel_Headwrap</li>
+													<li>Apparel_Broadwrap</li>
+													<li>Apparel_VisageMask</li>
+													<li>Apparel_Slicecap</li>
+													<li>Apparel_Collar</li>
+													<li>Apparel_AuthorityCap</li>
+													<li>Apparel_Tailcap</li>
+													<li>Apparel_Shadecone</li>
+													<li>Apparel_Flophat</li>
+													<li>Apparel_TortureCrown</li>
+													<li>Apparel_Blindfold</li>
+													<li>Apparel_AirwireHeadset</li>
+													<li>Apparel_ArrayHeadset</li>
+													<li>Apparel_GasMask</li>
+													<li>Apparel_CultistMask</li>
+													<li>Apparel_CeremonialCultistMask</li>
+													<li>VPE_Apparel_EltexMask</li>
+													<li>AG_Forsaken_Hood</li>
+													<li>AG_Forsaken_Hood_Child</li>
+													<li>VAE_Headgear_Balaclava</li>
+													<li>VAE_Headgear_Fedora</li>
+													<li>VAE_Headgear_Scarf</li>
+													<li>VAE_Headgear_Beret</li>
+													<li>VAE_Headgear_Hardhat</li>
+													<li>VAE_Headgear_SurgicalMask</li>
+													<li>VAE_Headgear_BaseballCap</li>
+													<li>VAE_Headgear_Sunglasses</li>
+													<li>VAE_Headgear_Glasses</li>
+													<li>VAE_Headgear_ChefsToque</li>
+													<li>BS_Nisse_Cap</li>
+													<li>Gunmar_Apparel_PeltCap</li>
+													<li>Gunmar_Apparel_SunshadePeltCap</li>
+													<li>Gunmar_Apparel_WovenCap</li>
+													<li>TA_KidHood</li>
+													<li>TA_FeltHat</li>
+													<li>TA_HatCavalier</li>
+													<li>TA_MusketeerHat</li>
+													<li>TA_LandsknechtHat</li>
+													<li>TA_Bonnet</li>
+													<li>TA_Turban</li>
+													<li>TA_TurbanWhite</li>
+													<li>TA_JanissaryHat</li>
+													<li>TA_FurCap</li>
+													<li>TA_NobleFurCap</li>
+													<li>Apparel_PlateArmor</li>
+													<li>Apparel_FlakVest</li>
+													<li>Apparel_FlakPants</li>
+													<li>Apparel_FlakJacket</li>
+													<li>Apparel_PowerArmor</li>
+													<li>Apparel_ArmorRecon</li>
+													<li>Apparel_ArmorReconPrestige</li>
+													<li>Apparel_ArmorMarinePrestige</li>
+													<li>Apparel_ArmorCataphract</li>
+													<li>Apparel_ArmorCataphractPrestige</li>
+													<li>Apparel_ArmorLocust</li>
+													<li>Apparel_ArmorMarineGrenadier</li>
+													<li>Apparel_ArmorCataphractPhoenix</li>
+													<li>Apparel_MechlordSuit</li>
+													<li>Apparel_Vacsuit</li>
+													<li>Apparel_VacsuitChildren</li>
+													<li>VPE_Apparel_PlateArmorPrestige</li>
+													<li>AG_ForsakenMarineArmor</li>
+													<li>VAE_Apparel_RoyalTrooperArmor</li>
+													<li>VAE_Apparel_RoyalSiegeArmor</li>
+													<li>VAE_Apparel_GhillieSuit</li>
+													<li>VAE_Apparel_HAZMATSuit</li>
+													<li>VAE_Apparel_Gambeson</li>
+													<li>VAE_Apparel_QuiltedVest</li>
+													<li>VAE_Apparel_LightPlateArmor</li>
+													<li>VAE_Apparel_PlateShoulderpads</li>
+													<li>VAE_Apparel_Chestplate</li>
+													<li>VAE_Apparel_Chainmail</li>
+													<li>VAE_Apparel_WoodenArmor</li>
+													<li>VAE_Apparel_RiotArmor</li>
+													<li>VAE_Apparel_RiotHelmet</li>
+													<li>VAE_Apparel_TrooperArmor</li>
+													<li>VAE_Apparel_HeavyMarineArmor</li>
+													<li>BS_BarbarianArmor</li>
+													<li>Apparel_NepChildArmor</li>
+													<li>Apparel_NepChildVest</li>
+													<li>Apparel_NepChildRecon</li>
+													<li>Apparel_InsultatedPlateArmor</li>
+													<li>Apparel_SimpleVest</li>
+													<li>TA_MailleShirt</li>
+													<li>TA_MailleVest</li>
+													<li>TA_Bazubands</li>
+													<li>TA_Gauntlets</li>
+													<li>TA_TallBoots</li>
+													<li>TA_TallGloves</li>
+													<li>TA_BuffCoat</li>
+													<li>TA_BuffVest</li>
+													<li>TA_Cuirass</li>
+													<li>TA_Gorget</li>
+													<li>TA_Krug</li>
+													<li>TA_PaddedDoublet</li>
+													<li>TA_PaddedVest</li>
+													<li>TA_PikemanPlate</li>
+													<li>TA_ThreeQuartersPlate</li>
+													<li>TA_Yushman</li>
+													<li>TA_Burgonet</li>
+													<li>TA_BurgonetVisored_off</li>
+													<li>TA_BurgonetVisored_on</li>
+													<li>TA_CloseHelmet_off</li>
+													<li>TA_CloseHelmet_on</li>
+													<li>TA_LobstertailHelmet</li>
+													<li>TA_HussarHelmet</li>
+													<li>TA_SipahiHelmet</li>
+													<li>TA_Morion</li>
+													<li>TA_Cabasset</li>
+													<li>Apparel_SimpleHelmet</li>
+													<li>Apparel_AdvancedHelmet</li>
+													<li>Apparel_PowerArmorHelmet</li>
+													<li>Apparel_ArmorHelmetRecon</li>
+													<li>Apparel_ArmorHelmetReconPrestige</li>
+													<li>Apparel_ArmorMarineHelmetPrestige</li>
+													<li>Apparel_ArmorHelmetCataphract</li>
+													<li>Apparel_ArmorHelmetCataphractPrestige</li>
+													<li>Apparel_Gunlink</li>
+													<li>Apparel_KidHelmet</li>
+													<li>Apparel_IntegratorHeadset</li>
+													<li>Apparel_ArmorHelmetMechCommander</li>
+													<li>Apparel_ArmorHelmetMechlordHelmet</li>
+													<li>Apparel_VacsuitHelmet</li>
+													<li>AG_ForsakenMarineHelmet</li>
+													<li>AG_ForsakenMarineHelmetPsy</li>
+													<li>VAE_Headgear_RoyalTrooperHelmet</li>
+													<li>VAE_Headgear_RoyalSiegeHelmet</li>
+													<li>VAE_Apparel_PlateHelmet</li>
+													<li>VAE_Headgear_StoneWarMask</li>
+													<li>VAE_Headgear_TrooperHelmet</li>
+													<li>VAE_Headgear_HeavyMarineHelmet</li>
+													<li>VAE_Headgear_GhillieHood</li>
+													<li>VAE_Headgear_HAZMATMask</li>
+													<li>Apparel_NepChildHelmetRecon</li>
+													<li>IH_Apparel_InsulatedHelmet</li>
+													<li>IH_Apparel_InsulatedFlakHelmet</li>
+													<li>Apparel_ShieldBelt</li>
+													<li>Apparel_SmokepopBelt</li>
+													<li>Apparel_FirefoampopPack</li>
+													<li>Apparel_PsychicShockLance</li>
+													<li>Apparel_PsychicInsanityLance</li>
+													<li>OrbitalTargeterBombardment</li>
+													<li>OrbitalTargeterPowerBeam</li>
+													<li>TornadoGenerator</li>
+													<li>Apparel_PackJump</li>
+													<li>Apparel_PackBroadshield</li>
+													<li>OrbitalTargeterMechCluster</li>
+													<li>Apparel_PackControl</li>
+													<li>Apparel_PackBandwidth</li>
+													<li>Apparel_PackTox</li>
+													<li>Apparel_DisruptorFlarePack</li>
+													<li>Apparel_PackTurret</li>
+													<li>Apparel_DeadlifePack</li>
+													<li>Apparel_ShardPsychicShockLance</li>
+													<li>Apparel_ShardPsychicInsanityLance</li>
+													<li>Apparel_BiomutationLance</li>
+													<li>Apparel_PackHunter</li>
+													<li>Apparel_CerebrexNode</li>
+													<li>VPE_Psyring</li>
+													<li>VPE_HeatPearls</li>
+													<li>VME_TackleBox</li>
+													<li>ComponentArchoDrone</li>
+													<li>TA_HussarWings</li>
+													<li>TA_MusketeerBandolier</li>
+													<li>TA_RapierBaldrick</li>
+													<li>TA_RapierSash</li>
+													<li>TA_HussarSaberScabbard</li>
+													<li>TM_SashBelt</li>
+													<li>Apparel_Cape</li>
+													<li>Apparel_ShirtRuffle</li>
+													<li>Apparel_Corset</li>
+													<li>Apparel_VestRoyal</li>
+													<li>Apparel_RobeRoyal</li>
+													<li>Apparel_HatLadies</li>
+													<li>Apparel_HatTop</li>
+													<li>Apparel_Coronet</li>
+													<li>Apparel_Crown</li>
+													<li>Apparel_CrownStellic</li>
+													<li>Apparel_Beret</li>
+													<li>Apparel_TribalA</li>
+													<li>Apparel_Parka</li>
+													<li>Apparel_Pants</li>
+													<li>Apparel_BasicShirt</li>
+													<li>Apparel_CollarShirt</li>
+													<li>Apparel_Duster</li>
+													<li>Apparel_Jacket</li>
+													<li>Apparel_Robe</li>
+													<li>Apparel_PsyfocusShirt</li>
+													<li>Apparel_PsyfocusVest</li>
+													<li>Apparel_PsyfocusRobe</li>
+													<li>Apparel_BodyStrap</li>
+													<li>Apparel_Burka</li>
+													<li>Apparel_KidRomper</li>
+													<li>Apparel_KidShirt</li>
+													<li>Apparel_KidPants</li>
+													<li>Apparel_KidParka</li>
+													<li>Apparel_KidTribal</li>
+													<li>Apparel_Bandolier</li>
+													<li>Apparel_Sash</li>
+													<li>Apparel_LabCoat</li>
+													<li>VPE_Apparel_EltexCape</li>
+													<li>AG_ForsakenCloak</li>
+													<li>AG_ForsakenCloak_Child</li>
+													<li>IceWorld_Mantle</li>
+													<li>Apparel_KidTribalCloak</li>
+													<li>Apparel_TribalCape</li>
+													<li>Apparel_TribalCloak</li>
+													<li>Apparel_TribalFurCloak</li>
+													<li>WYD_SlaveBelt</li>
+													<li>TA_CloakClosed</li>
+													<li>TA_CloakSemi</li>
+													<li>TA_CloakOpen</li>
+													<li>TA_KidCloak</li>
+													<li>TA_PeasantTunic</li>
+													<li>TA_KidDress</li>
+													<li>TA_CassockClosed</li>
+													<li>TA_CassockShoulder</li>
+													<li>TA_Doublet</li>
+													<li>TA_DoubletVest</li>
+													<li>TA_LongcoatClosed</li>
+													<li>TA_LongcoatOpen</li>
+													<li>TA_ShirtSashBelt</li>
+													<li>TA_ShirtSashBeltWhite</li>
+													<li>VAE_Apparel_Shield_Riot</li>
+													<li>VAE_Footwear_PlateBoots</li>
+													<li>VAE_Footwear_MarineBoots</li>
+													<li>VAE_Handwear_PlateGloves</li>
+													<li>VAE_Handwear_MarineGloves</li>
+													<li>VAE_Footwear_Boots</li>
+													<li>VAE_Footwear_Shoes</li>
+													<li>VAE_Handwear_Gloves</li>
+													<li>Jewelry_Bracelet</li>
+													<li>Jewelry_Necklace</li>
+													<li>Jewelry_Ring</li>
+													<li>Jewelry_Earring</li>
+													<li>Jewelry_EltexBracelet</li>
+													<li>Jewelry_PsychicNecklace</li>
+													<li>Jewelry_EltexRing</li>
+													<li>Jewelry_EltexEarring</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>Forever</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Recycle tainted apparel</playerCustomName>
+											<targetCount>10</targetCount>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>BILL57</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_TribalHeaddress</recipe>
+											<ingredientSearchRadius>15.125</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>WoolAlpaca</li>
+													<li>WoolBison</li>
+													<li>WoolCamel</li>
+													<li>AA_ChameleonYakWoolDesert</li>
+													<li>AA_ChameleonYakWoolJungle</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_GiantCrownedSilkieSilk</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>WoolMastodon</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_TribalA</recipe>
+											<ingredientSearchRadius>14.9159479</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Wolf</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Heavy</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Bear</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Gunmar_Apparel_PeltCap</recipe>
+											<ingredientSearchRadius>15.125</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Heavy</li>
+													<li>Leather_Bluefur</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_PeltCoat</recipe>
+											<ingredientSearchRadius>15.3340521</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Heavy</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Bear</li>
+													<li>Leather_Wolf</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_River_Tribal_mittens</recipe>
+											<ingredientSearchRadius>15.0055714</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Camel</li>
+													<li>Leather_Heavy</li>
+													<li>WoolMegasloth</li>
+													<li>Leather_Wolf</li>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bear</li>
+													<li>WoolMastodon</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>WoolBison</li>
+													<li>WoolAlpaca</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_River_Tribal_mukluks</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Wolf</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Bear</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Gunmar_Apparel_Tribal</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>AA_ArcticLion_Leather</li>
+													<li>Leather_Bear</li>
+													<li>Leather_Heavy</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Night</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Wolf</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.800000012~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Gunmar_Apparel_PeltLeggings</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>AA_Leather_Aerofleet</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Wolf</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Footwear_Boots</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Wolf</li>
+													<li>Leather_Night</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Bear</li>
+													<li>AA_ArcticLion_Leather</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make protective boots</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Mallow_winter_socks</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolBison</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>WoolMastodon</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMuffalo</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_TallBoots</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>12~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Plain</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_TallGloves</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Plain</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
+						<li>
+							<exposable>
+								<name>Tailor Tribal 2511A</name>
+								<internalList>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_TribalHeaddress</recipe>
+											<ingredientSearchRadius>15.125</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolMuffalo</li>
+													<li>WoolAlpaca</li>
+													<li>WoolBison</li>
+													<li>WoolCamel</li>
+													<li>AA_ChameleonYakWoolDesert</li>
+													<li>AA_ChameleonYakWoolJungle</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_GiantCrownedSilkieSilk</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>WoolMastodon</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+													<li>DevilstrandCloth</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Apparel_TribalA</recipe>
+											<ingredientSearchRadius>14.9159479</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Wolf</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Heavy</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Bear</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>6</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>5</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Gunmar_Apparel_PeltCap</recipe>
+											<ingredientSearchRadius>15.125</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Heavy</li>
+													<li>Leather_Bluefur</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Apparel_PeltCoat</recipe>
+											<ingredientSearchRadius>15.3340521</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Heavy</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Bear</li>
+													<li>Leather_Wolf</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_River_Tribal_mittens</recipe>
+											<ingredientSearchRadius>15.0055714</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Camel</li>
+													<li>Leather_Heavy</li>
+													<li>WoolMegasloth</li>
+													<li>Leather_Wolf</li>
+													<li>WoolMuffalo</li>
+													<li>Leather_Bear</li>
+													<li>WoolMastodon</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>WoolBison</li>
+													<li>WoolAlpaca</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_River_Tribal_mukluks</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>0~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Wolf</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Bear</li>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.850000024~1</hpRange>
+											<qualityRange>Normal~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Gunmar_Apparel_Tribal</recipe>
+											<ingredientSearchRadius>15.2444801</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>AA_ArcticLion_Leather</li>
+													<li>Leather_Bear</li>
+													<li>Leather_Heavy</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Night</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Wolf</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.800000012~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Gunmar_Apparel_PeltLeggings</recipe>
+											<ingredientSearchRadius>20.0228119</ingredientSearchRadius>
+											<allowedSkillRange>8~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>AA_Leather_Aerofleet</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Panthera</li>
+													<li>Leather_Wolf</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_VAE_Footwear_Boots</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Wolf</li>
+													<li>Leather_Night</li>
+													<li>Leather_Mastodon</li>
+													<li>Leather_Bear</li>
+													<li>AA_ArcticLion_Leather</li>
+													<li>Leather_Heavy</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<playerCustomName>Make protective boots</playerCustomName>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.75~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<limitToAllowedStuff>True</limitToAllowedStuff>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_Mallow_winter_socks</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>WoolBison</li>
+													<li>AA_ChameleonYakWoolTemperate</li>
+													<li>AA_ChameleonYakWoolWinter</li>
+													<li>AA_GreyCoatedMouflonWool</li>
+													<li>WoolMastodon</li>
+													<li>WoolMegasloth</li>
+													<li>WoolMuffalo</li>
+													<li>WoolMuskox</li>
+													<li>AA_NightWool</li>
+													<li>WoolSheep</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_TallBoots</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>12~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Plain</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="Bill_ProductionWithUft">
+											<loadID>-2147483648</loadID>
+											<recipe>Make_TA_TallGloves</recipe>
+											<ingredientSearchRadius>19.7839031</ingredientSearchRadius>
+											<allowedSkillRange>10~20</allowedSkillRange>
+											<pawnRestriction>null</pawnRestriction>
+											<precept>null</precept>
+											<xenogerm>null</xenogerm>
+											<ingredientFilter>
+												<disallowedSpecialFilters />
+												<allowedDefs>
+													<li>Leather_Bluefur</li>
+													<li>Leather_Plain</li>
+												</allowedDefs>
+												<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+												<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
+												<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+											</ingredientFilter>
+											<repeatMode>TargetCount</repeatMode>
+											<repeatCount>1</repeatCount>
+											<storeMode>DropOnFloor</storeMode>
+											<targetCount>4</targetCount>
+											<pauseWhenSatisfied>True</pauseWhenSatisfied>
+											<unpauseWhenYouHave>3</unpauseWhenYouHave>
+											<hpRange>0.699999988~1</hpRange>
+											<qualityRange>Good~Legendary</qualityRange>
+											<storeGroup>null</storeGroup>
+											<includeGroup>null</includeGroup>
+											<paused>True</paused>
+											<boundUft>null</boundUft>
+										</exposable>
+									</li>
+								</internalList>
+							</exposable>
+						</li>
 					</internalList>
 				</li>
 				<li>
@@ -32852,39 +35589,29 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
+											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
+											<drug>VBE_Whiskey</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
+											<drug>VBE_HotCoffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+											<allowScheduled>True</allowScheduled>
+											<onlyIfMoodBelow>0.599790454</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.301191688</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
+											<drug>VBE_GourmetCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -32896,38 +35623,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Ambrandy</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_HotCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Whiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Vodka</drug>
+											<drug>VBE_FineCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -32940,6 +35648,40 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Ambrandy</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DoubleWhiskey</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+											<allowScheduled>True</allowScheduled>
+											<daysFrequency>2</daysFrequency>
+											<onlyIfMoodBelow>0.599790454</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.503673613</onlyIfJoyBelow>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -32959,6 +35701,11 @@
 										<exposable Class="DrugPolicyEntry">
 											<drug>SmokeleafJoint</drug>
 											<allowedForAddiction>True</allowedForAddiction>
+											<allowScheduled>True</allowScheduled>
+											<daysFrequency>3</daysFrequency>
+											<onlyIfMoodBelow>0.501018703</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.246866837</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
@@ -32983,6 +35730,11 @@
 										<exposable Class="DrugPolicyEntry">
 											<drug>PsychiteTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
+											<allowScheduled>True</allowScheduled>
+											<daysFrequency>3</daysFrequency>
+											<onlyIfMoodBelow>0.496080279</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.251805276</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
@@ -33005,23 +35757,20 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_GourmetDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_LavishDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_GourmetDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
@@ -33032,21 +35781,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Soda</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33060,34 +35807,40 @@
 										<exposable Class="DrugPolicyEntry">
 											<drug>Fruitdrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+											<allowScheduled>True</allowScheduled>
+											<onlyIfMoodBelow>0.604728878</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.301191688</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Cuptea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+											<allowScheduled>True</allowScheduled>
+											<onlyIfMoodBelow>0.604728878</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.296253234</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VG_BarleyTea</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
+											<allowScheduled>True</allowScheduled>
+											<onlyIfMoodBelow>0.604728878</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.301191688</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>Coffee</drug>
 											<allowedForAddiction>True</allowedForAddiction>
-											<allowedForJoy>True</allowedForJoy>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>JuggernautSerum</drug>
-											<allowedForAddiction>True</allowedForAddiction>
+											<allowScheduled>True</allowScheduled>
+											<onlyIfMoodBelow>0.604728878</onlyIfMoodBelow>
+											<onlyIfJoyBelow>0.296253234</onlyIfJoyBelow>
+											<takeToInventory>1</takeToInventory>
 										</exposable>
 									</li>
 									<li>
@@ -33099,6 +35852,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>MindNumbSerum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>JuggernautSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33123,61 +35882,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Ambrandy</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_HotCoffee</drug>
+											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33189,13 +35894,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Vodka</drug>
+											<drug>VBE_HotCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LavishCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33208,6 +35937,36 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Ambrandy</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DoubleWhiskey</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33273,12 +36032,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_GourmetDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -33291,7 +36044,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_GourmetDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33304,12 +36069,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33345,12 +36104,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>JuggernautSerum</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VoidsightSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -33358,6 +36111,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>MindNumbSerum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>JuggernautSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33382,61 +36141,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Ambrandy</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_HotCoffee</drug>
+											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33448,13 +36153,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Vodka</drug>
+											<drug>VBE_HotCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LavishCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33467,6 +36196,36 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Ambrandy</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DoubleWhiskey</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33532,12 +36291,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_GourmetDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -33550,7 +36303,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_GourmetDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33563,12 +36328,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33604,12 +36363,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>JuggernautSerum</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VoidsightSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -33617,6 +36370,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>MindNumbSerum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>JuggernautSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33641,61 +36400,7 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_FineCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_SimpleCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_EnergyDrink</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_IceCoffee</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_DoubleWhiskey</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>Mead</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_LavishCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Ambrandy</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_GourmetCocktail</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_HotCoffee</drug>
+											<drug>VBE_Vodka</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33707,13 +36412,37 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VBE_Vodka</drug>
+											<drug>VBE_HotCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_GourmetCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_LavishCocktail</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_FineCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tequila</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_SimpleCocktail</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33726,6 +36455,36 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Cider</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_Ambrandy</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>Mead</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_DoubleWhiskey</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_IceCoffee</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VBE_EnergyDrink</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33791,12 +36550,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_GourmetDessert</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VCE_FineDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -33809,7 +36562,19 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_GourmetDessert</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
 											<drug>Penoxycyline</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33822,12 +36587,6 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>VBE_Tea</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
-											<drug>VCE_SimpleDessert</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
@@ -33863,12 +36622,6 @@
 									</li>
 									<li>
 										<exposable Class="DrugPolicyEntry">
-											<drug>JuggernautSerum</drug>
-											<allowedForAddiction>True</allowedForAddiction>
-										</exposable>
-									</li>
-									<li>
-										<exposable Class="DrugPolicyEntry">
 											<drug>VoidsightSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
@@ -33876,6 +36629,12 @@
 									<li>
 										<exposable Class="DrugPolicyEntry">
 											<drug>MindNumbSerum</drug>
+											<allowedForAddiction>True</allowedForAddiction>
+										</exposable>
+									</li>
+									<li>
+										<exposable Class="DrugPolicyEntry">
+											<drug>JuggernautSerum</drug>
 											<allowedForAddiction>True</allowedForAddiction>
 										</exposable>
 									</li>
