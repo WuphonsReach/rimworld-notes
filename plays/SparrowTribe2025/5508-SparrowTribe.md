@@ -68,6 +68,8 @@
   - [Dec-5519](#dec-5519)
 - [5520](#5520)
   - [Apr-5520](#apr-5520)
+  - [Jul-5520](#jul-5520)
+  - [Sep-5520](#sep-5520)
 
 # Start (2025-10-07)
 
@@ -770,10 +772,71 @@ Stork reaches adulthood.  He picks up powerful senses.  Burning passions for soc
 
 Elder Remembrance: Unimpressive
 
+Captured Bear (M, 17) and Labil (F, 35) from The Gaa Union raid.  We're going to commit some light war crimes while we convert and recruit them to train our medics.
 
+Bear didn't survive the experiments.
 
+Allied with Confederacy of Loler.
 
+Pavilion wooed Deeth and they are now lovers.  
 
+Szov reaches childhood.
+
+Allied with Lencadinler.
+
+Indigo reaches adulthood.  She picks up the keen senses trait.  Burning passions for construction, medical and intellectual.
+
+Quail reaches age 7.  She picks up the go-getter trait along with passions for social, medical and crafting.
+
+We convert Labil on the 12th and mind wipe her.  We'll also work on regrowing her limbs.  She's a female, age 35, baseliner with cooking, plants and artistic skills.  She has the natural meditation type.
+
+## Jul-5520
+
+Labil still recovering in the hospital.  Regrowth has not yet started on either of her arms or her left leg.
+
+An age 41 brawler named Reindeer tries to join the colony.  He's probably a traitor.  But he has the natural meditation type.  We'll be prepared to imprison him.
+
+Captured and converted Wyshott, a female yttakin that is only 21 years old.  She has burning passions for plants and intellectual.  Very diligent student, but psychically dull.
+
+Geir and Shae are now lovers.  Rolu is still trading prisoner years for a younger Shae.  The math is +5 for Rolu for -10 for Shae, then -2 for Rolu for +10 on a prisoner.  So Rolu has to tap a prisoner twice for every treatment on Shae.
+
+Reindeer finally betrays us on the 6th.  Wyshott bashes his head in with an uranium mace, ending the betrayal in a single blow.
+
+On the 8th a nearby mech cluster site starts spewing toxic rain.  This might be the end of our colony, but I think we can send out 12 people.
+
+Caravan:
+- Jaketh, Rytt, Menga
+- Yellow, Suski
+- Purple, Cyan, Orange, Ra
+- Buch, Connor, Entasga
+
+Oh good, the toxic spewer is near enough to get there and back within a few days.  Due to the "exploration" mod, I couldn't see it due to the hills.
+
+No big difficulties, the staticlords (Buch and Entasga) did their work and the three melee pawns did the rest.
+
+Shae is now age 34 (started at 74), one more treatment will get her down to 10, but Rolu needs to tap the prisoner 2-3 times before she does that.  Shae has been fertilized by Geir and will lay an egg at some point.
+
+Caravan gets ambushed by Psyck Group (wasters) and they'll have to fight.
+
+Rescued Mispy, a male cannibal wimp nisse who is 33.  He has the natural meditation focus and burning passions for cooking, plants and animals.
+
+Bozier also joins from the shuttle crash.  No natural meditation, but strong medical skills.
+
+With four prisoners, Rolu can make the rounds on each one keeping them at 25% or lower consciousness as she regains 2 years per prisoner.  Will get her back to 20, then bring Shae down to age 24.  Then get Rolu back down to 21.
+
+Change priorities so that Stork, Zebra and Nexia spend more time at the research benches.
+
+Farov (M, 38, impid) crash lands with 36 days of paralytic abasia.  Burning passions for melee, crafting and medical makes him a keeper.  Plus the iron stomach trait and natural meditation focus.
+
+Cricket becomes a child on the 14th.
+
+Finch reaches age 10.  He picks up the useful backpacker trait, and burning passions for shooting and crafting with a minor passion for cooking.
+
+## Sep-5520
+
+Taking care of an artic fox for the empire.  This should push us to about +90 rep which will make us allied.  We're expecting two raids from the Imp Vampires faction which will be about 22 units per raid, including a boss.
+
+Seven shamblers show up and hang around the map edge on the 1st.  Maybe they'll join in the fun when the raid parties arrive.
 
 
 
