@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CameraPlus.CameraPlusSettings">
+		<currentVersion>3</currentVersion>
+		<edgeIndicators>False</edgeIndicators>
+		<customNameStyle>HideAnimals</customNameStyle>
+		<includeNotTamedAnimals>False</includeNotTamedAnimals>
+		<clippedRelativeSize>0.265065223</clippedRelativeSize>
+		<clippedBorderDistanceFactor>0.107904226</clippedBorderDistanceFactor>
+		<outlineFactor>0.0398794934</outlineFactor>
+	</ModSettings>
+</SettingsBlock>
