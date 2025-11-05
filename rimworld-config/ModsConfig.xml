@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.6.4630 rev485</version>
+  <version>1.6.4633 rev1273</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>brrainz.visualexceptions</li>
@@ -15,11 +15,13 @@
     <li>redmattis.betterprerequisites</li>
     <li>thereallemon.factioncontrol</li>
     <li>adaptive.storage.framework</li>
+    <li>vanillaexpanded.backgrounds</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>troopersmith1.deathrattle</li>
     <li>adaptive.primitivestorage</li>
     <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
     <li>unlimitedhugs.hugslib</li>
+    <li>erin.ffxivraces</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>imranfish.xmlextensions</li>
     <li>mlie.visualxmlpatches</li>
@@ -41,6 +43,7 @@
     <li>headwar.delayeddeterioration</li>
     <li>overpl.drawnspots</li>
     <li>edb.preparecarefully</li>
+    <li>bean.customxenotypes.orksoftherim</li>
     <li>botchjob.hthair</li>
     <li>neronix17.retexture.vanillabeards</li>
     <li>keshash.injurytextures</li>
@@ -53,7 +56,13 @@
     <li>vanillaexpanded.vhe</li>
     <li>jiopaba.fences</li>
     <li>shenanigans.tribaltattoos</li>
+    <li>wiggler310.medieval</li>
+    <li>vanillaexpanded.vwe</li>
+    <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
+    <li>vanillaexpanded.vaeaccessories</li>
     <li>vanillaexpanded.vpsycastse</li>
+    <li>stocksounds.factions.scavenger</li>
+    <li>sarg.alphamemes</li>
     <li>sarg.alphaanimals</li>
     <li>zal.tribalinstruments</li>
     <li>trickity.conversion.staff</li>
@@ -266,8 +275,12 @@
     <li>citrus.expectationsmodifier</li>
     <li>aelanna.getoutofmychair</li>
     <li>davai.sortedcategories</li>
+    <li>wr.wyd.rfwallsreworked.strongerreinforced</li>
     <li>rabiosus.autoblink</li>
+    <li>frozensnowfox.morequests</li>
+    <li>frozensnowfox.betterpawnlendingquest</li>
     <li>rabiosus.jumplifter</li>
+    <li>cass.launchsitesexpire</li>
     <li>leo.cleanresearchsort</li>
     <li>syrus.caravanmoodbuff</li>
     <li>sarg.alphabooks</li>
@@ -291,6 +304,8 @@
     <li>keyz182.keyzallowutilities</li>
     <li>frozensnowfox.complexjobs</li>
     <li>oels.chooseyouroutfit</li>
+    <li>og.automaticpowerswitch</li>
+    <li>mlie.turnonoffrepowered</li>
     <li>kattalisk.allproductionxp</li>
     <li>mlie.tradeabletrinkets</li>
     <li>erdelf.exportagency</li>

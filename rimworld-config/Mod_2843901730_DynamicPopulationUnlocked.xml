@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DynamicPopulationUnlocked.DynamicPopulationSettings">
-		<popLow>3</popLow>
-		<popDesired>6</popDesired>
-		<popHigh>8</popHigh>
-		<popCriticalHigh>10</popCriticalHigh>
-		<popMax>64</popMax>
+		<popLow>5</popLow>
+		<popDesired>10</popDesired>
+		<popHigh>15</popHigh>
+		<popCriticalHigh>20</popCriticalHigh>
+		<popMax>48</popMax>
 	</ModSettings>
 </SettingsBlock>

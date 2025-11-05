@@ -71,6 +71,10 @@
 				<li>ACGrantsXP;ACGXPSmeltingSkillLearnFactor</li>
 				<li>ACGrantsXP;ACGXPStonecutSkillLearnFactor</li>
 				<li>ACGrantsXP;ACGXPStonecutXPToggle</li>
+				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsOn</li>
+				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsonDays</li>
+				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsnumIncidentsRange</li>
+				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsminSpacingDays</li>
 			</keys>
 			<values>
 				<li>true</li>
@@ -141,6 +145,10 @@
 				<li>0.2</li>
 				<li>0.2</li>
 				<li>True</li>
+				<li>false</li>
+				<li>12</li>
+				<li>2</li>
+				<li>3.0</li>
 			</values>
 		</dataDict>
 		<PinnedMods />

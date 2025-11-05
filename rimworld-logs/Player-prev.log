@@ -19,21 +19,21 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 714369664
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 864505312
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.055 seconds
+- Loaded All Assemblies, in  0.056 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.504717 ms
+UnloadTime: 0.512263 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
 SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198011700377 [API loaded no]
-RimWorld 1.6.4630 rev485
+RimWorld 1.6.4633 rev1273
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
@@ -43,17 +43,17 @@ Mod  is missing supported versions list in About.xml! (example: <supportedVersio
 Mod rimworld-steel-roof is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>)
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ed400cfb080.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ed400e89970.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ed403abb8f0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x712728cea250.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x712728d9f050.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x71272bacbdb0.so
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ed3f87add90.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x712720ed6920.so
 [HugsLib] version 12.0.0
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7ed3f9961f80.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x712721916330.so
 SatisfiedStorage loading
 [WDHeaters] Loaded.
 Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
@@ -73,12 +73,20 @@ Key binding conflict: MainTab_kNumbersOverviewTab and OpenMapSearch are both bou
 Key binding conflict: OpenMapSearch and MainTab_kNumbersOverviewTab are both bound to Z.
 Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
 Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
+Error: Cannot create FMOD::Sound instance for clip "" (FMOD error: Unsupported file or audio format. )
 Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limestone, Slate, Marble, Vacstone
 Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7252 symbolDefs for vanilla and DLCs
-[XML Extensions] Initialized 5 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4483 total patch operations run in 7278ms, 0 failed
-[XML Extensions] Emitted 5 mod class(es)
+[XML Extensions] Initialized 6 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
+[XML Extensions] 4503 total patch operations run in 7273ms, 0 failed
+[XML Extensions] Emitted 6 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 [Hauts' Framework] active.
 [Hauts' Added Traits] active.
@@ -104,7 +112,7 @@ KCSG has Created 7252 symbolDefs for vanilla and DLCs
 [MarkThatPawn]: Found 9 icons for XCOM Medieval
 [MarkThatPawn]: Found 192 loaded weapons, 11 explosive weapons and 21 thrown projectiles
 [MarkThatPawn]: Found 306 loaded apparel, 71 armored apparel, 71 royal apparel, 23 psycast apparel, 7 enviromental protection apparel, 6 mechanator apparel and 157 basic apparel 
-[MarkThatPawn]: Found 0 automatic rules defined
+[MarkThatPawn]: Found 2 automatic rules defined
 BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea, small, acanthamoeba gigantea, large, acanthamoeba gigantea, huge, aerofleet, colossal aerofleet, chemfuel myrmidon, genix, green goo, infected aerofleet, luciferbug, red goo, red spore, boombat
 [BoomModExpanded]: Adding support for Animal Behaviour
 [BoomModExpanded]: Adding support for Alpha Genes
@@ -112,15 +120,14 @@ BoomModExpanded: Current exploders are boomalope, boomrat, acanthamoeba gigantea
 [BadLeatherCategory]: Note that Leather_Human is also used by non-humanlikes. Gorehulk, AA_FungalHusk, AA_Mime, Corpse_Gorehulk, Corpse_AA_FungalHusk, Corpse_AA_Mime
 [BadLeatherCategory]: Note that Leather_Lizard is also used by non-humanlikes. Cobra, Tortoise, Iguana, MonitorLizard, Alligator, SeaTurtle, AA_AnimaColossus, AA_CrescendoAnole, AA_DecayDrake, AA_Erin, AA_Lockjaw, AA_OvergrownColossus, AA_PedigreedRaptor, AA_RayHound, AA_RoughPlatedMonitor, AEXP_Crocodile, AEXP_DesertTortoise, AEXP_GilaMonster, AEXP_Rattlesnake, AEXP_Anaconda, Corpse_Cobra, Corpse_Tortoise, Corpse_Iguana, Corpse_MonitorLizard, Corpse_Alligator, Corpse_SeaTurtle, Corpse_AA_AnimaColossus, Corpse_AA_CrescendoAnole, Corpse_AA_DecayDrake, Corpse_AA_Erin, Corpse_AA_Lockjaw, Corpse_AA_OvergrownColossus, Corpse_AA_PedigreedRaptor, Corpse_AA_RayHound, Corpse_AA_RoughPlatedMonitor, Corpse_AEXP_Crocodile, Corpse_AEXP_DesertTortoise, Corpse_AEXP_GilaMonster, Corpse_AEXP_Rattlesnake, Corpse_AEXP_Anaconda
 [BadLeatherCategory]: Moved 3 leather to the Bad Leather-category
-[CMColorCodedMoodBar] CMColorCodedMoodBar 1.6.4553.2 initialized
 [GrievousWounds] EBF Enabled?: False
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 11/2/2025 5:24:10 PM
+[RealRuins][System]: RealRuins started patching at 11/4/2025 8:16:41 PM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 11/2/2025 5:24:10 PM
-[RealRuins][System]: RealRuins finished patching at 11/2/2025 5:24:10 PM (32.676 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 11/4/2025 8:16:41 PM
+[RealRuins][System]: RealRuins finished patching at 11/4/2025 8:16:41 PM (32.573 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -139,16 +146,16 @@ Walls are Solid - transpiler patched successfully.
 PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1237 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1315 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 14)
 MVCF successfully applied 49 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 59165.
-Total: 812.490750 ms (FindLiveObjects: 3.454778 ms CreateObjectMapping: 1.644193 ms MarkObjects: 806.805089 ms  DeleteObjects: 0.586059 ms)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 59997.
+Total: 851.856728 ms (FindLiveObjects: 3.371579 ms CreateObjectMapping: 1.990702 ms MarkObjects: 845.900399 ms  DeleteObjects: 0.593486 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/867467808
-[HugsLib] initializing com.github.alandariva.moreplanning, StackableChunks, StackXXL, AvoidFriendlyFire
+[HugsLib] initializing com.github.alandariva.moreplanning, StackableChunks, StackXXL, AvoidFriendlyFire, TurnOnOffRePowered
 [StackableChunks] Chunk Stacks set too: 5
 [StackableChunks] Slag Stacks set too: 5
 [StackXXL] Loaded
@@ -171,14 +178,14 @@ CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share
 [Clean Research Sort]: Successfully applied sorted research tree layout.
 Unloading 3 Unused Serialized files (Serialized files now loaded: 15)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.574317 ms
+UnloadTime: 0.676672 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 59449.
-Total: 811.394776 ms (FindLiveObjects: 2.671991 ms CreateObjectMapping: 1.619797 ms MarkObjects: 807.041984 ms  DeleteObjects: 0.060424 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 60282.
+Total: 814.640487 ms (FindLiveObjects: 2.592073 ms CreateObjectMapping: 1.721136 ms MarkObjects: 810.269440 ms  DeleteObjects: 0.053991 ms)
 
-Loading game from file Sparrow Tribe 20-Jul3 with mods:
+Loading game from file Sparrow Tribe 21-Apr12 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -197,6 +204,7 @@ Loading game from file Sparrow Tribe 20-Jul3 with mods:
   - Adaptive.PrimitiveStorage
   - m00nl1ght.UnofficialUpdates.HugsLogPublisher
   - UnlimitedHugs.HugsLib
+  - Erin.FFXIVRaces
   - name.krypt.rimworld.rwlayout.alpha2
   - imranfish.xmlextensions
   - Mlie.VisualXMLPatches
@@ -389,7 +397,6 @@ Loading game from file Sparrow Tribe 20-Jul3 with mods:
   - visiblewealth.1trickPwnyta
   - m00nl1ght.GeologicalLandforms
   - Orbital.Books
-  - CrashM.ColorCodedMoodBar.11
   - bs.xenotypespawncontrol
   - Mlie.TechappropriateRoofMote
   - lc.tammybee.selectablesculpturegraphic
@@ -444,8 +451,12 @@ Loading game from file Sparrow Tribe 20-Jul3 with mods:
   - Citrus.ExpectationsModifier
   - Aelanna.GetOutOfMyChair
   - davai.sortedcategories
+  - wr.wyd.RFWallsReworked.StrongerReinforced
   - rabiosus.autoblink
+  - FrozenSnowFox.MoreQuests
+  - FrozenSnowFox.BetterPawnLendingQuest
   - rabiosus.jumplifter
+  - cass.LaunchSitesExpire
   - Leo.CleanResearchSort
   - Syrus.CaravanMoodBuff
   - sarg.alphabooks
@@ -469,6 +480,8 @@ Loading game from file Sparrow Tribe 20-Jul3 with mods:
   - keyz182.KeyzAllowUtilities
   - FrozenSnowFox.ComplexJobs
   - oels.chooseyouroutfit
+  - Og.AutomaticPowerSwitch
+  - Mlie.TurnOnOffRePowered
   - Kattalisk.AllProductionXP
   - Mlie.TradeableTrinkets
   - erdelf.ExportAgency
@@ -476,47 +489,65 @@ Loading game from file Sparrow Tribe 20-Jul3 with mods:
   - Kas.StrongerScaling
   - zal.tradegoods
   - Runzu.TradeGoodsRetexture
+  - DerekBickley.LTOColonyGroupsFinal
   - Scorpio.ResourceDictionary
   - imranfish.xmldocumentviewer
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not resolve reference to object with loadID WorldObject_1042 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
+Could not resolve reference to object with loadID Lord_648 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VEF.Storyteller.RaidGroup curPathRelToParent=/lords
 Null key while loading dictionary of Verse.Pawn and System.Int32. label=colonist_booze_tracker
-Null key while loading dictionary of Verse.Pawn and System.Int32. label=colonist_booze_tracker
+Null key while loading dictionary of Verse.Pawn and System.Int32. label=colonist_caravan_tracker
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Haul designation has no target! Deleting.
 Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
 Parameter name: key
-[Ref CF75A5C9]
+[Ref EB19D1A9]
  [0x00006] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
   at System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) [0x00008] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
   at System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) [0x00000] in <e3b07672ffbd43c1838e1ebbe94cbdf5>:0 
-  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <ef9964fdcdea49308a165413272831ef>:0 
-  at Verse.Designation.Delete () [0x00006] in <ef9964fdcdea49308a165413272831ef>:0 
-  at Verse.Designation.ExposeData () [0x0007b] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.DesignationManager.RemoveDesignation (Verse.Designation des) [0x00074] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.Designation.Delete () [0x00006] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.Designation.ExposeData () [0x0007b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
     - PREFIX com.github.alandariva.moreplanning: Boolean MorePlanning.Patches.HarmonyPatches:DesignationPlanningExposeData_Prefix(Designation __instance)
-  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <ef9964fdcdea49308a165413272831ef>:0 
+  at Verse.CrossRefHandler.ResolveAllCrossReferences () [0x0011b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
     - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
     - POSTFIX com.rimworld.mod.factioncontrol: Void FactionControl.CrossRefHandler_ResolveAllCrossReferences:Postfix()
 Haul designation has no target! Deleting.
 Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
 Parameter name: key
-[Ref CF75A5C9] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref CF75A5C9] Duplicate stacktrace, see ref for original
-Haul designation has no target! Deleting.
-Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
-Parameter name: key
-[Ref CF75A5C9] Duplicate stacktrace, see ref for original
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
-Thing-needing designation (Haul target=null) had no thing target. Removing...
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Exception in SetupToils for pawn Wanysh driver=JobDriver_DoBill (toilIndex=24) driver.job=(DoBill (Job_85187112) A = Thing_Filth_AnimalFilth6946637 B = Thing_Leather_Bluefur6946729 C = (200, 0, 261) Giver = JobGiver_Work [workGiverDef: DoBillsMakeApparel])
+System.InvalidOperationException: DoBill on non-Billgiver.
+[Ref 651560B0]
+  at Verse.AI.JobDriver_DoBill.get_BillGiver () [0x00027] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at CommonSense.JobDriver_DoBill_MakeNewToils_CommonSensePatch+<DoMakeToils>d__8.MoveNext () [0x00118] in <c08ea0632ba44dd18c410e20e9470cb1>:0 
+  at Verse.AI.JobDriver.SetupToils () [0x00057] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+JobDriver threw exception in toil MakeNewToils's initAction for pawn Wanysh driver=JobDriver_Wait (toilIndex=0) driver.job=(Wait (Job_85187222))
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 27EDADBE]
+  at Verse.AI.JobDriver_Wait.<MakeNewToils>b__3_0 () [0x00006] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.AI.JobDriver.TryActuallyStartNextToil () [0x00208] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+An error occurred while starting an error recover job. We have to stop now to avoid infinite loops. This means that the pawn is now jobless which can cause further bugs. pawn=Wanysh
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
 Could not find think node with key 609489829
 Could not find think node with key 609489829
 Could not find think node with key 609489829
@@ -532,8 +563,17 @@ Could not find think node with key 609489829
 Could not find think node with key 609489829
 Could not find think node with key 609489829
 Could not find think node with key 609489829
-Could not find think node with key 609489829
-Could not find think node with key 609489829
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AA6ECE1E]
+  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
+  at Verse.Room.Notify_RoomShapeChanged () [0x0000f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPre(Room __instance, Boolean& __state)
+    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
+    - POSTFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPost(Room __instance, Boolean __state)
+  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
@@ -549,286 +589,23 @@ Notify_NewLink was called but the link is already here.
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 81064.
-Total: 972.092519 ms (FindLiveObjects: 3.508158 ms CreateObjectMapping: 2.074279 ms MarkObjects: 966.412129 ms  DeleteObjects: 0.097322 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 83238.
+Total: 964.483469 ms (FindLiveObjects: 3.397297 ms CreateObjectMapping: 2.501854 ms MarkObjects: 958.482016 ms  DeleteObjects: 0.101842 ms)
 
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A]
-  at Verse.GenCollection.RemoveWhere[T] (System.Collections.Generic.IList`1[T] list, System.Func`2[T,TResult] predicate) [0x00000] in <ef9964fdcdea49308a165413272831ef>:0 
-  at RimWorld.CompTransporter.PostExposeData () [0x0014d] in <ef9964fdcdea49308a165413272831ef>:0 
-  at Verse.ThingWithComps.ExposeData () [0x00035] in <ef9964fdcdea49308a165413272831ef>:0 
-    - POSTFIX OskarPotocki.VEF: Void VEF.Weapons.VanillaExpandedFramework_ThingWithComps_ExposeData_Patch:Postfix(ThingWithComps __instance)
-    - POSTFIX net.avilmask.rimworld.mod.CommonSense: Void CommonSense.ThingWithComps_ExposeData_CommonSensePatch:Postfix(ThingWithComps __instance)
-  at Verse.Building.ExposeData () [0x00000] in <ef9964fdcdea49308a165413272831ef>:0 
-    - POSTFIX rimworld.aelanna.getoutofmychair: Void GetOutOfMyChair.HarmonyPatches:BuildingExposeData_Postfix(Building __instance)
-  at Verse.Scribe_Deep.Look[T] (T& target, System.Boolean saveDestroyedThings, System.String label, System.Object[] ctorArgs) [0x00155] in <ef9964fdcdea49308a165413272831ef>:0 
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (50, 81) - (439, 376)
-Origin: 50, 81
-Start capturing in area of: (50,81)-(438,375)
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bed1490778 (layer: null) for Stork for job BBLK_Job_BedTimeStory (Job_69892812) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_69892812) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Finch (job: LayDown (Job_69892167) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bed1490778 (layer: null) for Entasga for job BBLK_Job_BedTimeStory (Job_70014683) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_70014683) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Finch (job: LayDown (Job_70012840) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for Mechanoid: Original 720.8135, Multiplier 1.5, New 1081.22
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bed1490778 (layer: null) for Deeth for job BBLK_Job_BedTimeStory (Job_70068111) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_70068111) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Finch (job: LayDown (Job_70067174) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[RaidPointMultiplier] Adjusted raid points for TribeCannibal: Original 520.1608, Multiplier 2, New 1040.322
-Trado tried to wear TA_KidHood5984811 but is not allowed to.
-Trogador tried to wear TA_KidHood5984817 but is not allowed to.
-Caxigo tried to wear TA_KidHood5984824 but is not allowed to.
-Buffalo tried to wear TA_KidHood5984836 but is not allowed to.
-Moose tried to wear TA_KidHood5984842 but is not allowed to.
-Babigo tried to wear TA_KidHood5984855 but is not allowed to.
-Comfort drawing bar percent > 1 : 1.258
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bed1490778 (layer: null) for Ra for job BBLK_Job_BedTimeStory (Job_70140688) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_70140688) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Finch (job: LayDown (Job_70140001) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Flamel tried to wear TA_KidHood5991367 but is not allowed to.
-Tianyang tried to wear TA_KidHood5991467 but is not allowed to.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Geological Landforms v1.7.11] Map generator context: TileId: 19546, Landforms: , BiomeVariants: None, Topology: CliffTwoSides, TopologyDirection: South (F)
-ShallowReservoirSeed == 0 Regenerating seeds
-Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 163 unused Assets to reduce memory usage. Loaded Objects now: 93878.
-Total: 968.300680 ms (FindLiveObjects: 4.191369 ms CreateObjectMapping: 3.404774 ms MarkObjects: 960.452074 ms  DeleteObjects: 0.251943 ms)
-
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Qiuxiaoye tried to wear TA_KidHood6011752 but is not allowed to.
-Skaldix tried to wear TA_KidHood6011761 but is not allowed to.
-Immortal tried to wear TA_KidHood6011784 but is not allowed to.
-[Geological Landforms v1.7.11] Map generator context: TileId: 19546, Landforms: None, BiomeVariants: None, Topology: CliffTwoSides, TopologyDirection: South (L)
-ShallowReservoirSeed == 0 Regenerating seeds
 Unloading 1 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 94233.
-Total: 971.201359 ms (FindLiveObjects: 4.352601 ms CreateObjectMapping: 4.226165 ms MarkObjects: 962.507247 ms  DeleteObjects: 0.114836 ms)
-
-Tewi died during GiveInjuriesToForceDowned
-   -(HVT_TwistedHumanApathy ticksSinceCreation=0)
-   -(Frostbite left thumb ticksSinceCreation=0)
-   -(Cut torso ticksSinceCreation=0)
-   -(Cut left kidney ticksSinceCreation=0)
-   -(Cut torso ticksSinceCreation=0)
-   -(Cut liver ticksSinceCreation=0)
-   -(Cut torso ticksSinceCreation=0)
-Moss died during GiveInjuriesToForceDowned
-   -(Crack right femur ticksSinceCreation=0)
-   -(Gunshot right shoulder ticksSinceCreation=0)
-   -(Gunshot torso ticksSinceCreation=0)
-   -(Gunshot right arm ticksSinceCreation=0)
-   -(Cut torso ticksSinceCreation=0)
-   -(Cut left kidney ticksSinceCreation=0)
-   -(Cut torso ticksSinceCreation=0)
-   -(Cut torso ticksSinceCreation=0)
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bed1490778 (layer: null) for Geir for job BBLK_Job_BedTimeStory (Job_70491832) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_70491832) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Finch (job: LayDown (Job_70491281) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Use material Cloth4783216
-Use material Jade1680869
-Use material Jade1680869
-Use material Cloth4783216
-Use material Jade1680869
-NullReferenceException: Object reference not set to an instance of an object
-[Ref F6D0EF10] Duplicate stacktrace, see ref for original
-
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (50, 81) - (439, 376)
-Origin: 50, 81
-Start capturing in area of: (50,81)-(438,375)
-Use material Jade4801693
-Use material Jade4801693
-Use material Jade4801693
-Ren started 10 jobs in one tick. newJob=TendPatient (Job_71209926) A = Thing_Human6018296 B = Thing_MedicineHerbal6024565 jobGiver=RimWorld.JobGiver_Work jobList=
-Ren started 10 jobs in one tick. newJob=TendPatient (Job_71222337) A = Thing_Human6018296 B = Thing_MedicineHerbal6024565 jobGiver=RimWorld.JobGiver_Work jobList=
-Could not reserve Thing_MedicineHerbal6022764(current stack count: 1) (layer: null) for Yellow for job TendPatient (Job_71304440) A = Thing_Human6011767 B = Thing_MedicineHerbal6020123 Giver = JobGiver_Work [workGiverDef: DoctorTendEmergency] (now doing job TendPatient (Job_71304440) A = Thing_Human6011767 B = Thing_MedicineHerbal6020123 Giver = JobGiver_Work [workGiverDef: DoctorTendEmergency](curToil=-1)) for maxPawns 10 and stackCount 0.
-Existing reservers:
-   [0] Porg (job: TendPatient (Job_71257372) A = Thing_Human6011749 B = Thing_MedicineHerbal6025354 Giver = JobGiver_Work [workGiverDef: DoctorTendEmergency], toil: 13, maxPawns: 10, stackCount: 2)
-Needed medicine MedicineHerbal6022764 for Yellow seemed to be in a reserved stack. Job will fail but should try again, so ignore the error please.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bed1490778 (layer: null) for Zebra for job BBLK_Job_BedTimeStory (Job_72473691) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_72473691) A = Thing_Bed1490778 B = Thing_Human4192053 C = Thing_BBLK_ChildrensBook2575621 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Finch (job: LayDown (Job_72455845) A = Thing_Bed1490778 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Exception in JobDriver fixed tick for pawn Purple driver=JobDriver_Ingest (toilIndex=12) driver.job=(Ingest (Job_72753281) A = Thing_bowlstew6032500 B = Thing_Filth_Trash6032266 Giver = JobGiver_GetFood [workGiverDef: null])
-System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 4855A5E]
-  at Verse.GridsUtility.GetTerrain (Verse.IntVec3 c, Verse.Map map) [0x00000] in <ef9964fdcdea49308a165413272831ef>:0 
-  at CommonSense.Utility+<>c__DisplayClass21_0.<CleanFilthToil>b__1 () [0x0003b] in <c08ea0632ba44dd18c410e20e9470cb1>:0 
-  at Verse.AI.JobDriver.DriverTick () [0x001a3] in <ef9964fdcdea49308a165413272831ef>:0 
-    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Stork started 10 jobs in one tick. newJob=OgRepairGearJob (Job_73588980) A = Thing_Human3480463 B = Thing_IH_Apparel_InsulatedHelmet4599445 jobGiver=RimWorld.JobGiver_Work jobList=
-Stork started 10 jobs in one tick. newJob=OgRepairGearJob (Job_73591712) A = Thing_Human3480463 B = Thing_IH_Apparel_InsulatedHelmet4599445 jobGiver=RimWorld.JobGiver_Work jobList=
-Farov tried to wear TA_KidHood6035790 but is not allowed to.
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Mouse tried to wear TA_KidHood6038045 but is not allowed to.
-[VPE] Too many iterations in Ability_Mend.Cast by Svorda on Farov
-[VPE] Too many iterations in Ability_Mend.Cast by Svorda on Farov
-[VPE] Too many iterations in Ability_Mend.Cast by Svorda on Farov
-[VPE] Too many iterations in Ability_Mend.Cast by Svorda on Farov
-Exception while saving Shuttle398283: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle398284: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-Exception while saving Shuttle5992968: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref BC20D19A] Duplicate stacktrace, see ref for original
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 74216.
-Total: 1100.401213 ms (FindLiveObjects: 3.298414 ms CreateObjectMapping: 1.914119 ms MarkObjects: 1095.090997 ms  DeleteObjects: 0.097133 ms)
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 65433.
+Total: 931.794790 ms (FindLiveObjects: 3.014487 ms CreateObjectMapping: 1.591863 ms MarkObjects: 927.070098 ms  DeleteObjects: 0.117891 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 15)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.563617 ms
+UnloadTime: 0.438976 ms
 [DivineFramework] Loaded version 0.12.0.1
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 71993.
-Total: 941.919183 ms (FindLiveObjects: 3.115832 ms CreateObjectMapping: 2.066766 ms MarkObjects: 936.625858 ms  DeleteObjects: 0.110186 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 65312.
+Total: 935.407873 ms (FindLiveObjects: 2.906494 ms CreateObjectMapping: 1.750672 ms MarkObjects: 930.659877 ms  DeleteObjects: 0.090359 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 15)
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 71948.
-Total: 981.063120 ms (FindLiveObjects: 3.296812 ms CreateObjectMapping: 2.678783 ms MarkObjects: 974.924099 ms  DeleteObjects: 0.162836 ms)
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 65266.
+Total: 962.157656 ms (FindLiveObjects: 3.040206 ms CreateObjectMapping: 2.071775 ms MarkObjects: 956.892918 ms  DeleteObjects: 0.152216 ms)
 
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
@@ -864,11 +641,11 @@ Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 9257 frames, [1.0 KB-2.0 KB]: 5 frames, [2.0 KB-4.0 KB]: 459393 frames, [4.0 KB-8.0 KB]: 100860 frames, [8.0 KB-16.0 KB]: 35433 frames, [16.0 KB-32.0 KB]: 12040 frames, [32.0 KB-64.0 KB]: 625 frames, [64.0 KB-128.0 KB]: 274 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 2 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 9 frames
+      Peak usage frame count: [0-1.0 KB]: 84264 frames, [1.0 KB-2.0 KB]: 39 frames, [2.0 KB-4.0 KB]: 53 frames, [4.0 KB-8.0 KB]: 22 frames, [8.0 KB-16.0 KB]: 71938 frames, [16.0 KB-32.0 KB]: 3 frames, [64.0 KB-128.0 KB]: 2 frames, [128.0 KB-256.0 KB]: 4 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 7 frames
       Initial Block Size 4.0 MB
       Current Block Size 8.0 MB
       Peak Allocated Bytes 8.0 MB
-      Overflow Count 65
+      Overflow Count 57
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 120.0 KB
@@ -907,7 +684,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 5]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 449 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
@@ -978,7 +755,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 504.0 KB
       Peak Allocated Bytes 500.6 KB
-      Overflow Count 3052
+      Overflow Count 3287
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -1060,31 +837,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 116852
+  Peak main deferred allocation count 13666
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 5911693
-        32B: 30 Subsections = 15360 buckets. Failed count: 3627158
-        48B: 34 Subsections = 11605 buckets. Failed count: 10246920
-        64B: 89 Subsections = 22784 buckets. Failed count: 1869308
-        80B: 82 Subsections = 16793 buckets. Failed count: 27141997
-        96B: 6 Subsections = 1024 buckets. Failed count: 693161
-        112B: 7 Subsections = 1024 buckets. Failed count: 71768
-        128B: 4 Subsections = 512 buckets. Failed count: 542396
+        16B: 4 Subsections = 4096 buckets. Failed count: 451677
+        32B: 30 Subsections = 15360 buckets. Failed count: 195592
+        48B: 34 Subsections = 11605 buckets. Failed count: 276087
+        64B: 89 Subsections = 22784 buckets. Failed count: 264460
+        80B: 82 Subsections = 16793 buckets. Failed count: 215623
+        96B: 6 Subsections = 1024 buckets. Failed count: 125875
+        112B: 7 Subsections = 1024 buckets. Failed count: 19375
+        128B: 4 Subsections = 512 buckets. Failed count: 50577
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1908 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 9685 frames, [0.50 GB-1.00 GB]: 606308 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1888 frames, [32.0 MB-64.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 82515 frames, [0.50 GB-1.00 GB]: 71930 frames
       Requested Block Size 16.0 MB
-      Peak Block count 52
-      Peak Allocated memory 0.82 GB
+      Peak Block count 56
+      Peak Allocated memory 0.86 GB
       Peak Large allocation bytes 95.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1909 frames, [64.0 MB-128.0 MB]: 9229 frames, [128.0 MB-256.0 MB]: 456 frames, [256.0 MB-0.50 GB]: 606308 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1889 frames, [64.0 MB-128.0 MB]: 82047 frames, [128.0 MB-256.0 MB]: 468 frames, [256.0 MB-0.50 GB]: 71930 frames
       Requested Block Size 16.0 MB
-      Peak Block count 20
-      Peak Allocated memory 302.4 MB
+      Peak Block count 19
+      Peak Allocated memory 288.4 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -1107,31 +884,31 @@ Memory Statistics:
   Overflow Count (too large) 38
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 146
+  Peak main deferred allocation count 150
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 5911693
-        32B: 30 Subsections = 15360 buckets. Failed count: 3627158
-        48B: 34 Subsections = 11605 buckets. Failed count: 10246920
-        64B: 89 Subsections = 22784 buckets. Failed count: 1869308
-        80B: 82 Subsections = 16793 buckets. Failed count: 27141997
-        96B: 6 Subsections = 1024 buckets. Failed count: 693161
-        112B: 7 Subsections = 1024 buckets. Failed count: 71768
-        128B: 4 Subsections = 512 buckets. Failed count: 542396
+        16B: 4 Subsections = 4096 buckets. Failed count: 451677
+        32B: 30 Subsections = 15360 buckets. Failed count: 195592
+        48B: 34 Subsections = 11605 buckets. Failed count: 276087
+        64B: 89 Subsections = 22784 buckets. Failed count: 264460
+        80B: 82 Subsections = 16793 buckets. Failed count: 215623
+        96B: 6 Subsections = 1024 buckets. Failed count: 125875
+        112B: 7 Subsections = 1024 buckets. Failed count: 19375
+        128B: 4 Subsections = 512 buckets. Failed count: 50577
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1908 frames, [4.0 MB-8.0 MB]: 6730 frames, [8.0 MB-16.0 MB]: 636 frames, [32.0 MB-64.0 MB]: 35 frames, [64.0 MB-128.0 MB]: 2283 frames, [128.0 MB-256.0 MB]: 560143 frames, [256.0 MB-0.50 GB]: 46165 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1888 frames, [4.0 MB-8.0 MB]: 9346 frames, [8.0 MB-16.0 MB]: 69018 frames, [16.0 MB-32.0 MB]: 139 frames, [32.0 MB-64.0 MB]: 4011 frames, [128.0 MB-256.0 MB]: 71930 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 19
+      Peak Block count 14
       Peak Allocated memory 0.75 GB
       Peak Large allocation bytes 0.75 GB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 1937 frames, [1.0 KB-2.0 KB]: 6588 frames, [2.0 KB-4.0 KB]: 116 frames, [16.0 KB-32.0 KB]: 637 frames, [32.0 KB-64.0 KB]: 103 frames, [64.0 KB-128.0 KB]: 6963 frames, [128.0 KB-256.0 KB]: 13837 frames, [256.0 KB-0.5 MB]: 30844 frames, [0.5 MB-1.0 MB]: 556877 frames
+      Peak usage frame count: [0-1.0 KB]: 1968 frames, [1.0 KB-2.0 KB]: 9112 frames, [2.0 KB-4.0 KB]: 60 frames, [8.0 KB-16.0 KB]: 71950 frames, [16.0 KB-32.0 KB]: 1316 frames, [32.0 KB-64.0 KB]: 71928 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 1.0 MB
+      Peak Allocated memory 59.6 KB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 177
@@ -1140,22 +917,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 5911693
-        32B: 30 Subsections = 15360 buckets. Failed count: 3627158
-        48B: 34 Subsections = 11605 buckets. Failed count: 10246920
-        64B: 89 Subsections = 22784 buckets. Failed count: 1869308
-        80B: 82 Subsections = 16793 buckets. Failed count: 27141997
-        96B: 6 Subsections = 1024 buckets. Failed count: 693161
-        112B: 7 Subsections = 1024 buckets. Failed count: 71768
-        128B: 4 Subsections = 512 buckets. Failed count: 542396
+        16B: 4 Subsections = 4096 buckets. Failed count: 451677
+        32B: 30 Subsections = 15360 buckets. Failed count: 195592
+        48B: 34 Subsections = 11605 buckets. Failed count: 276087
+        64B: 89 Subsections = 22784 buckets. Failed count: 264460
+        80B: 82 Subsections = 16793 buckets. Failed count: 215623
+        96B: 6 Subsections = 1024 buckets. Failed count: 125875
+        112B: 7 Subsections = 1024 buckets. Failed count: 19375
+        128B: 4 Subsections = 512 buckets. Failed count: 50577
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1908 frames, [16.0 MB-32.0 MB]: 615993 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1888 frames, [16.0 MB-32.0 MB]: 154445 frames
       Requested Block Size 4.0 MB
       Peak Block count 6
-      Peak Allocated memory 20.9 MB
+      Peak Allocated memory 20.8 MB
       Peak Large allocation bytes 2.0 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1908 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 6731 frames, [256.0 KB-0.5 MB]: 609258 frames, [0.5 MB-1.0 MB]: 4 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1888 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 9347 frames, [256.0 KB-0.5 MB]: 145095 frames, [0.5 MB-1.0 MB]: 3 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.7 MB
@@ -1167,22 +944,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 5911693
-        32B: 30 Subsections = 15360 buckets. Failed count: 3627158
-        48B: 34 Subsections = 11605 buckets. Failed count: 10246920
-        64B: 89 Subsections = 22784 buckets. Failed count: 1869308
-        80B: 82 Subsections = 16793 buckets. Failed count: 27141997
-        96B: 6 Subsections = 1024 buckets. Failed count: 693161
-        112B: 7 Subsections = 1024 buckets. Failed count: 71768
-        128B: 4 Subsections = 512 buckets. Failed count: 542396
+        16B: 4 Subsections = 4096 buckets. Failed count: 451677
+        32B: 30 Subsections = 15360 buckets. Failed count: 195592
+        48B: 34 Subsections = 11605 buckets. Failed count: 276087
+        64B: 89 Subsections = 22784 buckets. Failed count: 264460
+        80B: 82 Subsections = 16793 buckets. Failed count: 215623
+        96B: 6 Subsections = 1024 buckets. Failed count: 125875
+        112B: 7 Subsections = 1024 buckets. Failed count: 19375
+        128B: 4 Subsections = 512 buckets. Failed count: 50577
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1908 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 615992 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1888 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 154444 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 509.2 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 617902 frames
+      Peak usage frame count: [0-1.0 KB]: 156334 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B

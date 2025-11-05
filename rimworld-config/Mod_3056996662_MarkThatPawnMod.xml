@@ -2,7 +2,10 @@
 <SettingsBlock>
 	<ModSettings Class="MarkThatPawn.MarkThatPawnSettings">
 		<defaultMarkerSet>Symbols</defaultMarkerSet>
-		<AutoRuleBlobs />
-		<IconSize>0.400000006</IconSize>
+		<AutoRuleBlobs>
+			<li>WeaponType;RangedExplosive;Ideology;1;True;1;Enemy</li>
+			<li>Weapon;Gun_TripleRocket|False|False;Symbols;12;True;0;Enemy</li>
+		</AutoRuleBlobs>
+		<IconSize>1</IconSize>
 	</ModSettings>
 </SettingsBlock>
