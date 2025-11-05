@@ -70,6 +70,9 @@
   - [Apr-5520](#apr-5520)
   - [Jul-5520](#jul-5520)
   - [Sep-5520](#sep-5520)
+  - [Dec-5520](#dec-5520)
+- [5520](#5520-1)
+  - [Apr-5520](#apr-5520-1)
 
 # Start (2025-10-07)
 
@@ -838,11 +841,119 @@ Taking care of an artic fox for the empire.  This should push us to about +90 re
 
 Seven shamblers show up and hang around the map edge on the 1st.  Maybe they'll join in the fun when the raid parties arrive.
 
+Visitors from Thean show up on the 3rd.  Fortunately they take the southern approach away from the shamblers.  But then they leave via the middle approach right when Kupid raids us from the north approach.  Saved Freaney from Thean who was downed by the shamblers.  Had to send the melee crew out to scoop her to a nearby inside bed spot placed on the ground before treating her.  Got out and back in without the Kupid raiders noticing.
 
+Fair of Age: Fun
 
+Thaaz reaches childhood.
 
+Porg is pregnant.
 
+First of two Imp Vampires raid on the 6th.  Geir and Connor summoned packs, but they got picked to shreds by the raiders.  Rolu will have to also summon a pack on the 2nd raid.  We did score an assault rifle and two HMGs that the technomancers can work on improving.  And a sniper rifle.  Rolu can get those up to masterwork quality due to her high psychic sensitivity.
 
+Heidr becomes a child.
+
+Geir proposed marriage to Shae who accepted.
+
+Labil and Purple have become lovers.
+
+Lime reaches age 10.  He picks up the outdoorsy trait for caravaning.  Burning passions for medical and social and interests in shooting and animals.
+
+Aguirre is pregnant.
+
+Blue is pregnant.
+
+We have two barracks in the colony.  The original one and the new one.
+
+Original barracks (30 adults):
+- (5) cribs
+- (14) single beds
+- (8) double beds
+
+New barracks (31 adults):
+- (1) crib
+- (25) single beds
+- (6) double beds
+
+We're at 45 colonists (7 children).  So it's starting to get a little crowded.
+
+Nexia is pregnant.
+
+Starting to make bolt-action rifles and smoke launchers.
+
+Labil is pregnant.
+
+Second raid.  Drop pod raid, but things went badly and they are scattered everywhere.  
+
+## Dec-5520
+
+Sent the critter back to the empire, we're now allied with the Shattered Empire.
+
+Geir and Shae tie the knot on the 7th.  Still no 'lovin' moodlets and her egg is still unfertilized.  It's been about 32 days (Jul 5th) since they became lovers.
+
+Trying out a different medieval armor set for our pawns:
+
+- Sunglasses (0.01kg, eyes), made with plasteel
+- Scarf (0.12kg, jaw)
+- Insulated Helmet (2.1kg, skull, ears)
+- Ring (0.06kg), Necklace (0.14kg), Earrings (0.06kg)
+- Padded Doublet (5.0kg, outer, TA_UnderArmor) instead of a Duster
+- Tall Gloves (0.6kg, TA_BootGlove)
+- Tall Boots (0.85kg, TA_BootGlove)
+- Work Boots (1.2kg, +0.05 move speed, middle), backup option is just Boots until Flak Armor is researched.
+- Gloves (0.15kg, middle)
+- Overalls (1.0kg, middle)
+- Gorget (1.0kg, middle, neck, shoulders), uranium is slightly better than steel
+- Doublet (0.75kg, skin)
+
+Some of our pawns only have a maximum carry weight of 28kg.  Weapons like the chain shotgun weigh 4.5kg and carrying a secondary melee weapon eats up another kilogram.  Most pawns were in the -100C to +40C range for temperatures.  With armor at 100% sharp, 35% blunt, 150% heat.  That overall value only gives rough ideas of how effective the armor set will be.
+
+Suski and Ryk will be our test subjects for the new armor set.
+
+Suski: -123C to 55C, 141% sharp, 47% blunt, 188% heat, total kit weight of about 18kg.  Some bits are still just "good" quality and he still has on bluefur tall gloves instead of a sturdier leather.  All the cloth items are made of devilstrand.
+
+Quail reaches age 10 on the 10th.  She picks up the kind trait.  Burning passions for social and medical and a normal interest in shooting.
+
+Porg enters labor on the 11th.  She's a bit of distance from the hospital, so hopefully it goes slowly.  It went quickly and the child was born in the snows of the fields.  Fortunately, it's a healthy boy named 'Snow'.  Snow picks up the strong immunity and robust genes, but also aggressive and slow runner.  Considered a hybrid half jotun.
+
+Rough guess is that the new armor is a bit better at sharp (+40%), blunt (+10%), heat (+30%) and a wash on the temperature range.
+
+Pavilion and Deeth are now engaged to be married.
+
+Aguirre enters labor on the 15th.  She gives birth to a healthy baby boy named Crimson.
+
+# 5520
+
+## Apr-5520
+
+Elder Remembrance: Unimpressive
+
+Zebra and Svorda hooked up during the dawn remembrance.
+
+Blue enters labor on the 1st.  She gives birth to a healthy baby girl named Nch.
+
+Caravan season:
+- Bozier (medical)
+- Menga (social, melee)
+- Orange (sniper, medical, protector psycast)
+- Purple (bolt action rifle, medical, protector psycast)
+- Rocavin (staticlord psycast, heavy SMG)
+- Suski (sniper)
+- Yellow (bolt action rifle, social, empath psycast)
+
+This is the cheese expedition, to sell off all of our legendary and masterwork cheese.  Plus some other odds and ends like clothing, dolls, and totems.
+
+Nexia enters labor on the 2nd.  Sadly, Lavego was stillborn.  It's kind of fitting but sad that Red (the father) has high enough construction skills to create the jade burial urn.
+
+Caravan leaves at dawn on the 3rd.
+
+Red leads the requiem for Lavego at noon on the 3rd.  It was a good speech.
+
+Labil enters labor on the 4th.  Purple is away with the cheese caravan.  The baby boy, Zatran, is born healthy.
+
+Caravan trades at the two nearest towns on the 4th and 6th and are now returning with components, advanced components, plasteel and more.
+
+Szov reaches age 7.  She picks up the ruthless trait plus interests in shooting, plants and cooking.
 
 
 

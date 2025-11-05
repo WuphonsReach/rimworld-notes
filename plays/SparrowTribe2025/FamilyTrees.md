@@ -18,6 +18,8 @@ flowchart LR
   RedNexia --> Finch
   RedNexia --> Quail
   RedNexia --> Cricket
+  RedNexia --> Lavego("Lavego
+              (stillborn, 5521)")
   Red --> RedAguirre(birth)
   Aguirre --> RedAguirre(birth)
   OrangeMarriage --> Green
@@ -28,6 +30,8 @@ flowchart LR
   Blue --> BlueRocavin(birth)
   BlueRocavin(birth) --> Szov
   BlueRocavin(birth) --> Thaaz
+  BlueRocavin(birth) --> Nch
+  
   Entasga --> EntasgaWanysh(birth)
   Wanysh --> EntasgaWanysh(birth)
   EntasgaWanysh --> Ra
@@ -35,15 +39,23 @@ flowchart LR
   EntasgaWanysh --> Rolu
   EntasgaWanysh --> Ren
   EntasgaWanysh --> Ryk
+  
   RedAguirre --> Yellow
   Aguirre --> GreenAguirre(birth)
   Green --> GreenAguirre(birth) 
   GreenAguirre --> Cyan
   GreenAguirre --> Indigo
   GreenAguirre --> Lime
+  GreenAguirre --> Crimson
+  
   Buch --> BuchPorg(birth)
   Porg --> BuchPorg(birth) 
   BuchPorg(birth) --> Heidr
+  BuchPorg(birth) --> Snow
+
+  Purple --> PurpleLabil(birth)
+  Labil --> PurpleLabil(birth)
+  PurpleLabil --> Zatran
 ```
 
 Name candidates for Orange's line
