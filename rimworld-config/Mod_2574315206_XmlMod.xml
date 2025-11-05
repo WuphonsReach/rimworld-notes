@@ -75,6 +75,7 @@
 				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsonDays</li>
 				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsnumIncidentsRange</li>
 				<li>FrozenSnowFox.MoreQuests;FSFMoreQuestsminSpacingDays</li>
+				<li>FrozenSnowFox.FrozenSnowFoxComplexJobs;FSFHackWorktype</li>
 			</keys>
 			<values>
 				<li>true</li>
@@ -149,6 +150,7 @@
 				<li>12</li>
 				<li>2</li>
 				<li>3.0</li>
+				<li>false</li>
 			</values>
 		</dataDict>
 		<PinnedMods />
