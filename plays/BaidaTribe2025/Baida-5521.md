@@ -77,7 +77,7 @@ With the three rock golems, we can start searching for fresh animal corposes on 
 
 Picked up a breeding pair of maine coon cats from the livestock trader.
 
-Old Advent (Lantern Festival):  Beautiful
+Old Advent (Lantern Festival): Beautiful
 
 # 5522
 
@@ -112,6 +112,38 @@ Rego has been mind wiped.  She'll be a good technomancer with her burning passio
 Crow will be our necropath caster, once we convert and then recruit him.  He has to survive until then.
 
 I'm betting that Rego and Red will end up as lovers.  She's attracted to him and is flirting.
+
+A cult escapee approaches on the afternoon of the 14th.  She calls herself Shard, age 55, a svartalf (dwarven).  Burning passion for crafting.  Modest skills at shooting, construction and intellectual.  She's got the optimist trait.  For her health, she has four stacks of death refusal.
+
+We'll roll the dice and accept Shard into the colony.
+
+## Dec-5522
+
+Crow makes a break for it on the 6th.  Bugger is fast and makes it off the map.
+
+Research has started.  It's usually Rego and Shard doing the research.  Maybe in a few years we'll finish all of the neolithic technologies and can proceed to medieval technologies.
+
+Red and Rego are now lovers.  It was Red that initiated it this time and Rego agreed.
+
+Rego is pregnant after just two days.
+
+Another muffalo herd wandered close and we took it down.
+
+Old Advent (Lantern Festival): Beautiful
+
+# 5523
+
+## Apr-5523
+
+Rego and Red get engaged on the 2nd.
+
+Shard departs us on the 6th.  It's one of the less bad options for a creep joiner.
+
+Planting begins on the 7th, but crops are still dying at night.
+
+
+
+
 
 
 
