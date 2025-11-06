@@ -7,12 +7,12 @@
 			<li>brrainz.visualexceptions</li>
 			<li>ludeon.rimworld</li>
 			<li>ludeon.rimworld.royalty</li>
+			<li>acetoyourface.fasteranimameditation</li>
 			<li>ludeon.rimworld.ideology</li>
 			<li>ludeon.rimworld.biotech</li>
 			<li>ludeon.rimworld.anomaly</li>
 			<li>ludeon.rimworld.odyssey</li>
 			<li>dubwise.dubsperformanceanalyzer.steam</li>
-			<li>acetoyourface.fasteranimameditation</li>
 			<li>redmattis.betterprerequisites</li>
 			<li>thereallemon.factioncontrol</li>
 			<li>adaptive.storage.framework</li>
@@ -252,7 +252,6 @@
 			<li>jmattspartacus.dynamicpopulationunlocked</li>
 			<li>nilchei.dynamicdiplomacycontinued</li>
 			<li>mlie.harvestwhenbutchering</li>
-			<li>ghxx.techadvancing</li>
 			<li>defi.stabilizebleeding</li>
 			<li>mlie.tendingtakestime</li>
 			<li>mersid.backuppowerupdated</li>
@@ -280,6 +279,8 @@
 			<li>frozensnowfox.morequests</li>
 			<li>frozensnowfox.betterpawnlendingquest</li>
 			<li>rabiosus.jumplifter</li>
+			<li>mlie.mountainminer</li>
+			<li>xercaine.medieval.shields</li>
 			<li>cass.launchsitesexpire</li>
 			<li>leo.cleanresearchsort</li>
 			<li>syrus.caravanmoodbuff</li>
@@ -291,9 +292,12 @@
 			<li>petetimessix.categorizedcleaning.split</li>
 			<li>mlie.moregraphs</li>
 			<li>amch.needbaroverflow</li>
-			<li>wuphonsreach.fertilefieldsbalancepatch</li>
+			<li>tials.floordrawings</li>
 			<li>wuphonsreach.fertilefieldsdubsskylightsbalancepatch</li>
 			<li>allifreyr.patch.strongermetalwalls</li>
+			<li>latta.petknowstrueyou</li>
+			<li>monstered10.cleanraccoon</li>
+			<li>flyingsloth.scfilthreducer</li>
 			<li>victor.wallsaresolid</li>
 			<li>mlie.noversionwarning</li>
 			<li>mehni.numbers</li>
@@ -313,7 +317,10 @@
 			<li>kas.strongerscaling</li>
 			<li>zal.tradegoods</li>
 			<li>runzu.tradegoodsretexture</li>
+			<li>kathanon.researchqueue</li>
+			<li>ghxx.techadvancing</li>
 			<li>derekbickley.ltocolonygroupsfinal</li>
+			<li>mlie.prostheticnomissingbodyparts</li>
 			<li>scorpio.resourcedictionary</li>
 			<li>imranfish.xmldocumentviewer</li>
 		</modIds>
@@ -322,11 +329,11 @@
 			<li>2538411704</li>
 			<li>0</li>
 			<li>1149640</li>
+			<li>0</li>
 			<li>1392840</li>
 			<li>1826140</li>
 			<li>2380740</li>
 			<li>3022790</li>
-			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -575,8 +582,9 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
-			<li>0</li>
 			<li>3239309389</li>
+			<li>0</li>
+			<li>0</li>
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
@@ -631,18 +639,24 @@
 			<li>0</li>
 			<li>0</li>
 			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
+			<li>0</li>
 		</modSteamIds>
 		<modNames>
 			<li>Harmony</li>
 			<li>Visual Exceptions</li>
 			<li>Core</li>
 			<li>Royalty</li>
+			<li>Faster Anima Meditation</li>
 			<li>Ideology</li>
 			<li>Biotech</li>
 			<li>Anomaly</li>
 			<li>Odyssey</li>
 			<li>Dubs Performance Analyzer</li>
-			<li>Faster Anima Meditation</li>
 			<li>Big and Small - Framework</li>
 			<li>Faction Control (1.4-1.6)</li>
 			<li>Adaptive Storage Framework</li>
@@ -882,7 +896,6 @@
 			<li>Dynamic Population Unlocked</li>
 			<li>Dynamic Diplomacy - Continued</li>
 			<li>Harvest When Butchering</li>
-			<li>Tech Advancing</li>
 			<li>Stabilize Bleeding</li>
 			<li>Tending Takes Time</li>
 			<li>Backup Power (Updated)</li>
@@ -905,11 +918,13 @@
 			<li>Expectations Modifier</li>
 			<li>Get Out Of My Chair!</li>
 			<li>Davai's Sorted Categories</li>
-			<li>Stronger Reinforced Walls</li>
+			<li>Stronger Reinforced Walls Patch</li>
 			<li>AutoBlink</li>
 			<li>[FSF] More Quests</li>
 			<li>[FSF] Better Pawn Lending Quest</li>
 			<li>JumpLifter</li>
+			<li>Mountain Miner (Continued)</li>
+			<li>Shields</li>
 			<li>Launch Sites Expire</li>
 			<li>Clean Research Sort</li>
 			<li>Caravan Mood Buff</li>
@@ -921,9 +936,12 @@
 			<li>Categorized Cleaning - Split</li>
 			<li>More Graphs (Continued)</li>
 			<li>Need Bar Overflow</li>
-			<li>Fertile Fields Balance Patch</li>
+			<li>Floordrawings</li>
 			<li>Fertile Fields + Dubs Skylights Balance Patch</li>
 			<li>Stronger Walls</li>
+			<li>ANDH - Animals Nuzzling Detects Horrors</li>
+			<li>Clean Raccoon</li>
+			<li>Sentience Catalyst Filth Rate Reducer</li>
 			<li>Walls are solid</li>
 			<li>No Version Warning</li>
 			<li>Numbers</li>
@@ -943,7 +961,10 @@
 			<li>Stronger Quality Scaling (1.6)</li>
 			<li>Trade Goods</li>
 			<li>Runzu's Trade Goods Retexture</li>
+			<li>Research Queue</li>
+			<li>Tech Advancing</li>
 			<li>[LTO] Colony Groups</li>
+			<li>Prosthetic No Missing Body Parts (Continued)</li>
 			<li>Resource Dictionary</li>
 			<li>XML Document Viewer and Export</li>
 		</modNames>
@@ -954,12 +975,12 @@
 			<li>brrainz.visualexceptions</li>
 			<li>ludeon.rimworld</li>
 			<li>ludeon.rimworld.royalty</li>
+			<li>acetoyourface.fasteranimameditation</li>
 			<li>ludeon.rimworld.ideology</li>
 			<li>ludeon.rimworld.biotech</li>
 			<li>ludeon.rimworld.anomaly</li>
 			<li>ludeon.rimworld.odyssey</li>
 			<li>dubwise.dubsperformanceanalyzer.steam</li>
-			<li>acetoyourface.fasteranimameditation</li>
 			<li>redmattis.betterprerequisites</li>
 			<li>thereallemon.factioncontrol</li>
 			<li>adaptive.storage.framework</li>
@@ -1199,7 +1220,6 @@
 			<li>jmattspartacus.dynamicpopulationunlocked</li>
 			<li>nilchei.dynamicdiplomacycontinued</li>
 			<li>mlie.harvestwhenbutchering</li>
-			<li>ghxx.techadvancing</li>
 			<li>defi.stabilizebleeding</li>
 			<li>mlie.tendingtakestime</li>
 			<li>mersid.backuppowerupdated</li>
@@ -1227,6 +1247,8 @@
 			<li>frozensnowfox.morequests</li>
 			<li>frozensnowfox.betterpawnlendingquest</li>
 			<li>rabiosus.jumplifter</li>
+			<li>mlie.mountainminer</li>
+			<li>xercaine.medieval.shields</li>
 			<li>cass.launchsitesexpire</li>
 			<li>leo.cleanresearchsort</li>
 			<li>syrus.caravanmoodbuff</li>
@@ -1238,9 +1260,12 @@
 			<li>petetimessix.categorizedcleaning.split</li>
 			<li>mlie.moregraphs</li>
 			<li>amch.needbaroverflow</li>
-			<li>wuphonsreach.fertilefieldsbalancepatch</li>
+			<li>tials.floordrawings</li>
 			<li>wuphonsreach.fertilefieldsdubsskylightsbalancepatch</li>
 			<li>allifreyr.patch.strongermetalwalls</li>
+			<li>latta.petknowstrueyou</li>
+			<li>monstered10.cleanraccoon</li>
+			<li>flyingsloth.scfilthreducer</li>
 			<li>victor.wallsaresolid</li>
 			<li>mlie.noversionwarning</li>
 			<li>mehni.numbers</li>
@@ -1250,18 +1275,22 @@
 			<li>mehni.pickupandhaul</li>
 			<li>keyz182.keyzallowutilities</li>
 			<li>frozensnowfox.complexjobs</li>
+			<li>wr.embrasurecover85percent</li>
+			<li>wr.fertilefieldsbalancepatch</li>
 			<li>oels.chooseyouroutfit</li>
 			<li>og.automaticpowerswitch</li>
 			<li>mlie.turnonoffrepowered</li>
 			<li>kattalisk.allproductionxp</li>
 			<li>mlie.tradeabletrinkets</li>
-			<li>a3i.mods.vrpq</li>
 			<li>erdelf.exportagency</li>
 			<li>memegoddess.replacestuff</li>
 			<li>kas.strongerscaling</li>
 			<li>zal.tradegoods</li>
 			<li>runzu.tradegoodsretexture</li>
+			<li>kathanon.researchqueue</li>
+			<li>ghxx.techadvancing</li>
 			<li>derekbickley.ltocolonygroupsfinal</li>
+			<li>mlie.prostheticnomissingbodyparts</li>
 			<li>scorpio.resourcedictionary</li>
 			<li>imranfish.xmldocumentviewer</li>
 		</ids>
@@ -1270,12 +1299,12 @@
 			<li>Visual Exceptions</li>
 			<li>Core</li>
 			<li>Royalty</li>
+			<li>Faster Anima Meditation</li>
 			<li>Ideology</li>
 			<li>Biotech</li>
 			<li>Anomaly</li>
 			<li>Odyssey</li>
 			<li>Dubs Performance Analyzer</li>
-			<li>Faster Anima Meditation</li>
 			<li>Big and Small - Framework</li>
 			<li>Faction Control (1.4-1.6)</li>
 			<li>Adaptive Storage Framework</li>
@@ -1515,7 +1544,6 @@
 			<li>Dynamic Population Unlocked</li>
 			<li>Dynamic Diplomacy - Continued</li>
 			<li>Harvest When Butchering</li>
-			<li>Tech Advancing</li>
 			<li>Stabilize Bleeding</li>
 			<li>Tending Takes Time</li>
 			<li>Backup Power (Updated)</li>
@@ -1538,11 +1566,13 @@
 			<li>Expectations Modifier</li>
 			<li>Get Out Of My Chair!</li>
 			<li>Davai's Sorted Categories</li>
-			<li>Stronger Reinforced Walls</li>
+			<li>Stronger Reinforced Walls Patch</li>
 			<li>AutoBlink</li>
 			<li>[FSF] More Quests</li>
 			<li>[FSF] Better Pawn Lending Quest</li>
 			<li>JumpLifter</li>
+			<li>Mountain Miner (Continued)</li>
+			<li>Shields</li>
 			<li>Launch Sites Expire</li>
 			<li>Clean Research Sort</li>
 			<li>Caravan Mood Buff</li>
@@ -1554,9 +1584,12 @@
 			<li>Categorized Cleaning - Split</li>
 			<li>More Graphs (Continued)</li>
 			<li>Need Bar Overflow</li>
-			<li>Fertile Fields Balance Patch</li>
+			<li>Floordrawings</li>
 			<li>Fertile Fields + Dubs Skylights Balance Patch</li>
 			<li>Stronger Walls</li>
+			<li>ANDH - Animals Nuzzling Detects Horrors</li>
+			<li>Clean Raccoon</li>
+			<li>Sentience Catalyst Filth Rate Reducer</li>
 			<li>Walls are solid</li>
 			<li>No Version Warning</li>
 			<li>Numbers</li>
@@ -1566,18 +1599,22 @@
 			<li>Pick Up And Haul</li>
 			<li>Keyz' Allow Utilities</li>
 			<li>[FSF] Complex Jobs</li>
+			<li>Fertile Fields Balance Patch</li>
+			<li>Fertile Fields Balance Patch</li>
 			<li>Choose Your Outfit</li>
 			<li>[Og] Automatic Power Switch</li>
 			<li>Turn It On and Off - RePowered</li>
 			<li>All Production Gives XP</li>
 			<li>Tradeable Trinkets (Continued)</li>
-			<li>Vanilla Research Panel - Queue</li>
 			<li>Export Agency</li>
 			<li>Replace Stuff - Continued</li>
 			<li>Stronger Quality Scaling (1.6)</li>
 			<li>Trade Goods</li>
 			<li>Runzu's Trade Goods Retexture</li>
+			<li>Research Queue</li>
+			<li>Tech Advancing</li>
 			<li>[LTO] Colony Groups</li>
+			<li>Prosthetic No Missing Body Parts (Continued)</li>
 			<li>Resource Dictionary</li>
 			<li>XML Document Viewer and Export</li>
 		</names>

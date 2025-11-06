@@ -47,7 +47,11 @@
   <extremeDifficultyUnlocked>False</extremeDifficultyUnlocked>
   <pauseOnError>False</pauseOnError>
   <devMode>False</devMode>
-  <debugActionPalette />
+  <debugActionPalette>
+    <li>Actions\Spawn thing...</li>
+    <li>Actions\Spawn thing...\Shell_HighExplosive</li>
+    <li>Actions\T: 10 damage</li>
+  </debugActionPalette>
   <devPalettePosition>
     <x>0</x>
     <y>0</y>

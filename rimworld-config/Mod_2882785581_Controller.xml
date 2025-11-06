@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="FactionControl.Settings">
-		<masterDensity>108.457314</masterDensity>
-		<densityMin>29.5630817</densityMin>
-		<densityMax>211.358429</densityMax>
+		<masterDensity>150.956528</masterDensity>
+		<densityMin>0.00999999978</densityMin>
+		<densityMax>200.029709</densityMax>
 		<factionDensities>
 			<li>
 				<faction>AG_OutlanderCivilUnion</faction>
@@ -12,32 +12,32 @@
 			</li>
 			<li>
 				<faction>AG_XenohumanPirates</faction>
-				<density>374.314728</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>BS_Dvergr_Medieval_Union</faction>
-				<density>69.9365463</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>BS_LittlePeople</faction>
-				<density>314.923859</density>
+				<density>50.4224586</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>BS_Muspelheim</faction>
-				<density>51.3769035</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>BS_Niflheim</faction>
-				<density>110.025383</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>BS_OgreFaction</faction>
-				<density>259.244934</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -45,58 +45,96 @@
 			</li>
 			<li>
 				<faction>Empire</faction>
-				<density>15</density>
+				<density>50.4224586</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>MedievalKingdomCivil</faction>
+				<density>20.7270279</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>MedievalKingdomRough</faction>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>NudistTribe</faction>
-				<density>307.5</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>OutlanderCivil</faction>
-				<density>32.8172607</density>
+				<density>21.5754433</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>OutlanderRough</faction>
-				<density>124.873093</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>OutlanderRoughPig</faction>
-				<density>155.310913</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>OutlanderRoughStoneborn</faction>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>Pirate</faction>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>PirateWaster</faction>
-				<density>600</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>PirateYttakin</faction>
-				<density>404.752533</density>
+				<density>150.956528</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>ScavFac_ScavCivil</faction>
+				<density>150.956528</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>ScavFac_ScavSavage</faction>
+				<density>150.956528</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>SettlerCivil</faction>
+				<density>15</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>SettlerRough</faction>
+				<density>150.956528</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>SettlerSavage</faction>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>SplinterColony</faction>
+				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TradersGuild</faction>
-				<density>34.3020287</density>
+				<density>30.0599556</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TribalRaiders</faction>
-				<density>108.457314</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -104,12 +142,12 @@
 			</li>
 			<li>
 				<faction>TribeCivil</faction>
-				<density>49.1497459</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TribeNeanderthal</faction>
-				<density>96.6624374</density>
+				<density>45.3317871</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
@@ -117,20 +155,32 @@
 			</li>
 			<li>
 				<faction>TribeRoughNeanderthal</faction>
-				<density>507.201782</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TribeSavage</faction>
-				<density>423.312195</density>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 			<li>
 				<faction>TribeSavageImpid</faction>
-				<density>409.206848</density>
+				<density>150.956528</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>XR_Dark_Orks</faction>
+				<density>150.956528</density>
+				<enabled>True</enabled>
+			</li>
+			<li>
+				<faction>XR_Pirate_Orks</faction>
+				<density>150.956528</density>
 				<enabled>True</enabled>
 			</li>
 		</factionDensities>
-		<groupDistance />
+		<groupDistance>
+			<maxDistance>150</maxDistance>
+		</groupDistance>
 	</ModSettings>
 </SettingsBlock>

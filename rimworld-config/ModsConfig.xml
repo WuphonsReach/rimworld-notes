@@ -6,12 +6,12 @@
     <li>brrainz.visualexceptions</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
+    <li>acetoyourface.fasteranimameditation</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
-    <li>acetoyourface.fasteranimameditation</li>
     <li>redmattis.betterprerequisites</li>
     <li>thereallemon.factioncontrol</li>
     <li>adaptive.storage.framework</li>
@@ -251,7 +251,6 @@
     <li>jmattspartacus.dynamicpopulationunlocked</li>
     <li>nilchei.dynamicdiplomacycontinued</li>
     <li>mlie.harvestwhenbutchering</li>
-    <li>ghxx.techadvancing</li>
     <li>defi.stabilizebleeding</li>
     <li>mlie.tendingtakestime</li>
     <li>mersid.backuppowerupdated</li>
@@ -279,6 +278,9 @@
     <li>frozensnowfox.morequests</li>
     <li>frozensnowfox.betterpawnlendingquest</li>
     <li>rabiosus.jumplifter</li>
+    <li>wr.lessfilthycats</li>
+    <li>mlie.mountainminer</li>
+    <li>xercaine.medieval.shields</li>
     <li>cass.launchsitesexpire</li>
     <li>leo.cleanresearchsort</li>
     <li>syrus.caravanmoodbuff</li>
@@ -290,9 +292,12 @@
     <li>petetimessix.categorizedcleaning.split</li>
     <li>mlie.moregraphs</li>
     <li>amch.needbaroverflow</li>
-    <li>wuphonsreach.fertilefieldsbalancepatch</li>
+    <li>tials.floordrawings</li>
     <li>wuphonsreach.fertilefieldsdubsskylightsbalancepatch</li>
     <li>allifreyr.patch.strongermetalwalls</li>
+    <li>latta.petknowstrueyou</li>
+    <li>monstered10.cleanraccoon</li>
+    <li>flyingsloth.scfilthreducer</li>
     <li>victor.wallsaresolid</li>
     <li>mlie.noversionwarning</li>
     <li>mehni.numbers</li>
@@ -302,18 +307,22 @@
     <li>mehni.pickupandhaul</li>
     <li>keyz182.keyzallowutilities</li>
     <li>frozensnowfox.complexjobs</li>
+    <li>wr.embrasurecover85percent</li>
+    <li>wr.fertilefieldsbalancepatch</li>
     <li>oels.chooseyouroutfit</li>
     <li>og.automaticpowerswitch</li>
     <li>mlie.turnonoffrepowered</li>
     <li>kattalisk.allproductionxp</li>
     <li>mlie.tradeabletrinkets</li>
-    <li>a3i.mods.vrpq</li>
     <li>erdelf.exportagency</li>
     <li>memegoddess.replacestuff</li>
     <li>kas.strongerscaling</li>
     <li>zal.tradegoods</li>
     <li>runzu.tradegoodsretexture</li>
+    <li>kathanon.researchqueue</li>
+    <li>ghxx.techadvancing</li>
     <li>derekbickley.ltocolonygroupsfinal</li>
+    <li>mlie.prostheticnomissingbodyparts</li>
     <li>scorpio.resourcedictionary</li>
     <li>imranfish.xmldocumentviewer</li>
   </activeMods>

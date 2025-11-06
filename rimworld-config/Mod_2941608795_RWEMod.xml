@@ -2,7 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="RimworldExplorationMode.Settings.RWEMode_Settings">
 		<RevealInitialMapTemp>True</RevealInitialMapTemp>
-		<MapDropChance>0.0464285724</MapDropChance>
+		<DisableFogOfWar>True</DisableFogOfWar>
+		<MapDropChance>0.0772109255</MapDropChance>
 		<DefaultVisionRange>7</DefaultVisionRange>
 	</ModSettings>
 </SettingsBlock>
