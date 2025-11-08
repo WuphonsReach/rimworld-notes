@@ -12,5 +12,10 @@ flowchart LR
   OrangeGale --> Red
   Red --> RedRego(begat)
   Rego --> RedRego(begat)
-
+  RedRego --> Crica
+  RedRego --> Aoga
+  RedRego --> Vasi
+  Purple --> PurpleBanbar(begat)
+  Banbar --> PurpleBanbar(begat)
+  PurpleBanbar --> Barga
 ```

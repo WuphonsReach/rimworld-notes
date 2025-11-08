@@ -139,7 +139,136 @@ Rego and Red get engaged on the 2nd.
 
 Shard departs us on the 6th.  It's one of the less bad options for a creep joiner.
 
-Planting begins on the 7th, but crops are still dying at night.
+Planting begins on the 7th, but crops are still dying at night.  The smart farming mod is still a little too optimistic about planting.  The end result is a bunch of wasted labor the first two or three days at the start and end of the growing season.  
+
+Five refugees approach on the 14th and want to stay for a season.
+
+- Daddario (F, 43, baseliner): Very neurotic, but brave (offsets the other).  Incapable of dumb labor.
+- Jhet (M, 29, baseliner): Jealous
+- Frants (M, 70, genie): Pyromaniac, psychopath
+- Sirron (M, 41, hussar): Hussar... we have no go-juice
+- Kinhoersh (M, 55, yttakin): Industrious, psychically dull.  Alcoholic.
+
+Rego/Red get married on the 14th.
+
+Rego enters labor on the 15th.  Healthy baby boy named Crica.
+
+## Jul-5523
+
+Cold snap on the 5th and 6th kills the crops.
+
+Rego and Kinhoersh get into a social fight on the 9th.  Can't wait for this bunch to leave.
+
+Storm reaches age 7.  Because we don't have school desks yet, she's only growth level 4.  She does pick up the fun-loving trait and a passion for plants.
+
+Refugees leave without incident on the 14th.
+
+## Sep-5523
+
+Hard frost on the 4th puts an end to the growing season.
+
+Ishida (F, 43, neanderthal) joins us on the 6th after a shuttle crash.  She's a sniper and tempestophile with burning passions for animals and shooting.
+
+Kantapol (M, 54, au ra) also joins us.  He's a hard worker, but vicious.  Burning passions for shooting.  Has the natural meditation type.  Not very skilled beyond shooting so will be a planter and hunter when he's not cleaning things.  Not sure which psycast tree yet.  Maybe staticlord.
+
+## Dec-5523
+
+Research is happening!  Still trying to escape neolithic technology.
+
+A wanderer (Basatro, F, 31, baseliner) joins on the 8th.  She's probably an imposter.  Stick her on research and be ready for betrayal.
+
+She betrays us on the 12th.  We took away her weapons.  Died to melee from four pawns surrounding her and trying to down her.
+
+Three drifters approach on the 14th, led by Banbar.
+
+- Banbar (F, 25, baseliner): Slothful
+- Green (F, 58, starjack): Teetotaler, Servile, Sterilized
+- Aloro Vexaroalboza (F, 69, baseliner): Improver, Sanguine, Hearing Loss, Intellectual
+
+All three would make decent colonists.  None have the natural meditation type.
+
+Green joins on the 15th.
+
+Crica reaches age 3 on the 15th.
+
+Old Advent: Unforgettable (+10 mood for 6 days)
+
+# 5524
+
+## Apr-5524
+
+Banbar joins on the 3rd.
+
+Green and Red have a social fight on the 3rd.
+
+So far, Randy has gifted us with a War Bow, LMG, and Beam Repeater.  More dakka is always appreciated.
+
+Planting starts on the 7th, with some crops dying overnight to frost.
+
+Storm reaches age 10 on the 12th.  She picks up the mighty trait and a burning passion for plants.  With a minor passion for medical.
+
+A creep joiner named Harley (M, 48, baseliner) approaches on the 13th and wants to join.  They are "compromised" which means they'll turn on us if they get near Cult of Horax enemies.  They also have the depressive trait for a permanent -12 mood debuff.  But they have level 20 and a burning passion for intellectual.
+
+Torrential rain starts on the 14th.
+
+Aloro joins on the 14th.
+
+## Jul-5524
+
+Rego is pregnant again.
+
+We unlock medieval technologies on the 3rd.  Now we can research complex furniture and stone cutting.
+
+The combat supplier from The Black Sound Settlement sold us some SMGs and rifles.
+
+Torrential rain on the 12th.
+
+Purple and Banbar are now lovers.
+
+## Sep-5524
+
+Spiritist Fair: Unforgettable (first time, since we hadn't built the ideology drums yet)
+
+Hard frost on the evening of the 1st kills plants.
+
+Rego starts labor on the 5th.  She gives birth to a healthy baby boy named Aoga.
+
+Sightstealer attacks on the 6th.  I'm not sure why it showed up.  A second one is trying to break down a door into the colony.
+
+Banbar is pregnant.
+
+## Dec-5524
+
+Our greenhouse is missing some insulation as it's getting below -12C at night, but it's -37C outside.  I need to build up the rooms around the greenhouse to help preserve heat.
+
+Rego is pregnant already on the 8th.
+
+Storm becomes an adult.  She picks up passions for shooting, melee, cooking and mining.  Mining goes with her 'mighty' trait from an earlier pick.  We'll give her the tough trait as well.
+
+Crica reaches age 7.  He picks up the unquestioning adherent trait.  Plus passions for crafting and animals.
+
+Purple breaks up with Banbar after she refuses his marriage proposal.  Banbar is still pregnant with Purple's baby.
+
+Old Advent: Unforgettable
+
+# 5525
+
+## Apr-5525
+
+Banbar enters labor on the 1st.  The baby is health and a girl.  We'll name her Barga.
+
+Trying out tilled soil in the greenhouse.  It gives 180% growth rates.
+
+Cold snap on the 13th puts an end to the early planting season.
+
+Rego enters labor late on the 13th.  It's a healthy baby girl that we'll name Vasi.
+
+
+
+
+
+
+
 
 
 
