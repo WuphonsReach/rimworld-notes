@@ -263,7 +263,57 @@ Cold snap on the 13th puts an end to the early planting season.
 
 Rego enters labor late on the 13th.  It's a healthy baby girl that we'll name Vasi.
 
+## Jul-5525
 
+Aoga becomes a child.
+
+Banbar and Purple get into a social fight.
+
+Still in the phase where we cut 1000s of stone blocks to build out the outer perimeter walls.  That'll run into 5526 and maybe 5527.
+
+Rego is pregnant again.
+
+## Sep-5525
+
+Spiritist Fair: Terrible
+
+13 person raid from Alliance of Emcarno on the 4th.  Gale will summon a pack of animals to help deal with it.  She has 160% sensitivity at level 14 psycaster (so we can add another 80% while getting her to level 30).
+
+Crica reaches age 10.  He picks up the industrious trait and a burning passion for crafting.  Minor passions for shooting and artistic.
+
+At 160%, Gray is powerful enough to enchant things up to excellent quality.  IIRC, the cutoff is 150% for that level of quality improvements.
+
+Storm is now a level 18 necropath (140% sensitivity) from the anima tree rituals.  She's the only candidate for improvement at the moment, so we've been able to focus on her since she became an adult in Dec-5524.
+
+## Dec-5525
+
+Barga reaches childhood.
+
+The huge lake (391 perch) is now enclosed by a wall.  This was a major pain point for the colony as it allowed animals and enemies to get close to the core areas.  The plan for this perimeter is two layers of granite wall, a three tile walkway, then two more layers of granite wall.  For the initial phase, a single layer of wall is enough, but we'll quickly add the second layer.  The walkway and inner wall layers can wait.
+
+    (wall) (wall) (walkway) (wall) (wall) (our stuff)
+
+Rego enters labor on the 4th with her 4th child.  A healthy baby boy named Tranca.
+
+Vasi is now a child.
+
+Old Advent: Unimpressive
+
+# 5526
+
+## Apr-5526
+
+Purple Event: Long Night starts on the 15th.  This turns everything to darkness which means no crops will grow without artificial light sources.  The worry is that we'll run out of wood and/or coal for heating.  So chopping every single tree on the home area seems prudent.
+
+We're not too far away from entering the industrial era and unlocking electricity.  So I'm setting up some more dark-houses to grow raw fungus around steam geysers, plus starting to plan for a pair of sun lamp areas.
+
+## Jul-5526
+
+Rego is pregnant again.
+
+Aoga reachesa age 7.  He picks up the crafty artist trait.  Passions for crafting, cooking, mining and medical.
+
+A shuttle crashes and there's a nereid survivor, Bailey.  She's 42 years old, neurotic, but burning passions for melee and intellectual.  Plus normal passions for shooting, social and animals.  She's psychically dull due to her genes.
 
 
 

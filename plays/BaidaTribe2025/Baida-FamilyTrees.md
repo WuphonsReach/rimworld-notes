@@ -15,6 +15,7 @@ flowchart LR
   RedRego --> Crica
   RedRego --> Aoga
   RedRego --> Vasi
+  RedRego --> Tranca
   Purple --> PurpleBanbar(begat)
   Banbar --> PurpleBanbar(begat)
   PurpleBanbar --> Barga
