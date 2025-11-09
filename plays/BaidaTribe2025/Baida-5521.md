@@ -315,10 +315,139 @@ Aoga reachesa age 7.  He picks up the crafty artist trait.  Passions for craftin
 
 A shuttle crashes and there's a nereid survivor, Bailey.  She's 42 years old, neurotic, but burning passions for melee and intellectual.  Plus normal passions for shooting, social and animals.  She's psychically dull due to her genes.
 
+Toxic fallout starts on the 8th, just to make things fun.
 
+We have 10000 smoked meat and 10000 smoked vegetables laid aside.  That's 1000 nutrition or 500 person-days of food.  We also have 2000 pemmican and 2000 hardtack.  That's another 100 person-days of food.  Another 4000 peppers in the cellars plus 750 garden fish for 118 person-days of food.  That puts up us up around 750 person-days and our colony is 19 people.  
 
+That's... only 39 days of food.  But we have about 30 days of simple/fine meals prepared.  And if I switch to just simple meals, that gets us out to about 60-75 days.
 
+I suspect we'll be down to making simple meals out of nutrifungus if this long night event goes past a year.
 
+Green adds the fisherman trait after suffering from an infection.  One of the raiders got lucky with a pistol and put her down.
+
+Purple and Red have been handing out psychic healing left and right after the last raid.
+
+Being stuck indoors (or at least under a roof) during the toxic fallout means we'll be sprucing up the place while stuck indoors.  Like laying totemic tile in the workshop and future recreation/dining room.
+
+Crica nears age 13.  We're saving up anima tree grass to turn her into a technomancer.
+
+## Sep-5526
+
+New lovers: Aloro and Kantapol.
+
+We have to skip the Spiritist Fair unless the toxic fallout ends before the 9th.  Oh good, it ended in the late afternoon on the 1st.
+
+Spiritist Fair: Last year was terrible, the year before (5524) was unforgettable.  This year we had a fun one.
+
+Aloro has a heart attack on the 1st after the fair.
+
+Crica becomes an adult on the 3rd.  Or at least a teenager.  He picks up burning passions for art and shooting and a minor passion for medical.  He picks up the mighty trait.
+
+Tranca becomes a child.
+
+Banbar and Ishida become lovers.
+
+Rego enters labor on the 10th.  A healthy baby girl named Dove.
+
+We're down to simple meals starting on the 11th.  
+
+Kantapol proposed to Aloro on the 12th, but she rejected him and now they have broken up.
+
+Happy happy, joy joy, the long night ends on the 13th.  It only lasted about 2.5 seasons instead of multiple years.  It's too late in the year to start planting in anything except the greenhouses.
+
+Plantable trees:
+
+- Birch: 20 days, 27 wood, 180 day lifespan
+- Pine: 20 days, 27 wood, 180 day lifespan
+- Poplar: 15 days, 27 wood, 135 day lifespan
+
+## Dec-5526
+
+Barga reaches age 7.  She picks up the tranquil trait.  Her starting passions are social, intellectual and cooking.
+
+Ishida proposes marriage to Banbar, who accepts.
+
+We unlock industrial technologies on the 12th.  About five years have passed for the colony.
+
+Vasi reaches age 7.  She picks up passions for mining, shooting, plants and cooking.  Her trait choices were all bad, so I picked no trait.
+
+Old Advent: Terrible...
+
+# 5527
+
+## Apr-5527
+
+Aoga reaches abe 10.  He picks up burning passions for cooking and medical and a passing interest in plants and melee.  He also picks up the very diligent student trait.
+
+Ishida and Banbar have their marriage ceremony on the 8th during the first spring thaw.
+
+Captured Frog (F, 17, baseliner) from the Laxe Union raid.  She's a metabolic freak, large, groundbraker with burning passion for construction.  She also has the natural focus.
+
+## Jul-5527
+
+Torrential rain on the 9th.
+
+A lot of the colony has the -25 social thought towards Frog of "NAME was previously our enemy, I don't trust her" relationship debuff.  According to an old [Vanilla Social Interactions Expanded developer blog](https://www.patreon.com/posts/devblog-115-47536052) this could last a year or up to 25 years.
+
+The risk is that Frog will become ostracized and leave the colony.
+
+Dove becomes a child.
+
+Richelieu (M, 44, baseliner) from our enemy Sword Army crashes nearby.  Paralytic abasia for 30 days.  Has the fisherman and improver traits.  Incapable of violence.  Passions for animals, crafting and intellectual.
+
+We unlock electricity this season.
+
+## Sep-5527
+
+Spiritist Fair: Terrible.  (We're not having much luck.)
+
+Barga reachese age 10.  She picks up burning passions for social and intellectual.  Plus a passion for plants.  Incapable of violence, she'll be an empath.  
+
+First mechanoid cluster.  Two small turrets and a medium turret.  Three mobile mechs (one of each basic type).  No proximity sensor or countdown timer.  Vortex does not block turrets, so we need to start taking a smoke launcher along.
+
+Tranca reaches age 7.  He picks up the direct hitter trait for a buff to shooting and melee.  Plus passions for melee, cooking and social.
+
+With only 3000 wood on hand going into winter (plus 2000 charcoal), this is going to be a cold and dark winter as we can't afford to keep torches / braziers going.
+
+Vasi reaches age 10.  Burning passions for cooking, shooting and mining.  With a minor passion for animals.  She picks up the tough trait.
+
+## Dec-5527
+
+Only 1900 wood remaining.
+
+Aoga reaches age 13.  Picks up burning passions for plants and crafting and an interest in artistic and shooting.  He picks up the allegiant trait.  I have him marked to become another protector psycaster (healer).
+
+Picked up a breeding pair of yaks from the Gabooga shaman merchant caravan.  Now we can start making milk and cheese.
+
+Old Advent: Unforgettable
+
+# 5528
+
+## Apr-5528
+
+Rego is pregnant.  Time for child #6.
+
+Down to just 600 wood, but 2000 charcoal and 1600 coal.  I'm not sure that any of the trees will mature this year.  And we're having another blizzard on the 8th.  I have one grove of poplar, one of birch and one of pine.  That means it will be 5529 until our first tree crop comes in (about a year from now).
+
+At the moment, every single birth in the colony is [related back to Orange and Gale](Baida-FamilyTrees.md).
+
+## Jul-5528
+
+Gale cheats on Orange with Rich (Richelieu)!  
+
+Windmills are hooked up to the batteries on the 3rd.  Just four of them feeding four batteries to start with.
+
+Barga and Vasi are almost 13.
+
+Tranca reaches age 10 and he picks up the adherent trait.  A burning passion for melee and regular passions for plants and mining.
+
+Barga reaches age 13.  She picks up the authoritarian trait.  Burning passions for cooking and plants and a minor interest in medical.
+
+Doubling the size of the barracks into the adjoining storage area.  This makes the barracks 9x19 instead of 9x9.
+
+Rego enters labor on the 9th.  She gives birth to a healthy baby boy named Marle.
+
+Dove reaches age 7.  She picks up the lovesick trait along with interests in shooting, animals and cooking.
 
 
 

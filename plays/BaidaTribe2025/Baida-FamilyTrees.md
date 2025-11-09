@@ -6,6 +6,9 @@ Parent-child relationships within the colony.  Strictly about biological parents
 flowchart LR
   Orange --> OrangeGale(begat)
   Gale --> OrangeGale(begat)
+  Banbar --> PurpleBanbar(begat)
+  Purple --> PurpleBanbar(begat)
+  PurpleBanbar --> Barga
   OrangeGale --> Purple
   OrangeGale --> Gray
   OrangeGale --> Storm
@@ -16,7 +19,6 @@ flowchart LR
   RedRego --> Aoga
   RedRego --> Vasi
   RedRego --> Tranca
-  Purple --> PurpleBanbar(begat)
-  Banbar --> PurpleBanbar(begat)
-  PurpleBanbar --> Barga
+  RedRego --> Dove
+  RedRego --> Marle
 ```
