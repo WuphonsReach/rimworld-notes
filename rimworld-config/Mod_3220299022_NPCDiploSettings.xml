@@ -13,6 +13,5 @@
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
 		<repUsingSemiSimulation>True</repUsingSemiSimulation>
 		<repSimulatedConquestThreatPoint>3600</repSimulatedConquestThreatPoint>
-		<repExtraExpansionChancePer6H>15</repExtraExpansionChancePer6H>
 	</ModSettings>
 </SettingsBlock>

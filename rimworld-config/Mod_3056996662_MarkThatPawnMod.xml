@@ -5,7 +5,7 @@
 		<AutoRuleBlobs>
 			<li>WeaponType;RangedExplosive;Ideology;1;True;1;Enemy</li>
 			<li>Weapon;Gun_TripleRocket|False|False;Ideology;1;True;0;Enemy</li>
-			<li>MentalState;Aggressive;Symbols;12;True;2;EnemyAnimal</li>
+			<li>MentalState;Aggressive;Symbols;12;True;3;EnemyAnimal</li>
 		</AutoRuleBlobs>
 		<IconSize>1</IconSize>
 	</ModSettings>
