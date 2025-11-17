@@ -8,8 +8,8 @@
 		<repRazeChance>2</repRazeChance>
 		<repIdeoSurrenderChance>2</repIdeoSurrenderChance>
 		<repAllowRazeClear>False</repAllowRazeClear>
-		<repExpansionRadius>20</repExpansionRadius>
-		<repMaxExpansionLimit>300</repMaxExpansionLimit>
+		<repExpansionRadius>15</repExpansionRadius>
+		<repMaxExpansionLimit>350</repMaxExpansionLimit>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
 		<repUsingSemiSimulation>True</repUsingSemiSimulation>
 		<repSimulatedConquestThreatPoint>3600</repSimulatedConquestThreatPoint>

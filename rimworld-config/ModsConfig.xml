@@ -10,13 +10,14 @@
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
     <li>ludeon.rimworld.odyssey</li>
-    <li>acetoyourface.fasteranimameditation</li>
-    <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>redmattis.betterprerequisites</li>
     <li>thereallemon.factioncontrol</li>
     <li>adaptive.storage.framework</li>
     <li>vanillaexpanded.backgrounds</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>vanillaexpanded.varme</li>
+    <li>acetoyourface.fasteranimameditation</li>
+    <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>troopersmith1.deathrattle</li>
     <li>adaptive.primitivestorage</li>
     <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
@@ -91,7 +92,6 @@
     <li>vanillaexpanded.vfeart</li>
     <li>vanillaexpanded.vee</li>
     <li>vanillaexpanded.vbrewe</li>
-    <li>vanillaexpanded.varme</li>
     <li>vanillaexpanded.vappe</li>
     <li>vanillaexpanded.vanillaanimalsexpanded</li>
     <li>chairheir.vperunesmith</li>
@@ -260,6 +260,7 @@
     <li>thelastbulletbender.rwexploration</li>
     <li>vanillaexpanded.recycling</li>
     <li>arvkus.simplerecycling</li>
+    <li>wr.insulated.vanillaexpanded.varme</li>
     <li>palverz.moretraps</li>
     <li>dubwise.dubsskylights</li>
     <li>alyssapaws.oocmovespeedboost</li>
@@ -308,6 +309,8 @@
     <li>mehni.pickupandhaul</li>
     <li>keyz182.keyzallowutilities</li>
     <li>frozensnowfox.complexjobs</li>
+    <li>xercaine.wallsunlamp</li>
+    <li>sun.reducer</li>
     <li>wr.embrasurecover85percent</li>
     <li>wr.fertilefieldsbalancepatch</li>
     <li>oels.chooseyouroutfit</li>
