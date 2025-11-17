@@ -449,11 +449,178 @@ Rego enters labor on the 9th.  She gives birth to a healthy baby boy named Marle
 
 Dove reaches age 7.  She picks up the lovesick trait along with interests in shooting, animals and cooking.
 
+We buy muffalo off the traders on the 13th.
 
+## Sep-5528
 
+Spiritist Fair: Unforgettable
 
+Vasi is now age 13.  She picks up the outdoorsy trait, burning passions for plants and animals.  With minor passions for melee and intellectual.
 
+## Dec-5528
 
+Note to self: Restrict the rock golems away from the battle area if I'm going to use manhunter pulse.  If they're within range, they all turn hostile until knocked out.  Poor Vasi had to beat one up by herself as the rest of the crew was away dealing with a different set of enemies.  I was trying to manhunter the pile of animals hanging around our entrance to turn them against one of the sets of raiders.
+
+It backfired, and the pulse didn't last long enough for them to engage the raiders.  We had to do it the old fashioned way, overwhelming firepower.
+
+Still working on the border wall, stone walkways, etc.
+
+Old Advent: Beautiful
+
+# 5529
+
+## Apr-5529
+
+Rego has the daydreamer trait, which means she occasionally goes into a daze and wanders.  This causes her to forget that she wants to share the bed with Red (her husband).
+
+Tranca reaches age 13.  He picks up the tough trait to go with his burning passion for melee.  He picks up normal passions for construction and animals, but a burning passion for cooking.
+
+Marle becomes a child.
+
+Mechanoid cluster on the 10th.  This one has a defoliator that starts in a few days and it's all turrets with no mobile units.  That makes the vortex spell useless, but 
+
+Dove reaches age 10.  Burning passions for shooting and cooking, with a minor in melee.  She picks up the conformist trait.
+
+Purple's guardian skip barrier, some EMP grenade tosses and the smoke launcher make this an easy mech cluster for the crew.
+
+Allied with Needoum through gifts.
+
+## Jul-5529
+
+Keeping my eyes out for a breeding pair of gigantelope.  They're a bit more temperature sensitive then the muffalo (-15C to +40C) but give heavy fur when skinned.
+
+The other option wouuld be a breeding pair of megasloths, which can be sheared for megasloth wool or skinned for heavy fur.  Those are native to our area.
+
+Radyak is also interesting.  Gives heavy fur when skinned, gives milk, can be sheared for crystals that can be refined into uranium.
+
+Psychic drone ship chunk with four scythers crashed nearby.  The scythers will be easy prey for the vortex cast.  Barga casts the female psychic sooth to counteract the female psychic drone for three days.  That gives us time to take care of the problem.
+
+Our birch grove finally reached the harvest stage.  We now have 6000 logs on hand.
+
+## Sep-5529
+
+Spiritist Fair: Fun
+
+Updating our basic armor set to look like:
+
+- Sunglasses (0.01kg, eyes), made with plasteel
+- Scarf (0.12kg, jaw)
+- Insulated Helmet (2.1kg, skull, ears)
+- Ring (0.06kg), Necklace (0.14kg), Earrings (0.06kg)
+- Padded Doublet (5.0kg, outer, TA_UnderArmor) instead of a Duster
+- Tall Gloves (0.6kg, TA_BootGlove)
+- Tall Boots (0.85kg, TA_BootGlove)
+- Work Boots (1.2kg, +0.05 move speed, middle), backup option is just Boots until Flak Armor is researched.
+- Gloves (0.15kg, middle)
+- Overalls (1.0kg, middle), +5% to plant/animal work speed, +15 carry capacity
+- Gorget (1.0kg, middle, neck, shoulders), uranium is slightly better than steel
+- Doublet (0.75kg, skin)
+- Musketeer bandolier (1.0kg, webbing), +20 carry capacity
+- Sash belt (0.2kg, webbing), +15% social impact, +8 carry capacity
+
+That carry capacity boosts most pawns from 75 to 115 (+53%) for hauling things.
+
+It's about 13.5kg of apparel and armor for each pawn.  Even for a 28kg max capacity pawn, that's enough spare equipment and apparel capacity for heavy weapons like the LMG at 7.5kg or the more standard 3.5kg weapons.
+
+Rego is pregnant again.
+
+## Dec-5529
+
+Purple and Frog are now lovers.
+
+We now have a breeding pair of muskox. They can be shaved for muskox wool, which is a pretty good wool.
+
+Toxic spewer from nearby pirates, we're sending 2 melee and 5 ranged to attack it.  Storm with the breach axe and the 37kg armor set makes short work of things.  Poor Bailey (2nd melee) got food poisoning on the way there.  I had her just guard the muffalo.
+
+Dove reaches age 13.  She picks up pyshically hypersensitive for a trait.  A burning passion for animals plus minor passions in construction and mining.
+
+Rego enters labor on the 15th.  She decides to go into a psychotic wandering daze halfway through the labor.  Barga uses Word of Serenity to snap her out of it and sends her back to bed.  A healthy baby girl named Reigo.  This is the seventh child from the couple.
+
+Kantapol woos Aloro during the Old Advent and they become lovers.
+
+Old Advent: Beautiful
+
+# 5530
+
+## Apr-5530
+
+Purple proposes marriage to Frog, who accepts.
+
+Marle reaches age 7.  He picks up early riser for a trait.  For skills he picks up social and cooking.
+
+Storm is pregnant from a hookup with Aoga.  Ew, Aoga is her nephew via Red/Rego.  
+
+Purple and Frog get married on the 13th.
+
+## Jul-5530
+
+Volcanic winter starts on the 9th.  This means less sunlight and lower temperatures.
+
+Then a mechanoid cluster lands in the SE sector.  Two turrets, a gestator, and a bunch of mobile units.  One of the turrets managed to take out both of Gale's lungs, suffocating her.  Storm had to sacrifice her left middle finger to resurrect Gale.
+
+Captured Gala (M, 30, viera) who is a wildman wandering the map.  He has the swift and steady and kind traits.  Also has natural meditation focus.  Passions for shooting, cooking, crafting, medical and social.
+
+Then we have Borbarca (M, 51, basliner) who has the tough trait.  Also has natural meditation.  Burning passions for intellectual and mining.  Also captured from the wild tribe.
+
+Lastly we captured Mimira (M, 39, miqo'te).  Incapable of social or intellectual.  But undergrounder and fast learner.  Has burning passions for cooking and animals.  Regular passions for melee, crafting and medical.
+
+Kantapol gets engaged to Aloro.
+
+We tame Mimira on the 11th.  Gala gets tamed on the 12th.  Borbarca tames on the 15th.
+
+## Sep-5530
+
+Spiritist Fair: Unforgettable
+
+Storm enters labor early in the morning on the 1st.  She gives birth to Cala (male).
+
+Picked up a female radyak off the traders.  No male, so no breeding pair yet.
+
+The next traders brought a breeding pair of mouflon rams.
+
+Barga (F, 18) and Mimira (M, 39) are now lovers.
+
+Gala (M, 31) and Crica (M, 20) are now lovers.
+
+Reigo reaches age 3.
+
+## Dec-5530
+
+Nearby pirates have setup a male psychic droner to bother us.  Two melee to bash it down, five ranged to shoot the pirates.  Then we went and traded for some odds and ends at the nearest Black Sound Settlement (civil settlers) of Lutin.  
+
+Frog is pregnant.  
+
+Volcanic winter ended sometime recently.
+
+Defoliator ship lands in the NE sector.
+
+Marle reaches age 10.  He picks up the no-trait trait pick because his choices were all poor.  He did get burning passions for cooking and social and minors for animals and shooting.
+
+Crica and Gala are now engaged.
+
+Old Advent: Beautiful
+
+# 5531
+
+## Apr-5531
+
+Crica and Gala get married on the 8th.
+
+Frog enters labor on the 9th, a good distance away from the hospital.  This baby might be born in the middle of the frozen lake.  Yep, pretty much.  We'll give him the formal name of Gaabru, but his nickname will be Snow.
+
+A shuttle crash brings us Annah (Protasiewicz, F, 55, miqo'te) and Rios (M, 33, drakonori).  
+
+Tamed a few gigantelope from a wandering herd.  They give heavy fur when skinned.  Plus milk.  They can also be used as pack animals, but are only good down to -15C.
+
+## Jul-5531
+
+Cala becomes a child (age 3).
+
+Both barracks are fully furnished.  The first has (13) double beds, (20) single beds, and (7) cribs.  The second has (10) double beds and (33) single beds.  We can convert (12) single beds in the second barracks to (6) double beds as needed.  That gives us room for 23 couples and 53 singles at the moment (76 adults).
+
+Another "Long Night" stars on the 11th.  That means all plants get cut, we build more windmills and batteries and some sun lamps.
+
+Barga and Mimira are now engaged.
 
 
 
