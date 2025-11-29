@@ -2,11 +2,12 @@
 <SettingsBlock>
 	<ModSettings Class="RFF_Code.Settings">
 		<newGrowZoneRTS>True</newGrowZoneRTS>
-		<depleteChance>60.8767815</depleteChance>
+		<playHardMode>True</playHardMode>
+		<depleteChance>20.5338497</depleteChance>
 		<depleteRecords>
 			<li>
 				<defName>DirtFert</defName>
-				<mtbDays>8.49140644</mtbDays>
+				<mtbDays>14.9832621</mtbDays>
 				<rtsFactor>1</rtsFactor>
 			</li>
 			<li>

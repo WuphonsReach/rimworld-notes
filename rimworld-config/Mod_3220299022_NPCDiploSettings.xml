@@ -3,15 +3,16 @@
 	<ModSettings Class="DynamicDiplomacy.NPCDiploModSettings">
 		<repEnableExpansion>True</repEnableExpansion>
 		<repAllowDistanceCalc>True</repAllowDistanceCalc>
-		<repGenerateHistoryLength>50000</repGenerateHistoryLength>
+		<repGenerateHistoryLength>100000</repGenerateHistoryLength>
 		<repDefeatChance>2</repDefeatChance>
 		<repRazeChance>2</repRazeChance>
-		<repIdeoSurrenderChance>2</repIdeoSurrenderChance>
+		<repIdeoSurrenderChance>1</repIdeoSurrenderChance>
 		<repAllowRazeClear>False</repAllowRazeClear>
-		<repExpansionRadius>15</repExpansionRadius>
-		<repMaxExpansionLimit>350</repMaxExpansionLimit>
+		<repExpansionRadius>12</repExpansionRadius>
+		<repMaxExpansionLimit>450</repMaxExpansionLimit>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
 		<repUsingSemiSimulation>True</repUsingSemiSimulation>
-		<repSimulatedConquestThreatPoint>3600</repSimulatedConquestThreatPoint>
+		<repSimulatedConquestThreatPoint>6005</repSimulatedConquestThreatPoint>
+		<repExtraExpansionChancePer6H>5</repExtraExpansionChancePer6H>
 	</ModSettings>
 </SettingsBlock>

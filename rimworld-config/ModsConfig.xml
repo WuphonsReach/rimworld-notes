@@ -6,6 +6,7 @@
     <li>brrainz.visualexceptions</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
+    <li>acetoyourface.fasteranimameditation</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
@@ -16,12 +17,12 @@
     <li>vanillaexpanded.backgrounds</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>vanillaexpanded.varme</li>
-    <li>acetoyourface.fasteranimameditation</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>void.charactereditor</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>troopersmith1.deathrattle</li>
     <li>adaptive.primitivestorage</li>
     <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
-    <li>unlimitedhugs.hugslib</li>
     <li>erin.ffxivraces</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
     <li>imranfish.xmlextensions</li>
@@ -43,7 +44,6 @@
     <li>mlie.coalexpanded</li>
     <li>headwar.delayeddeterioration</li>
     <li>overpl.drawnspots</li>
-    <li>edb.preparecarefully</li>
     <li>bean.customxenotypes.orksoftherim</li>
     <li>botchjob.hthair</li>
     <li>neronix17.retexture.vanillabeards</li>
@@ -57,6 +57,13 @@
     <li>vanillaexpanded.vhe</li>
     <li>jiopaba.fences</li>
     <li>shenanigans.tribaltattoos</li>
+    <li>skullog.ebt</li>
+    <li>kidapparelexpanded.goblins4lyfe</li>
+    <li>ffisher.wildplantsgivehay</li>
+    <li>cn.justhelpforme</li>
+    <li>inglix.fasterbiosculptingpod</li>
+    <li>farxmai2.genebanksexapnded</li>
+    <li>cn.morereasonablemortars</li>
     <li>wiggler310.medieval</li>
     <li>vanillaexpanded.vwe</li>
     <li>oskarpotocki.vanillafactionsexpanded.settlersmodule</li>
@@ -80,7 +87,6 @@
     <li>caretcake.resources.morecomponentsandsteelmorevanilla</li>
     <li>vanillaexpanded.vwetb</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
-    <li>vanillaexpanded.vanillatradingexpanded</li>
     <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
     <li>vanillaexpanded.vplantse</li>
     <li>vanillaexpanded.vcooke</li>
@@ -239,7 +245,6 @@
     <li>dragon.craftablepsylinkneuroformers</li>
     <li>nachotoast.neceros.fuseplus</li>
     <li>samael.livestocktraders</li>
-    <li>jm.bettertraders</li>
     <li>goldenlumia.atewithouttable</li>
     <li>kikohi.jewelry</li>
     <li>5tratz.wallheatercooler</li>
@@ -263,6 +268,7 @@
     <li>wr.insulated.vanillaexpanded.varme</li>
     <li>palverz.moretraps</li>
     <li>dubwise.dubsskylights</li>
+    <li>wr.fertilefieldsdubsskylightsbalancepatch</li>
     <li>alyssapaws.oocmovespeedboost</li>
     <li>keshash.layeredwalldestruction</li>
     <li>seromas.layereddestruction.patches</li>
@@ -295,7 +301,6 @@
     <li>mlie.moregraphs</li>
     <li>amch.needbaroverflow</li>
     <li>tials.floordrawings</li>
-    <li>wuphonsreach.fertilefieldsdubsskylightsbalancepatch</li>
     <li>allifreyr.patch.strongermetalwalls</li>
     <li>latta.petknowstrueyou</li>
     <li>monstered10.cleanraccoon</li>
@@ -313,6 +318,10 @@
     <li>sun.reducer</li>
     <li>wr.embrasurecover85percent</li>
     <li>wr.fertilefieldsbalancepatch</li>
+    <li>scorpio.resourcedictionary</li>
+    <li>automatic.gradienthair</li>
+    <li>cosmosteller.gradienthair.fixes</li>
+    <li>parapluman.localgradienthairinvisiblebaldpawnfix</li>
     <li>oels.chooseyouroutfit</li>
     <li>og.automaticpowerswitch</li>
     <li>mlie.turnonoffrepowered</li>
@@ -324,10 +333,11 @@
     <li>zal.tradegoods</li>
     <li>runzu.tradegoodsretexture</li>
     <li>kathanon.researchqueue</li>
+    <li>mlie.prostheticnomissingbodyparts</li>
     <li>ghxx.techadvancing</li>
     <li>derekbickley.ltocolonygroupsfinal</li>
-    <li>mlie.prostheticnomissingbodyparts</li>
-    <li>scorpio.resourcedictionary</li>
+    <li>wr.woodworthless</li>
+    <li>wr.stoneblocksworthless</li>
     <li>imranfish.xmldocumentviewer</li>
   </activeMods>
   <knownExpansions>
