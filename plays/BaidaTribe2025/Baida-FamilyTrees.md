@@ -9,9 +9,13 @@ flowchart LR
   Banbar --> PurpleBanbar(begat)
   Purple --> PurpleBanbar(begat)
   PurpleBanbar --> Barga
+  Barga --> BargaMimira(begat)
+  Mimira --> BargaMimira(begat)
+  BargaMimira --> Oyster
   Purple --> PurpleFrog(begat)
   Frog --> PurpleFrog(begat)
   PurpleFrog --> Snow
+  PurpleFrog --> Hornet
   OrangeGale --> Purple
   OrangeGale --> Gray
   OrangeGale --> Storm
@@ -25,6 +29,7 @@ flowchart LR
   RedRego --> Dove
   RedRego --> Marle
   RedRego --> Reigo
+  RedRego --> Match
   Aoga --> AogaStorm(begat)
   Storm --> AogaStorm(begat)
   AogaStorm --> Cala
