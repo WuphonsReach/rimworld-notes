@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Museums.AquariumsSettings">
+		<_uniqueIDsManager IsNull="True" />
+		<_smartLog IsNull="True" />
+		<general>
+			<defaultAllowedToBeWatched>
+				<labelKey>Museums_Settings_DefaultAllowedToBeWatched</labelKey>
+				<tipKey>Museums_Settings_DefaultAllowedToBeWatched_Tip</tipKey>
+			</defaultAllowedToBeWatched>
+			<useForcedTourCooldown>
+				<labelKey>Museums_Settings_EnableForcedTourCooldown</labelKey>
+				<tipKey>Museums_Settings_EnableForcedTourCooldown_Tip</tipKey>
+				<currentValue>True</currentValue>
+			</useForcedTourCooldown>
+			<requiredParticipantsPresentToStartTour>
+				<labelKey>Museums_Settings_RequiredParticipantsPresentToStartTour</labelKey>
+				<tipKey>Museums_Settings_RequiredParticipantsPresentToStartTour_Tip</tipKey>
+				<currentValue>0.600000024</currentValue>
+			</requiredParticipantsPresentToStartTour>
+			<tourDurationRange>
+				<labelKey>Museums_Settings_TourDuration</labelKey>
+				<tipKey>Museums_Settings_TourDuration_Tip</tipKey>
+				<currentValue>5000~15000</currentValue>
+			</tourDurationRange>
+		</general>
+	</ModSettings>
+</SettingsBlock>

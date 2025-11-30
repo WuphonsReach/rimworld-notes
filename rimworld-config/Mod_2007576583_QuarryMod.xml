@@ -2,38 +2,38 @@
 <SettingsBlock>
 	<ModSettings Class="Quarry.QuarrySettings">
 		<QRY_quarryMaxHealth>10100</QRY_quarryMaxHealth>
-		<QRY_junkChance>75</QRY_junkChance>
-		<QRY_chunkChance>75</QRY_chunkChance>
+		<QRY_junkChance>65</QRY_junkChance>
+		<QRY_chunkChance>80</QRY_chunkChance>
 		<QRY_mineTicksAverage>2400</QRY_mineTicksAverage>
 		<QRY_mineTicksVariance>1800</QRY_mineTicksVariance>
 		<QRY_OreDictionary>
 			<li>
 				<thingDef>Steel</thingDef>
-				<count>40</count>
+				<count>45</count>
 			</li>
 			<li>
 				<thingDef>Silver</thingDef>
-				<count>6</count>
+				<count>10</count>
 			</li>
 			<li>
 				<thingDef>Gold</thingDef>
-				<count>3</count>
-			</li>
-			<li>
-				<thingDef>Uranium</thingDef>
 				<count>5</count>
 			</li>
 			<li>
+				<thingDef>Uranium</thingDef>
+				<count>7</count>
+			</li>
+			<li>
 				<thingDef>Plasteel</thingDef>
-				<count>3</count>
+				<count>5</count>
 			</li>
 			<li>
 				<thingDef>Jade</thingDef>
-				<count>4</count>
+				<count>8</count>
 			</li>
 			<li>
 				<thingDef>Obsidian</thingDef>
-				<count>2</count>
+				<count>4</count>
 			</li>
 			<li>
 				<thingDef>ChunkSalt</thingDef>
@@ -41,11 +41,11 @@
 			</li>
 			<li>
 				<thingDef>Coal</thingDef>
-				<count>27</count>
+				<count>35</count>
 			</li>
 			<li>
 				<thingDef>AA_SkySteel</thingDef>
-				<count>3</count>
+				<count>5</count>
 			</li>
 			<li>
 				<thingDef>ComponentIndustrial</thingDef>

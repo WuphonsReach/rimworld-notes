@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="OOCMoveSpeedBoost.Settings">
-		<speedBoostMult>1.25</speedBoostMult>
-		<showBoostToggle>True</showBoostToggle>
+		<speedBoostMult>1.33000004</speedBoostMult>
+		<showBoostToggle>False</showBoostToggle>
 		<speedBoostToggle>True</speedBoostToggle>
 		<manualReactivation>False</manualReactivation>
 		<disableWhenDrafted>True</disableWhenDrafted>

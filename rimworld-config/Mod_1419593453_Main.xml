@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="No_Forced_Slowdown.Settings">
+		<NFS_CurrentModFunction>DisableGamespeedLock</NFS_CurrentModFunction>
+	</ModSettings>
+</SettingsBlock>

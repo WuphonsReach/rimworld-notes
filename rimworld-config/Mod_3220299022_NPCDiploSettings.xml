@@ -9,10 +9,10 @@
 		<repIdeoSurrenderChance>1</repIdeoSurrenderChance>
 		<repAllowRazeClear>False</repAllowRazeClear>
 		<repExpansionRadius>12</repExpansionRadius>
-		<repMaxExpansionLimit>450</repMaxExpansionLimit>
+		<repMaxExpansionLimit>500</repMaxExpansionLimit>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
 		<repUsingSemiSimulation>True</repUsingSemiSimulation>
-		<repSimulatedConquestThreatPoint>6005</repSimulatedConquestThreatPoint>
-		<repExtraExpansionChancePer6H>5</repExtraExpansionChancePer6H>
+		<repSimulatedConquestThreatPoint>7500</repSimulatedConquestThreatPoint>
+		<repExtraExpansionChancePer6H>50</repExtraExpansionChancePer6H>
 	</ModSettings>
 </SettingsBlock>

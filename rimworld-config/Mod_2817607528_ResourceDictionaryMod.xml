@@ -3078,6 +3078,238 @@
 				<li>custom trade goods_item</li>
 				<li>simple trade goods_item</li>
 				<li>advanced trade goods_item</li>
+				<li>crude machete_item</li>
+				<li>electric butcher table_building</li>
+				<li>kid button-down shirt_item</li>
+				<li>kid duster_item</li>
+				<li>kid jacket_item</li>
+				<li>kid flak pants_item</li>
+				<li>kid flak jacket_item</li>
+				<li>kid marine armor_item</li>
+				<li>kid recon armor_item</li>
+				<li>kid squire armor_item</li>
+				<li>kid war mask_item</li>
+				<li>kid flak helmet_item</li>
+				<li>kid psychic foil helmet_item</li>
+				<li>large gene bank_building</li>
+				<li>huge gene bank_building</li>
+				<li>smoke grenades_item</li>
+				<li>flash grenades_item</li>
+				<li>shovel_item</li>
+				<li>baton_item</li>
+				<li>combat knife_item</li>
+				<li>hammer_item</li>
+				<li>battle axe_item</li>
+				<li>hatchet_item</li>
+				<li>rocket launcher_item</li>
+				<li>compound bow_item</li>
+				<li>hand cannon_item</li>
+				<li>combat handgun_item</li>
+				<li>sawed-off shotgun_item</li>
+				<li>grenade launcher_item</li>
+				<li>flamethrower_item</li>
+				<li>fire extinguisher_item</li>
+				<li>semi-automatic rifle_item</li>
+				<li>lever-action rifle_item</li>
+				<li>light smg_item</li>
+				<li>smg_item</li>
+				<li>hmg_item</li>
+				<li>service rifle_item</li>
+				<li>battle rifle_item</li>
+				<li>carbine_item</li>
+				<li>marksman rifle_item</li>
+				<li>anti-material rifle_item</li>
+				<li>crossbow_item</li>
+				<li>musket_item</li>
+				<li>flintlock_item</li>
+				<li>throwing knives_item</li>
+				<li>whip_item</li>
+				<li>throwing rocks_item</li>
+				<li>long bow_item</li>
+				<li>charge pistol_item</li>
+				<li>charge shotgun_item</li>
+				<li>charge smg_item</li>
+				<li>charge lmg_item</li>
+				<li>charge sniper rifle_item</li>
+				<li>charge minigun_item</li>
+				<li>charge rocket launcher_item</li>
+				<li>chemshine_item</li>
+				<li>chemboiler_building</li>
+				<li>chemlamp_building</li>
+				<li>chemlamp post_building</li>
+				<li>chemshine barrel_building</li>
+				<li>saloon door_building</li>
+				<li>post_building</li>
+				<li>bar stool_building</li>
+				<li>circular table_building</li>
+				<li>faro table_building</li>
+				<li>five finger fillet table_building</li>
+				<li>gatling gun turret_building</li>
+				<li>windmill_building</li>
+				<li>bandana_item</li>
+				<li>sombrero_item</li>
+				<li>flat cap_item</li>
+				<li>vest_item</li>
+				<li>great dress_item</li>
+				<li>chemroot_plant</li>
+				<li>double-action revolver_item</li>
+				<li>double-barreled shotgun_item</li>
+				<li>hunting rifle_item</li>
+				<li>dynamite_item</li>
+				<li>tomahawk_item</li>
+				<li>backpack_item</li>
+				<li>battle banner_item</li>
+				<li>medic bag_item</li>
+				<li>quiver_item</li>
+				<li>tool belt_item</li>
+				<li>ammo pack_item</li>
+				<li>explosive belt_item</li>
+				<li>ranged shield belt_item</li>
+				<li>ressurector belt_item</li>
+				<li>mini-turret pack_item</li>
+				<li>tea table_building</li>
+				<li>banquet table_building</li>
+				<li>cubic tile_terrain</li>
+				<li>flesh covering_terrain</li>
+				<li>flesh tile_terrain</li>
+				<li>horaxian tile_terrain</li>
+				<li>cubic bed_building</li>
+				<li>double cubic bed_building</li>
+				<li>cubic hospital bed_building</li>
+				<li>fleshmass piece (1x1)_building</li>
+				<li>fleshmass piece (2x2)_building</li>
+				<li>horaxian bed_building</li>
+				<li>double horaxian bed_building</li>
+				<li>decorative gray statue_building</li>
+				<li>cubic slab (medium)_building</li>
+				<li>cubic slab (broad)_building</li>
+				<li>flesh slab (medium)_building</li>
+				<li>flesh slab (broad)_building</li>
+				<li>horaxian slab (medium)_building</li>
+				<li>horaxian slab (broad)_building</li>
+				<li>jewish sandstone tile_terrain</li>
+				<li>jewish granite tile_terrain</li>
+				<li>jewish limestone tile_terrain</li>
+				<li>jewish slate tile_terrain</li>
+				<li>jewish marble tile_terrain</li>
+				<li>jewish fine sandstone tile_terrain</li>
+				<li>jewish fine granite tile_terrain</li>
+				<li>jewish fine limestone tile_terrain</li>
+				<li>jewish fine slate tile_terrain</li>
+				<li>jewish fine marble tile_terrain</li>
+				<li>kemetic sandstone tile_terrain</li>
+				<li>kemetic granite tile_terrain</li>
+				<li>kemetic limestone tile_terrain</li>
+				<li>kemetic slate tile_terrain</li>
+				<li>kemetic marble tile_terrain</li>
+				<li>kemetic pristine limestone tile_terrain</li>
+				<li>kemetic fine sandstone tile_terrain</li>
+				<li>kemetic fine granite tile_terrain</li>
+				<li>kemetic fine limestone tile_terrain</li>
+				<li>kemetic fine slate tile_terrain</li>
+				<li>kemetic fine marble tile_terrain</li>
+				<li>kemetic fine pristine limestone tile_terrain</li>
+				<li>futuristic kemetic tile_terrain</li>
+				<li>pristine limestone tile_terrain</li>
+				<li>pristine limestone flagstone_terrain</li>
+				<li>steampunk sandstone tile_terrain</li>
+				<li>steampunk granite tile_terrain</li>
+				<li>steampunk limestone tile_terrain</li>
+				<li>steampunk slate tile_terrain</li>
+				<li>steampunk marble tile_terrain</li>
+				<li>neolithic sandstone packed dirt floor_terrain</li>
+				<li>neolithic granite packed dirt floor_terrain</li>
+				<li>neolithic limestone packed dirt floor_terrain</li>
+				<li>neolithic slate packed dirt floor_terrain</li>
+				<li>neolithic marble packed dirt floor_terrain</li>
+				<li>restored rusted tile_terrain</li>
+				<li>restored tile_terrain</li>
+				<li>ocular sandstone floor_terrain</li>
+				<li>ocular granite floor_terrain</li>
+				<li>ocular limestone floor_terrain</li>
+				<li>ocular slate floor_terrain</li>
+				<li>ocular marble floor_terrain</li>
+				<li>pyramid_building</li>
+				<li>grand gate_building</li>
+				<li>futuristic obelisk_building</li>
+				<li>futuristic stele_building</li>
+				<li>futuristic great pyramid_building</li>
+				<li>great pyramid_building</li>
+				<li>sphinx_building</li>
+				<li>megalith_building</li>
+				<li>stone-framed bedroll_building</li>
+				<li>double stone-framed bedroll_building</li>
+				<li>restored ancient bed_building</li>
+				<li>restored ancient double bed_building</li>
+				<li>restored ancient operating table_building</li>
+				<li>restored ancient fence_building</li>
+				<li>crude stone table (1x2)_building</li>
+				<li>crude stone table (2x2)_building</li>
+				<li>crude stone table (2x4)_building</li>
+				<li>crude stone table (3x3)_building</li>
+				<li>crude wooden table (1x2)_building</li>
+				<li>crude wooden table (2x2)_building</li>
+				<li>crude wooden table (2x4)_building</li>
+				<li>crude wooden table (3x3)_building</li>
+				<li>baptismal font_building</li>
+				<li>relic smashing altar_building</li>
+				<li>grog dispenser_building</li>
+				<li>blunt trap_building</li>
+				<li>animal database_building</li>
+				<li>sanguophage radio beacon_building</li>
+				<li>eyepatch_item</li>
+				<li>jewish slab (medium)_building</li>
+				<li>jewish slab (broad)_building</li>
+				<li>kemetic slab (medium)_building</li>
+				<li>kemetic slab (broad)_building</li>
+				<li>hindu slab (medium)_building</li>
+				<li>hindu slab (broad)_building</li>
+				<li>steampunk slab (medium)_building</li>
+				<li>steampunk slab (broad)_building</li>
+				<li>corsair slab (medium)_building</li>
+				<li>corsair slab (broad)_building</li>
+				<li>jain slab (medium)_building</li>
+				<li>jain slab (broad)_building</li>
+				<li>sikh slab (medium)_building</li>
+				<li>sikh slab (broad)_building</li>
+				<li>islamic slab (medium)_building</li>
+				<li>islamic slab (broad)_building</li>
+				<li>christian slab (medium)_building</li>
+				<li>christian slab (broad)_building</li>
+				<li>buddhist slab (medium)_building</li>
+				<li>buddhist slab (broad)_building</li>
+				<li>pristine limestone blocks_item</li>
+				<li>corrupted gauranlen pod_plant</li>
+				<li>corrupted gauranlen seed_item</li>
+				<li>ocular dryad_pawn</li>
+				<li>spitter dryad_pawn</li>
+				<li>corruptor dryad_pawn</li>
+				<li>unstable dryad_pawn</li>
+				<li>tumorous dryad_pawn</li>
+				<li>unshackled dryad_pawn</li>
+				<li>corpse rum vat_building</li>
+				<li>sky burial spot_building</li>
+				<li>mummified_building</li>
+				<li>suspicious rum_item</li>
+				<li>fine rum_item</li>
+				<li>single refrigerator_building</li>
+				<li>dual refrigerator_building</li>
+				<li>quad refrigerator_building</li>
+				<li>wall single refrigerator_building</li>
+				<li>wall dual refrigerator_building</li>
+				<li>wall heater_building</li>
+				<li>wall cooler_building</li>
+				<li>insulated steel light plate armor_item</li>
+				<li>mountain miner_building</li>
+				<li>round shield_item</li>
+				<li>heater shield_item</li>
+				<li>ballistic shield_item</li>
+				<li>wall sun lamp_building</li>
+				<li>over-wall cooler_building</li>
+				<li>over-wall cooler (wide)_building</li>
+				<li>over-wall vent_building</li>
+				<li>cubic crib_building</li>
+				<li>fine pristine limestone tile_terrain</li>
 			</keys>
 			<values>
 				<li>
@@ -3595,6 +3827,7 @@
 					<mainThingDefName>Urn</mainThingDefName>
 					<thingDefs>
 						<li>Urn</li>
+						<li>AM_Urn</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -3796,6 +4029,7 @@
 					<thingDefs>
 						<li>AncientLockerBank</li>
 						<li>VME_AncientLockerBank</li>
+						<li>AM_AncientLockerBank</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -4220,6 +4454,7 @@
 					<thingDefs>
 						<li>AncientRazorWire</li>
 						<li>VME_AncientRazorWire</li>
+						<li>AM_AncientRazorwire</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -17973,9 +18208,7 @@
 				<li>
 					<thingKey>trading terminal_building</thingKey>
 					<mainThingDefName>VTE_TradingTerminal</mainThingDefName>
-					<thingDefs>
-						<li>VTE_TradingTerminal</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -18891,7 +19124,8 @@
 				</li>
 				<li>
 					<thingKey>cocoa bush_plant</thingKey>
-					<mainThingDefName>VCE_ChocolateBush</mainThingDefName>
+					<mainThingDefName>Plantcocoa</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>VCE_ChocolateBush</li>
 						<li>Plantcocoa</li>
@@ -19955,11 +20189,10 @@
 				</li>
 				<li>
 					<thingKey>tea grass_plant</thingKey>
-					<mainThingDefName>VBE_Plant_Tea</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>VBE_Plant_Tea</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>tobacco plant_plant</thingKey>
@@ -22257,8 +22490,10 @@
 				<li>
 					<thingKey>tea plant_plant</thingKey>
 					<mainThingDefName>Plant_Tea</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Plant_Tea</li>
+						<li>VBE_Plant_Tea</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24506,6 +24741,7 @@
 					<mainThingDefName>Apparel_NepChildVest</mainThingDefName>
 					<thingDefs>
 						<li>Apparel_NepChildVest</li>
+						<li>Apparel_KidFlakVest</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -26914,6 +27150,7 @@
 					<mainThingDefName>TA_Halberd</mainThingDefName>
 					<thingDefs>
 						<li>TA_Halberd</li>
+						<li>VWE_MeleeWeapon_Halberd</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -27878,6 +28115,1863 @@
 					<mainThingDefName>TradeGoodsAdvanced</mainThingDefName>
 					<thingDefs>
 						<li>TradeGoodsAdvanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude machete_item</thingKey>
+					<mainThingDefName>XR_Ork_Machete</mainThingDefName>
+					<thingDefs>
+						<li>XR_Ork_Machete</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electric butcher table_building</thingKey>
+					<mainThingDefName>ElectricTableButcher</mainThingDefName>
+					<thingDefs>
+						<li>ElectricTableButcher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid button-down shirt_item</thingKey>
+					<mainThingDefName>Apparel_KidButtondownShirt</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidButtondownShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid duster_item</thingKey>
+					<mainThingDefName>Apparel_KidDuster</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidDuster</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid jacket_item</thingKey>
+					<mainThingDefName>Apparel_KidJacket</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidJacket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid flak pants_item</thingKey>
+					<mainThingDefName>Apparel_KidFlakPants</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidFlakPants</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid flak jacket_item</thingKey>
+					<mainThingDefName>Apparel_KidFlakJacket</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidFlakJacket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid marine armor_item</thingKey>
+					<mainThingDefName>Apparel_KidPowerArmor</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidPowerArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid recon armor_item</thingKey>
+					<mainThingDefName>Apparel_KidArmorRecon</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidArmorRecon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid squire armor_item</thingKey>
+					<mainThingDefName>Apparel_KidPlateArmor</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidPlateArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid war mask_item</thingKey>
+					<mainThingDefName>Apparel_KidWarMask</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidWarMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid flak helmet_item</thingKey>
+					<mainThingDefName>Apparel_AdvancedKidHelmet</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_AdvancedKidHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kid psychic foil helmet_item</thingKey>
+					<mainThingDefName>Apparel_KidPsychicFoil</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_KidPsychicFoil</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>large gene bank_building</thingKey>
+					<mainThingDefName>GBE_GeneBankLarge</mainThingDefName>
+					<thingDefs>
+						<li>GBE_GeneBankLarge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>huge gene bank_building</thingKey>
+					<mainThingDefName>GBE_GeneBankHuge</mainThingDefName>
+					<thingDefs>
+						<li>GBE_GeneBankHuge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>smoke grenades_item</thingKey>
+					<mainThingDefName>VWE_SmokeGrenade</mainThingDefName>
+					<thingDefs>
+						<li>VWE_SmokeGrenade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flash grenades_item</thingKey>
+					<mainThingDefName>VWE_FlashGrenade</mainThingDefName>
+					<thingDefs>
+						<li>VWE_FlashGrenade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shovel_item</thingKey>
+					<mainThingDefName>VWE_MeleeWeapon_Shovel</mainThingDefName>
+					<thingDefs>
+						<li>VWE_MeleeWeapon_Shovel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>baton_item</thingKey>
+					<mainThingDefName>VWE_MeleeWeapon_Baton</mainThingDefName>
+					<thingDefs>
+						<li>VWE_MeleeWeapon_Baton</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>combat knife_item</thingKey>
+					<mainThingDefName>VWE_MeleeWeapon_CombatKnife</mainThingDefName>
+					<thingDefs>
+						<li>VWE_MeleeWeapon_CombatKnife</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hammer_item</thingKey>
+					<mainThingDefName>VWE_MeleeWeapon_Hammer</mainThingDefName>
+					<thingDefs>
+						<li>VWE_MeleeWeapon_Hammer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>battle axe_item</thingKey>
+					<mainThingDefName>VWE_MeleeWeapon_BattleAxe</mainThingDefName>
+					<thingDefs>
+						<li>VWE_MeleeWeapon_BattleAxe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hatchet_item</thingKey>
+					<mainThingDefName>VWE_MeleeWeapon_Axe</mainThingDefName>
+					<thingDefs>
+						<li>VWE_MeleeWeapon_Axe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rocket launcher_item</thingKey>
+					<mainThingDefName>VWE_Gun_RocketLauncher</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_RocketLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>compound bow_item</thingKey>
+					<mainThingDefName>VWE_Bow_Compound</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Bow_Compound</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hand cannon_item</thingKey>
+					<mainThingDefName>VWE_Gun_HandCannon</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_HandCannon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>combat handgun_item</thingKey>
+					<mainThingDefName>VWE_CombatHandgun</mainThingDefName>
+					<thingDefs>
+						<li>VWE_CombatHandgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sawed-off shotgun_item</thingKey>
+					<mainThingDefName>VWE_SawedOffShotgun</mainThingDefName>
+					<thingDefs>
+						<li>VWE_SawedOffShotgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grenade launcher_item</thingKey>
+					<mainThingDefName>VWE_Gun_GrenadeLauncher</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_GrenadeLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flamethrower_item</thingKey>
+					<mainThingDefName>VWE_Gun_Flamethrower</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_Flamethrower</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fire extinguisher_item</thingKey>
+					<mainThingDefName>VWE_Gun_FireExtinguisher</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_FireExtinguisher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>semi-automatic rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_SemiAutomaticRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_SemiAutomaticRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>lever-action rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_LeverActionRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_LeverActionRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>light smg_item</thingKey>
+					<mainThingDefName>VWE_Gun_LightSMG</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_LightSMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>smg_item</thingKey>
+					<mainThingDefName>VWE_Gun_SMG</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_SMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hmg_item</thingKey>
+					<mainThingDefName>VWE_Gun_HMG</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_HMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>service rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_ServiceRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ServiceRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>battle rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_BattleRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_BattleRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>carbine_item</thingKey>
+					<mainThingDefName>VWE_Gun_Carbine</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_Carbine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>marksman rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_MarksmanRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_MarksmanRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>anti-material rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_AntiMaterialRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_AntiMaterialRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crossbow_item</thingKey>
+					<mainThingDefName>VWE_Bow_Crossbow</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Bow_Crossbow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>musket_item</thingKey>
+					<mainThingDefName>VWE_Gun_Musket</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_Musket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flintlock_item</thingKey>
+					<mainThingDefName>VWE_Gun_Flintlock</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_Flintlock</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>throwing knives_item</thingKey>
+					<mainThingDefName>VWE_Throwing_Knives</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Throwing_Knives</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>whip_item</thingKey>
+					<mainThingDefName>VWE_Tool_Whip</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Tool_Whip</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>throwing rocks_item</thingKey>
+					<mainThingDefName>VWE_Throwing_Rocks</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Throwing_Rocks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>long bow_item</thingKey>
+					<mainThingDefName>VWE_Bow_Long</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Bow_Long</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge pistol_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargePistol</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargePistol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge shotgun_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargeShotgun</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargeShotgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge smg_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargeSMG</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargeSMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge lmg_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargeLMG</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargeLMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge sniper rifle_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargeSniperRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargeSniperRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge minigun_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargeMinigun</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargeMinigun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge rocket launcher_item</thingKey>
+					<mainThingDefName>VWE_Gun_ChargeRocketLauncher</mainThingDefName>
+					<thingDefs>
+						<li>VWE_Gun_ChargeRocketLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chemshine_item</thingKey>
+					<mainThingDefName>Chemshine</mainThingDefName>
+					<thingDefs>
+						<li>Chemshine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chemboiler_building</thingKey>
+					<mainThingDefName>ChemBoiler</mainThingDefName>
+					<thingDefs>
+						<li>ChemBoiler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chemlamp_building</thingKey>
+					<mainThingDefName>Chemlamp</mainThingDefName>
+					<thingDefs>
+						<li>Chemlamp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chemlamp post_building</thingKey>
+					<mainThingDefName>ChemlampPost</mainThingDefName>
+					<thingDefs>
+						<li>ChemlampPost</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chemshine barrel_building</thingKey>
+					<mainThingDefName>Building_ChemshineBarrel</mainThingDefName>
+					<thingDefs>
+						<li>Building_ChemshineBarrel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>saloon door_building</thingKey>
+					<mainThingDefName>DoorSaloon</mainThingDefName>
+					<thingDefs>
+						<li>DoorSaloon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>post_building</thingKey>
+					<mainThingDefName>Post</mainThingDefName>
+					<thingDefs>
+						<li>Post</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bar stool_building</thingKey>
+					<mainThingDefName>StoolBar</mainThingDefName>
+					<thingDefs>
+						<li>StoolBar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>circular table_building</thingKey>
+					<mainThingDefName>TableCircular</mainThingDefName>
+					<thingDefs>
+						<li>TableCircular</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>faro table_building</thingKey>
+					<mainThingDefName>TableFaro</mainThingDefName>
+					<thingDefs>
+						<li>TableFaro</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>five finger fillet table_building</thingKey>
+					<mainThingDefName>TableFiveFingerFilet</mainThingDefName>
+					<thingDefs>
+						<li>TableFiveFingerFilet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gatling gun turret_building</thingKey>
+					<mainThingDefName>Turret_GatlingGun</mainThingDefName>
+					<thingDefs>
+						<li>Turret_GatlingGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>windmill_building</thingKey>
+					<mainThingDefName>Windmill</mainThingDefName>
+					<thingDefs>
+						<li>Windmill</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bandana_item</thingKey>
+					<mainThingDefName>VFES_Headgear_Bandana</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Headgear_Bandana</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sombrero_item</thingKey>
+					<mainThingDefName>VFES_Headgear_Sombrero</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Headgear_Sombrero</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flat cap_item</thingKey>
+					<mainThingDefName>VFES_Headgear_FlatCap</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Headgear_FlatCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vest_item</thingKey>
+					<mainThingDefName>Apparel_Vest</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_Vest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>great dress_item</thingKey>
+					<mainThingDefName>Apparel_GreatDress</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_GreatDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chemroot_plant</thingKey>
+					<mainThingDefName>Plant_Chemroot</mainThingDefName>
+					<thingDefs>
+						<li>Plant_Chemroot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double-action revolver_item</thingKey>
+					<mainThingDefName>VFES_Gun_DoubleActionRevolver</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Gun_DoubleActionRevolver</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double-barreled shotgun_item</thingKey>
+					<mainThingDefName>VFES_Gun_DoubleBarreledShotgun</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Gun_DoubleBarreledShotgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hunting rifle_item</thingKey>
+					<mainThingDefName>VFES_Gun_HuntingRifle</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Gun_HuntingRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dynamite_item</thingKey>
+					<mainThingDefName>VFES_Weapon_GrenadeDynamite</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Weapon_GrenadeDynamite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tomahawk_item</thingKey>
+					<mainThingDefName>VFES_Tomahawk</mainThingDefName>
+					<thingDefs>
+						<li>VFES_Tomahawk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>backpack_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_Backpack</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_Backpack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>battle banner_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_BattleBanner</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_BattleBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medic bag_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_MedicBag</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_MedicBag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>quiver_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_Quiver</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_Quiver</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tool belt_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_ToolBelt</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_ToolBelt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ammo pack_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_AmmoPack</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_AmmoPack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>explosive belt_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_ExplosiveBelt</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_ExplosiveBelt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ranged shield belt_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_RangedShieldBelt</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_RangedShieldBelt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ressurector belt_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_RessurectorBelt</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_RessurectorBelt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mini-turret pack_item</thingKey>
+					<mainThingDefName>VAEA_Apparel_MiniTurretPack</mainThingDefName>
+					<thingDefs>
+						<li>VAEA_Apparel_MiniTurretPack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tea table_building</thingKey>
+					<mainThingDefName>AM_TeaCeremonyTable</mainThingDefName>
+					<thingDefs>
+						<li>AM_TeaCeremonyTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>banquet table_building</thingKey>
+					<mainThingDefName>AM_BanquetTable</mainThingDefName>
+					<thingDefs>
+						<li>AM_BanquetTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Cubic</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Cubic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh covering_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Flesh</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Flesh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Flesh_Metal</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Flesh_Metal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Horaxian</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Horaxian</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic bed_building</thingKey>
+					<mainThingDefName>AM_CubicBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double cubic bed_building</thingKey>
+					<mainThingDefName>AM_DoubleCubicBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_DoubleCubicBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic hospital bed_building</thingKey>
+					<mainThingDefName>AM_CubicHospitalBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicHospitalBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass piece (1x1)_building</thingKey>
+					<mainThingDefName>AM_Building_Misc_FleshmassPiece1x1c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Building_Misc_FleshmassPiece1x1c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass piece (2x2)_building</thingKey>
+					<mainThingDefName>AM_Building_Misc_FleshmassPiece2x2c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Building_Misc_FleshmassPiece2x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian bed_building</thingKey>
+					<mainThingDefName>AM_HoraxianBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_HoraxianBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double horaxian bed_building</thingKey>
+					<mainThingDefName>AM_DoubleHoraxianBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_DoubleHoraxianBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative gray statue_building</thingKey>
+					<mainThingDefName>AM_GrayStatueDecorative</mainThingDefName>
+					<thingDefs>
+						<li>AM_GrayStatueDecorative</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic slab (medium)_building</thingKey>
+					<mainThingDefName>AM_CubicSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic slab (broad)_building</thingKey>
+					<mainThingDefName>AM_CubicSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh slab (medium)_building</thingKey>
+					<mainThingDefName>AM_FleshSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_FleshSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh slab (broad)_building</thingKey>
+					<mainThingDefName>AM_FleshSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_FleshSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian slab (medium)_building</thingKey>
+					<mainThingDefName>AM_HoraxianSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_HoraxianSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian slab (broad)_building</thingKey>
+					<mainThingDefName>AM_HoraxianSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_HoraxianSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish sandstone tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishTileSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishTileSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish granite tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishTileGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishTileGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishTileLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishTileLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish slate tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishTileSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishTileSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish marble tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishTileMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishTileMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish fine sandstone tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishFineTileSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishFineTileSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish fine granite tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishFineTileGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishFineTileGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish fine limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishFineTileLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishFineTileLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish fine slate tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishFineTileSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishFineTileSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish fine marble tile_terrain</thingKey>
+					<mainThingDefName>AM_JewishFineTileMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishFineTileMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic sandstone tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticTileSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticTileSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic granite tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticTileGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticTileGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticTileLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticTileLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic slate tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticTileSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticTileSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic marble tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticTileMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticTileMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic pristine limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticTilePristineLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticTilePristineLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic fine sandstone tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticFineTileSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticFineTileSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic fine granite tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticFineTileGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticFineTileGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic fine limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticFineTileLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticFineTileLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic fine slate tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticFineTileSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticFineTileSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic fine marble tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticFineTileMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticFineTileMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic fine pristine limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_KemeticFineTilePristineLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticFineTilePristineLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>futuristic kemetic tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Futuristic_Kemetic</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Futuristic_Kemetic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pristine limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_TilePristineLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_TilePristineLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pristine limestone flagstone_terrain</thingKey>
+					<mainThingDefName>AM_FlagstonePristineLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_FlagstonePristineLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk sandstone tile_terrain</thingKey>
+					<mainThingDefName>AM_SteampunkTileSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkTileSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk granite tile_terrain</thingKey>
+					<mainThingDefName>AM_SteampunkTileGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkTileGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_SteampunkTileLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkTileLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk slate tile_terrain</thingKey>
+					<mainThingDefName>AM_SteampunkTileSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkTileSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk marble tile_terrain</thingKey>
+					<mainThingDefName>AM_SteampunkTileMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkTileMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic sandstone packed dirt floor_terrain</thingKey>
+					<mainThingDefName>AM_NeolithicTileSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_NeolithicTileSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic granite packed dirt floor_terrain</thingKey>
+					<mainThingDefName>AM_NeolithicTileGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_NeolithicTileGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic limestone packed dirt floor_terrain</thingKey>
+					<mainThingDefName>AM_NeolithicTileLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_NeolithicTileLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic slate packed dirt floor_terrain</thingKey>
+					<mainThingDefName>AM_NeolithicTileSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_NeolithicTileSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic marble packed dirt floor_terrain</thingKey>
+					<mainThingDefName>AM_NeolithicTileMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_NeolithicTileMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restored rusted tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Scavenger</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Scavenger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restored tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Scavenger_Clean</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Scavenger_Clean</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ocular sandstone floor_terrain</thingKey>
+					<mainThingDefName>AM_Tile_OcularSandstone</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_OcularSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ocular granite floor_terrain</thingKey>
+					<mainThingDefName>AM_Tile_OcularGranite</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_OcularGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ocular limestone floor_terrain</thingKey>
+					<mainThingDefName>AM_Tile_OcularLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_OcularLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ocular slate floor_terrain</thingKey>
+					<mainThingDefName>AM_Tile_OcularSlate</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_OcularSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ocular marble floor_terrain</thingKey>
+					<mainThingDefName>AM_Tile_MorbidMarble</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_MorbidMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pyramid_building</thingKey>
+					<mainThingDefName>AM_Pyramid</mainThingDefName>
+					<thingDefs>
+						<li>AM_Pyramid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grand gate_building</thingKey>
+					<mainThingDefName>AM_GrandGate</mainThingDefName>
+					<thingDefs>
+						<li>AM_GrandGate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>futuristic obelisk_building</thingKey>
+					<mainThingDefName>AM_FuturisticObelisk</mainThingDefName>
+					<thingDefs>
+						<li>AM_FuturisticObelisk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>futuristic stele_building</thingKey>
+					<mainThingDefName>AM_FuturisticStele</mainThingDefName>
+					<thingDefs>
+						<li>AM_FuturisticStele</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>futuristic great pyramid_building</thingKey>
+					<mainThingDefName>AM_FuturisticPyramid</mainThingDefName>
+					<thingDefs>
+						<li>AM_FuturisticPyramid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>great pyramid_building</thingKey>
+					<mainThingDefName>AM_GreatPyramid</mainThingDefName>
+					<thingDefs>
+						<li>AM_GreatPyramid</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sphinx_building</thingKey>
+					<mainThingDefName>AM_Sphynx</mainThingDefName>
+					<thingDefs>
+						<li>AM_Sphynx</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>megalith_building</thingKey>
+					<mainThingDefName>AM_Megalith</mainThingDefName>
+					<thingDefs>
+						<li>AM_Megalith</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stone-framed bedroll_building</thingKey>
+					<mainThingDefName>AM_StoneBedroll</mainThingDefName>
+					<thingDefs>
+						<li>AM_StoneBedroll</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double stone-framed bedroll_building</thingKey>
+					<mainThingDefName>AM_DoubleStoneBedroll</mainThingDefName>
+					<thingDefs>
+						<li>AM_DoubleStoneBedroll</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restored ancient bed_building</thingKey>
+					<mainThingDefName>AM_AncientBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_AncientBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restored ancient double bed_building</thingKey>
+					<mainThingDefName>AM_AncientDoubleBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_AncientDoubleBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restored ancient operating table_building</thingKey>
+					<mainThingDefName>AM_AncientOperatingTable</mainThingDefName>
+					<thingDefs>
+						<li>AM_AncientOperatingTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restored ancient fence_building</thingKey>
+					<mainThingDefName>AM_AncientFence</mainThingDefName>
+					<thingDefs>
+						<li>AM_AncientFence</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude stone table (1x2)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_StoneTable_1x2c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_StoneTable_1x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude stone table (2x2)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_StoneTable_2x2c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_StoneTable_2x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude stone table (2x4)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_StoneTable_2x4c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_StoneTable_2x4c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude stone table (3x3)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_StoneTable_3x3c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_StoneTable_3x3c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude wooden table (1x2)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_WoodenTable_1x2c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_WoodenTable_1x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude wooden table (2x2)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_WoodenTable_2x2c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_WoodenTable_2x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude wooden table (2x4)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_WoodenTable_2x4c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_WoodenTable_2x4c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crude wooden table (3x3)_building</thingKey>
+					<mainThingDefName>AM_Neolithic_WoodenTable_3x3c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Neolithic_WoodenTable_3x3c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>baptismal font_building</thingKey>
+					<mainThingDefName>AM_BaptismalFont</mainThingDefName>
+					<thingDefs>
+						<li>AM_BaptismalFont</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>relic smashing altar_building</thingKey>
+					<mainThingDefName>AM_RelicSmashingAltar</mainThingDefName>
+					<thingDefs>
+						<li>AM_RelicSmashingAltar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grog dispenser_building</thingKey>
+					<mainThingDefName>AM_GrogDispenser</mainThingDefName>
+					<thingDefs>
+						<li>AM_GrogDispenser</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blunt trap_building</thingKey>
+					<mainThingDefName>AM_TrapBlunt</mainThingDefName>
+					<thingDefs>
+						<li>AM_TrapBlunt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>animal database_building</thingKey>
+					<mainThingDefName>AM_AnimalDatabase</mainThingDefName>
+					<thingDefs>
+						<li>AM_AnimalDatabase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sanguophage radio beacon_building</thingKey>
+					<mainThingDefName>AM_RaidSpawner</mainThingDefName>
+					<thingDefs>
+						<li>AM_RaidSpawner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>eyepatch_item</thingKey>
+					<mainThingDefName>AM_Apparel_Eyepatch</mainThingDefName>
+					<thingDefs>
+						<li>AM_Apparel_Eyepatch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish slab (medium)_building</thingKey>
+					<mainThingDefName>AM_JewishSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jewish slab (broad)_building</thingKey>
+					<mainThingDefName>AM_JewishSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_JewishSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic slab (medium)_building</thingKey>
+					<mainThingDefName>AM_KemeticSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kemetic slab (broad)_building</thingKey>
+					<mainThingDefName>AM_KemeticSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_KemeticSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hindu slab (medium)_building</thingKey>
+					<mainThingDefName>AM_HinduSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_HinduSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hindu slab (broad)_building</thingKey>
+					<mainThingDefName>AM_HinduSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_HinduSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk slab (medium)_building</thingKey>
+					<mainThingDefName>AM_SteampunkSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>steampunk slab (broad)_building</thingKey>
+					<mainThingDefName>AM_SteampunkSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_SteampunkSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corsair slab (medium)_building</thingKey>
+					<mainThingDefName>AM_CorsairSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_CorsairSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corsair slab (broad)_building</thingKey>
+					<mainThingDefName>AM_CorsairSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_CorsairSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jain slab (medium)_building</thingKey>
+					<mainThingDefName>AM_JainSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_JainSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jain slab (broad)_building</thingKey>
+					<mainThingDefName>AM_JainSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_JainSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sikh slab (medium)_building</thingKey>
+					<mainThingDefName>AM_SikhSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_SikhSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sikh slab (broad)_building</thingKey>
+					<mainThingDefName>AM_SikhSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_SikhSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>islamic slab (medium)_building</thingKey>
+					<mainThingDefName>AM_IslamicSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_IslamicSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>islamic slab (broad)_building</thingKey>
+					<mainThingDefName>AM_IslamicSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_IslamicSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>christian slab (medium)_building</thingKey>
+					<mainThingDefName>AM_ChristianSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_ChristianSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>christian slab (broad)_building</thingKey>
+					<mainThingDefName>AM_ChristianSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_ChristianSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>buddhist slab (medium)_building</thingKey>
+					<mainThingDefName>AM_BuddhistSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_BuddhistSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>buddhist slab (broad)_building</thingKey>
+					<mainThingDefName>AM_BuddhistSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_BuddhistSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pristine limestone blocks_item</thingKey>
+					<mainThingDefName>AM_BlocksPristineLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_BlocksPristineLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrupted gauranlen pod_plant</thingKey>
+					<mainThingDefName>AM_Plant_CorruptedPodGauranlen</mainThingDefName>
+					<thingDefs>
+						<li>AM_Plant_CorruptedPodGauranlen</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrupted gauranlen seed_item</thingKey>
+					<mainThingDefName>AM_CorruptedGauranlenSeed</mainThingDefName>
+					<thingDefs>
+						<li>AM_CorruptedGauranlenSeed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ocular dryad_pawn</thingKey>
+					<mainThingDefName>AM_Dryad_Ocular</mainThingDefName>
+					<thingDefs>
+						<li>AM_Dryad_Ocular</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spitter dryad_pawn</thingKey>
+					<mainThingDefName>AM_Dryad_Spitter</mainThingDefName>
+					<thingDefs>
+						<li>AM_Dryad_Spitter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corruptor dryad_pawn</thingKey>
+					<mainThingDefName>AM_Dryad_Corruptor</mainThingDefName>
+					<thingDefs>
+						<li>AM_Dryad_Corruptor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>unstable dryad_pawn</thingKey>
+					<mainThingDefName>AM_Dryad_Unstable</mainThingDefName>
+					<thingDefs>
+						<li>AM_Dryad_Unstable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tumorous dryad_pawn</thingKey>
+					<mainThingDefName>AM_Dryad_Tumorous</mainThingDefName>
+					<thingDefs>
+						<li>AM_Dryad_Tumorous</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>unshackled dryad_pawn</thingKey>
+					<mainThingDefName>AM_UnshackledDryad</mainThingDefName>
+					<thingDefs>
+						<li>AM_UnshackledDryad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corpse rum vat_building</thingKey>
+					<mainThingDefName>AM_RumBurialSpot</mainThingDefName>
+					<thingDefs>
+						<li>AM_RumBurialSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sky burial spot_building</thingKey>
+					<mainThingDefName>AM_SkyBurialSpot</mainThingDefName>
+					<thingDefs>
+						<li>AM_SkyBurialSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mummified_building</thingKey>
+					<mainThingDefName>AM_MummyMale</mainThingDefName>
+					<thingDefs>
+						<li>AM_MummyMale</li>
+						<li>AM_MummyFemale</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>suspicious rum_item</thingKey>
+					<mainThingDefName>AM_CorpseRumBasic</mainThingDefName>
+					<thingDefs>
+						<li>AM_CorpseRumBasic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fine rum_item</thingKey>
+					<mainThingDefName>AM_CorpseRumFine</mainThingDefName>
+					<thingDefs>
+						<li>AM_CorpseRumFine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>single refrigerator_building</thingKey>
+					<mainThingDefName>RimFridge_SingleRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_SingleRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dual refrigerator_building</thingKey>
+					<mainThingDefName>RimFridge_Refrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_Refrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>quad refrigerator_building</thingKey>
+					<mainThingDefName>RimFridge_QuadRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_QuadRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall single refrigerator_building</thingKey>
+					<mainThingDefName>RimFridge_SingleWallRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_SingleWallRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall dual refrigerator_building</thingKey>
+					<mainThingDefName>RimFridge_WallRefrigerator</mainThingDefName>
+					<thingDefs>
+						<li>RimFridge_WallRefrigerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall heater_building</thingKey>
+					<mainThingDefName>WallHeater</mainThingDefName>
+					<thingDefs>
+						<li>WallHeater</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall cooler_building</thingKey>
+					<mainThingDefName>WallCooler</mainThingDefName>
+					<thingDefs>
+						<li>WallCooler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>insulated steel light plate armor_item</thingKey>
+					<mainThingDefName>InsulatedSteel_VAE_Apparel_LightPlateArmor</mainThingDefName>
+					<thingDefs>
+						<li>InsulatedSteel_VAE_Apparel_LightPlateArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mountain miner_building</thingKey>
+					<mainThingDefName>ManualMountainMiner</mainThingDefName>
+					<thingDefs>
+						<li>ManualMountainMiner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>round shield_item</thingKey>
+					<mainThingDefName>XER_RoundShield</mainThingDefName>
+					<thingDefs>
+						<li>XER_RoundShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heater shield_item</thingKey>
+					<mainThingDefName>XER_HeaterShield</mainThingDefName>
+					<thingDefs>
+						<li>XER_HeaterShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ballistic shield_item</thingKey>
+					<mainThingDefName>XER_BallisticShield</mainThingDefName>
+					<thingDefs>
+						<li>XER_BallisticShield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall sun lamp_building</thingKey>
+					<mainThingDefName>WallSunLamp</mainThingDefName>
+					<thingDefs>
+						<li>WallSunLamp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>over-wall cooler_building</thingKey>
+					<mainThingDefName>Cooler_Over</mainThingDefName>
+					<thingDefs>
+						<li>Cooler_Over</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>over-wall cooler (wide)_building</thingKey>
+					<mainThingDefName>Cooler_Over2W</mainThingDefName>
+					<thingDefs>
+						<li>Cooler_Over2W</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>over-wall vent_building</thingKey>
+					<mainThingDefName>Vent_Over</mainThingDefName>
+					<thingDefs>
+						<li>Vent_Over</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic crib_building</thingKey>
+					<mainThingDefName>AM_CubicCrib</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicCrib</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fine pristine limestone tile_terrain</thingKey>
+					<mainThingDefName>AM_FinestonePristineLimestone</mainThingDefName>
+					<thingDefs>
+						<li>AM_FinestonePristineLimestone</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
