@@ -175,7 +175,88 @@ It's going to be a bit over 2 years before Ame has regenerated both legs.  But b
 
 ## Dec-5524
 
-Old Advent: 
+We see -41C outside on the 5th.
+
+Aqua reaches age 10 with growth tier 7 of 8.  She picks up the martial artist trait.  Passions for shooting and medical.
+
+Lime is now age 13.  He was at growth tier 7.  He picks up the brawler trait!  He picks up passions for plants and animals.
+
+One more technology (carvings, 4500 pts) to get into the medieval technologies.  That means things like glass roof panels (from Dub's Skylights), the overwall automatic vent for temperature regulation, stone cutting for granite walls, etc.
+
+Black is now age 3.
+
+Meanwhile, we've shoved 5 levels into Lime from the anima tree.  Another day or two and he'll be level 7 or 8.
+
+We have a schematic (excellent quality) for learning writing and one for rugs.
+
+Old Advent: Unimpressive
 
 # 5525
+
+## Apr-5525
+
+Ame is 35-46 days away from walking one one leg.  She's building rapport with Red.
+
+Red reaches level 18 intellectual and ushers us into the medieval technology tier.
+
+A snow storm on the 5th dropped temperatures back below freezing during the early morning, postponing planting season.  It did get up to +2C during the early afternoon, so some planting was done.  We planted about four fields worth during the day.  Some crops will die overnight as it drops down to -11C.  But not all of them.
+
+Got 7 of 8 fields planted on the 6th.  Including replacing what died overnight.  We'll lose another 1/4 to 1/3 overnight due to temperatures.
+
+Even the rice is only 3% grown by the morning of the 9th.  It's barely above freezing in the afternoon of the 9th.
+
+First warm day is the 11th where it gets above freezing by 7am instead of mid-day.  The rice plants have eeked out 6-12% growth since being planted 5-6 days ago.
+
+## Jul-5525
+
+Ame is still 30 days away from walking (give or take a few days).  Given the relationship status on the social screen, I suspect she'll go after Lime when he reaches age 18.  Or she still might hook up with Red.
+
+The children are excited, school desks and chalk boards are being installed.  This should let more children reach growth tier 8 or at least tier 7 for the best trait and passion picks.
+
+Green reaches age 10.  He was at growth tier 6 (of 8).  He picks up the hard worker trait and a passion for mining.
+
+Psyhic bloom starts on the 8th.
+
+Micha is now a child (age 3).
+
+Spiritist Fair: Terrible
+
+## Sep-5525
+
+Fall is here, planting will soon pause for the winter and Red will to back to researching.
+
+Ame is up and walking around on the 2nd.  We can start her in on the staticlord psycast tree.
+
+Mink reaches age 7.  He picks up the go-getter trait.  Along with passions for melee and medical.  I'm hoping he'll pick up passion for social with that trait option.
+
+Plants start dying from the cold on the morning of the 4th marking the end of the growing season.
+
+Aqua is now age 13.  She picks up a burning passion for plants and normal passions for crafting and intellectual.  Her new trait is defensive fighter for x80% incoming damage.  She'll be a wildspeaker like Gale.
+
+## Dec-5525
+
+Starting to build out the greenhouses (Dub's Skylights) for a longer growing season each year.  Geothermal vents often have enough heat capacity for a pair of 11x11 fields.
+
+Black reaches age 7.  He picks up the early riser trait.  Passion for intellectual and plants.
+
+Velasquez is pregnant.
+
+Stone cutting unlocked.  Time to make tens of thousands of stone blocks.
+
+Old Advent: Beautiful
+
+# 5526
+
+## Apr-5526
+
+The kids (Green and Mink) have a beer together...
+
+The greenhouses are 5-10C warmer then the outside.  Even with a single-width wall and lots of door traffic.  The skylights provide a bit of warmth during the daytime.  Obviously the greenhouses with steam geysers will be far warmer, almost enough to grow all year around.
+
+Got two pawns from a shuttle crash.
+
+- Kubik (M, 16, baseliner): Conformist.  Burning passions for construction and artistic.
+
+- Ulfmeb (M, 29, stoneborn): Iron stomach, psychically deaf, undergrounder.  Has the natural focus, but I wonder if he can be a psycaster at all.
+
 
