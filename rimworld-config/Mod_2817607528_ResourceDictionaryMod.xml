@@ -3310,6 +3310,8 @@
 				<li>over-wall vent_building</li>
 				<li>cubic crib_building</li>
 				<li>fine pristine limestone tile_terrain</li>
+				<li>reinforced door_building</li>
+				<li>reinforced autodoor_building</li>
 			</keys>
 			<values>
 				<li>
@@ -18675,7 +18677,8 @@
 				</li>
 				<li>
 					<thingKey>salt_item</thingKey>
-					<mainThingDefName>VCE_Salt</mainThingDefName>
+					<mainThingDefName>ChunkSalt</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>VCE_Salt</li>
 						<li>ChunkSalt</li>
@@ -29972,6 +29975,22 @@
 					<mainThingDefName>AM_FinestonePristineLimestone</mainThingDefName>
 					<thingDefs>
 						<li>AM_FinestonePristineLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>reinforced door_building</thingKey>
+					<mainThingDefName>WDReinforcedDoor</mainThingDefName>
+					<thingDefs>
+						<li>WDReinforcedDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>reinforced autodoor_building</thingKey>
+					<mainThingDefName>WDReinforcedAutodoor</mainThingDefName>
+					<thingDefs>
+						<li>WDReinforcedAutodoor</li>
 					</thingDefs>
 					<removedDefs />
 				</li>

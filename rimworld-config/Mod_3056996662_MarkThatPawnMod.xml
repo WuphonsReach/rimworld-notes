@@ -3,9 +3,11 @@
 	<ModSettings Class="MarkThatPawn.MarkThatPawnSettings">
 		<defaultMarkerSet>Symbols</defaultMarkerSet>
 		<AutoRuleBlobs>
-			<li>WeaponType;RangedExplosive;Ideology;1;True;1;Enemy</li>
-			<li>Weapon;Gun_TripleRocket|False|False;Ideology;1;True;0;Enemy</li>
+			<li>WeaponType;RangedExplosive;Ideology;1;True;4;Enemy</li>
+			<li>Weapon;Gun_TripleRocket|False|False;Ideology;1;True;1;Enemy</li>
 			<li>MentalState;Aggressive;Symbols;12;True;3;EnemyAnimal</li>
+			<li>HediffStatic;PsychicAmplifier|False;Ideology;6;True;0;Enemy</li>
+			<li>HediffDynamic;VPE_PsycastAbilityImplant$0|False;XCOMMedieval;5;True;5;Enemy</li>
 		</AutoRuleBlobs>
 		<IconSize>1</IconSize>
 	</ModSettings>
