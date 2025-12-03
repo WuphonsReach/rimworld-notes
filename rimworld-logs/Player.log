@@ -19,16 +19,16 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 536470192
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 629867184
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.055 seconds
+- Loaded All Assemblies, in  0.052 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.514627 ms
+UnloadTime: 0.523955 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
@@ -39,17 +39,17 @@ resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7448fcd527d0.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7448fcebbfe0.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7448ff851600.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f90d50d00.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f90e82740.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f938cd7e0.so
 [HugsLib] version 12.0.0
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7448ecb0d6f0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f7cb1ccf0.so
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7448ed1a1ea0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f7d102bb0.so
 Texture '' has dimensions (5333 x 3000) which are not multiples of 4. Compress will not work.
 SatisfiedStorage loading
 [WDHeaters] Loaded.
@@ -82,7 +82,7 @@ Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limest
 Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7244 symbolDefs for vanilla and DLCs
 [XML Extensions] Initialized 6 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4919 total patch operations run in 9175ms, 0 failed
+[XML Extensions] 4919 total patch operations run in 7962ms, 0 failed
 [XML Extensions] Emitted 6 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 Mod 'Just Help For Me' loaded.
@@ -110,7 +110,7 @@ Mod 'Just Help For Me' loaded.
 [MarkThatPawn]: Found 9 icons for XCOM Medieval
 [MarkThatPawn]: Found 240 loaded weapons, 14 explosive weapons and 28 thrown projectiles
 [MarkThatPawn]: Found 338 loaded apparel, 79 armored apparel, 71 royal apparel, 23 psycast apparel, 8 enviromental protection apparel, 6 mechanator apparel and 180 basic apparel 
-[MarkThatPawn]: Found 3 automatic rules defined
+[MarkThatPawn]: Found 5 automatic rules defined
 BoomModExpanded: Current exploders are boomalope, boomrat, unstable dryad, acanthamoeba gigantea, small, acanthamoeba gigantea, large, acanthamoeba gigantea, huge, aerofleet, colossal aerofleet, chemfuel myrmidon, genix, green goo, infected aerofleet, luciferbug, red goo, red spore, boombat
 [BoomModExpanded]: Adding support for Animal Behaviour
 [BoomModExpanded]: Adding support for Alpha Genes
@@ -122,10 +122,10 @@ BoomModExpanded: Current exploders are boomalope, boomrat, unstable dryad, acant
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 12/1/2025 1:10:04 PM
+[RealRuins][System]: RealRuins started patching at 12/3/2025 5:57:36 AM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 12/1/2025 1:10:04 PM
-[RealRuins][System]: RealRuins finished patching at 12/1/2025 1:10:04 PM (32.257 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 12/3/2025 5:57:36 AM
+[RealRuins][System]: RealRuins finished patching at 12/3/2025 5:57:36 AM (31.44 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -146,12 +146,12 @@ PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [ResearchTree]: 	BulkSurvival has a lower techlevel than (one of) it's prerequisites, increasing.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1687 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1646 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 15)
 MVCF successfully applied 51 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
 Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 65767.
-Total: 925.890169 ms (FindLiveObjects: 4.226146 ms CreateObjectMapping: 3.878382 ms MarkObjects: 917.120100 ms  DeleteObjects: 0.665050 ms)
+Total: 904.279880 ms (FindLiveObjects: 3.713101 ms CreateObjectMapping: 2.269207 ms MarkObjects: 897.684640 ms  DeleteObjects: 0.612221 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CharacterEditor v1.6.3 initializing...
@@ -190,14 +190,14 @@ no modifications for lifestages
 ...done
 Unloading 3 Unused Serialized files (Serialized files now loaded: 16)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.571134 ms
+UnloadTime: 0.758626 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 66066.
-Total: 906.734054 ms (FindLiveObjects: 2.926102 ms CreateObjectMapping: 2.570082 ms MarkObjects: 901.163801 ms  DeleteObjects: 0.073258 ms)
+Total: 909.373787 ms (FindLiveObjects: 2.897889 ms CreateObjectMapping: 2.685088 ms MarkObjects: 903.725347 ms  DeleteObjects: 0.064982 ms)
 
-Loading game from file Baida Tribe 25-Sep13 with mods:
+Loading game from file Baida Tribe 26-Sep10 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -550,10 +550,14 @@ Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, 
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase539733
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase539740
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase539749
-Could not resolve reference to object with loadID WorldObject_4431 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID Faction_428 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
+Could not resolve reference to object with loadID WorldObject_4493 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
+Could not resolve reference to object with loadID Thing_Human690661 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/madSurgeonsWithLastHarvestedTick/keys
+Null key while loading dictionary of Verse.Pawn and System.Int32. label=madSurgeonsWithLastHarvestedTick
+Could not resolve reference to object with loadID Thing_Human690521 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/wanderLustersWithLastMapExitedTick/keys
+Null key while loading dictionary of Verse.Pawn and System.Int32. label=wanderLustersWithLastMapExitedTick
+Could not resolve reference to object with loadID Faction_430 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
 Null key while loading dictionary of RimWorld.Faction and MURFactionRaidCooldown.FactionData. label=factionDataDict
-Could not resolve reference to object with loadID Faction_428 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
+Could not resolve reference to object with loadID Faction_430 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Haul designation has no target! Deleting.
@@ -578,6 +582,66 @@ Haul designation has no target! Deleting.
 Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
 Parameter name: key
 [Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase535689
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase536031
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase536039
@@ -591,6 +655,25 @@ Could not get load ID. We're asking for something which was never added during L
 Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
+Could not find think node with key 609489829
 Could not find think node with key 609489829
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
@@ -616,29 +699,34 @@ bodysizes genes are active
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 16)
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 91083.
-Total: 1084.466140 ms (FindLiveObjects: 3.896967 ms CreateObjectMapping: 2.887168 ms MarkObjects: 1077.516735 ms  DeleteObjects: 0.164759 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 89395.
+Total: 1081.667378 ms (FindLiveObjects: 3.853134 ms CreateObjectMapping: 2.998678 ms MarkObjects: 1074.701492 ms  DeleteObjects: 0.113514 ms)
 
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Home area bounds: (142, 120) - (327, 288)
 Origin: 142, 120
 Start capturing in area of: (142,120)-(326,287)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for TribeCannibal: Original 348.5139, Multiplier 2, New 697.0277
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
+Could not reserve Thing_Bedroll462545 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_11388556) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11388556) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Black (job: LayDown (Job_11388453) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll462545 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_11400547) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11400547) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Black (job: LayDown (Job_11400349) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
@@ -647,476 +735,57 @@ Start capturing in area of: (142,120)-(326,287)
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Could not reserve Thing_Bedroll77310 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_11428995) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11428995) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Mink (job: LayDown (Job_11428944) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll462545 (layer: null) for Purple for job BBLK_Job_BedTimeStory (Job_11438384) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11438384) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Black (job: LayDown (Job_11438139) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
 Quarry:: Tried to quarry mineable ore, but the ore given was null.
-[RaidPointMultiplier] Adjusted raid points for TribeRoughNeanderthal: Original 208.9035, Multiplier 2, New 417.807
-Duetas tried to wear TA_KidHood576820 but is not allowed to.
-Crow tried to wear TA_KidHood576838 but is not allowed to.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-NullReferenceException: Object reference not set to an instance of an object
-[Ref C0670054] Duplicate stacktrace, see ref for original
-
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll77310 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_9873553) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9873553) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Could not reserve Thing_Bedroll462550 (layer: null) for Orange for job BBLK_Job_BedTimeStory (Job_11440680) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11440680) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
 Existing reservers:
-   [0] Mink (job: LayDown (Job_9873283) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll462545 (layer: null) for Purple for job BBLK_Job_BedTimeStory (Job_9874109) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9874109) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+   [0] Micha (job: LayDown (Job_11440634) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll462545 (layer: null) for Gale for job BBLK_Job_BedTimeStory (Job_11448509) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11448509) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
 Existing reservers:
-   [0] Black (job: LayDown (Job_9873802) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+   [0] Black (job: LayDown (Job_11448414) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[RaidPointMultiplier] Adjusted raid points for TribeRough: Original 339.488, Multiplier 2, New 678.976
-Tried to SetForbidden on non-Forbiddable Thing Tracy
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Got ThingsListAt out of bounds: (196, 0, 450)
-Tried to spawn MeteoriteIncoming581104 out of bounds at (196, 0, 449) (out of bounds because size is (2, 2)).
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll462545 (layer: null) for Gale for job BBLK_Job_BedTimeStory (Job_9939317) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9939317) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_9938760) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll462550 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_9947313) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9947313) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_9946509) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll462550 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_9986288) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9986288) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_9986012) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll462545 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_9987058) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9987058) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_9986846) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll77310 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10004696) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10004696) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Mink (job: LayDown (Job_10004460) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Heron tried to wear TA_KidHood584708 but is not allowed to.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll77321 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10027346) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10027346) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Green (job: LayDown (Job_10027131) A = Thing_Bedroll77321 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll77321 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_10075115) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10075115) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Green (job: LayDown (Job_10074716) A = Thing_Bedroll77321 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll462545 (layer: null) for Red for job BBLK_Job_BedTimeStory (Job_10076368) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10076368) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_10076123) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll462550 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10101328) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10101328) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_10101300) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll77310 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_10118830) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10118830) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Mink (job: LayDown (Job_10118585) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll462545 (layer: null) for Purple for job BBLK_Job_BedTimeStory (Job_10119176) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10119176) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_10118743) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll462550 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_10142933) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10142933) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_10142715) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll77321 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_10160244) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10160244) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Green (job: LayDown (Job_10160045) A = Thing_Bedroll77321 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll462545 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_10164759) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10164759) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_10164548) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Notify_LinkRemoved was called but there is no such link here.
-Notify_LinkRemoved was called but there is no such link here.
-Notify_NewLink was called but the link is already here.
-Notify_NewLink was called but the link is already here.
-Could not reserve Thing_Bedroll77310 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10165636) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10165636) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Mink (job: LayDown (Job_10165543) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Notify_LinkRemoved was called but there is no such link here.
-Notify_LinkRemoved was called but there is no such link here.
-Notify_NewLink was called but the link is already here.
-Notify_NewLink was called but the link is already here.
-Damaso tried to wear TA_KidHood593653 but is not allowed to.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Exception in JobDriver fixed tick for pawn Lime driver=JobDriver_Ingest (toilIndex=12) driver.job=(Ingest (Job_10178883) A = Thing_MealSimple594157 B = Thing_Filth_Dirt594099 Giver = JobGiver_GetFood [workGiverDef: null])
-System.NullReferenceException: Object reference not set to an instance of an object
-[Ref 7BA93EEE]
-  at Verse.GridsUtility.GetTerrain (Verse.IntVec3 c, Verse.Map map) [0x00000] in <1a4764477a744bde81c4adb46c2ccd65>:0 
-  at CommonSense.Utility+<>c__DisplayClass21_0.<CleanFilthToil>b__1 () [0x0003b] in <c08ea0632ba44dd18c410e20e9470cb1>:0 
-  at Verse.AI.JobDriver.DriverTick () [0x001a3] in <1a4764477a744bde81c4adb46c2ccd65>:0 
-    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll77310 (layer: null) for Purple for job BBLK_Job_BedTimeStory (Job_10259480) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10259480) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Mink (job: LayDown (Job_10259150) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll462550 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10263404) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10263404) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_10262938) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll77310 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_10319056) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10319056) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Mink (job: LayDown (Job_10318835) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-Could not reserve Thing_Bedroll77321 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_10322217) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10322217) A = Thing_Bedroll77321 B = Thing_Human242675 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Green (job: LayDown (Job_10321528) A = Thing_Bedroll77321 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B]
-  at RimWorld.Quest.Notify_SignalReceived (RimWorld.Signal signal) [0x00026] in <1a4764477a744bde81c4adb46c2ccd65>:0 
-    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-  at RimWorld.SignalManager.SendSignal (RimWorld.Signal signal) [0x000cc] in <1a4764477a744bde81c4adb46c2ccd65>:0 
-    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
-[Ref B093210B] Duplicate stacktrace, see ref for original
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll462550 (layer: null) for Red for job BBLK_Job_BedTimeStory (Job_10364573) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10364573) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_10363486) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] battle sim attacker wins conquest
+[Dynamic Diplomacy] battle sim defender wins
 [Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll462545 (layer: null) for Gale for job BBLK_Job_BedTimeStory (Job_10397802) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10397802) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_10397229) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (142, 120) - (327, 288)
-Origin: 142, 120
-Start capturing in area of: (142,120)-(326,287)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-abort_threads: Failed aborting id: 0x7446e4bfe6c0, mono_thread_manage will ignore it
-
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 5301 frames, [1.0 KB-2.0 KB]: 4 frames, [2.0 KB-4.0 KB]: 363438 frames, [4.0 KB-8.0 KB]: 81552 frames, [8.0 KB-16.0 KB]: 58233 frames, [16.0 KB-32.0 KB]: 38481 frames, [32.0 KB-64.0 KB]: 13017 frames, [64.0 KB-128.0 KB]: 1455 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 4 frames
+      Peak usage frame count: [0-1.0 KB]: 12751 frames, [1.0 KB-2.0 KB]: 4 frames, [2.0 KB-4.0 KB]: 31427 frames, [4.0 KB-8.0 KB]: 35763 frames, [8.0 KB-16.0 KB]: 11172 frames, [16.0 KB-32.0 KB]: 5079 frames, [32.0 KB-64.0 KB]: 966 frames, [64.0 KB-128.0 KB]: 147 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 4 frames
       Initial Block Size 4.0 MB
-      Current Block Size 8.0 MB
-      Peak Allocated Bytes 8.0 MB
+      Current Block Size 7.8 MB
+      Peak Allocated Bytes 7.8 MB
       Overflow Count 114
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
@@ -1291,7 +960,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 449 B
+      Peak Allocated Bytes 0 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 12]
       Initial Block Size 256.0 KB
@@ -1309,31 +978,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 19462
+  Peak main deferred allocation count 13648
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 4144929
-        32B: 30 Subsections = 15360 buckets. Failed count: 2288384
-        48B: 34 Subsections = 11605 buckets. Failed count: 5291407
-        64B: 89 Subsections = 22784 buckets. Failed count: 1514521
-        80B: 82 Subsections = 16793 buckets. Failed count: 11555716
-        96B: 6 Subsections = 1024 buckets. Failed count: 524121
-        112B: 7 Subsections = 1024 buckets. Failed count: 43711
-        128B: 4 Subsections = 512 buckets. Failed count: 452125
+        16B: 4 Subsections = 4096 buckets. Failed count: 895454
+        32B: 30 Subsections = 15360 buckets. Failed count: 659076
+        48B: 34 Subsections = 11605 buckets. Failed count: 940011
+        64B: 89 Subsections = 22784 buckets. Failed count: 335582
+        80B: 82 Subsections = 16793 buckets. Failed count: 798568
+        96B: 6 Subsections = 1024 buckets. Failed count: 114397
+        112B: 7 Subsections = 1024 buckets. Failed count: 23271
+        128B: 4 Subsections = 512 buckets. Failed count: 62852
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1981 frames, [32.0 MB-64.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 3339 frames, [0.50 GB-1.00 GB]: 556165 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1888 frames, [32.0 MB-64.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 10882 frames, [0.50 GB-1.00 GB]: 84543 frames
       Requested Block Size 16.0 MB
-      Peak Block count 45
-      Peak Allocated memory 0.71 GB
+      Peak Block count 38
+      Peak Allocated memory 0.58 GB
       Peak Large allocation bytes 95.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1982 frames, [64.0 MB-128.0 MB]: 3030 frames, [128.0 MB-256.0 MB]: 311 frames, [256.0 MB-0.50 GB]: 556164 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1889 frames, [64.0 MB-128.0 MB]: 10517 frames, [128.0 MB-256.0 MB]: 367 frames, [256.0 MB-0.50 GB]: 84542 frames
       Requested Block Size 16.0 MB
-      Peak Block count 20
-      Peak Allocated memory 312.6 MB
+      Peak Block count 19
+      Peak Allocated memory 300.3 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -1356,31 +1025,31 @@ Memory Statistics:
   Overflow Count (too large) 119
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 87
+  Peak main deferred allocation count 63
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 4144929
-        32B: 30 Subsections = 15360 buckets. Failed count: 2288384
-        48B: 34 Subsections = 11605 buckets. Failed count: 5291407
-        64B: 89 Subsections = 22784 buckets. Failed count: 1514521
-        80B: 82 Subsections = 16793 buckets. Failed count: 11555716
-        96B: 6 Subsections = 1024 buckets. Failed count: 524121
-        112B: 7 Subsections = 1024 buckets. Failed count: 43711
-        128B: 4 Subsections = 512 buckets. Failed count: 452125
+        16B: 4 Subsections = 4096 buckets. Failed count: 895454
+        32B: 30 Subsections = 15360 buckets. Failed count: 659076
+        48B: 34 Subsections = 11605 buckets. Failed count: 940011
+        64B: 89 Subsections = 22784 buckets. Failed count: 335582
+        80B: 82 Subsections = 16793 buckets. Failed count: 798568
+        96B: 6 Subsections = 1024 buckets. Failed count: 114397
+        112B: 7 Subsections = 1024 buckets. Failed count: 23271
+        128B: 4 Subsections = 512 buckets. Failed count: 62852
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1981 frames, [4.0 MB-8.0 MB]: 2803 frames, [8.0 MB-16.0 MB]: 536 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 556164 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1888 frames, [4.0 MB-8.0 MB]: 10281 frames, [8.0 MB-16.0 MB]: 601 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 84542 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 13
+      Peak Block count 11
       Peak Allocated memory 0.75 GB
       Peak Large allocation bytes 0.75 GB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 2021 frames, [1.0 KB-2.0 KB]: 2704 frames, [2.0 KB-4.0 KB]: 63 frames, [16.0 KB-32.0 KB]: 1152 frames, [32.0 KB-64.0 KB]: 9 frames, [64.0 KB-128.0 KB]: 5126 frames, [128.0 KB-256.0 KB]: 64739 frames, [256.0 KB-0.5 MB]: 6218 frames, [0.5 MB-1.0 MB]: 454994 frames, [1.0 MB-2.0 MB]: 24461 frames
+      Peak usage frame count: [0-1.0 KB]: 1922 frames, [1.0 KB-2.0 KB]: 10162 frames, [2.0 KB-4.0 KB]: 89 frames, [16.0 KB-32.0 KB]: 602 frames, [64.0 KB-128.0 KB]: 1059 frames, [128.0 KB-256.0 KB]: 646 frames, [256.0 KB-0.5 MB]: 10576 frames, [0.5 MB-1.0 MB]: 72259 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 1.0 MB
+      Peak Allocated memory 0.6 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 177
@@ -1389,22 +1058,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 4144929
-        32B: 30 Subsections = 15360 buckets. Failed count: 2288384
-        48B: 34 Subsections = 11605 buckets. Failed count: 5291407
-        64B: 89 Subsections = 22784 buckets. Failed count: 1514521
-        80B: 82 Subsections = 16793 buckets. Failed count: 11555716
-        96B: 6 Subsections = 1024 buckets. Failed count: 524121
-        112B: 7 Subsections = 1024 buckets. Failed count: 43711
-        128B: 4 Subsections = 512 buckets. Failed count: 452125
+        16B: 4 Subsections = 4096 buckets. Failed count: 895454
+        32B: 30 Subsections = 15360 buckets. Failed count: 659076
+        48B: 34 Subsections = 11605 buckets. Failed count: 940011
+        64B: 89 Subsections = 22784 buckets. Failed count: 335582
+        80B: 82 Subsections = 16793 buckets. Failed count: 798568
+        96B: 6 Subsections = 1024 buckets. Failed count: 114397
+        112B: 7 Subsections = 1024 buckets. Failed count: 23271
+        128B: 4 Subsections = 512 buckets. Failed count: 62852
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1982 frames, [16.0 MB-32.0 MB]: 559504 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1889 frames, [16.0 MB-32.0 MB]: 95425 frames
       Requested Block Size 4.0 MB
       Peak Block count 6
-      Peak Allocated memory 21.0 MB
+      Peak Allocated memory 20.9 MB
       Peak Large allocation bytes 2.0 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1982 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 59974 frames, [256.0 KB-0.5 MB]: 499528 frames, [0.5 MB-1.0 MB]: 2 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1889 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 50045 frames, [256.0 KB-0.5 MB]: 45378 frames, [0.5 MB-1.0 MB]: 2 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.7 MB
@@ -1416,22 +1085,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 4144929
-        32B: 30 Subsections = 15360 buckets. Failed count: 2288384
-        48B: 34 Subsections = 11605 buckets. Failed count: 5291407
-        64B: 89 Subsections = 22784 buckets. Failed count: 1514521
-        80B: 82 Subsections = 16793 buckets. Failed count: 11555716
-        96B: 6 Subsections = 1024 buckets. Failed count: 524121
-        112B: 7 Subsections = 1024 buckets. Failed count: 43711
-        128B: 4 Subsections = 512 buckets. Failed count: 452125
+        16B: 4 Subsections = 4096 buckets. Failed count: 895454
+        32B: 30 Subsections = 15360 buckets. Failed count: 659076
+        48B: 34 Subsections = 11605 buckets. Failed count: 940011
+        64B: 89 Subsections = 22784 buckets. Failed count: 335582
+        80B: 82 Subsections = 16793 buckets. Failed count: 798568
+        96B: 6 Subsections = 1024 buckets. Failed count: 114397
+        112B: 7 Subsections = 1024 buckets. Failed count: 23271
+        128B: 4 Subsections = 512 buckets. Failed count: 62852
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1982 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 559502 frames, [0.5 MB-1.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1889 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 95423 frames, [0.5 MB-1.0 MB]: 1 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 0.5 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 561487 frames
+      Peak usage frame count: [0-1.0 KB]: 97315 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
