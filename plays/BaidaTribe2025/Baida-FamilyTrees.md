@@ -17,5 +17,5 @@ flowchart LR
   Purple --> PurpleVelasquez(begat)
   PurpleVelasquez --> Mink
   PurpleVelasquez --> Micha
-  PurpleVelasquez --> 
+  PurpleVelasquez --> Menxo
 ```

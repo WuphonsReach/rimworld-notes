@@ -259,4 +259,28 @@ Got two pawns from a shuttle crash.
 
 - Ulfmeb (M, 29, stoneborn): Iron stomach, psychically deaf, undergrounder.  Has the natural focus, but I wonder if he can be a psycaster at all.
 
+Green reaches age 13.  He picks up the brave trait.  Burning passions for mining and melee.  Minor passions in artistic and animals.
+
+Ulfmeb is recruited on the 11th.  Burning passions for cooking and plants.  Strong medical, construction and crafting skills too.  Even with the natural meditation focus, he can't be elevated to a psycaster due to being psychically deaf.
+
+Kubik joins on the 15th.
+
+## Jul-5526
+
+Velasquez enters labor on the 2nd.  A girl named Menxo.
+
+Mink reaches age 10.  He picks up the iron stomach trait.  Burning passions for melee and medical.  A minor passion in crafting.  
+
+Micha reaches age 7 and picks up the healthy routines trait.  She picks up passions for shooting, medical and social.
+
+Volcanic winter sets in on the 12th.
+
+Spiritist Fair: Fun
+
+## Sep-5526
+
+Black reaches age 10.  He picks up the ecologist trait and a burning passion for plants.  He also picks up passions for shooting and animals.
+
+We tame a breeding pair of muffalo on the 10th.  We'll limit it to one male and one female adult for now.
+
 
