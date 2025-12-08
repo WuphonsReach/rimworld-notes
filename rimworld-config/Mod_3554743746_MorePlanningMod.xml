@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MorePlanning.MorePlanningModSettings">
+		<planColors>
+			<li>a9a9a9</li>
+			<li>2095f2</li>
+			<li>4bae4f</li>
+			<li>f34235</li>
+			<li>feea3a</li>
+			<li>ff00f0</li>
+			<li>00fffc</li>
+			<li>8400ff</li>
+			<li>ffa200</li>
+			<li>000000</li>
+		</planColors>
+	</ModSettings>
+</SettingsBlock>

@@ -3,8 +3,8 @@
 	<ModSettings Class="BigAndSmall.BSSettings">
 		<immortalReturnTimeFactor>2.48260641</immortalReturnTimeFactor>
 		<hungerRate>0.604177237</hungerRate>
-		<visualLargerMult>0.379171431</visualLargerMult>
-		<visualSmallerMult>0.401225418</visualSmallerMult>
+		<visualLargerMult>0.250457108</visualLargerMult>
+		<visualSmallerMult>0.695407271</visualSmallerMult>
 		<scaleBt>True</scaleBt>
 	</ModSettings>
 </SettingsBlock>

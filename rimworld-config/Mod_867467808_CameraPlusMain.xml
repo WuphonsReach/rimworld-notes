@@ -5,7 +5,7 @@
 		<zoomedOutPercent>100</zoomedOutPercent>
 		<edgeIndicators>False</edgeIndicators>
 		<customNameStyle>IncludeAnimals</customNameStyle>
-		<clippedRelativeSize>0.265065223</clippedRelativeSize>
+		<clippedRelativeSize>0</clippedRelativeSize>
 		<clippedBorderDistanceFactor>0.107904226</clippedBorderDistanceFactor>
 		<outlineFactor>0.0398794934</outlineFactor>
 	</ModSettings>

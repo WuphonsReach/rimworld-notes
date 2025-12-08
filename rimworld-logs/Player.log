@@ -19,16 +19,16 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 629867184
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 62083824
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.052 seconds
+- Loaded All Assemblies, in  0.058 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.523955 ms
+UnloadTime: 0.514948 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
@@ -39,17 +39,17 @@ resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f90d50d00.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f90e82740.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f938cd7e0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x769d2cd471b0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x769d2cd86ca0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x769d2f8dd580.so
 [HugsLib] version 12.0.0
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f7cb1ccf0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x769cf0afeb90.so
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7e9f7d102bb0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x769cf10a6db0.so
 Texture '' has dimensions (5333 x 3000) which are not multiples of 4. Compress will not work.
 SatisfiedStorage loading
 [WDHeaters] Loaded.
@@ -82,7 +82,7 @@ Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limest
 Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7244 symbolDefs for vanilla and DLCs
 [XML Extensions] Initialized 6 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 4919 total patch operations run in 7962ms, 0 failed
+[XML Extensions] 4986 total patch operations run in 7950ms, 0 failed
 [XML Extensions] Emitted 6 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 Mod 'Just Help For Me' loaded.
@@ -114,7 +114,7 @@ Mod 'Just Help For Me' loaded.
 BoomModExpanded: Current exploders are boomalope, boomrat, unstable dryad, acanthamoeba gigantea, small, acanthamoeba gigantea, large, acanthamoeba gigantea, huge, aerofleet, colossal aerofleet, chemfuel myrmidon, genix, green goo, infected aerofleet, luciferbug, red goo, red spore, boombat
 [BoomModExpanded]: Adding support for Animal Behaviour
 [BoomModExpanded]: Adding support for Alpha Genes
-[RaidPointMultiplier] Initialized with 43 factions.
+[RaidPointMultiplier] Initialized with 40 factions.
 [BadLeatherCategory]: Note that Leather_Human is also used by non-humanlikes. Gorehulk, AA_FungalHusk, AA_Mime, Corpse_Gorehulk, Corpse_AA_FungalHusk, Corpse_AA_Mime
 [BadLeatherCategory]: Note that Leather_Lizard is also used by non-humanlikes. Cobra, Tortoise, Iguana, MonitorLizard, Alligator, SeaTurtle, AA_AnimaColossus, AA_CrescendoAnole, AA_DecayDrake, AA_Erin, AA_Lockjaw, AA_OvergrownColossus, AA_PedigreedRaptor, AA_RayHound, AA_RoughPlatedMonitor, AEXP_Crocodile, AEXP_DesertTortoise, AEXP_GilaMonster, AEXP_Rattlesnake, AEXP_Anaconda, Corpse_Cobra, Corpse_Tortoise, Corpse_Iguana, Corpse_MonitorLizard, Corpse_Alligator, Corpse_SeaTurtle, Corpse_AA_AnimaColossus, Corpse_AA_CrescendoAnole, Corpse_AA_DecayDrake, Corpse_AA_Erin, Corpse_AA_Lockjaw, Corpse_AA_OvergrownColossus, Corpse_AA_PedigreedRaptor, Corpse_AA_RayHound, Corpse_AA_RoughPlatedMonitor, Corpse_AEXP_Crocodile, Corpse_AEXP_DesertTortoise, Corpse_AEXP_GilaMonster, Corpse_AEXP_Rattlesnake, Corpse_AEXP_Anaconda
 [BadLeatherCategory]: Moved 3 leather to the Bad Leather-category
@@ -122,10 +122,10 @@ BoomModExpanded: Current exploders are boomalope, boomrat, unstable dryad, acant
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 12/3/2025 5:57:36 AM
+[RealRuins][System]: RealRuins started patching at 12/7/2025 8:01:59 PM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 12/3/2025 5:57:36 AM
-[RealRuins][System]: RealRuins finished patching at 12/3/2025 5:57:36 AM (31.44 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 12/7/2025 8:01:59 PM
+[RealRuins][System]: RealRuins finished patching at 12/7/2025 8:01:59 PM (32.704 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -146,12 +146,12 @@ PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [ResearchTree]: 	BulkSurvival has a lower techlevel than (one of) it's prerequisites, increasing.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 1646 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1856 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 15)
 MVCF successfully applied 51 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
-Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 65767.
-Total: 904.279880 ms (FindLiveObjects: 3.713101 ms CreateObjectMapping: 2.269207 ms MarkObjects: 897.684640 ms  DeleteObjects: 0.612221 ms)
+Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 66152.
+Total: 873.147708 ms (FindLiveObjects: 3.594118 ms CreateObjectMapping: 1.834960 ms MarkObjects: 867.113021 ms  DeleteObjects: 0.604827 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CharacterEditor v1.6.3 initializing...
@@ -177,9 +177,9 @@ CameraPlus: Found mod at /home/syb/.var/app/com.valvesoftware.Steam/.local/share
   RimWorld.Citrus.ExpectationsModifier
 CE is trying to create default parameter lists ...
 creating default parameter list for genes...
-1428 default entities for genes created
+1483 default entities for genes created
 creating default parameter list for objects...
-3904 default entities for objects created
+3906 default entities for objects created
 creating default parameter list for turrets...
 32 default entities for turrets created
 ...lists created
@@ -188,16 +188,20 @@ no modifications for genes
 no modifications for objects
 no modifications for lifestages
 ...done
+Unloading 2 Unused Serialized files (Serialized files now loaded: 16)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 66367.
+Total: 942.014535 ms (FindLiveObjects: 3.012494 ms CreateObjectMapping: 2.354276 ms MarkObjects: 936.573395 ms  DeleteObjects: 0.073809 ms)
+
 Unloading 3 Unused Serialized files (Serialized files now loaded: 16)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.758626 ms
+UnloadTime: 0.575973 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
-Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 66066.
-Total: 909.373787 ms (FindLiveObjects: 2.897889 ms CreateObjectMapping: 2.685088 ms MarkObjects: 903.725347 ms  DeleteObjects: 0.064982 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 66476.
+Total: 900.873525 ms (FindLiveObjects: 2.964704 ms CreateObjectMapping: 2.120387 ms MarkObjects: 895.703905 ms  DeleteObjects: 0.084058 ms)
 
-Loading game from file Baida Tribe 26-Sep10 with mods:
+Loading game from file Baida Tribe 29-Dec7 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -478,8 +482,10 @@ Loading game from file Baida Tribe 26-Sep10 with mods:
   - bedrestforfoodpoisoning.1trickPonyta
   - Wyr3d.ReinforcedWallsResumed
   - Citrus.ExpectationsModifier
+  - JoeOwnage.5eXenos
   - Aelanna.GetOutOfMyChair
   - davai.sortedcategories
+  - Doremy.BetterLeather
   - wr.wyd.RFWallsReworked.StrongerReinforced
   - rabiosus.autoblink
   - FrozenSnowFox.MoreQuests
@@ -540,6 +546,18 @@ Loading game from file Baida Tribe 26-Sep10 with mods:
   - wr.WoodWorthLess
   - wr.StoneBlocksWorthLess
   - imranfish.xmldocumentviewer
+Could not load reference to RimWorld.FactionDef named AG_OutlanderCivilUnion
+Could not load reference to RimWorld.FactionDef named OutlanderRoughStoneborn
+Could not load reference to RimWorld.FactionDef named AG_XenohumanPirates
+Could not load reference to RimWorld.FactionDef named OutlanderRoughStoneborn
+Could not load reference to RimWorld.FactionDef named AG_OutlanderCivilUnion
+Could not load reference to RimWorld.FactionDef named OutlanderRoughStoneborn
+Could not load reference to RimWorld.FactionDef named AG_XenohumanPirates
+Could not load reference to RimWorld.FactionDef named OutlanderRoughStoneborn
+Some factions were null after loading.
+Could not load reference to RimWorld.FactionDef named AG_OutlanderCivilUnion
+Could not load reference to RimWorld.FactionDef named AG_XenohumanPirates
+Could not load reference to RimWorld.FactionDef named OutlanderRoughStoneborn
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase535689
@@ -550,14 +568,14 @@ Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, 
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase539733
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase539740
 Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase539749
-Could not resolve reference to object with loadID WorldObject_4493 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID Thing_Human690661 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/madSurgeonsWithLastHarvestedTick/keys
-Null key while loading dictionary of Verse.Pawn and System.Int32. label=madSurgeonsWithLastHarvestedTick
-Could not resolve reference to object with loadID Thing_Human690521 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/wanderLustersWithLastMapExitedTick/keys
-Null key while loading dictionary of Verse.Pawn and System.Int32. label=wanderLustersWithLastMapExitedTick
-Could not resolve reference to object with loadID Faction_430 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionStorage curPathRelToParent=/factionDataDict/keys
-Null key while loading dictionary of RimWorld.Faction and MURFactionRaidCooldown.FactionData. label=factionDataDict
-Could not resolve reference to object with loadID Faction_430 of type RimWorld.Faction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=MURFactionRaidCooldown.FactionData curPathRelToParent=
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990043
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990052
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990058
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990069
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990075
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990083
+Tried to register the same load ID twice: null, pathRelToParent=/sourcePrecept, parent=Bookcase990090
+Could not resolve reference to object with loadID Thing_Human1245682 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaTraitsExpanded.TraitsManager curPathRelToParent=/snobs
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Haul designation has no target! Deleting.
@@ -642,6 +660,166 @@ Haul designation has no target! Deleting.
 Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
 Parameter name: key
 [Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
+Haul designation has no target! Deleting.
+Could not resolve cross refs: System.ArgumentNullException: Value cannot be null.
+Parameter name: key
+[Ref EB19D1A9] Duplicate stacktrace, see ref for original
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase535689
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase536031
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase536039
@@ -650,6 +828,13 @@ Could not get load ID. We're asking for something which was never added during L
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase539733
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase539740
 Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase539749
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990043
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990052
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990058
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990069
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990075
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990083
+Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/sourcePrecept, parent=Bookcase990090
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Thing-needing designation (Haul target=null) had no thing target. Removing...
@@ -670,11 +855,53 @@ Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
 Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Thing-needing designation (Haul target=null) had no thing target. Removing...
+Could not find think node with key 609489829
+Could not find think node with key 1565512094
 Could not find think node with key 609489829
 Could not find think node with key 609489829
 Could not find think node with key 609489829
-Could not find think node with key 609489829
-Could not find think node with key 609489829
+Could not find think node with key 1565512094
+Could not find think node with key 1565512094
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
 Notify_NewLink was called but the link is already here.
@@ -699,94 +926,189 @@ bodysizes genes are active
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 16)
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 89395.
-Total: 1081.667378 ms (FindLiveObjects: 3.853134 ms CreateObjectMapping: 2.998678 ms MarkObjects: 1074.701492 ms  DeleteObjects: 0.113514 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 92130.
+Total: 1091.031644 ms (FindLiveObjects: 3.878873 ms CreateObjectMapping: 3.023154 ms MarkObjects: 1084.009842 ms  DeleteObjects: 0.119314 ms)
 
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (142, 120) - (327, 288)
-Origin: 142, 120
-Start capturing in area of: (142,120)-(326,287)
-Could not reserve Thing_Bedroll462545 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_11388556) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11388556) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Home area bounds: (5, 7) - (358, 301)
+Origin: 5, 7
+Start capturing in area of: (5,7)-(357,300)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Attempted to draw AA_MycoidColossus1280821 without a resolved render tree.
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AA6ECE1E]
+  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
+  at Verse.Room.Notify_RoomShapeChanged () [0x0000f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPre(Room __instance, Boolean& __state)
+    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
+    - POSTFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPost(Room __instance, Boolean __state)
+  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Attempted to draw Squirrel1263862 without a resolved render tree.
+Joy source joyKind and jobDef.joyKind are not the same. building=TableFiveFingerFilet911313, jobDef=SocialRelax
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+Exception test running QuestNode_HasGravEngine: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 56BC5AFF]
+  at RimWorld.GravshipUtility.PlayerHasGravEngine () [0x00087] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.QuestGen.QuestNode_HasGravEngine.TestRunInt (RimWorld.QuestGen.Slate slate) [0x00000] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at RimWorld.QuestGen.QuestNode.TestRun (RimWorld.QuestGen.Slate slate) [0x00021] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+
+Slate vars:
+map=Map-0-PlayerHome
+points=421.5095
+selectionWeightMechanoid=1
+selectionWeightPirate=1
+siteDistRange=1~10
+siteFaction=Pirate
+sitePartsTags=<li><tag>QuestConditionCauser</tag></li><li><tag>Outpost</tag></li>
+[RaidPointMultiplier] Adjusted raid points for TribeCannibal: Original 421.5095, Multiplier 2, New 843.019
+Colmea tried to wear TA_KidHood1281827 but is not allowed to.
+Monkey tried to wear TA_KidHood1281848 but is not allowed to.
+Condor tried to wear TA_KidHood1281885 but is not allowed to.
+Pigeon tried to wear TA_KidHood1281901 but is not allowed to.
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Could not reserve Thing_Steel1283254(current stack count: 10) (layer: null) for Micha for job HaulToInventory (Job_16659769) B = (238, 0, 221) Giver = ThinkNode_QueuedJob [workGiverDef: null] (now doing job HaulToInventory (Job_16659769) B = (238, 0, 221) Giver = ThinkNode_QueuedJob [workGiverDef: null](curToil=-1)) for maxPawns 1 and stackCount -1.
 Existing reservers:
-   [0] Black (job: LayDown (Job_11388453) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+   [0] VPE_RockConstruct375822 (job: HaulToCell (Job_16659778) A = Thing_Steel1283254 B = (238, 0, 221) Giver = JobGiver_Haul [workGiverDef: null], toil: 4, maxPawns: 1, stackCount: -1)
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll462545 (layer: null) for Dobie for job BBLK_Job_BedTimeStory (Job_11400547) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11400547) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_11400349) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AA6ECE1E]
+  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
+  at Verse.Room.Notify_RoomShapeChanged () [0x0000f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPre(Room __instance, Boolean& __state)
+    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
+    - POSTFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPost(Room __instance, Boolean __state)
+  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Exception while rebuilding dirty regions: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref AA6ECE1E]
+  at PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches.Room_Notify_RoomShapeChanged_Prefix (Verse.Room __instance) [0x00001] in C:\RimworldProjects\CategorizedCleaning\CategorizedCleaningSplit\Source\HarmonyPatches\Room_Patches.cs:22 
+  at Verse.Room.Notify_RoomShapeChanged () [0x0000f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPre(Room __instance, Boolean& __state)
+    - PREFIX PeteTimesSix.CategorizedCleaning: Void PeteTimesSix.CategorizedCleaning.HarmonyPatches.Room_Notify_RoomShapeChanged_Patches:Room_Notify_RoomShapeChanged_Prefix(Room __instance)
+    - POSTFIX com.rimfridge.rimworld.mod: Void RimFridge.PrisonCellChangeTracking+TrackChangeOfPrisonCellStatusForRoom:TrackChangeOfPrisonCellStatusPost(Room __instance, Boolean __state)
+  at Verse.RegionAndRoomUpdater.NotifyAffectedDistrictsAndRoomsAndUpdateTemperatureVacuum () [0x0006f] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.CreateOrUpdateRooms () [0x00048] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.RegionAndRoomUpdater.TryRebuildDirtyRegionsAndRooms () [0x0005b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 8ED92B1F]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at RimWorld.Storyteller.TryFire (RimWorld.FiringIncident fi, System.Boolean queued) [0x00047] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_Storyteller_TryFire_Patch:Prefix(FiringIncident fi)
+  at RimWorld.Storyteller.StorytellerTick () [0x0003a] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+  at Verse.TickManager.DoSingleTick () [0x001b4] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+    - PREFIX OskarPotocki.VEF: Void VEF.Maps.VanillaExpandedFramework_DoSingleTick_Patch:Prefix(Stopwatch& __state)
+    - POSTFIX OskarPotocki.VEF: Void VEF.Maps.VanillaExpandedFramework_DoSingleTick_Patch:Postfix(Stopwatch __state)
+    - POSTFIX Nightmare.Museums: Void Museums.MuseumsDebugPatches:DrawTourRelatedCells()
+    - POSTFIX Harmony_RimworldExploration: Void RimworldExploration.TickManager_DoSingleTick_RWE:Postfix(TickManager __instance)
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 2D7A898D]
+  at DynamicDiplomacy.IncidentWorker_NPCExpansion.TryExecuteWorker (RimWorld.IncidentParms parms) [0x000e6] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.IncidentWorker.TryExecute (RimWorld.IncidentParms parms) [0x00075] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - PREFIX OskarPotocki.VEF: Boolean VEF.Storyteller.VanillaExpandedFramework_IncidentWorker_TryExecute_Patch:Prefix(IncidentWorker __instance, IncidentParms parms)
+    - PREFIX rimworld.hautarche.hautstraitsroyalty.main: Boolean HautsTraitsRoyalty.HautsTraitsRoyalty:HautsTraitsTrans_TryExecutePrefix(IncidentWorker __instance, IncidentParms parms)
+  at DynamicDiplomacy.IncidentManager.RunIncident (RimWorld.IncidentDef incidentDef) [0x00066] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.RunDDIncident (System.String incidentDefName) [0x0003e] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at DynamicDiplomacy.IncidentManager.WorldComponentTick () [0x000cc] in <1c9ee2eaa4fc41a79011bae706a91fe6>:0 
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00016] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+This method can only be called for jobs with joyKind.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll77310 (layer: null) for Velasquez for job BBLK_Job_BedTimeStory (Job_11428995) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11428995) A = Thing_Bedroll77310 B = Thing_Human342446 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Mink (job: LayDown (Job_11428944) A = Thing_Bedroll77310 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll462545 (layer: null) for Purple for job BBLK_Job_BedTimeStory (Job_11438384) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11438384) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_11438139) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-Quarry:: Tried to quarry mineable ore, but the ore given was null.
-Could not reserve Thing_Bedroll462550 (layer: null) for Orange for job BBLK_Job_BedTimeStory (Job_11440680) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11440680) A = Thing_Bedroll462550 B = Thing_Human446821 C = Thing_BBLK_ChildrensBook301356 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Micha (job: LayDown (Job_11440634) A = Thing_Bedroll462550 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-Could not reserve Thing_Bedroll462545 (layer: null) for Gale for job BBLK_Job_BedTimeStory (Job_11448509) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_11448509) A = Thing_Bedroll462545 B = Thing_Human382636 C = Thing_BBLK_ChildrensBook174859 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
-Existing reservers:
-   [0] Black (job: LayDown (Job_11448414) A = Thing_Bedroll462545 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] battle sim defender wins
-[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 12751 frames, [1.0 KB-2.0 KB]: 4 frames, [2.0 KB-4.0 KB]: 31427 frames, [4.0 KB-8.0 KB]: 35763 frames, [8.0 KB-16.0 KB]: 11172 frames, [16.0 KB-32.0 KB]: 5079 frames, [32.0 KB-64.0 KB]: 966 frames, [64.0 KB-128.0 KB]: 147 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 4 frames
+      Peak usage frame count: [0-1.0 KB]: 16696 frames, [1.0 KB-2.0 KB]: 9 frames, [2.0 KB-4.0 KB]: 107564 frames, [4.0 KB-8.0 KB]: 12794 frames, [8.0 KB-16.0 KB]: 4481 frames, [16.0 KB-32.0 KB]: 2677 frames, [32.0 KB-64.0 KB]: 1233 frames, [64.0 KB-128.0 KB]: 677 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 5 frames
       Initial Block Size 4.0 MB
       Current Block Size 7.8 MB
       Peak Allocated Bytes 7.8 MB
-      Overflow Count 114
+      Overflow Count 119
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
       Current Block Size 120.0 KB
@@ -896,7 +1218,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 504.0 KB
       Peak Allocated Bytes 500.6 KB
-      Overflow Count 3736
+      Overflow Count 3761
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
@@ -978,31 +1300,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 13648
+  Peak main deferred allocation count 20452
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 895454
-        32B: 30 Subsections = 15360 buckets. Failed count: 659076
-        48B: 34 Subsections = 11605 buckets. Failed count: 940011
-        64B: 89 Subsections = 22784 buckets. Failed count: 335582
-        80B: 82 Subsections = 16793 buckets. Failed count: 798568
-        96B: 6 Subsections = 1024 buckets. Failed count: 114397
-        112B: 7 Subsections = 1024 buckets. Failed count: 23271
-        128B: 4 Subsections = 512 buckets. Failed count: 62852
+        16B: 4 Subsections = 4096 buckets. Failed count: 1024741
+        32B: 30 Subsections = 15360 buckets. Failed count: 684139
+        48B: 34 Subsections = 11605 buckets. Failed count: 1200808
+        64B: 89 Subsections = 22784 buckets. Failed count: 588773
+        80B: 82 Subsections = 16793 buckets. Failed count: 1631657
+        96B: 6 Subsections = 1024 buckets. Failed count: 191537
+        112B: 7 Subsections = 1024 buckets. Failed count: 32373
+        128B: 4 Subsections = 512 buckets. Failed count: 137102
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1888 frames, [32.0 MB-64.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 10882 frames, [0.50 GB-1.00 GB]: 84543 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1852 frames, [32.0 MB-64.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 1 frames, [256.0 MB-0.50 GB]: 14889 frames, [0.50 GB-1.00 GB]: 129396 frames
       Requested Block Size 16.0 MB
-      Peak Block count 38
-      Peak Allocated memory 0.58 GB
+      Peak Block count 39
+      Peak Allocated memory 0.61 GB
       Peak Large allocation bytes 95.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1889 frames, [64.0 MB-128.0 MB]: 10517 frames, [128.0 MB-256.0 MB]: 367 frames, [256.0 MB-0.50 GB]: 84542 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1853 frames, [64.0 MB-128.0 MB]: 14526 frames, [128.0 MB-256.0 MB]: 365 frames, [256.0 MB-0.50 GB]: 129395 frames
       Requested Block Size 16.0 MB
-      Peak Block count 19
-      Peak Allocated memory 300.3 MB
+      Peak Block count 20
+      Peak Allocated memory 312.0 MB
       Peak Large allocation bytes 64.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -1025,31 +1347,31 @@ Memory Statistics:
   Overflow Count (too large) 119
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 63
+  Peak main deferred allocation count 153
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 895454
-        32B: 30 Subsections = 15360 buckets. Failed count: 659076
-        48B: 34 Subsections = 11605 buckets. Failed count: 940011
-        64B: 89 Subsections = 22784 buckets. Failed count: 335582
-        80B: 82 Subsections = 16793 buckets. Failed count: 798568
-        96B: 6 Subsections = 1024 buckets. Failed count: 114397
-        112B: 7 Subsections = 1024 buckets. Failed count: 23271
-        128B: 4 Subsections = 512 buckets. Failed count: 62852
+        16B: 4 Subsections = 4096 buckets. Failed count: 1024741
+        32B: 30 Subsections = 15360 buckets. Failed count: 684139
+        48B: 34 Subsections = 11605 buckets. Failed count: 1200808
+        64B: 89 Subsections = 22784 buckets. Failed count: 588773
+        80B: 82 Subsections = 16793 buckets. Failed count: 1631657
+        96B: 6 Subsections = 1024 buckets. Failed count: 191537
+        112B: 7 Subsections = 1024 buckets. Failed count: 32373
+        128B: 4 Subsections = 512 buckets. Failed count: 137102
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1888 frames, [4.0 MB-8.0 MB]: 10281 frames, [8.0 MB-16.0 MB]: 601 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 84542 frames, [0.50 GB-1.00 GB]: 1 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1852 frames, [4.0 MB-8.0 MB]: 11354 frames, [16.0 MB-32.0 MB]: 2913 frames, [32.0 MB-64.0 MB]: 622 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 129395 frames, [0.50 GB-1.00 GB]: 1 frames
       Requested Block Size 16.0 MB
-      Peak Block count 11
+      Peak Block count 16
       Peak Allocated memory 0.75 GB
       Peak Large allocation bytes 0.75 GB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 1922 frames, [1.0 KB-2.0 KB]: 10162 frames, [2.0 KB-4.0 KB]: 89 frames, [16.0 KB-32.0 KB]: 602 frames, [64.0 KB-128.0 KB]: 1059 frames, [128.0 KB-256.0 KB]: 646 frames, [256.0 KB-0.5 MB]: 10576 frames, [0.5 MB-1.0 MB]: 72259 frames
+      Peak usage frame count: [0-1.0 KB]: 1887 frames, [1.0 KB-2.0 KB]: 13743 frames, [2.0 KB-4.0 KB]: 97 frames, [4.0 KB-8.0 KB]: 113 frames, [8.0 KB-16.0 KB]: 139 frames, [16.0 KB-32.0 KB]: 933 frames, [32.0 KB-64.0 KB]: 3126 frames, [64.0 KB-128.0 KB]: 2175 frames, [128.0 KB-256.0 KB]: 2173 frames, [256.0 KB-0.5 MB]: 8667 frames, [0.5 MB-1.0 MB]: 12956 frames, [1.0 MB-2.0 MB]: 100130 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 0.6 MB
+      Peak Allocated memory 1.0 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 177
@@ -1058,22 +1380,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 895454
-        32B: 30 Subsections = 15360 buckets. Failed count: 659076
-        48B: 34 Subsections = 11605 buckets. Failed count: 940011
-        64B: 89 Subsections = 22784 buckets. Failed count: 335582
-        80B: 82 Subsections = 16793 buckets. Failed count: 798568
-        96B: 6 Subsections = 1024 buckets. Failed count: 114397
-        112B: 7 Subsections = 1024 buckets. Failed count: 23271
-        128B: 4 Subsections = 512 buckets. Failed count: 62852
+        16B: 4 Subsections = 4096 buckets. Failed count: 1024741
+        32B: 30 Subsections = 15360 buckets. Failed count: 684139
+        48B: 34 Subsections = 11605 buckets. Failed count: 1200808
+        64B: 89 Subsections = 22784 buckets. Failed count: 588773
+        80B: 82 Subsections = 16793 buckets. Failed count: 1631657
+        96B: 6 Subsections = 1024 buckets. Failed count: 191537
+        112B: 7 Subsections = 1024 buckets. Failed count: 32373
+        128B: 4 Subsections = 512 buckets. Failed count: 137102
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1889 frames, [16.0 MB-32.0 MB]: 95425 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 1853 frames, [16.0 MB-32.0 MB]: 144285 frames
       Requested Block Size 4.0 MB
       Peak Block count 6
-      Peak Allocated memory 20.9 MB
+      Peak Allocated memory 21.0 MB
       Peak Large allocation bytes 2.0 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1889 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 50045 frames, [256.0 KB-0.5 MB]: 45378 frames, [0.5 MB-1.0 MB]: 2 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1853 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 29673 frames, [256.0 KB-0.5 MB]: 114610 frames, [0.5 MB-1.0 MB]: 2 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
       Peak Allocated memory 0.7 MB
@@ -1085,22 +1407,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 4 Subsections = 4096 buckets. Failed count: 895454
-        32B: 30 Subsections = 15360 buckets. Failed count: 659076
-        48B: 34 Subsections = 11605 buckets. Failed count: 940011
-        64B: 89 Subsections = 22784 buckets. Failed count: 335582
-        80B: 82 Subsections = 16793 buckets. Failed count: 798568
-        96B: 6 Subsections = 1024 buckets. Failed count: 114397
-        112B: 7 Subsections = 1024 buckets. Failed count: 23271
-        128B: 4 Subsections = 512 buckets. Failed count: 62852
+        16B: 4 Subsections = 4096 buckets. Failed count: 1024741
+        32B: 30 Subsections = 15360 buckets. Failed count: 684139
+        48B: 34 Subsections = 11605 buckets. Failed count: 1200808
+        64B: 89 Subsections = 22784 buckets. Failed count: 588773
+        80B: 82 Subsections = 16793 buckets. Failed count: 1631657
+        96B: 6 Subsections = 1024 buckets. Failed count: 191537
+        112B: 7 Subsections = 1024 buckets. Failed count: 32373
+        128B: 4 Subsections = 512 buckets. Failed count: 137102
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1889 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 95423 frames, [0.5 MB-1.0 MB]: 1 frames
+      Peak usage frame count: [0-1.0 KB]: 1 frames, [4.0 KB-8.0 KB]: 1853 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 144283 frames, [0.5 MB-1.0 MB]: 1 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 0.5 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 97315 frames
+      Peak usage frame count: [0-1.0 KB]: 146139 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B
