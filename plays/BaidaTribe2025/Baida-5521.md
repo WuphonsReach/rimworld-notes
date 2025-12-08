@@ -283,4 +283,164 @@ Black reaches age 10.  He picks up the ecologist trait and a burning passion for
 
 We tame a breeding pair of muffalo on the 10th.  We'll limit it to one male and one female adult for now.
 
+## Dec-5526
+
+Replacing wooden wall segments with granite wall segments has begun in earnest.  Starting with the outer walls, then working our way inward.
+
+Volcanic winter continues, raw food supplies are low but prepared meals are at 40+ days.
+
+Old Advent: Unimpressive.
+
+# 5527
+
+## Apr-5527
+
+A weird flesh golem servant named Crossley (F, 15) approaches.  Piloted by Jenna.  Has the everliving trait, wimp, animal friend.  Pretty much only good at shooting and animals.
+
+Volcanic winter ends on the 2nd.
+
+Menxo reaches age 3.
+
+The greenhouses warm up enough for plant sowing on the 2nd.
+
+During the surgical inspection, Jenna hops out.  She's a female nisse, age 56.  Ugly.  Similar skill set to Crossley.  We'll put her back into Crossley as the pilot.
+
+Mink reaches age 13.  Now we cn start training up his Protector psycast abilities.  He picks up the fast-walker trait to go with go-getter and iron stomach.  A burning passion for crafting to go with the burning passion for medical and melee.  Regular passions for plants and construction.  I was really hoping for any interest in social to go with that go-getter trait, but no luck.
+
+Micha reaches age 10.  She picks up the hale trait to go with her healthy routines trait.  Going to spread her skills thinly instead of having any burning passions.  She now picks up intellectual, cooking and crafting. She already had social and medical passions.
+
+Crossley (and Jenna) departs without incident on the 12th.
+
+## Jul-5527 
+
+Main barracks is configured with 4 medical beds, 33 single beds, 8 cribs, and 8 double-beds.  That's enough for 49 adults.
+
+Black reaches age 13.  He picks up the sniper trait and a burning passion for shooting.  We'll give him a burning passion for animals and a normal passion in social.  He already has a burning passion for plants.
+
+Ame and Red are finally lovers.  She gets pregnant on the 14th.
+
+Spiritist Fair: Unforgettable
+
+## Sep-5527
+
+Lime and Mink have a social fight.
+
+An age 9 male highmate named Oksanen has shown up.  Burning passion for social but not much else.  Incapable of violence and has the persecution complex trait.
+
+Gray is at level 8 animal handling with Black and Purple at 7.  We can try to start taming the muskox on the map for muskox wool and meat.
+
+Ame and Red are now engaged for marriage.
+
+## Dec-5527
+
+Oksanen reaches age 10 and only gets to pick a trait.  He picks up tycoon for +4 social and crafting, plus trade price improvements.
+
+Poor Oksanen catches the flu and then Aqua cuts off his head while trying to remove the cochlear implant.  Then Orange gives a lackluster speech at the memorial service.
+
+Ulfmeb picks up the animal lover trait and will no longer butcher animals.
+
+Ame enters labor on the 4th.  A healthy baby girl named Za.  Za picks up traits like the jotun frame, gigantism, natural armor, strong stomach, ever fertile.  But also some downsides like slow runner, unhappy, hyper-aggressive.  Za is also too large for the crib and has to sleep in a bed.
+
+Micha reaches age 13.  She picks up the powerful 'clever' trait.  Then burning passions for social, intellectual and crafting.
+
+Old Advent: Beautiful
+
+# 5528
+
+## Apr-5528
+
+We now have a breeding pair of muskox.
+
+Menxo reaches age 7.  She picks up the brave trait.  Passions for medical and shooting.
+
+Red and Ame tie the knot on the 2nd.
+
+Aqua (F, 18) and Kubik (M, 19) are now lovers.
+
+## Jul-5528
+
+Toxic fallout starts on the 5th.  
+
+Aqua and Ame both get pregnant on the first night of the toxic fallout.
+
+Toxic fallout ends on the 15th.
+
+Spiritist Fair: Unforgettable
+
+## Sep-5528
+
+Za reaches age 3.
+
+Aqua and Kubik might be on the outs.  Kubik rejected Aqua's marriage proposal.
+
+Aqua enters labor on the 12th.  Ame shouldn't be too far behind.  Aqua gives birth to a healthy baby girl named Lemi.  Ame gives birth to a healthy baby boy named Yan.
+
+The war merchant has two slaves to sell.
+
+- Ashir (F, 49, stoneborn): Burning passions for cooking and art.  Psychically deaf and tranquil. Incapable of violence.
+- Caroline (F, 20, baseliner): Burning passion for social.  Super-immune and nimble, but a coward.  Incapable of dumb labor.  Has passions for crafting and artistic.
+
+I'm not sure what went down with the visitors from Doasentia Pact, but three of them were down and bleeding in the trading area.  We'll rescue them, patch them up, and send them on their way.
+
+There's a batch of food poisoning goind around.
+
+Setting up the first layer of outer walls.  These will be enclosed with skylights to heat them up and let visitors get on/off the map without frostbite.  At least, during the daytime.  Plus they'll be able to travel faster instead of wading through thick snow.
+
+## Dec-5528
+
+Menxo reaches age 10. She picks up burning passions for shooting and medical.  She picks up the lovesick trait and passions for social and intellectual.
+
+Picked up a male radyak from the bulk goods trader of Alliance of Gamoor (AoG).  Bulk traders are a chance to get rid of tons of materials and items to reduce our wealth.
+
+Kubik proposes marriage to Aqua, who turns him down.  Tit for tat perhaps?  They have now broken up.
+
+Ashir has developed asthma.  We can remove one lung at a time and regrow it with our psychic powers.
+
+Old Advent: Unimpressive
+
+# 5529
+
+## Apr-5529
+
+Picked up a breeding pair of yaks from the shaman merchant.
+
+Ashir (F, 49, stoneborn) and Dobie (F, 57, baseliner) are now lovers.
+
+Velasquez is pregnant.
+
+## Jul-5529
+
+Lemi reaches age 3.  
+
+Another volcanic winter starts on the 13th.  Good timing as it's the end of growing season anyway.
+
+Spiritist Fair: Fun
+
+Then a mech cluster lands to the southeast area.
+
+## Sep-5529
+
+Za reaches age 7.  She picks up the allegiant trait along with passions for shooting and animals.
+
+Velasquez goes into labor on the 5th.  She gives birth to a healthy baby boy named Mok.
+
+Menxo reaches age 13.  She picks up the kind trait and burning passions for social and intellectual.  Minor interest in cooking and construction.
+
+Yan reaches age 3.
+
+Space battle, we rescue:
+
+- Barabanow (M, 42, baseliner): A wild child with tough, psychically dull, burning melee and plant passions and the natural meditation focus.
+- Zahra (F, 46, genie): Burning passions for medical.  Normal passions for crafting and intellectual.  Has persecution complex and undergrounder traits. Incapable of violence.
+
+Volcanic winter ends on the 14th.
+
+## Dec-5529
+
+Cultists show up on the 5th and try to skip abduct Gale.  The were able to complete the summons but we were on top of them to stop them from getting away.
+
+Ame is pregnant.  The baby is possibly inheriting the deathless gene.  I think that's the Better Gene Inheritance mod allowing the baby to inherite archite genes.
+
+Caroline (F, 21) and Aqua (F, 20) are now lovers.
+
 
