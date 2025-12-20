@@ -664,5 +664,29 @@ Mink and Hoch are now engaged for marriage.
 
 Aqua and Caroline are no longer a couple.
 
+Xem reaches age 13.  She picks up the great memory trait.  Burning passions for crafting and artistic work.  Normal passions for melee and animals.
+
+We capture Nanami Klenberg (F, 24, lalafell) from a Nainum Nation raid.  She's psychically sensitive, but has no psycasts.  Burning passion for medical and a smattering of other passions.
+
+Meg reaches age 7.  She picks up the fast learner trait.  Passions for construction, crafting, social and plants.
+
+Mink and Hoch get married on the 14th.
+
+Spiritist Fair: Boring
+
+## Sep-5523
+
+Hoch is pregnant.
+
+We're trying to pair Black and Caroline.
+
+Nanami joins us on the 2nd.  
+
+Caroline and Black are now a couple.  She immediately gets pregnant.
+
+Wak reaches age 3.
+
+
+
 
 

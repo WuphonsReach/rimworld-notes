@@ -20,6 +20,8 @@ flowchart LR
   OrangeGale --> Green
   OrangeGale --> Black
   Purple --> PurpleVelasquez(begat)
+  Hoch --> MinkHoch(begat)
+  Mink --> MinkHoch(begat)
   PurpleVelasquez --> Mink
   PurpleVelasquez --> Micha
   PurpleVelasquez --> Menxo
@@ -31,4 +33,8 @@ flowchart LR
   RedAme --> Vole
   RedAme --> Wak
   AquaKubik --> Lemi
+  MinkHoch --> X1
+  Black --> BlackCaroline(begat)
+  Caroline --> BlackCaroline(begat)
+  BlackCaroline --> X2
 ```
