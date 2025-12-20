@@ -443,4 +443,226 @@ Ame is pregnant.  The baby is possibly inheriting the deathless gene.  I think t
 
 Caroline (F, 21) and Aqua (F, 20) are now lovers.
 
+Drought strikes on the 11th.
+
+Old Advent: Beautiful
+
+# 5530
+
+## Apr-5530
+
+Drought ends on the 3rd.  No impact on the coming growing season.
+
+Ame enters labor on the 10th.  A healthy baby girl named Xem.  Xem has the deathless trait from her mother.
+
+Gale is pregnant at age 41.
+
+Ashir proposes marriage to Dobie, who accepts.
+
+## Jul-5530
+
+Za reaches age 10.  She picks up a burning passion for animals.  The nimble trait.  Passions for social, intellectual and cooking.
+
+Mok reaches age 3.
+
+Our first off-map mech cluster.  This one dropped a rainy thunderstorm.
+
+Lemi reaches age 7 and she picks up the very diligent student trait.  She picks up passions for shooting, social, crafting and artistic.
+
+A pigskin siege happens right as our caravan is leaving the map on the 10th.
+
+Green picks up the world weary trait from an infection while on the caravan.
+
+Ashir and Dobie get married on the 14th.
+
+## Sep-5530
+
+Gale goes into labor on the 3rd and delivers a healthy baby boy named Rust.
+
+Psychich ship crashes nearby on the 4th.  Only a few mobile units to deal with.
+
+## Dec-5530
+
+We capture two enemies of People of Gilud.
+
+- Ana (F, 28, svartalf): Incapable of social or dumb labor, burning passion for intellectual, skills in crafting, shooting, melee and animals.  Has natural meditation focus.  Has the ageless gene.  Plus natural armor, strong stomach, super immunity, psy-sensitive.  But she must be kept out of the sun.  Has an IUD that we'll remove later.
+- Nyce (M, 32, heir of surtr): Giant, burning passion for crafting.  Jotun metabolism, slow aging, strong immunity, strong stomach, superclotting.  Damaged right kidney that we'll have to remove and regrow.
+
+Note: Both are inflicted with rapid aging and will need to beat that infection.
+
+A cult escapee (Orlov, M, 35, stoneborn) approaches on the 3rd.  They have four uses of death refusal.  I'll immediately put them uner the knife for a surgical inspection.  They have organ failure.  We'll soon see which organs.
+
+Mech cluster lands almost right on top of us with an EMI dynamo.  Four mini-slugger and two inferno turrets.  But no mobile units.  
+
+Nyce is now age 83 from the disease, we're going to release him.  Ana is already age 43 and nowhere close to beating the disease. Nyce is age 106 at the time of release. Ana is age 189 but Orlov needs a heart.
+
+Yan reaches age 7.  He picks up the anarchist trait.  Passions for melee, medical and social.
+
+Barabanow starts a social fight with Ame.  
+
+Ulfmeb (M, 33) and Kubik (M, 22) are now lovers.
+
+Xem reaches age 3.
+
+Old Advent: Beautiful
+
+# 5531
+
+## Apr-5531
+
+Kubik proposed marriage to Ulfmeb.  Ulfmeb accepts.
+
+Ame is pregnant.  
+
+Za reaches age 13.  She picks up the psychically sensitive trait.  A burning passion for shooting and regular passions for artistic, medical and crafting.
+
+Lemi reaches age 10.  She picks up burning passions for shooting, crafting and artistic.  A minor passion in plants.  Also the hotfoot trait for more move speed.
+
+Barabanow (M, 42) and Zahra (F, 47) are now lovers.  But Zahra is of a different ideology that forbids sleeping in the same bed.
+
+Kubik and Ulfmeb marry on the 15th.
+
+Cold snap on the 15th.
+
+## Jul-5531
+
+Rust reaches age 3.
+
+A mech cluster lands near us with a climate adjuster to drop the temperature by -10C.  We snicker a bit and go about our business.
+
+Mok is age 7.  He picks up the early riser trait and passions for mining and melee.
+
+Ame enters labor on the 9th.  The baby girl, Vole, is born sick.  Vole is the smallest of Ame's babies and the only one so far able to sleep in a crib.
+
+Velasquez is pregnant at age 41.
+
+Psychic rain starts on the 12th.  This will age anyone not under a roof.
+
+Spiritist Fair: Unforgettable
+
+## Sep-5531
+
+Yay, a breeding pair of radyak from the traders.
+
+Thoig siege on the 7th.  The summoned animal packs were on top of them before they could build the mortars.
+
+Velasquez gives birth on the 14th to a healthy baby girl named Meg.
+
+ Barabanow proposes marriage to Zahra, who turns him down.  She accepts on the 2nd attempt.
+
+ ## Dec-5531
+
+ We should see lows of -50C this winter.  I think I have things balanced to keep the sleeping areas at around 17-20C.
+
+ Yan reaches age 10.  Burning passion for melee and normal passions for cooking and plants.  He picks up tempestophile.
+
+ Caroline and Aqua are now engaged for marriage.
+
+ Xem reaches age 7.  She has the deathless genes and some other jotun genes.  She picks up the kind trait.  Passions in artistic, shooting, crafting and cooking.
+
+Animal pen - 1762 nutrition stockpiled, 40.06 consumption.  I think we're starting to fall behind as we're normally at 2000 nutrition.
+
+Lemi reaches age 13.  She picks up a burning passion for social and plants to go with shooting, crafting and artistic.  We'll give her minor passions for cooking and construction.  She picks up the crafty artist trait.
+
+Orlov starts a social fight with Ulfmeb.  Both are stoneborn.
+
+Old Advent: Beautiful
+
+# 5532
+
+## Apr-5532
+
+Orange Boulder Bandits manage to infiltrate our outer wall defenses and are in a room next to our animal pen.  We trap them in the long corridor and attack from both ends using Guardian Skip Barrier to create a protective bubble.  We captured Hoch (F, 32, baseliner) who is a kind technophobe.  We'll be slowly converting her and then recruiting.
+
+Mok reaches age 10.  He picks up the hard worker trait and passions for animals, social, construction and shooting.  
+
+Vole reaches age 3.
+
+We have unlocked the industrial technology tier.  First up will be electricity, batteries, solar panels, etc.
+
+Aqua and Caroline tie the knot on the 10th.
+
+Pasture food is down to about 1400 nutrition.
+
+Pyshic rain continues (13th).
+
+A lone genius named Shadow (female, 37, baseliner) approaches the colony.  She's has the awakened incarnate trait, abrasive trait and burning passions for intellectual, shooting and construction.
+
+## Jul-5532
+
+Mech cluster with six mini-slugger turrets, and three mobile units lands in the north sector.  It has a 17-day countdown timer.
+
+Rust reaches age 7.  He picks up the freerunner trait and passions for cooking and medical.
+
+Powerlines get laid out on the 7th.
+
+Defoliator ship on the 8th.
+
+Mink (M, 21) and Hoch (F, 34) are now lovers.
+
+Ame is pregnant.
+
+Shadow has now awakened more and has the psychic bouldermit trait.  Whenever she uses psycasting power, rock chunks will appear and maybe a meteor.
+
+Meg reaches age 3.
+
+Spiritist Fair: Unforgettable
+
+## Sep-5532
+
+Shadow departs on the 5th without incident.  Bit of a shame but we couldn't stop her.
+
+Barn animals have 1170 nutrition available.
+
+Xem reaches age 10.  She picks up the pretty trait.  Burning passion for shooting. Normal passions for social, construction and mining.
+
+Dobie is almost 61 now.  
+
+## Dec-5532
+
+Ame goes into labor on the 1st.  She gives birth to a healthy baby boy named Wak.
+
+Mech cluster with tox spewer lands on the 6th.  It's in a nearby location so we'll have to send a caravan to attack it.  We'll send a wrecking crew and maybe stop at some nearby settlements.
+
+Mok reaches age 13.  He picks up the living bioreactor trait.  Burning passions for melee, construction and mining.  A normal passion for crafting.
+
+The caravan stops at Backgammon's Bramble (Black Sound Settlement, a.k.a. BSS), our nearest neighbor and trades.  We finally pick up a stallion to go with our mares so that we can ride horses in the future.
+
+Psychic rain continues as of the 7th.
+
+Yan reaches age 13.  He picks up the rare latent psychic trait.  Plus passions for animals, shooting and mining.
+
+On the 12th we're going to send out another 11 pawn caravan to the nearest BSS settlements down the road to get more components.  Thathe is a few days away during the winter, then we'll stop at Decency Rock before returning.
+
+Pest gang is sieging us during the morning meditations.  This will not go well for them.
+
+Caravan attempts to pack and leave again on the morning of the 14th.  And they're off!
+
+Wall heaters are going into the growing areas to maintain a minimum of 10C for year-round growing.  That should almost double our food production over the course of the year.  We're using (4) geothermal generators to do it.  With a few coal generators as backup for the rough spots.  But we're down to just 39 components and will need to get more.
+
+Old Advent: Unimpressive
+
+# 5533
+
+## Apr-5533
+
+Psychic rain continues as of the 1st.
+
+Rust reaches age 10.  He picks up the love for growing trait.  But still no interest in plants.  Burning passion for cooking and medical.  Normal passion for shooting.
+
+Psychic rain ends on the 3rd.
+
+Defoliator ship lands on the 4th while twelve of our colonists are away on the caravan.  The home team will have to deal with it.  
+
+Vole reaches age 7.  She picks up the hard worker trait along with passions for shooting and construction.
+
+We're not going to travel to Thathe again.  That town lies in a patch of 100% pollution tiles.
+
+Mink and Hoch are now engaged for marriage.
+
+## Jul-5533
+
+Aqua and Caroline are no longer a couple.
+
+
 

@@ -14,6 +14,7 @@ flowchart LR
   Ame --> RedAme(begat)
   OrangeGale --> Lime
   OrangeGale --> Aqua
+  OrangeGale --> Rust
   Aqua --> AquaKubik(begat)
   Kubik --> AquaKubik(begat)
   OrangeGale --> Green
@@ -23,7 +24,11 @@ flowchart LR
   PurpleVelasquez --> Micha
   PurpleVelasquez --> Menxo
   PurpleVelasquez --> Mok
+  PurpleVelasquez --> Meg
   RedAme --> Za
   RedAme --> Yan
+  RedAme --> Xem
+  RedAme --> Vole
+  RedAme --> Wak
   AquaKubik --> Lemi
 ```
