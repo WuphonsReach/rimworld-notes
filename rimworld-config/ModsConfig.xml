@@ -6,7 +6,6 @@
     <li>brrainz.visualexceptions</li>
     <li>ludeon.rimworld</li>
     <li>ludeon.rimworld.royalty</li>
-    <li>acetoyourface.fasteranimameditation</li>
     <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.anomaly</li>
@@ -23,6 +22,7 @@
     <li>vanillaexpanded.varme</li>
     <li>unlimitedhugs.hugslib</li>
     <li>void.charactereditor</li>
+    <li>acetoyourface.fasteranimameditation</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>troopersmith1.deathrattle</li>
     <li>m00nl1ght.unofficialupdates.hugslogpublisher</li>
@@ -125,6 +125,7 @@
     <li>seanbeag.animatree</li>
     <li>jdgg.adaptive.cargoholds</li>
     <li>thevillageguy.mousetraps.1</li>
+    <li>redmattis.undead</li>
     <li>haplo.miscellaneous.trainingnotask</li>
     <li>harkon.veaddon.vanillaexpandedextraembrasures</li>
     <li>sbz.gravshipstorage</li>
@@ -233,6 +234,7 @@
     <li>lc.tammybee.selectablesculpturegraphic</li>
     <li>mlie.safelyhiddenaway</li>
     <li>det.stoneborn</li>
+    <li>d12caedro.dynhairshd</li>
     <li>harryrobinson.reinforceddoorsodyssey</li>
     <li>frozensnowfox.betterexplorationloot</li>
     <li>frozensnowfox.filthvanisheswithrainandtime</li>
@@ -242,12 +244,15 @@
     <li>mlie.rfrumorhasit</li>
     <li>mlie.betterbeggars</li>
     <li>jamaicancastle.rf.fertilefields</li>
+    <li>dipwilpip.restockindicator</li>
     <li>oblitus.mylittleplanet</li>
+    <li>ferny.nomodlistonloading</li>
     <li>madarauchiha.custommapsizes</li>
     <li>sirprook.grievouswounds</li>
     <li>weirdcat.biosculptpsy</li>
     <li>dragon.craftablepsylinkneuroformers</li>
     <li>nachotoast.neceros.fuseplus</li>
+    <li>jaeger972.turretperformancetweaks</li>
     <li>samael.livestocktraders</li>
     <li>goldenlumia.atewithouttable</li>
     <li>kikohi.jewelry</li>
@@ -331,7 +336,6 @@
     <li>parapluman.localgradienthairinvisiblebaldpawnfix</li>
     <li>oels.chooseyouroutfit</li>
     <li>og.automaticpowerswitch</li>
-    <li>mlie.turnonoffrepowered</li>
     <li>kattalisk.allproductionxp</li>
     <li>wr.increasedtreelifespan</li>
     <li>mlie.tradeabletrinkets</li>
@@ -344,6 +348,7 @@
     <li>ghxx.techadvancing</li>
     <li>derekbickley.ltocolonygroupsfinal</li>
     <li>mlie.researchtree</li>
+    <li>dubwise.dubsmintmenus</li>
     <li>wr.woodworthless</li>
     <li>wr.stoneblocksworthless</li>
     <li>imranfish.xmldocumentviewer</li>

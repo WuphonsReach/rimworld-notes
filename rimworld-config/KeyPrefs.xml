@@ -687,6 +687,48 @@
     </value>
   </li>
   <li>
+    <key>MintMenus_BuildMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintResearch</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintWheel</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintBillMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_PinningHide</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MintMenus_MintGearMenu</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>HotkeyEditor</key>
     <value>
       <keyBindingA>None</keyBindingA>
