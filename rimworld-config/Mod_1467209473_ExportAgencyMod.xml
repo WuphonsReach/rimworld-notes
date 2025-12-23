@@ -73,189 +73,21 @@
 												<li>Mallow_stockings</li>
 												<li>VAE_Apparel_FleeceShirt</li>
 												<li>River_Tribal_moccasins</li>
-												<li>Apparel_AdvancedKidHelmet</li>
-												<li>Apparel_NepChildHelmetRecon</li>
-												<li>Apparel_KidFlakJacket</li>
-												<li>Apparel_KidFlakPants</li>
-												<li>Apparel_KidFlakVest</li>
-												<li>Apparel_KidPowerArmor</li>
-												<li>Apparel_NepChildArmor</li>
-												<li>Apparel_NepChildRecon</li>
-												<li>Apparel_KidArmorRecon</li>
-												<li>Apparel_KidPlateArmor</li>
-												<li>Apparel_VacsuitChildren</li>
-												<li>AG_ForsakenCloak_Child</li>
-												<li>Apparel_KidButtondownShirt</li>
-												<li>Apparel_KidDuster</li>
-												<li>Apparel_KidJacket</li>
-												<li>TA_KidCloak</li>
-												<li>TA_KidDress</li>
-												<li>Mallow_kid_shoes</li>
-												<li>VAE_Apparel_MilitaryUniform</li>
-												<li>VAE_Apparel_Overalls</li>
-												<li>Mallow_wool_felt_boots</li>
 												<li>Mallow_riding_boots</li>
-												<li>Mallow_dress_shoes</li>
-												<li>Gunmar_Apparel_WovenLeggings</li>
-												<li>VAE_Apparel_Trousers</li>
-												<li>Mallow_school_shoes</li>
-												<li>Gunmar_Apparel_PeltLeggings</li>
-												<li>Apparel_Tuque</li>
-												<li>Gunmar_Apparel_WovenCap</li>
-												<li>Apparel_HatHood</li>
-												<li>Apparel_Flophat</li>
-												<li>TA_KidHood</li>
-												<li>TA_Bonnet</li>
-												<li>VAE_Headgear_BaseballCap</li>
+												<li>Mallow_wool_felt_boots</li>
+												<li>TA_KidDress</li>
+												<li>TA_KidCloak</li>
+												<li>Apparel_KidJacket</li>
+												<li>Apparel_KidDuster</li>
+												<li>Apparel_KidButtondownShirt</li>
+												<li>Apparel_Jacket</li>
+												<li>Apparel_AdvancedKidHelmet</li>
+												<li>VAE_Headgear_Sunglasses</li>
+												<li>VFES_Headgear_Bandana</li>
 											</allowedDefs>
 											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
 											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
-										</exposable>
-									</li>
-								</internalList>
-							</exposable>
-						</li>
-						<li>
-							<exposable>
-								<name>Medieval Med 23kg</name>
-								<internalList>
-									<li>
-										<exposable Class="ThingFilter">
-											<disallowedSpecialFilters />
-											<allowedDefs>
-												<li>TA_Morion</li>
-												<li>VAE_Headgear_Sunglasses</li>
-												<li>VAE_Headgear_Scarf</li>
-												<li>VFES_Headgear_Bandana</li>
-												<li>Jewelry_Earring</li>
-												<li>Jewelry_Necklace</li>
-												<li>Jewelry_Ring</li>
-												<li>TA_RapierSash</li>
-												<li>TA_RapierBaldrick</li>
-												<li>TA_HussarWings</li>
-												<li>TA_TallBoots</li>
-												<li>TA_Bazubands</li>
-												<li>TA_Gauntlets</li>
-												<li>TA_TallGloves</li>
-												<li>TA_Yushman</li>
-												<li>Mallow_stockings</li>
-												<li>VAE_Footwear_Boots</li>
-												<li>Mallow_work_boots</li>
-												<li>VAE_Handwear_PlateGloves</li>
-												<li>River_Tribal_mittens</li>
-												<li>VAE_Handwear_Gloves</li>
-												<li>VAE_Apparel_Jeans</li>
-												<li>Apparel_Pants</li>
-												<li>VAE_Apparel_Gambeson</li>
-												<li>Apparel_CollarShirt</li>
-												<li>TM_SashBelt</li>
-												<li>River_Tribal_mukluks</li>
-												<li>Mallow_riding_boots</li>
-												<li>VAE_Apparel_Hoodie</li>
-												<li>VAE_Apparel_FleeceShirt</li>
-											</allowedDefs>
-											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-										</exposable>
-									</li>
-								</internalList>
-							</exposable>
-						</li>
-						<li>
-							<exposable>
-								<name>Medieval Melee 38kg</name>
-								<internalList>
-									<li>
-										<exposable Class="ThingFilter">
-											<disallowedSpecialFilters />
-											<allowedDefs>
-												<li>Apparel_ShieldBelt</li>
-												<li>VAE_Headgear_Sunglasses</li>
-												<li>VAE_Headgear_Scarf</li>
-												<li>VFES_Headgear_Bandana</li>
-												<li>Jewelry_Earring</li>
-												<li>Jewelry_Necklace</li>
-												<li>Jewelry_Ring</li>
-												<li>TA_RapierSash</li>
-												<li>TA_RapierBaldrick</li>
-												<li>TA_HussarWings</li>
-												<li>TA_TallBoots</li>
-												<li>TA_Bazubands</li>
-												<li>TA_Gauntlets</li>
-												<li>TA_TallGloves</li>
-												<li>InsulatedSteel_VAE_Apparel_LightPlateArmor</li>
-												<li>Mallow_stockings</li>
-												<li>VAE_Footwear_Boots</li>
-												<li>Mallow_work_boots</li>
-												<li>VAE_Handwear_PlateGloves</li>
-												<li>River_Tribal_mittens</li>
-												<li>VAE_Handwear_Gloves</li>
-												<li>VAE_Apparel_Jeans</li>
-												<li>Apparel_Pants</li>
-												<li>VAE_Apparel_Gambeson</li>
-												<li>Apparel_CollarShirt</li>
-												<li>TM_SashBelt</li>
-												<li>River_Tribal_mukluks</li>
-												<li>Mallow_riding_boots</li>
-												<li>VAE_Apparel_Hoodie</li>
-												<li>VAE_Apparel_FleeceShirt</li>
-												<li>TA_LobstertailHelmet</li>
-												<li>TA_MailleShirt</li>
-											</allowedDefs>
-											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
-										</exposable>
-									</li>
-								</internalList>
-							</exposable>
-						</li>
-						<li>
-							<exposable>
-								<name>Medieval Ranged 38kg</name>
-								<internalList>
-									<li>
-										<exposable Class="ThingFilter">
-											<disallowedSpecialFilters />
-											<allowedDefs>
-												<li>VAEA_Apparel_AmmoPack</li>
-												<li>VAE_Headgear_Sunglasses</li>
-												<li>VAE_Headgear_Scarf</li>
-												<li>VFES_Headgear_Bandana</li>
-												<li>Jewelry_Earring</li>
-												<li>Jewelry_Necklace</li>
-												<li>Jewelry_Ring</li>
-												<li>TA_RapierSash</li>
-												<li>TA_RapierBaldrick</li>
-												<li>TA_HussarWings</li>
-												<li>TA_TallBoots</li>
-												<li>TA_Bazubands</li>
-												<li>TA_Gauntlets</li>
-												<li>TA_TallGloves</li>
-												<li>InsulatedSteel_VAE_Apparel_LightPlateArmor</li>
-												<li>Mallow_stockings</li>
-												<li>VAE_Footwear_Boots</li>
-												<li>Mallow_work_boots</li>
-												<li>VAE_Handwear_PlateGloves</li>
-												<li>River_Tribal_mittens</li>
-												<li>VAE_Handwear_Gloves</li>
-												<li>VAE_Apparel_Jeans</li>
-												<li>Apparel_Pants</li>
-												<li>VAE_Apparel_Gambeson</li>
-												<li>Apparel_CollarShirt</li>
-												<li>TM_SashBelt</li>
-												<li>River_Tribal_mukluks</li>
-												<li>Mallow_riding_boots</li>
-												<li>VAE_Apparel_Hoodie</li>
-												<li>VAE_Apparel_FleeceShirt</li>
-												<li>TA_LobstertailHelmet</li>
-												<li>TA_MailleShirt</li>
-											</allowedDefs>
-											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
-											<allowedMentalBreakChance>0~1</allowedMentalBreakChance>
-											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
 										</exposable>
 									</li>
 								</internalList>
