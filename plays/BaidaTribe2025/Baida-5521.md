@@ -97,11 +97,131 @@ Belar continues to have a rough mood and we have to keep her filled with a psych
 
 Harvesting starts.  Research to get us to the medieval era continues during the downtime.
 
-Spiritist Fair: 
+Spiritist Fair: Fun
 
 ## Sep-5523
 
+Green catches the flu.
 
+## Dec-5523
+
+Green reaches age 7 and picks up the thick skinned trait.  A passion for shooting.
+
+Old Advent: Unimpressive
+
+# 5524
+
+## Apr-5524
+
+Belar (F, 47) and Purple (M, 21) are now a couple.
+
+Ice age event (purple event) begins on the 5th.  
+
+Belar proposes marriage to Purple, who accepts.
+
+## Jul-5524
+
+A jotun occultist escapee approaches named Raven.  He's 39, with a mix of various passions (melee, mining, animals, medical, intellectual). The flesh tentacle gives -6 mood and the genetic depression gives a permanent -10 mood.  He has too many downsides for us, so we'll try to send him away.  Fortunately, he leaves without incident.
+
+No plantings this year due to the ice age.  We're living off our stockpiles and hunting.
+
+Purple and Belar get married on the 10th.
+
+Spiritist Fair: Fun
+
+## Sep-5524
+
+Green reaches age 10 and picks up the weapon artist trait along with a burning passion for shooting.  He also picks up a passion for medical.
+
+It's -50C outside at 8am on the morning of the 13th.
+
+## Dec-5524
+
+It gets down to -61C on the morning of the 2nd.
+
+Old Advent: Beautiful
+
+# 5525
+
+## Apr-5525
+
+Gale is pregnant.
+
+The ice age ends on the 1st.  We'll be able to have a growing season this year!
+
+Planting starts on the 6th, but some crops die overnight due to the temperature.
+
+## Jul-5525
+
+Gale enters labor on the 5th.  A healthy baby boy named Blue.
+
+Another cultist escapee named Quill approaches.  We'll send her away because of the alcohol dependency.
+
+Green reaches age 13.  His trait picks are bad, so I pick no trait option.  He gets a burning passion for medical and a regular passion for melee.
+
+Spiritist Fair: Fun
+
+## Sep-5525
+
+Green starts down the protector psycast tree.  He only has burning passions for shooting and medical.
+
+Medieval technology tier unlocked.  Up first are complex furniture, coal production, stonecutting and smithing.  That gives us temperature controlled vents, stone walls, coal heating and cooking, school desks for the kids and skylights for greenhouses.
+
+## Dec-5525
+
+Furniture construction begins (padded chairs, school desks, etc.).
+
+Old Advent: Beautiful
+
+# 5526
+
+## Apr-5526
+
+Blue reaches age 3.
+
+## Jul-5526
+
+Still researching.
+
+Spiritist Fair: Boring
+
+## Sep-5526
+
+Gale is pregnant again.
+
+Stonecutting is unlocked, time to make the bricks and replace all of our wood walls.
+
+## Dec-5526
+
+Stone walls are going up to replace those wood walls that we started with.
+
+Gale enters labor on the 10th.  She gives birth to a healthy baby boy named Indigo.
+
+Drought starts on the 12th.  It will probably be over by planting season.
+
+Old Advent: Beautiful
+
+# 5527
+
+## Apr-5527
+
+Blue reaches age 7.  He picks up the jogger trait along with passions for plants, intellectual and construction.
+
+## Jul-5527
+
+Pushing the outer walls outward around some of the nearby ponds.
+
+Spiritist Fair:  Fun
+
+## Sep-5527
+
+Indigo reaches age 3.
+
+Starting construction of the animal pen, space for wind turbines, animal barn and secondary cold storage.
+
+## Dec-5527
+
+Blue reaches age 10.  He picks up a burning passion for construction and minor passions for melee and medical.  He gets the nimble trait to go with the jogger trait.
 
 
 

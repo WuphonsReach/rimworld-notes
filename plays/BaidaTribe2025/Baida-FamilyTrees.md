@@ -10,4 +10,6 @@ flowchart LR
   OrangeGale --> Gray
   OrangeGale --> Red
   OrangeGale --> Green
+  OrangeGale --> Blue
+  OrangeGale --> Indigo
 ```
