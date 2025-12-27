@@ -9,7 +9,7 @@
 		<repIdeoSurrenderChance>1</repIdeoSurrenderChance>
 		<repAllowRazeClear>False</repAllowRazeClear>
 		<repExpansionRadius>12</repExpansionRadius>
-		<repMaxExpansionLimit>300</repMaxExpansionLimit>
+		<repMaxExpansionLimit>250</repMaxExpansionLimit>
 		<repAllowSimulatedConquest>True</repAllowSimulatedConquest>
 		<repUsingSemiSimulation>True</repUsingSemiSimulation>
 		<repSimulatedConquestThreatPoint>7500</repSimulatedConquestThreatPoint>

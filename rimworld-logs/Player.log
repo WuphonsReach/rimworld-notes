@@ -8,7 +8,7 @@ Desktop is 3840 x 2160 @ 60 Hz
 Initialize engine version: 2022.3.35f1 (011206c7a712)
 [Subsystems] Discovering subsystems at path /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=0
-Renderer: AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 21.1.5, DRM 3.57, 6.8.0-90-generic)
+Renderer: AMD Radeon RX 7900 XTX (radeonsi, navi31, LLVM 21.1.7, DRM 3.57, 6.8.0-90-generic)
 Vendor:   AMD
 Version:  4.6 (Core Profile) Mesa 25.2.6 (git-3f12436d80)
 GLES:     0
@@ -19,16 +19,16 @@ GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL
 ect GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_clock GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_c
 ompression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader
 _derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 661026032
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 651129952
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.054 seconds
+- Loaded All Assemblies, in  0.050 seconds
 - Finished resetting the current domain, in  0.001 seconds
 Default vsync count 1
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.534686 ms
+UnloadTime: 0.478791 ms
 Command line arguments: -disable-compute-shaders -popupwindow
 [S_API] SteamAPI_Init(): Loaded '/home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/linux64/steamclient.so' OK.
 Setting breakpad minidump AppID = 294100
@@ -39,17 +39,17 @@ resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2013476665/1.6/Assemblies/RimWorldColumns.dll
 Symbol file /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.pdb doesn't match image /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/workshop/content/294100/2877731755/1.6/Assemblies/0DivineFramework.dll
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x780058d44030.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x780058ef2f10.so
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x78005b84fd60.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7700e8d67b30.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7700e8ec87c0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7700eb900730.so
 [HugsLib] version 12.0.0
 [Analyzer] Loaded version 1.6.0 rev 1
 [Analyzer] Detected Visual Exceptions - Integrating
 [Analyzer] NeedBarOverflow
 [Analyzer] BedOwnershipTools
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x780028b57d80.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7700e0b60040.so
 ModContentPack.LoadPatches does not matches the reference. Skipping transpiler
-Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7800292ac8e0.so
+Fallback handler could not load library /home/syb/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux_Data/MonoBleedingEdge/x86_64/data-0x7700e12f5b30.so
 Texture '' has dimensions (5333 x 3000) which are not multiples of 4. Compress will not work.
 SatisfiedStorage loading
 [WDHeaters] Loaded.
@@ -83,7 +83,7 @@ Quarry:: Total 6 quarryable terrain found, processed: Sandstone, Granite, Limest
 Translation data for language English has 5 errors. Generate translation report for more info.
 KCSG has Created 7244 symbolDefs for vanilla and DLCs
 [XML Extensions] Initialized 6 SettingsMenuDef(s) and found 6 unused key(s) from 2 mod(s)
-[XML Extensions] 5037 total patch operations run in 8862ms, 0 failed
+[XML Extensions] 5049 total patch operations run in 8409ms, 0 failed
 [XML Extensions] Emitted 6 mod class(es)
 [XmlPatchHelper] version 1.6.1124
 Mod 'Just Help For Me' loaded.
@@ -124,10 +124,10 @@ RestockingStatus loaded successfully!
 Harmony instance for BPC should have been made.
 Harmony instance for BPC VPE patch should have been made.
 [Dynamic Diplomacy] DD loaded
-[RealRuins][System]: RealRuins started patching at 12/23/2025 11:15:38 AM
+[RealRuins][System]: RealRuins started patching at 12/27/2025 9:43:21 AM
 PostOpen is patchable.
-[RealRuins][System]: RealRuins performing manual patching optional mods at 12/23/2025 11:15:38 AM
-[RealRuins][System]: RealRuins finished patching at 12/23/2025 11:15:39 AM (32.617 msec)
+[RealRuins][System]: RealRuins performing manual patching optional mods at 12/27/2025 9:43:21 AM
+[RealRuins][System]: RealRuins finished patching at 12/27/2025 9:43:21 AM (31.464 msec)
 SupplyAndDemand Harmony Patches:
   Postfix:
     StockGenerator.RandomCountOf
@@ -148,12 +148,12 @@ PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam.
 [ResearchTree]: 	BulkSurvival has a lower techlevel than (one of) it's prerequisites, increasing.
 [Geological Landforms v1.7.11] Found landform data in the following mods: Geological Landforms
 [Geological Landforms v1.7.11] Loaded 44 landforms of which 0 are edited and 0 are custom.
-[LunarFramework v1.1.16] Processed 11 Harmony patches in 2435 ms.
+[LunarFramework v1.1.16] Processed 11 Harmony patches in 1786 ms.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 15)
 MVCF successfully applied 51 patches
 [net.pardeike.rimworld.lib.harmony] Patches on methods annotated as Obsolete were detected by HugsLib: Verse.Translator.Translate
 Unloading 235 unused Assets to reduce memory usage. Loaded Objects now: 66317.
-Total: 926.343158 ms (FindLiveObjects: 3.701750 ms CreateObjectMapping: 2.313190 ms MarkObjects: 919.708824 ms  DeleteObjects: 0.618934 ms)
+Total: 914.931037 ms (FindLiveObjects: 3.732613 ms CreateObjectMapping: 1.661906 ms MarkObjects: 908.917614 ms  DeleteObjects: 0.618063 ms)
 
 [DivineFramework] Loaded version 0.12.0.1
 CharacterEditor v1.6.3 initializing...
@@ -192,14 +192,14 @@ no modifications for lifestages
 ...done
 Unloading 3 Unused Serialized files (Serialized files now loaded: 16)
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-UnloadTime: 0.638761 ms
+UnloadTime: 0.554173 ms
 requesting resize 3828 x 2074
 resizing window to 3828 x 2074
 Desktop is 3840 x 2160 @ 60 Hz
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 66535.
-Total: 925.736457 ms (FindLiveObjects: 3.049474 ms CreateObjectMapping: 1.993639 ms MarkObjects: 920.623303 ms  DeleteObjects: 0.069550 ms)
+Total: 960.521854 ms (FindLiveObjects: 2.972353 ms CreateObjectMapping: 1.853377 ms MarkObjects: 955.630852 ms  DeleteObjects: 0.064581 ms)
 
-Loading game from file Baida Tribe 23-Apr15 with mods:
+Loading game from file Baida Tribe 27-Sep4 with mods:
   - brrainz.harmony
   - brrainz.visualexceptions
   - Ludeon.RimWorld
@@ -425,6 +425,7 @@ Loading game from file Baida Tribe 23-Apr15 with mods:
   - Mlie.CombatReadinessCheck
   - Arkymn.SlowerPawnTickRate
   - visiblewealth.1trickPwnyta
+  - VanillaExpanded.BaseGeneration
   - m00nl1ght.GeologicalLandforms
   - Orbital.Books
   - bs.xenotypespawncontrol
@@ -545,6 +546,7 @@ Loading game from file Baida Tribe 23-Apr15 with mods:
   - Mlie.ProstheticNoMissingBodyParts
   - GHXX.TechAdvancing
   - DerekBickley.LTOColonyGroupsFinal
+  - eBae.NoQuestsWithoutComms
   - ferny.generallymoreresearch
   - Mlie.ResearchTree
   - Dubwise.DubsMintMenus
@@ -553,74 +555,605 @@ Loading game from file Baida Tribe 23-Apr15 with mods:
   - imranfish.xmldocumentviewer
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not resolve reference to object with loadID WorldObject_4402 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
-Could not resolve reference to object with loadID WorldObject_4411 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
+Could not resolve reference to object with loadID WorldObject_4615 of type RimWorld.Planet.WorldObject. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.LookTargets curPathRelToParent=/targets/0
 Could not resolve reference to object with loadID Gene_0 of type Verse.Gene. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=Verse.Gene curPathRelToParent=
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+Could not find think node with key 609489829
+Could not find think node with key 1565512094
+Notify_NewLink was called but the link is already here.
+Notify_NewLink was called but the link is already here.
+Error in PostMapInit() for Wild_PlantPlumeria718296: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 87CF517]
+  at VEE.Plant_PostMapInit_Patch.Postfix (RimWorld.Plant& __instance, System.Int32& ___madeLeaflessTick) [0x0000f] in <5f9e5b3f68a74d34a61d038b40611c7d>:0 
+  at RimWorld.Plant.PostMapInit () [0x0000b] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - POSTFIX Kikohi.VanillaEventExpanded: Void VEE.Plant_PostMapInit_Patch:Postfix(Plant& __instance, Int32& ___madeLeaflessTick)
+  at Verse.Map.FinalizeInit () [0x000a6] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+    - POSTFIX UnlimitedHugs.HugsLib: Void HugsLib.Patches.Map_FinalizeInit_Patch:MapLoadedHook(Map __instance)
+    - POSTFIX rimworld.mod.charactereditor: Void CharacterEditor.CEditor:OnMapLoaded()
+    - POSTFIX rimworld.mrhydralisk.LayeredAtmosphereOrbit: Void LayeredAtmosphereOrbit.HarmonyPatches:M_FinalizeInit_Postfix(Map __instance)
+Error in PostMapInit() for VG_Plant_TreeBamboo718312: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 87CF517] Duplicate stacktrace, see ref for original
+Error in PostMapInit() for Wild_PlantPlumeria718350: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 87CF517] Duplicate stacktrace, see ref for original
+Error in PostMapInit() for VG_Plant_TreeBamboo718370: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 87CF517] Duplicate stacktrace, see ref for original
+Error in PostMapInit() for VG_Plant_TreeBamboo718427: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 87CF517] Duplicate stacktrace, see ref for original
 checking editor settings...
 bodysizes genes are active
 [ResearchTree]: Node for Power Factor Setting for RimFridge not found. Was it intentionally hidden or locked?
 [Tech Advancing] [Information] Detected existing world. Loading existing config...
 [Tech Advancing] [Information] Loading config...
 Unloading 0 Unused Serialized files (Serialized files now loaded: 16)
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 86400.
-Total: 1077.633392 ms (FindLiveObjects: 3.645055 ms CreateObjectMapping: 2.667916 ms MarkObjects: 1071.198542 ms  DeleteObjects: 0.121318 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 89891.
+Total: 1097.274066 ms (FindLiveObjects: 4.018911 ms CreateObjectMapping: 3.793227 ms MarkObjects: 1089.339107 ms  DeleteObjects: 0.122350 ms)
 
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Home area bounds: (135, 159) - (318, 320)
-Origin: 135, 159
-Start capturing in area of: (135,159)-(317,319)
+Home area bounds: (120, 124) - (340, 320)
+Origin: 120, 124
+Start capturing in area of: (120,124)-(339,319)
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Tried to split off 82 of RawRice718476 but there are only 70
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll81449 (layer: null) for Beler for job BBLK_Job_BedTimeStory (Job_3685989) A = Thing_Bedroll81449 B = Thing_Human179005 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_3685989) A = Thing_Bedroll81449 B = Thing_Human179005 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Orange for job BBLK_Job_BedTimeStory (Job_9881221) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9881221) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
 Existing reservers:
-   [0] Green (job: LayDown (Job_3685540) A = Thing_Bedroll81449 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+   [0] Indigo (job: LayDown (Job_9881012) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
-[Dynamic Diplomacy] Failed to run incident NPC_Expansion
-[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
-[Tech Advancing] [Information] Loading finished.
-[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
-Could not reserve Thing_Bedroll81449 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_3736927) A = Thing_Bedroll81449 B = Thing_Human179005 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_3736927) A = Thing_Bedroll81449 B = Thing_Human179005 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Gale for job BBLK_Job_BedTimeStory (Job_9901467) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9901467) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
 Existing reservers:
-   [0] Green (job: LayDown (Job_3736201) A = Thing_Bedroll81449 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+   [0] Indigo (job: LayDown (Job_9901277) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Taylor tried to wear TA_KidHood732196 but is not allowed to.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
 [Dynamic Diplomacy] Failed to run incident NPC_Expansion
 [Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
 [Tech Advancing] [Information] Loading finished.
 [Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Beler for job BBLK_Job_BedTimeStory (Job_9933852) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9933852) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Indigo (job: LayDown (Job_9933342) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Aardvark tried to wear TA_KidHood735849 but is not allowed to.
+Leza tried to wear TA_KidHood735863 but is not allowed to.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+NullReferenceException: Object reference not set to an instance of an object
+[Ref 7CD5C920] Duplicate stacktrace, see ref for original
+
+Could not reserve Thing_Bedroll81453 (layer: null) for Gale for job BBLK_Job_BedTimeStory (Job_9945892) A = Thing_Bedroll81453 B = Thing_Human477968 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9945892) A = Thing_Bedroll81453 B = Thing_Human477968 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Blue (job: LayDown (Job_9945306) A = Thing_Bedroll81453 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Red for job BBLK_Job_BedTimeStory (Job_9966216) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_9966216) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Indigo (job: LayDown (Job_9966059) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Hólmdísdóttir tried to wear TA_KidHood741152 but is not allowed to.
+Xavine tried to wear TA_KidHood741162 but is not allowed to.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B]
+  at RimWorld.Quest.Notify_SignalReceived (RimWorld.Signal signal) [0x00026] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+  at RimWorld.SignalManager.SendSignal (RimWorld.Signal signal) [0x000cc] in <1a4764477a744bde81c4adb46c2ccd65>:0 
+    - TRANSPILER net.pardeike.rimworld.lib.harmony: IEnumerable`1 VisualExceptions.ExceptionsAndActivatorHandler:Transpiler(IEnumerable`1 instructions, MethodBase original)
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+Error while sending signal to RimWorld.Quest: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref B093210B] Duplicate stacktrace, see ref for original
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10047179) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10047179) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook260019 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Indigo (job: LayDown (Job_10046987) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Gray for job BBLK_Job_BedTimeStory (Job_10060361) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10060361) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Indigo (job: LayDown (Job_10060012) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Dynamic Diplomacy] battle sim defender wins
+[Dynamic Diplomacy] Fight timed out or player never joined the battle. Result randomly decided.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+Could not reserve Thing_Bedroll81443 (layer: null) for Beler for job BBLK_Job_BedTimeStory (Job_10088049) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory] (now doing job BBLK_Job_BedTimeStory (Job_10088049) A = Thing_Bedroll81443 B = Thing_Human642978 C = Thing_BBLK_ChildrensBook217217 Giver = JobGiver_Work [workGiverDef: BBLK_Childcarer_BedTimeStory](curToil=5)) for maxPawns 1 and stackCount -1.
+Existing reservers:
+   [0] Indigo (job: LayDown (Job_10087807) A = Thing_Bedroll81443 Giver = JobGiver_GetRest [workGiverDef: null], toil: 2, maxPawns: 1, stackCount: 0)
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
+[Tech Advancing] [Information] Loading finished.
+[Tech Advancing] [Information] Flushing old Research Manager values.
+current settlememt count of 251 greater than max expansion limit of 250
+[Dynamic Diplomacy] Failed to run incident NPC_Expansion
+[Dynamic Diplomacy] Failed to run NPC_Expansion in IncidentManager.
